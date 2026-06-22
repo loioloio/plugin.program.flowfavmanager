@@ -2078,3 +2078,11 @@ msgstr "L'éditeur avancé est déjà dans les favoris Kodi"
 msgctxt "#30520"
 msgid "Close"
 msgstr "Fermer"
+
+msgctxt "#30521"
+msgid "Add the Advanced Editor to Kodi favourites?\n\nAllows opening it directly without launching the addon.\n\nIf cancelled, it can be added later from Settings. Kodi must be restarted for it to appear in the favourites list."
+msgstr "Ajouter l\'éditeur avancé aux favoris de Kodi ?\n\nPermet de l\'ouvrir directement sans lancer l\'addon.\n\nSi annulé, il peut être ajouté plus tard depuis les Paramètres. Kodi doit être redémarré pour qu\'il apparaisse dans la liste des favoris."
+
+msgctxt "#30522"
+msgid "Flow FavManager"
+msgstr "Flow FavManager"

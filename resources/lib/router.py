@@ -30,6 +30,9 @@ def _get_local_ip():
 
 
 def _open_in_browser(url):
+    if xbmc.getCondVisibility('System.Platform.Android'):
+        xbmc.executebuiltin(f'StartAndroidActivity("","android.intent.action.VIEW","","{url}")')
+        return True
     import webbrowser
     try:
         return webbrowser.open(url, new=2)
@@ -99,6 +102,13 @@ def _query_arg(param, key):
 
 def _open_editor():
     from resources.lib.editor import FavouritesEditor
+    from resources.lib.database import FavouritesEngine
+
+    # Guard before building the window: a corrupt/0-byte favourites.xml would load as an empty
+    # list, and the first Save would overwrite the file and wipe every favourite. Fail fast.
+    if not FavouritesEngine().load() and os.path.exists(PATHS['favourites']):
+        xbmcgui.Dialog().ok(get_string(30387), get_string(30523))
+        return
 
     view_setting = ADDON.getSetting('view_mode') or '0'
     thumb_size = ADDON.getSetting('icon_scale') or '0'
@@ -113,18 +123,31 @@ def _open_editor():
     gui.setProperty('view_mode', prop_mode)
     gui.setProperty('addonIcon', os.path.join(PATHS['addon_path'], 'icon.png'))
     gui.doModal()
+    reopen = getattr(gui, 'reopen_main', False)
     del gui
+    if reopen:
+        # Open the addon's main menu once the modal is fully gone, so closing the editor and
+        # navigating don't race for focus. ActivateWindow(Programs,...,return) is the documented
+        # way to open a program plugin's listing and keeps Back returning to the previous window.
+        addon_id = ADDON.getAddonInfo('id')
+        xbmc.executebuiltin(f'ActivateWindow(Programs,plugin://{addon_id}/,return)')
 
 
 def _clear_texture_cache():
     """Clear the texture cache to force Kodi to reload icons. Fault-tolerant."""
-    db_path = translatePath('special://profile/Database/Textures13.db')
+    db_dir = translatePath('special://profile/Database/')
     thumbs_path = translatePath('special://profile/Thumbnails/')
+    # The textures DB carries a version suffix that bumps across major Kodi releases
+    # (Textures13.db on Kodi 18-21, higher later), so match by prefix instead of hardcoding.
     try:
-        if os.path.exists(db_path):
-            os.remove(db_path)
+        for name in os.listdir(db_dir):
+            if name.startswith('Textures') and name.endswith('.db'):
+                try:
+                    os.remove(os.path.join(db_dir, name))
+                except OSError:
+                    pass  # usually locked on Windows; continue with the images
     except OSError:
-        pass  # usually locked on Windows; continue with the images
+        pass
     try:
         if os.path.exists(thumbs_path):
             shutil.rmtree(thumbs_path)
@@ -413,10 +436,13 @@ def _rename_profile_action(param):
         return
     try:
         entries = load_profile(filename)
-        if save_profile(kb.getText(), entries):
+        new_filename = save_profile(kb.getText(), entries)
+        # Same-name-after-sanitization renames map to the same file; deleting it would wipe
+        # the profile save_profile just overwrote, so only delete when the file truly differs.
+        if new_filename != filename:
             delete_profile(filename)
-            xbmcgui.Dialog().notification(get_string(30363), get_string(30364), xbmcgui.NOTIFICATION_INFO)
-            xbmc.executebuiltin('Container.Refresh')
+        xbmcgui.Dialog().notification(get_string(30363), get_string(30364), xbmcgui.NOTIFICATION_INFO)
+        xbmc.executebuiltin('Container.Refresh')
     except (OSError, ValueError) as e:
         xbmcgui.Dialog().notification(get_string(30044), str(e), xbmcgui.NOTIFICATION_ERROR)
 
@@ -480,6 +506,24 @@ def _explore():
     xbmcplugin.endOfDirectory(PLUGIN_ID)
 
 
+def _maybe_first_run():
+    """On first launch, offer to add the advanced editor to Kodi's favourites.
+
+    The flag is written before prompting, so the dialog shows only once even if something fails
+    afterwards. Shares its directory with the addon's other flags (view_wl_init).
+    """
+    flag = os.path.join(os.path.dirname(PATHS['profiles']), 'first_run_done')
+    if os.path.exists(flag):
+        return
+    try:
+        with open(flag, 'w') as f:
+            f.write('1')
+    except OSError as e:
+        log_debug(f'Could not write first-run flag: {e}')
+    if xbmcgui.Dialog().yesno(ADDON.getAddonInfo('name'), get_string(30521)):
+        _add_editor_to_kodi_favourites()
+
+
 def _main_menu():
     # Empty content (not 'files'). This way the generic templates draw ListItem.Icon on each
     # row; with 'files', Estuary's "List" view only draws the status overlay, not the icon.
@@ -530,6 +574,8 @@ def _main_menu():
                     f.write('1')
             except OSError:
                 pass
+
+    _maybe_first_run()
 
 
 def route(param):

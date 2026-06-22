@@ -3,6 +3,7 @@ import base64
 import hashlib
 import json
 import os
+import re
 import threading
 import urllib.parse
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
@@ -249,8 +250,14 @@ class _Handler(BaseHTTPRequestHandler):
             urllib.request.ProxyHandler({}),
             urllib.request.HTTPSHandler(context=ctx),
         )
+        # Re-encode path/query so spaces and non-ASCII don't raise on Request(). unquote first
+        # keeps it idempotent: URLs that already arrived percent-encoded aren't double-encoded.
+        parts = urllib.parse.urlsplit(url)
+        path = urllib.parse.quote(urllib.parse.unquote(parts.path), safe="/")
+        query = urllib.parse.quote(urllib.parse.unquote(parts.query), safe="=&")
+        safe_url = urllib.parse.urlunsplit((parts.scheme, parts.netloc, path, query, parts.fragment))
         # Some CDNs (e.g. Wikimedia) reject the default urllib User-Agent with 403.
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        req = urllib.request.Request(safe_url, headers={'User-Agent': 'Mozilla/5.0'})
         try:
             with opener.open(req, timeout=4) as resp:
                 ct = resp.headers.get('Content-Type', 'image/jpeg')
@@ -344,6 +351,13 @@ class _Handler(BaseHTTPRequestHandler):
                 err = ({'error': 'range'}, 400)
             else:
                 old = entries[idx]
+                if '▬' in old.name:
+                    # Renaming a separator: keep its separator nature (the '▬' marker that
+                    # _is_separator looks for) and its original colour, instead of turning it
+                    # into a broken plain favourite.
+                    m = re.search(r'\[COLOR (\w+)\]', old.name)
+                    color = m.group(1) if m else 'gold'
+                    title = f"[COLOR {color}][B]{title.upper()}[/B] {'▬' * 18}[/COLOR]"
                 entries[idx] = FavouriteEntry(title, old.thumb, old.url)
                 if not engine.save():
                     err = ({'error': 'save_failed'}, 500)
@@ -373,8 +387,9 @@ def stop():
         _server.shutdown()
         _server.server_close()
         _server_thread.join(timeout=3)
-    except Exception:
-        pass
+    except Exception as e:
+        # Best-effort resource cleanup: a failure shutting the server down must not propagate.
+        xbmc.log(f'[FlowFavManager] Web remote stop: {e}', xbmc.LOGWARNING)
     _server = None
     _server_thread = None
     _port = None
@@ -503,8 +518,8 @@ const ICON={
 // Text fallback in case the SVG doesn't render: ensures the button always shows something.
 const GLYPH={up:'\\u2191',down:'\\u2193',edit:'\\u270e',del:'\\u2715',reload:'\\u21bb'};
 
-// SVG via DOMParser (image/svg+xml): creates nodes in the correct SVG namespace without relying on
-// del parser HTML, que en algunos navegadores no pinta SVG inyectado por innerHTML.
+// SVG via DOMParser (image/svg+xml): builds the nodes in the correct SVG namespace without going
+// through the HTML parser, which in some browsers won't render SVG injected via innerHTML.
 function svg(str){
   try{
     const doc=new DOMParser().parseFromString(str,'image/svg+xml');
@@ -524,7 +539,7 @@ function setIcon(el,key){
 const BB = /\\[[^\\]]*\\]/g;
 const $ = id => document.getElementById(id);
 const plain = s => (s||'').replace(BB,'').trim();
-const avatar = s => { const t=plain(s); return t ? t[0].toUpperCase() : '\\u2605'; };
+const avatar = s => { const t=plain(s); return t ? [...t][0].toUpperCase() : '\\u2605'; };
 
 let _fp='', _toastT=null;
 

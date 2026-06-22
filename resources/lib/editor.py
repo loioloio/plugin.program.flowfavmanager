@@ -74,6 +74,7 @@ class FavouritesEditor(xbmcgui.WindowXMLDialog):
         self.multiselect_active = False
         self.pending_move = False
         self.selected_indices = set()
+        self.reopen_main = False
 
     def onInit(self):
         view_mode = self.getProperty('view_mode') or '0'
@@ -125,7 +126,12 @@ class FavouritesEditor(xbmcgui.WindowXMLDialog):
         xbmc.executebuiltin(f"Skin.SetString(FavEdit_font_name, {theme['font']})")
 
     def reload_data(self):
-        self.engine.load()
+        if not self.engine.load() and os.path.exists(PATHS['favourites']):
+            # Corrupt/0-byte file on a hot reload (e.g. "discard changes"): keep what's already
+            # in memory instead of replacing it with an empty list, and warn. The initial open is
+            # guarded in router._open_editor, so this only triggers if the file breaks mid-session.
+            xbmcgui.Dialog().ok(get_string(30387), get_string(30523))
+            return
         self.entries = self.engine.entries
         self.original_entries = [FavouriteEntry(e.name, e.thumb, e.url) for e in self.entries]
 
@@ -197,6 +203,8 @@ class FavouritesEditor(xbmcgui.WindowXMLDialog):
             self.reset_to_original()
         elif controlId == 312:  # Auto-group
             self.auto_group_by_addon()
+        elif controlId == 316:  # Open the addon's main menu
+            self.open_main_addon()
 
     def auto_group_by_addon(self):
         """Reorder the favourites grouping them by addon / action type."""
@@ -206,6 +214,9 @@ class FavouritesEditor(xbmcgui.WindowXMLDialog):
         def get_sort_key(entry):
             group_name = 'ZZ_Others'  # unclassified ones go last
             match = re.search(r'^plugin://([^/]+)/', entry.url)
+            if not match:
+                # RunAddon("addon.id") shortcuts carry the addon id too; group them like plugin:// URLs.
+                match = re.search(r'RunAddon\("?([^")\s]+)"?\)', entry.url)
             if match:
                 addon_id = match.group(1)
                 try:
@@ -367,17 +378,17 @@ class FavouritesEditor(xbmcgui.WindowXMLDialog):
 
     def _swap_listitem_contents(self, idx_a, idx_b):
         """Swap label/art of two ListItems (UI and in-memory mirror) without moving objects."""
-        for items in (
-            (self.panel.getListItem(idx_a), self.panel.getListItem(idx_b)),
-            (self.list_items[idx_a], self.list_items[idx_b]),
-        ):
-            item_a, item_b = items
-            lbl_a, art_a = item_a.getLabel(), item_a.getArt('thumb')
-            lbl_b, art_b = item_b.getLabel(), item_b.getArt('thumb')
-            item_a.setLabel(lbl_b)
-            item_a.setArt({'thumb': art_b})
-            item_b.setLabel(lbl_a)
-            item_b.setArt({'thumb': art_a})
+        # Read both positions before writing: in Kodi panel.getListItem(i) and list_items[i]
+        # share state, so reading after a partial write would undo the swap.
+        item_a, item_b = self.panel.getListItem(idx_a), self.panel.getListItem(idx_b)
+        lbl_a, art_a = item_a.getLabel(), item_a.getArt('thumb')
+        lbl_b, art_b = item_b.getLabel(), item_b.getArt('thumb')
+        for item in (item_a, self.list_items[idx_a]):
+            item.setLabel(lbl_b)
+            item.setArt({'thumb': art_b})
+        for item in (item_b, self.list_items[idx_b]):
+            item.setLabel(lbl_a)
+            item.setArt({'thumb': art_a})
 
     def _set_selected(self, index, value):
         """Set the 'selected' property on the panel item and on its in-memory mirror."""
@@ -438,14 +449,15 @@ class FavouritesEditor(xbmcgui.WindowXMLDialog):
         # Kodi identifies favourites by their URL; it must be made unique or the duplicate is ignored.
         unique_id = str(int(time.time() * 1000))[-6:]
         url = original.url
-        if 'Notification(' in url:
-            new_url = url.replace(')', f' #{unique_id})', 1)
-        elif url.endswith('/'):
+        if url.endswith('/'):
             new_url = url + '?_dup=' + unique_id
         elif '?' in url:
             new_url = url + '&_dup=' + unique_id
         else:
-            new_url = url + ' '  # a trailing space is enough to make it unique
+            # Separators (Notification(...)) and plain commands: a trailing space is enough to
+            # make the URL unique in favourites.xml while leaving the command itself valid and
+            # unchanged (injecting '#id' inside the parens corrupted the command's arguments).
+            new_url = url + ' '
 
         self.entries.insert(idx + 1, FavouriteEntry(new_name, original.thumb, new_url))
         self.unsaved_changes = True
@@ -567,7 +579,7 @@ class FavouritesEditor(xbmcgui.WindowXMLDialog):
             entry.url = kb.getText().strip()
             self.unsaved_changes = True
             self.refresh_view_keep_selection(idx)
-            xbmcgui.Dialog().notification(get_string(30219), get_string(30220), xbmcgui.NOTIFICATION_INFO, 1000)
+            xbmcgui.Dialog().notification(get_string(30162), get_string(30163), xbmcgui.NOTIFICATION_INFO, 1000)
 
     def delete_selected_item(self):
         idx = self.panel.getSelectedPosition()
@@ -642,6 +654,26 @@ class FavouritesEditor(xbmcgui.WindowXMLDialog):
     def handle_exit_no_save(self):
         self.close()
 
+    def open_main_addon(self):
+        """Close the editor and open the addon's main menu.
+
+        The caller (_open_editor) performs the navigation after doModal() returns, once this
+        dialog is destroyed, to avoid a focus race on close.
+        """
+        if self.unsaved_changes:
+            sel = xbmcgui.Dialog().select(
+                get_string(30169),
+                [get_string(30170), get_string(30172)],  # Save and exit / Exit without saving
+            )
+            if sel == 0:
+                if not self._perform_save():
+                    return
+            elif sel != 1:  # cancel (-1) or anything else: stay in the editor
+                return
+            # sel == 1: discard and continue
+        self.reopen_main = True
+        self.close()
+
     def add_custom_item(self):
         tmpl = templates.load_templates()
         menu_items = [get_string(30235)]
@@ -665,12 +697,12 @@ class FavouritesEditor(xbmcgui.WindowXMLDialog):
             if not kb.isConfirmed() or not kb.getText():
                 return
             name = kb.getText()
-            kb = xbmc.Keyboard('', get_string(30105))
+            kb = xbmc.Keyboard('', get_string(30184))
             kb.doModal()
             if not kb.isConfirmed():
                 return
             path = kb.getText().strip()
-            browse_icon = xbmcgui.Dialog().browse(1, get_string(30188), 'pictures')
+            browse_icon = xbmcgui.Dialog().browse(1, get_string(30185), 'pictures')
             thumb = browse_icon if browse_icon else 'DefaultAddon.png'
 
         elif action == 'addons':
@@ -727,7 +759,10 @@ class FavouritesEditor(xbmcgui.WindowXMLDialog):
             except ValueError as e:
                 log_debug(f'Invalid JSON-RPC Addons.GetAddons response: {e}')
                 continue
-            for a in result.get('result', {}).get('addons', []):
+            # Some Kodi versions return {"result": null} on an empty/successful call; guard against
+            # calling .get() on None.
+            addons_result = result.get('result') or {}
+            for a in addons_result.get('addons', []):
                 a['type'] = addon_type
                 all_addons.append(a)
         return all_addons
@@ -776,7 +811,7 @@ class FavouritesEditor(xbmcgui.WindowXMLDialog):
             return
         self.pending_move = True
         self.setFocus(self.panel)
-        xbmcgui.Dialog().notification(get_string(30167), get_string(30168), xbmcgui.NOTIFICATION_INFO, 3000)
+        xbmcgui.Dialog().notification(get_string(30198), get_string(30199), xbmcgui.NOTIFICATION_INFO, 3000)
 
     def execute_mass_move(self, target_idx):
         insert_after = True

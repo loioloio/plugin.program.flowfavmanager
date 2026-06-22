@@ -24,9 +24,11 @@ def resolve_target_url(url, base_url, current_id):
         target, is_folder = url, True
     elif url.startswith('RunAddon('):
         match = re.search(r'RunAddon\("?([^")\s]+)"?\)', url)
-        if match:
+        if match and match.group(1).startswith('plugin.'):
             target, is_folder = f'plugin://{match.group(1)}/', True
         else:
+            # Scripts (script.*) and other non-plugin addons aren't navigable plugin:// sources;
+            # run them through the execution bridge instead of opening a bogus directory.
             target, is_folder = bridge(url), False
     elif url.lower().startswith('script://'):
         match = re.match(r'^script://([^/]+)/?', url, re.IGNORECASE)
@@ -49,8 +51,9 @@ def build_list_item(entry):
 
     target_url, is_folder = resolve_target_url(entry.url, common.BASE_URL, common.ADDON_ID)
 
-    # Separators, stored as Notification(...), are not playable.
-    if 'Notification' in (entry.url or ''):
+    # Command shortcuts (anything that isn't a navigable folder) must be marked non-playable,
+    # or Kodi treats the click as media playback and shows a "playback failed" error + spinner.
+    if not is_folder:
         li.setProperty('IsPlayable', 'false')
 
     li.setInfo('video', {'title': entry.name, 'plot': entry.url})

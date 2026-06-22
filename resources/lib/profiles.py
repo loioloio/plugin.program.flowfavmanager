@@ -80,7 +80,7 @@ def _import_xml_profile():
 
 
 def _export_current_favourites():
-    dest = xbmcgui.Dialog().browse(3, get_string(30196), 'files')
+    dest = xbmcgui.Dialog().browse(3, get_string(30388), 'files')
     if not dest:
         return
     engine = FavouritesEngine()
@@ -112,8 +112,11 @@ def _profile_actions(prof):
         if kb.isConfirmed() and kb.getText() and kb.getText() != prof['name']:
             new_name = kb.getText()
             entries = load_profile(prof['filename'])
-            save_profile(new_name, entries)
-            delete_profile(prof['filename'])
+            new_filename = save_profile(new_name, entries)
+            # Only delete the old file if the new name maps to a different file; otherwise
+            # save_profile already overwrote it and deleting would wipe the just-saved profile.
+            if new_filename != prof['filename']:
+                delete_profile(prof['filename'])
             xbmcgui.Dialog().notification(get_string(30280), get_string(30281).format(new_name), xbmcgui.NOTIFICATION_INFO)
             log_audit('PROFILE_RENAMED', f"Profile renamed from '{prof['name']}' to '{new_name}'")
 

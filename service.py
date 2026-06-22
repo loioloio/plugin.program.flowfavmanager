@@ -15,7 +15,7 @@ import xbmc
 import xbmcaddon
 import xbmcgui
 
-_ADDON_ID = 'plugin.program.flowfavmanager'
+_ADDON_ID = xbmcaddon.Addon().getAddonInfo('id')
 _SLOTS = 3
 _DELAY_MAP = [0, 5, 10, 15, 30, 60]
 _WIN_PROP = 'flowfavmanager.web_remote.port'
@@ -92,9 +92,12 @@ def _run_autostart(monitor):
 
 def _get_web_port(addon):
     try:
-        return int(addon.getSetting('web_remote_port') or '8080')
+        port = int(addon.getSetting('web_remote_port') or '8080')
     except ValueError:
         return 8080
+    # An out-of-range port makes start() raise OverflowError (only OSError is caught), which
+    # would take the whole service thread down, so clamp to a valid TCP port.
+    return port if 1 <= port <= 65535 else 8080
 
 
 def _main():
@@ -114,28 +117,64 @@ def _main():
     except Exception as e:
         _log(f'Could not load web_remote module: {e}', xbmc.LOGERROR)
 
+    # Defensive import: if stats fails to load, service still works and we just log the error.
+    stats = None
+    try:
+        from resources.lib import stats as _stats
+        stats = _stats
+    except Exception as e:
+        _log(f'Could not load stats module: {e}', xbmc.LOGERROR)
+
     win = xbmcgui.Window(10000)  # Home window — properties survive across plugin invocations
+
+    # Remembers the configured port the server was last started with. Comparing against this
+    # (not web_remote.get_port(), which is the actually-bound port and may differ when the
+    # configured port was busy and start() fell back) avoids a restart loop every cycle.
+    started = {'target': None}
 
     def _sync():
         if web_remote is None:
             return
         enabled = addon.getSetting('web_remote_enabled') == 'true'
-        if enabled and not web_remote.is_running():
-            port = web_remote.start(_get_web_port(addon))
-            win.setProperty(_WIN_PROP, str(port) if port else '')
-            if not port:
-                _log('All ports busy; web remote unavailable.', xbmc.LOGWARNING)
-        elif not enabled and web_remote.is_running():
-            web_remote.stop()
-            win.clearProperty(_WIN_PROP)
+        if not enabled:
+            if web_remote.is_running():
+                web_remote.stop()
+                win.clearProperty(_WIN_PROP)
+                started['target'] = None
+            return
 
-    _sync()             # start server now if already enabled before this Kodi session
+        target = _get_web_port(addon)
+        if web_remote.is_running() and started['target'] == target:
+            return  # already running on the configured port; nothing to do
+
+        if web_remote.is_running():
+            web_remote.stop()  # port changed in settings: restart on the new one
+        port = web_remote.start(target)
+        started['target'] = target
+        win.setProperty(_WIN_PROP, str(port) if port else '')
+        if not port:
+            _log('Web remote could not bind any port; unavailable.', xbmc.LOGWARNING)
+
+    try:
+        _sync()         # start server now if already enabled before this Kodi session
+    except Exception as e:
+        # Web remote and autostart are independent features: a web remote failure here must not
+        # prevent _run_autostart below from launching the user's startup favourites.
+        _log(f'Initial _sync failed: {e}', xbmc.LOGWARNING)
     _run_autostart(monitor)
+
+    if stats is not None:
+        stats.ping()
 
     while not monitor.abortRequested():
         if monitor.waitForAbort(2):
             break
-        _sync()
+        # A transient failure in _sync (disk, settings read, socket) must not kill the service
+        # loop and silently disable the web remote for the rest of the session; log and retry.
+        try:
+            _sync()
+        except Exception as e:
+            _log(f'_sync failed, will retry: {e}', xbmc.LOGWARNING)
 
     if web_remote is not None:
         web_remote.stop()

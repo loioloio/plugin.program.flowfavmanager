@@ -85,9 +85,11 @@ def check_security_gate():
             set_session_unlocked()
             return True
         attempts -= 1
+        # Audit every wrong attempt, including the last one (attempts == 0) that triggers the
+        # lockout; keeping it inside the `if` below left a gap right at the security-relevant event.
+        log_audit('AUTH_FAIL_PIN', f'Wrong PIN. Attempts left: {attempts}')
         if attempts > 0:
             xbmcgui.Dialog().notification(get_string(30047), get_string(30048).format(attempts), xbmcgui.NOTIFICATION_WARNING)
-            log_audit('AUTH_FAIL_PIN', f'Wrong PIN. Attempts left: {attempts}')
 
     # Out of attempts; offer recovery via the security question.
     recovery_opts = [get_string(30050), get_string(30051)]

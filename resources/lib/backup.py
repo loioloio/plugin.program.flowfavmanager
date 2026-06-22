@@ -24,7 +24,7 @@ def _create_backup():
     if not kb.isConfirmed() or not kb.getText():
         return
 
-    folder = xbmcgui.Dialog().browse(0, get_string(30196), 'files')
+    folder = xbmcgui.Dialog().browse(0, get_string(30388), 'files')
     if not folder:
         return
 

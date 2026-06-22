@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.flowfavmanager" name="Flow FavManager" version="2.0.0" provider-name="RubénSDFA1laberot">
+<addon id="plugin.program.flowfavmanager" name="Flow FavManager" version="2.0.1" provider-name="RubénSDFA1laberot">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests" version="2.25.1"/>
@@ -37,6 +37,21 @@ Il permet de les organiser, de personnaliser leur apparence et les actions qu'il
 Es ermöglicht Ihnen, sie zu organisieren, ihr Aussehen und die Aktionen, die sie ausführen, anzupassen. Beinhaltet Backup-Tools, einen intuitiven Editor, Profile und Sortierung nach Abschnitten, unter anderem.</description>
     <description lang="it">Flow FavManager migliora l'esperienza di gestione dei preferiti in Kodi.
 Consente di organizzarli, personalizzarne l'aspetto e le azioni che eseguono. Include strumenti di backup, un editor intuitivo, profili e ordinamento per sezioni, tra le altre funzioni.</description>
+    <news>v2.0.0
+Web Remote Control
+- Browser-Based Management: Access and organise favourites from any device on the local network (PC, phone, tablet) through a responsive web interface.
+- Interactive Actions: Move favourites up/down, rename and delete items, with modal dialogs and toast notifications.
+- Artwork Loading: Shows each favourite's cover/thumbnail artwork, served through a proxy that resolves Kodi image URLs.
+- Visual Customization: Adapts to the system's dark or light mode automatically.
+Auto-start Favourites on Startup
+- Startup Launcher: Configure up to three favourites (addons, lists, commands) to launch automatically when Kodi starts.
+Main Menu Redesign
+- Custom White Icons: Replaced the generic Kodi icons.
+- Visual Style: Simplified the colour scheme to white typography.
+Add Editor to Favourites
+- Quick Shortcut Option: A settings option to add the advanced editor directly to Kodi favourites.</news>
+    <license>GPL-2.0-only</license>
+    <website>https://loioloio.github.io/flowfavweb/</website>
     <platform>all</platform>
     <assets>
         <icon>icon.png</icon>

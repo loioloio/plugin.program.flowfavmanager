@@ -293,10 +293,7 @@ POSSIBILITY OF SUCH DAMAGES.
   está basada en el addon original "Flow FavManager", fundado y desarrollado 
   originalmente por RubénSDFA1laberot.
 
-  Se recomienda encarecidamente utilizar el sistema de 'Pull Requests' para 
-  mejoras menores o estéticas en lugar de fragmentar la comunidad con forks 
-  paralelos. Los forks son más apropiados para proyectos que planteen cambios 
-  estructurales o funcionalidades significativamente distintas.
+  Se agradecen las contribuciones mediante 'Pull Requests' al proyecto original.
 
   SOLICITUD DE NO CONFUSIÓN:
   Los recursos gráficos (iconos, fanart, logotipos) y el nombre "Flow FavManager" 
@@ -326,10 +323,7 @@ POSSIBILITY OF SUCH DAMAGES.
   is based on the original addon "Flow FavManager", founded and originally 
   developed by RubénSDFA1laberot.
 
-  It is strongly recommended to use the 'Pull Requests' system for minor or 
-  aesthetic improvements instead of fragmenting the community with parallel 
-  forks. Forks are more appropriate for projects that propose structural 
-  changes or significantly different functionalities.
+  Contributions via 'Pull Requests' to the original project are appreciated.
 
   REQUEST TO AVOID CONFUSION:
   The graphical resources (icons, fanart, logos) and the name "Flow FavManager" 

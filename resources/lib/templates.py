@@ -115,7 +115,10 @@ def _import_templates():
                     current[key] = items
             save_templates(current)
             xbmcgui.Dialog().notification(get_string(30314), get_string(30315), xbmcgui.NOTIFICATION_INFO)
-    except (OSError, ValueError) as e:
+    # A syntactically valid JSON with the wrong shape (e.g. a category whose items are a number)
+    # raises TypeError while iterating, which neither OSError nor ValueError covers; catch broadly
+    # so a bad import file can't crash the templates editor, and surface the error to the user.
+    except Exception as e:
         xbmcgui.Dialog().ok(get_string(30044), get_string(30264) + ":\n" + str(e))
 
 

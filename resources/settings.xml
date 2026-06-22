@@ -19,6 +19,10 @@
                 <setting id="web_remote_port" type="integer" label="30473">
                     <level>0</level>
                     <default>8080</default>
+                    <constraints>
+                        <minimum>1</minimum>
+                        <maximum>65535</maximum>
+                    </constraints>
                     <control type="edit" format="integer"/>
                 </setting>
                 <setting id="web_remote_enabled" type="boolean">

@@ -129,6 +129,13 @@
                     <texturefocus colordiffuse="FFFFFFFF">panel_bg.png</texturefocus>
                     <texturenofocus colordiffuse="40FFFFFF">panel_bg.png</texturenofocus>
                 </control>
+                <control type="button" id="316">
+                    <label>[B]$ADDON[plugin.program.flowfavmanager 30522][/B]</label>
+                    <height>50</height><width>360</width><align>center</align>
+                    <textcolor>FFFFFFFF</textcolor><focusedcolor>FF000000</focusedcolor>
+                    <texturefocus colordiffuse="FFFFFFFF">panel_bg.png</texturefocus>
+                    <texturenofocus colordiffuse="40FFFFFF">panel_bg.png</texturenofocus>
+                </control>
             </control>
 
             <!-- MENU MULTISELECCION -->
