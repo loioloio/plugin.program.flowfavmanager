@@ -83,9 +83,21 @@ Flow FavManager is a favourites manager for Kodi. The native interface offers li
 *   **Save and Reload:** Reload the active profile and clear the texture cache so updated icons show up immediately.
 *   **Multi-language Interface**
 
---
+---
 
-- Project creator: RubénSDFA1laberot
+## 💬 Support
+
+If you find a bug or have a suggestion:
+
+👉 **[Open an Issue on GitHub](https://github.com/loioloio/flowfav/issues)**
+
+👉 **Contact Form**: Available via the web link on the [main GitHub profile page](https://github.com/loioloio).
+
+---
+
+*Founded by RubénSDFA1laberot* - [GitHub](https://github.com/loioloio/flowfav)
+
+---
 
 
 
