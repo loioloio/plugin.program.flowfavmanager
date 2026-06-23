@@ -318,12 +318,9 @@ POSSIBILITY OF SUCH DAMAGES.
                     AUTHOR'S ADDITIONAL NOTES (English)
 
   ATTRIBUTION REQUEST:
-  Although GPL v2 allows modification and redistribution, the author kindly 
-  requests that any derivative work clearly and explicitly mention that it 
-  is based on the original addon "Flow FavManager", founded and originally 
-  developed by RubénSDFA1laberot.
-
-  Contributions via 'Pull Requests' to the original project are appreciated.
+  The author kindly requests that any derivative work clearly and explicitly
+  mention that it is based on the original addon "Flow FavManager", founded 
+  and originally developed by RubénSDFA1laberot.
 
   REQUEST TO AVOID CONFUSION:
   The graphical resources (icons, fanart, logos) and the name "Flow FavManager" 
