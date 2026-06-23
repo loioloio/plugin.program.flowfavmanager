@@ -11,128 +11,129 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
 
 msgctxt "#30000"
-msgid "Editor"
-msgstr "Editor"
+msgid "Customization"
+msgstr "カスタマイズ"
 
 msgctxt "#30001"
 msgid "List Layout"
-msgstr "Layout da Lista"
+msgstr "リストレイアウト"
 
 msgctxt "#30002"
 msgid "Simple List"
-msgstr "Lista Simples"
+msgstr "シンプルリスト"
 
 msgctxt "#30003"
 msgid "Grid (Thumbnails)"
-msgstr "Grade (Miniaturas)"
+msgstr "グリッド (サムネイル)"
 
 msgctxt "#30004"
 msgid "Icon Scale"
-msgstr "Escala do Ícone"
+msgstr "アイコンのスケール"
 
 msgctxt "#30005"
 msgid "Default"
-msgstr "Padrão"
+msgstr "デフォルト"
 
 msgctxt "#30006"
 msgid "Large"
-msgstr "Grande"
+msgstr "大"
 
 msgctxt "#30007"
 msgid "Text Size"
-msgstr "Tamanho do Texto"
+msgstr "テキストサイズ"
 
 msgctxt "#30008"
 msgid "Small"
-msgstr "Pequeno"
+msgstr "小"
 
 msgctxt "#30009"
 msgid "Medium"
-msgstr "Médio"
+msgstr "中"
 
 msgctxt "#30010"
 msgid "Colors & Accessibility"
-msgstr "Cores e Acessibilidade"
+msgstr "カラーとアクセシビリティ"
 
 msgctxt "#30011"
 msgid "Background Color"
-msgstr "Cor de Fundo"
+msgstr "背景色"
 
 msgctxt "#30012"
 msgid "Dark (Default)"
-msgstr "Escuro (Padrão)"
+msgstr "ダーク (デフォルト)"
 
 msgctxt "#30013"
 msgid "Light"
-msgstr "Claro"
+msgstr "ライト"
 
 msgctxt "#30014"
 msgid "Neutral Gray"
-msgstr "Cinza Neutro"
+msgstr "ニュートラルグレー"
 
 msgctxt "#30015"
 msgid "Deep Blue"
-msgstr "Azul Profundo"
+msgstr "ディープブルー"
 
 msgctxt "#30016"
 msgid "Selection Color"
-msgstr "Cor de Seleção"
+msgstr "選択色"
 
 msgctxt "#30017"
 msgid "Cyan (Default)"
-msgstr "Ciano (Padrão)"
+msgstr "シアン (デフォルト)"
 
 msgctxt "#30018"
 msgid "Green"
-msgstr "Verde"
+msgstr "グリーン"
 
 msgctxt "#30019"
 msgid "Yellow"
-msgstr "Amarelo"
+msgstr "イエロー"
 
 msgctxt "#30020"
 msgid "Red"
-msgstr "Vermelho"
+msgstr "レッド"
 
 msgctxt "#30021"
 msgid "Orange"
-msgstr "Laranja"
+msgstr "オレンジ"
 
 msgctxt "#30022"
 msgid "Violet"
-msgstr "Violeta"
+msgstr "バイオレット"
 
 msgctxt "#30023"
 msgid "Multiselect Color"
-msgstr "Cor de Multiseleção"
+msgstr "複数選択カラー"
 
 msgctxt "#30024"
 msgid "Green (Default)"
-msgstr "Verde (Padrão)"
+msgstr "グリーン (デフォルト)"
 
 msgctxt "#30025"
 msgid "Magenta"
-msgstr "Magenta"
+msgstr "マゼンタ"
 
 msgctxt "#30026"
 msgid "White"
-msgstr "Branco"
+msgstr "ホワイト"
 
 msgctxt "#30027"
 msgid "Colorblind Mode (High Contrast)"
-msgstr "Modo para Daltônicos (Alto Contraste)"
+msgstr "色覚サポートモード (高コントラスト)"
 
 msgctxt "#30028"
 msgid "Advanced"
-msgstr "Avançado"
+msgstr "高度な設定"
 
 msgctxt "#30029"
 msgid "Enable Audit Log (Security)"
-msgstr "Habilitar Log de Auditoria (Segurança)"
+msgstr "監査ログを有効にする (セキュリティ)"
 
 msgctxt "#30030"
 msgid "Flow FavManager"
@@ -140,1947 +141,1950 @@ msgstr "Flow FavManager"
 
 msgctxt "#30031"
 msgid "Could not retrieve item information"
-msgstr "Não foi possível obter informações do item"
+msgstr "アイテム情報を取得できませんでした"
 
 msgctxt "#30032"
 msgid "No Profiles"
-msgstr "Sem Perfis"
+msgstr "プロフィールがありません"
 
 msgctxt "#30033"
 msgid "No created profiles found.\nDo you want to create one now?"
-msgstr "Nenhum perfil criado encontrado.\nDeseja criar um agora?"
+msgstr "作成されたプロフィールが見つかりません。\n今すぐ作成しますか？"
 
 msgctxt "#30034"
 msgid "My Favorites"
-msgstr "Meus Favoritos"
+msgstr "お気に入り"
 
 msgctxt "#30035"
 msgid "New profile name"
-msgstr "Nome do novo perfil"
+msgstr "新しいプロフィールの名前"
 
 msgctxt "#30036"
 msgid "Profile Created"
-msgstr "Perfil Criado"
+msgstr "プロフィールを作成しました"
 
 msgctxt "#30037"
 msgid "'{}' added to '{}'"
-msgstr "'{}' adicionado a '{}'"
+msgstr "「{}」を「{}」に追加しました"
 
 msgctxt "#30038"
 msgid "[COLOR lime]+ Create New Profile[/COLOR]"
-msgstr "[COLOR lime]+ Criar Novo Perfil[/COLOR]"
+msgstr "[COLOR lime]+ 新規プロフィール作成[/COLOR]"
 
 msgctxt "#30039"
 msgid "Add '{}...' to:"
-msgstr "Adicionar '{}...' a:"
+msgstr "「{}...」の追加先:"
 
 msgctxt "#30040"
 msgid "Already Exists"
-msgstr "Já Existe"
+msgstr "既に存在します"
 
 msgctxt "#30041"
 msgid "'{}' is already in '{}'"
-msgstr "'{}' já está em '{}'"
+msgstr "「{}」は既に「{}」にあります"
 
 msgctxt "#30042"
 msgid "Added"
-msgstr "Adicionado"
+msgstr "追加しました"
 
 msgctxt "#30043"
 msgid "'{}' → '{}'"
-msgstr "'{}' → '{}'"
+msgstr "「{}」 → 「{}」"
 
 msgctxt "#30044"
 msgid "Error"
-msgstr "Erro"
+msgstr "エラー"
 
 msgctxt "#30045"
 msgid "Failed to save profile"
-msgstr "Falha ao salvar o perfil"
+msgstr "プロフィールの保存に失敗しました"
 
 msgctxt "#30046"
 msgid "Could not add to profile"
-msgstr "Não foi possível adicionar ao perfil"
+msgstr "プロフィールに追加できませんでした"
 
 msgctxt "#30047"
 msgid "Incorrect PIN"
-msgstr "PIN Incorreto"
+msgstr "PINが正しくありません"
 
 msgctxt "#30048"
 msgid "{} attempts remaining"
-msgstr "{} tentativas restantes"
+msgstr "残り試行回数: {}"
 
 msgctxt "#30049"
 msgid "Incorrect PIN - Recovery"
-msgstr "PIN Incorreto - Recuperação"
+msgstr "PINが正しくありません - リカバリ"
 
 msgctxt "#30050"
 msgid "Answer Security Question"
-msgstr "Responder Pergunta de Segurança"
+msgstr "秘密の質問に答える"
 
 msgctxt "#30051"
 msgid "Cancel (Close Addon)"
-msgstr "Cancelar (Fechar Addon)"
+msgstr "キャンセル (アドオンを閉じる)"
 
 msgctxt "#30052"
 msgid "Question not set?"
-msgstr "Pergunta não configurada?"
+msgstr "質問が設定されていませんか？"
 
 msgctxt "#30053"
 msgid "No security question set.\n\nYou can create a 'reset_pass.txt' file in the addon folder to reset."
-msgstr "Nenhuma pergunta de segurança configurada.\n\nVocê pode criar um arquivo 'reset_pass.txt' na pasta do addon para redefinir."
+msgstr "秘密の質問が設定されていません。\nアドオンフォルダに 'reset_pass.txt' ファイルを作成するとリセットできます。"
 
 msgctxt "#30054"
 msgid "Access Recovered"
-msgstr "Acesso Recuperado"
+msgstr "アクセスが復旧しました"
 
 msgctxt "#30055"
 msgid "Correct answer.\nProtection is temporarily disabled.\nRemember to set a new PIN."
-msgstr "Resposta correta.\nA proteção está temporariamente desativada.\nLembre-se de definir um novo PIN."
+msgstr "正解です。\n保護設定を一時的に無効にしました。\n新しいPINを設定してください。"
 
 msgctxt "#30056"
 msgid "Incorrect Answer"
-msgstr "Resposta Incorreta"
+msgstr "答えが違います"
 
 msgctxt "#30057"
 msgid "Could not verify.\n\nIf you forgot both, create an empty file named 'reset_pass.txt' in:\n"
-msgstr "Não foi possível verificar.\n\nSe você esqueceu ambos, crie um arquivo vazio chamado 'reset_pass.txt' em:\n"
+msgstr "認証できませんでした。\n両方忘れた場合は、以下に空の 'reset_pass.txt' ファイルを作成してください:\n"
 
 msgctxt "#30058"
 msgid "Security and Password"
-msgstr "Segurança e Senha"
+msgstr "セキュリティとパスワード"
 
 msgctxt "#30059"
 msgid "ENABLED"
-msgstr "ATIVADO"
+msgstr "有効"
 
 msgctxt "#30060"
 msgid "Disabled"
-msgstr "Desativado"
+msgstr "無効"
 
 msgctxt "#30061"
 msgid "Status: {}"
-msgstr "Status: {}"
+msgstr "ステータス: {}"
 
 msgctxt "#30062"
 msgid "Change PIN"
-msgstr "Alterar PIN"
+msgstr "PINを変更"
 
 msgctxt "#30063"
 msgid "Set PIN"
-msgstr "Definir PIN"
+msgstr "PINを設定"
 
 msgctxt "#30064"
 msgid "Set Security Question"
-msgstr "Definir Pergunta de Segurança"
+msgstr "秘密の質問を設定"
 
 msgctxt "#30065"
 msgid "Enable Protection"
-msgstr "Ativar Proteção"
+msgstr "保護を有効にする"
 
 msgctxt "#30066"
 msgid "Disable Protection"
-msgstr "Desativar Proteção"
+msgstr "保護を無効にする"
 
 msgctxt "#30067"
 msgid "« Back"
-msgstr "« Voltar"
+msgstr "« 戻る"
 
 msgctxt "#30068"
 msgid "Security Information"
-msgstr "Informações de Segurança"
+msgstr "セキュリティ情報"
 
 msgctxt "#30069"
 msgid "PIN protection prevents unauthorized persons from accessing the addon.\n\n"
-msgstr "A proteção por PIN evita o acesso de pessoas não autorizadas ao addon.\n\n"
+msgstr "PIN保護により、第三者によるアドオンへのアクセスを防ぎます。\n\n"
 
 msgctxt "#30070"
 msgid "Question set: {}"
-msgstr "Pergunta definida: {}"
+msgstr "設定された質問: {}"
 
 msgctxt "#30071"
 msgid "Yes"
-msgstr "Sim"
+msgstr "はい"
 
 msgctxt "#30072"
 msgid "No"
-msgstr "Não"
+msgstr "いいえ"
 
 msgctxt "#30073"
 msgid "To recover access if you forget the PIN:\n1. Answer the security question.\n2. Or create a 'reset_pass.txt' file in:\n"
-msgstr "Para recuperar o acesso se você esquecer o PIN:\n1. Responda à pergunta de segurança.\n2. Ou crie um arquivo 'reset_pass.txt' em:\n"
+msgstr "PINを忘れた場合の復旧方法:\n1. 秘密の質問に答える\n2. または以下に 'reset_pass.txt' ファイルを作成する:\n"
 
 msgctxt "#30074"
 msgid "Enter new PIN (recommended numbers)"
-msgstr "Digite o novo PIN (recomenda-se números)"
+msgstr "新しいPINを入力してください (数字を推奨)"
 
 msgctxt "#30075"
 msgid "Confirm PIN"
-msgstr "Confirmar PIN"
+msgstr "PINの確認"
 
 msgctxt "#30076"
 msgid "PIN Saved"
-msgstr "PIN Salvo"
+msgstr "PINを保存しました"
 
 msgctxt "#30077"
 msgid "Remember to configure security question"
-msgstr "Lembre-se de configurar a pergunta de segurança"
+msgstr "秘密の質問の設定もお忘れなく"
 
 msgctxt "#30078"
 msgid "PINs do not match"
-msgstr "Os PINs não coincidem"
+msgstr "PINが一致しません"
 
 msgctxt "#30079"
 msgid "Choose a security question"
-msgstr "Escolha uma pergunta de segurança"
+msgstr "秘密の質問を選択"
 
 msgctxt "#30080"
 msgid "[Write custom question]"
-msgstr "[Escrever pergunta personalizada]"
+msgstr "[カスタム質問を書く]"
 
 msgctxt "#30081"
 msgid "Write your question"
-msgstr "Escreva sua pergunta"
+msgstr "質問を入力"
 
 msgctxt "#30082"
 msgid "Answer (case insensitive)"
-msgstr "Resposta (sem distinção de maiúsculas/minúsculas)"
+msgstr "答え (大文字小文字を区別しません)"
 
 msgctxt "#30083"
 msgid "Saved"
-msgstr "Salvo"
+msgstr "保存しました"
 
 msgctxt "#30084"
 msgid "Security question set"
-msgstr "Pergunta de segurança definida"
+msgstr "秘密の質問を設定しました"
 
 msgctxt "#30085"
 msgid "Set a PIN"
-msgstr "Definir um PIN"
+msgstr "PINを設定"
 
 msgctxt "#30086"
 msgid "You must set a PIN before enabling protection."
-msgstr "Você deve definir um PIN antes de ativar a proteção."
+msgstr "保護を有効にする前にPINを設定する必要があります。"
 
 msgctxt "#30087"
 msgid "Warning"
-msgstr "Aviso"
+msgstr "警告"
 
 msgctxt "#30088"
 msgid "You haven't set a security question.\nIf you forget the PIN, you can only recover access via the rescue file.\n\nEnable anyway?"
-msgstr "Você não definiu uma pergunta de segurança.\nSe você esquecer o PIN, só poderá recuperar o acesso pelo arquivo de resgate.\n\nAtivar mesmo assim?"
+msgstr "秘密の質問が設定されていません。\nPINを忘れた場合、レスキューファイル以外でアクセスを復旧できません。\nそれでも有効にしますか？"
 
 msgctxt "#30089"
 msgid "Protection Enabled"
-msgstr "Proteção Ativada"
+msgstr "保護を有効にしました"
 
 msgctxt "#30090"
 msgid "PIN will be asked upon entry"
-msgstr "O PIN será solicitado ao entrar"
+msgstr "起動時にPINが要求されます"
 
 msgctxt "#30091"
 msgid "Protection Disabled"
-msgstr "Proteção Desativada"
+msgstr "保護を無効にしました"
 
 msgctxt "#30092"
 msgid "Open access"
-msgstr "Acesso livre"
+msgstr "オープンアクセス"
 
 msgctxt "#30093"
 msgid "Dynamic Icons"
-msgstr "Ícones Dinâmicos"
+msgstr "ダイナミックアイコン"
 
 msgctxt "#30094"
 msgid "{} icons recovered"
-msgstr "{} ícones recuperados"
+msgstr "{} 個のアイコンを復旧しました"
 
 msgctxt "#30095"
 msgid "Reset"
-msgstr "Redefinir"
+msgstr "リセット"
 
 msgctxt "#30096"
 msgid "Discard all changes and return to original state?"
-msgstr "Descartar todas as alterações e voltar ao estado original?"
+msgstr "すべての変更を破棄して、元の状態に戻しますか？"
 
 msgctxt "#30097"
 msgid "Reset"
-msgstr "Redefinir"
+msgstr "リセット"
 
 msgctxt "#30098"
 msgid "Changes discarded"
-msgstr "Alterações descartadas"
+msgstr "変更を破棄しました"
 
 msgctxt "#30099"
 msgid "Auto-Group"
-msgstr "Agrupamento Automático"
+msgstr "自動グループ分け"
 
 msgctxt "#30100"
 msgid "This will reorganize your list by grouping favorites from the same addon together (alphabetically).\nNo separators will be created.\nProceed?"
-msgstr "Isso reorganizará sua lista agrupando favoritos do mesmo addon (em ordem alfabética).\nNenhum separador será criado.\nProsseguir?"
+msgstr "同じアドオンのお気に入りを (アルファベット順に) グループ化してリストを整理します。\n区切り線は作成されません。\n続行しますか？"
 
 msgctxt "#30101"
 msgid "Grouped"
-msgstr "Agrupado"
+msgstr "グループ化完了"
 
 msgctxt "#30102"
 msgid "List sorted by Type/Addon"
-msgstr "Lista organizada por Tipo/Addon"
+msgstr "タイプ/アドオン順に並び替えました"
 
 msgctxt "#30103"
 msgid "Help & Instructions"
-msgstr "Ajuda e Instruções"
+msgstr "ヘルプと使い方"
 
 msgctxt "#30104"
 msgid "[B]CURRENT MODE: Swap[/B]\nSelect a favorite then another.\nThey will swap places."
-msgstr "[B]MODO ATUAL: Trocar[/B]\nSelecione um favorito e depois outro.\nEles trocarão de posição."
+msgstr "[B]現在のモード: 入れ替え[/B]\nあるお気に入りを選択し、次に別のものを選択します。\nそれらの場所が入れ替わります。"
 
 msgctxt "#30105"
 msgid "[B]CURRENT MODE: Insert Before[/B]\nSelect an item and then the destination.\nThe first will move just [B]before[/B] the second."
-msgstr "[B]MODO ATUAL: Inserir Antes[/B]\nSelecione um item e depois o destino.\nO primeiro será movido para [B]antes[/B] do segundo."
+msgstr "[B]現在のモード: 前に挿入[/B]\nアイテムを選択し、次に移動先を選択します。\n最初のアイテムが2番目のアイテムの[B]直前[/B]に移動します。"
 
 msgctxt "#30106"
 msgid "[B]CURRENT MODE: Insert After[/B]\nSelect an item then the destination.\nThe first will move just [B]after[/B] the second."
-msgstr "[B]MODO ATUAL: Inserir Depois[/B]\nSelecione um item e depois o destino.\nO primeiro será movido para [B]depois[/B] do segundo."
+msgstr "[B]現在のモード: 後に挿入[/B]\nアイテムを選択し、次に移動先を選択します。\n最初のアイテムが2番目のアイテムの[B]直後[/B]に移動します。"
 
 msgctxt "#30107"
 msgid "[B]CURRENT MODE: Arrow Move[/B]\nSelect a favorite and use UP/DOWN keys to move it.\nPress the SAME favorite to release it."
-msgstr "[B]MODO ATUAL: Mover com Setas[/B]\nSelecione um favorito e use as teclas CIMA/BAIXO para movê-lo.\nPressione o MESMO favorito para soltá-lo."
+msgstr "[B]現在のモード: 矢印移動[/B]\nお気に入りを選択し、上/下キーで移動させます。\n同じお気に入りをもう一度押すと確定します。"
 
 msgctxt "#30108"
 msgid "\n\n[B]CHANGE MODE:[/B]\nUse the sidebar button to rotate between these behaviors according to your preference."
-msgstr "\n\n[B]ALTERAR MODO:[/B]\nUse o botão lateral para alternar entre estes comportamentos conforme sua preferência."
+msgstr "\n\n[B]モード変更:[/B]\nサイドバーのボタンを使用して、好みの動作に切り替えてください。"
 
 msgctxt "#30109"
 msgid "\n\n[B]CONTEXT MENU[/B] (extra options):"
-msgstr "\n\n[B]MENU DE CONTEXTO[/B] (opções extras):"
+msgstr "\n\n[B]コンテキストメニュー[/B] (追加オプション):"
 
 msgctxt "#30110"
 msgid "\n- PC: Right Click or 'C' key\n- Remote/TV: 'Menu' button\n- Touch: Long Press"
-msgstr "\n- PC: Clique Direito ou tecla 'C'\n- Controle/TV: Botão 'Menu'\n- Toque: Pressionar Longamente"
+msgstr "\n- PC: 右クリックまたは「C」キー\n- リモコン/TV: 「メニュー」ボタン\n- タッチ: 長押し"
 
 msgctxt "#30111"
 msgid "\n\n[B]TIPS:[/B]\n- [I]Multiselect[/I]: select multiple to move in block\n- [I]Carousel[/I]: In arrow mode, reaching the end jumps to the beginning"
-msgstr "\n\n[B]DICAS:[/B]\n- [I]Multiseleção[/I]: selecione vários para mover em bloco\n- [I]Carrossel[/I]: No modo de setas, ao chegar no fim ele volta para o início"
+msgstr "\n\n[B]ヒント:[/B]\n- [I]複数選択[/I]: 複数選択してまとめて移動\n- [I]カルーセル[/I]: 矢印モードで端まで到達すると反対側へジャンプします"
 
 msgctxt "#30112"
 msgid "Rename"
-msgstr "Renomear"
+msgstr "名前変更"
 
 msgctxt "#30113"
 msgid "Edit Command"
-msgstr "Editar Comando"
+msgstr "コマンドを編集"
 
 msgctxt "#30114"
 msgid "Change Icon"
-msgstr "Alterar Ícone"
+msgstr "アイコンを変更"
 
 msgctxt "#30115"
 msgid "Change Color"
-msgstr "Alterar Cor"
+msgstr "色を変更"
 
 msgctxt "#30116"
 msgid "Change Format"
-msgstr "Alterar Formato"
+msgstr "書式を変更"
 
 msgctxt "#30117"
 msgid "Move"
-msgstr "Mover"
+msgstr "移動"
 
 msgctxt "#30118"
 msgid "Duplicate"
-msgstr "Duplicar"
+msgstr "複製"
 
 msgctxt "#30119"
 msgid "Delete"
-msgstr "Excluir"
+msgstr "削除"
 
 msgctxt "#30120"
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "キャンセル"
 
 msgctxt "#30121"
 msgid "Duplicated"
-msgstr "Duplicado"
+msgstr "複製完了"
 
 msgctxt "#30122"
 msgid "Move item"
-msgstr "Mover item"
+msgstr "アイテムを移動"
 
 msgctxt "#30123"
 msgid "↑ Move 1 up"
-msgstr "↑ Mover 1 para cima"
+msgstr "↑ 1つ上へ"
 
 msgctxt "#30124"
 msgid "↑↑ Move 5 up"
-msgstr "↑↑ Mover 5 para cima"
+msgstr "↑↑ 5つ上へ"
 
 msgctxt "#30125"
 msgid "↑↑↑ Move 10 up"
-msgstr "↑↑↑ Mover 10 para cima"
+msgstr "↑↑↑ 10個上へ"
 
 msgctxt "#30126"
 msgid "^^^ [B]TO THE TOP[/B]"
-msgstr "^^^ [B]PARA O TOPO[/B]"
+msgstr "^^^ [B]一番上へ[/B]"
 
 msgctxt "#30127"
 msgid "↓ Move 1 down"
-msgstr "↓ Mover 1 para baixo"
+msgstr "↓ 1つ下へ"
 
 msgctxt "#30128"
 msgid "↓↓ Move 5 down"
-msgstr "↓↓ Mover 5 para baixo"
+msgstr "↓↓ 5つ下へ"
 
 msgctxt "#30129"
 msgid "↓↓↓ Move 10 down"
-msgstr "↓↓↓ Mover 10 para baixo"
+msgstr "↓↓↓ 10個下へ"
 
 msgctxt "#30130"
 msgid "vvv [B]TO THE BOTTOM[/B]"
-msgstr "vvv [B]PARA O FINAL[/B]"
+msgstr "vvv [B]一番下へ[/B]"
 
 msgctxt "#30131"
 msgid "Sort favorites"
-msgstr "Ordenar favoritos"
+msgstr "並び替え"
 
 msgctxt "#30132"
 msgid "Sort A → Z"
-msgstr "Ordenar A → Z"
+msgstr "名前順 (A → Z)"
 
 msgctxt "#30133"
 msgid "Sort Z → A"
-msgstr "Ordenar Z → A"
+msgstr "名前順 (Z → A)"
 
 msgctxt "#30134"
 msgid "Reverse order (flip list)"
-msgstr "Inverter ordem (espelhar lista)"
+msgstr "逆順 (リストを反転)"
 
 msgctxt "#30135"
 msgid "Group by TYPE / ADDON"
-msgstr "Agrupar por TIPO / ADDON"
+msgstr "タイプ/アドオンでグループ化"
 
 msgctxt "#30136"
 msgid "Sorted A → Z"
-msgstr "Ordenado A → Z"
+msgstr "A → Z 順に並び替えました"
 
 msgctxt "#30137"
 msgid "Sorted Z → A"
-msgstr "Ordenado Z → A"
+msgstr "Z → A 順に並び替えました"
 
 msgctxt "#30138"
 msgid "Order reversed"
-msgstr "Ordem invertida"
+msgstr "順序を反転しました"
 
 msgctxt "#30139"
 msgid "Sorted"
-msgstr "Ordenado"
+msgstr "並び替えました"
 
 msgctxt "#30140"
 msgid "Profile Saved"
-msgstr "Perfil Salvo"
+msgstr "プロフィールを保存しました"
 
 msgctxt "#30141"
 msgid "Saved as '{}'"
-msgstr "Salvo como '{}'"
+msgstr "「{}」として保存しました"
 
 msgctxt "#30142"
 msgid "Select Color"
-msgstr "Selecionar Cor"
+msgstr "色の選択"
 
 msgctxt "#30143"
 msgid "No color"
-msgstr "Sem cor"
+msgstr "なし"
 
 msgctxt "#30144"
 msgid "White"
-msgstr "Branco"
+msgstr "ホワイト"
 
 msgctxt "#30145"
 msgid "Yellow"
-msgstr "Amarelo"
+msgstr "イエロー"
 
 msgctxt "#30146"
 msgid "Orange"
-msgstr "Laranja"
+msgstr "オレンジ"
 
 msgctxt "#30147"
 msgid "Red"
-msgstr "Vermelho"
+msgstr "レッド"
 
 msgctxt "#30148"
 msgid "Pink"
-msgstr "Rosa"
+msgstr "ピンク"
 
 msgctxt "#30149"
 msgid "Violet"
-msgstr "Violeta"
+msgstr "バイオレット"
 
 msgctxt "#30150"
 msgid "Blue"
-msgstr "Azul"
+msgstr "ブルー"
 
 msgctxt "#30151"
 msgid "Cyan"
-msgstr "Ciano"
+msgstr "シアン"
 
 msgctxt "#30152"
 msgid "Green"
-msgstr "Verde"
+msgstr "グリーン"
 
 msgctxt "#30153"
 msgid "Lime"
-msgstr "Lima"
+msgstr "ライム"
 
 msgctxt "#30154"
 msgid "Select Format"
-msgstr "Selecionar Formato"
+msgstr "書式の選択"
 
 msgctxt "#30155"
 msgid "No format"
-msgstr "Sem formato"
+msgstr "なし"
 
 msgctxt "#30156"
 msgid "Bold"
-msgstr "Negrito"
+msgstr "太字"
 
 msgctxt "#30157"
 msgid "Italic"
-msgstr "Itálico"
+msgstr "斜体"
 
 msgctxt "#30158"
 msgid "Bold + Italic"
-msgstr "Negrito + Itálico"
+msgstr "太字 + 斜体"
 
 msgctxt "#30159"
 msgid "UPPERCASE"
-msgstr "MAIÚSCULAS"
+msgstr "大文字"
 
 msgctxt "#30160"
 msgid "Rename Favorite"
-msgstr "Renomear Favorito"
+msgstr "お気に入りの名前変更"
 
 msgctxt "#30161"
 msgid "Edit Command / Path"
-msgstr "Editar Comando / Caminho"
+msgstr "コマンド/パスを編集"
 
 msgctxt "#30162"
 msgid "Updated"
-msgstr "Atualizado"
+msgstr "更新しました"
 
 msgctxt "#30163"
 msgid "Command changed"
-msgstr "Comando alterado"
+msgstr "コマンドを変更しました"
 
 msgctxt "#30164"
 msgid "Separator only"
-msgstr "Somente o separador"
+msgstr "区切り線のみ"
 
 msgctxt "#30165"
 msgid "Separator and all its content"
-msgstr "Separador e todo o seu conteúdo"
+msgstr "区切り線とその全内容"
 
 msgctxt "#30166"
 msgid "Delete Section: {}"
-msgstr "Excluir Seção: {}"
+msgstr "セクション削除: {}"
 
 msgctxt "#30167"
 msgid "Confirm"
-msgstr "Confirmar"
+msgstr "確認"
 
 msgctxt "#30168"
 msgid "Delete '{}'?"
-msgstr "Excluir '{}'?"
+msgstr "「{}」を削除しますか？"
 
 msgctxt "#30169"
 msgid "Unsaved changes"
-msgstr "Alterações não salvas"
+msgstr "未保存の変更"
 
 msgctxt "#30170"
 msgid "Save and Exit"
-msgstr "Salvar e Sair"
+msgstr "保存して終了"
 
 msgctxt "#30171"
 msgid "Save and Update"
-msgstr "Salvar e Atualizar"
+msgstr "保存して更新"
 
 msgctxt "#30172"
 msgid "Exit without Saving (Discard Changes)"
-msgstr "Sair sem Salvar (Descartar Alterações)"
+msgstr "保存せずに終了 (変更を破棄)"
 
 msgctxt "#30173"
 msgid "Automatically assigned icons detected for some favorites.\nDo you want to keep these new icons?"
-msgstr "Ícones atribuídos automaticamente detectados para alguns favoritos.\nDeseja manter estes novos ícones?"
+msgstr "一部のお気に入りでアイコンの自動割り当てを検出しました。\nこれらの新しいアイコンを保持しますか？"
 
 msgctxt "#30174"
 msgid "Keep"
-msgstr "Manter"
+msgstr "保持"
 
 msgctxt "#30175"
 msgid "Discard"
-msgstr "Descartar"
+msgstr "破棄"
 
 msgctxt "#30176"
 msgid "Icons"
-msgstr "Ícones"
+msgstr "アイコン"
 
 msgctxt "#30177"
 msgid "{} icons discarded"
-msgstr "{} ícones descartados"
+msgstr "{} 個のアイコンを破棄しました"
 
 msgctxt "#30178"
 msgid "Saved Successfully"
-msgstr "Salvo com Sucesso"
+msgstr "正常に保存しました"
 
 msgctxt "#30179"
 msgid "Could not save."
-msgstr "Não foi possível salvar."
+msgstr "保存できませんでした。"
 
 msgctxt "#30180"
 msgid "[B]Custom / Manual[/B] (Write command)"
-msgstr "[B]Personalizado / Manual[/B] (Escrever comando)"
+msgstr "[B]カスタム / 手動入力[/B] (直接入力)"
 
 msgctxt "#30181"
 msgid "Installed Addons (Video and Programs)"
-msgstr "Addons Instalados (Vídeo e Programas)"
+msgstr "インストール済みアドオン (ビデオとプログラム)"
 
 msgctxt "#30182"
 msgid "What do you want to add?"
-msgstr "O que você deseja adicionar?"
+msgstr "何を追加しますか？"
 
 msgctxt "#30183"
 msgid "Favorite Name"
-msgstr "Nome do Favorito"
+msgstr "お気に入りの名前"
 
 msgctxt "#30184"
 msgid "Path or Command (Ex: ActivateWindow(...))"
-msgstr "Caminho ou Comando (Ex: ActivateWindow(...))"
+msgstr "パスまたはコマンド (例: ActivateWindow(...))"
 
 msgctxt "#30185"
 msgid "Select Image"
-msgstr "Selecionar Imagem"
+msgstr "画像を選択"
 
 msgctxt "#30186"
 msgid "No addons found"
-msgstr "Nenhum addon encontrado"
+msgstr "アドオンが見つかりませんでした"
 
 msgctxt "#30187"
 msgid "Select Addon"
-msgstr "Selecionar Addon"
+msgstr "アドオンを選択"
 
 msgctxt "#30188"
 msgid "This category is empty"
-msgstr "Esta categoria está vazia"
+msgstr "このカテゴリは空です"
 
 msgctxt "#30189"
 msgid "Select from {}"
-msgstr "Selecionar de {}"
+msgstr "{} から選択"
 
 msgctxt "#30190"
 msgid "Attention"
-msgstr "Atenção"
+msgstr "注意"
 
 msgctxt "#30191"
 msgid "Favorite without path"
-msgstr "Favorito sem caminho"
+msgstr "パスのないお気に入り"
 
 msgctxt "#30192"
 msgid "Added"
-msgstr "Adicionado"
+msgstr "追加しました"
 
 msgctxt "#30193"
 msgid "Section / Separator Name"
-msgstr "Nome da Seção / Separador"
+msgstr "セクション/区切り線の名前"
 
 msgctxt "#30194"
 msgid "Gold (Default)"
-msgstr "Ouro (Padrão)"
+msgstr "ゴールド (デフォルト)"
 
 msgctxt "#30195"
 msgid "Gray"
-msgstr "Cinza"
+msgstr "グレー"
 
 msgctxt "#30196"
 msgid "Separator Color"
-msgstr "Cor do Separador"
+msgstr "移動先フォルダを選択"
 
 msgctxt "#30197"
 msgid "Nothing selected"
-msgstr "Nada selecionado"
+msgstr "何も選択されていません"
 
 msgctxt "#30198"
 msgid "Move to..."
-msgstr "Mover para..."
+msgstr "移動先..."
 
 msgctxt "#30199"
 msgid "Click on the destination position"
-msgstr "Clique na posição de destino"
+msgstr "移動先の位置をクリック"
 
 msgctxt "#30200"
 msgid "Before (At the top)"
-msgstr "Antes (No topo)"
+msgstr "お気に入りに追加"
 
 msgctxt "#30201"
 msgid "After"
-msgstr "Depois"
+msgstr "高度なエディタ"
 
 msgctxt "#30202"
 msgid "Moved"
-msgstr "Movido"
+msgstr "シンプルエディタ"
 
 msgctxt "#30203"
 msgid "{} items"
-msgstr "{} itens"
+msgstr "{} 個のアイテム"
 
 msgctxt "#30204"
 msgid "Delete {} selected items?"
-msgstr "Excluir {} itens selecionados?"
+msgstr "選択した {} 項目を削除しますか？"
 
 msgctxt "#30205"
 msgid "Color for {} items"
-msgstr "Cor para {} itens"
+msgstr "{} 項目の色"
 
 msgctxt "#30206"
 msgid "Select New Image"
-msgstr "Selecionar Nova Imagem"
+msgstr "新しい画像を選択"
 
 msgctxt "#30207"
 msgid "Icon"
-msgstr "Ícone"
+msgstr "セクション/区切り線を追加"
 
 msgctxt "#30208"
 msgid "Image updated"
-msgstr "Imagem atualizada"
+msgstr "Kodiの各セクション"
 
 msgctxt "#30209"
 msgid "Add Item / Addon"
-msgstr "Adicionar Item / Addon"
+msgstr "システムコマンド"
 
 msgctxt "#30210"
 msgid "Add Separator"
-msgstr "Adicionar Separador"
+msgstr "テンプレートから追加"
 
 msgctxt "#30211"
 msgid "Add..."
-msgstr "Adicionar..."
+msgstr "テンプレートを編集"
 
 msgctxt "#30212"
 msgid "Save as New Profile"
-msgstr "Salvar como Novo Perfil"
+msgstr "セクションを追加"
 
 msgctxt "#30213"
 msgid "Create backup (XML)"
-msgstr "Criar backup (XML)"
+msgstr "一番上に移動"
 
 msgctxt "#30214"
 msgid "Restore from backup (XML)"
-msgstr "Restaurar do backup (XML)"
+msgstr "一番下に移動"
 
 msgctxt "#30215"
 msgid "Discard current changes"
-msgstr "Descartar alterações atuais"
+msgstr "すべてのお気に入りを最後に保存した状態にリセットします。\nよろしいですか？"
 
 msgctxt "#30216"
 msgid "Backup / Restore"
-msgstr "Backup / Restaurar"
+msgstr "バックアップ / 復元"
 
 msgctxt "#30217"
 msgid "Backup name (no extension)"
-msgstr "Nome do backup (sem extensão)"
+msgstr "バックアップ名（拡張子なし）"
 
 msgctxt "#30218"
 msgid "Select folder to save"
-msgstr "Selecionar pasta para salvar"
+msgstr "保存するフォルダーを選択"
 
 msgctxt "#30219"
 msgid "Backup Created"
-msgstr "Backup Criado"
+msgstr "バックアップを作成しました"
 
 msgctxt "#30220"
 msgid "Error saving"
-msgstr "Erro ao salvar"
+msgstr "保存エラー"
 
 msgctxt "#30221"
 msgid "Name of your first pet?"
-msgstr "Nome do seu primeiro animal de estimação?"
+msgstr "最初に飼ったペットの名前は？"
 
 msgctxt "#30222"
 msgid "City where you were born?"
-msgstr "Cidade onde você nasceu?"
+msgstr "あなたの出身地 (都市) は？"
 
 msgctxt "#30223"
 msgid "Mother's birth year?"
-msgstr "Ano de nascimento da sua mãe?"
+msgstr "お気に入りの本は？"
 
 msgctxt "#30224"
 msgid "Name of childhood best friend?"
-msgstr "Nome do seu melhor amigo de infância?"
+msgstr "最初に買った車のメーカーは？"
 
 msgctxt "#30225"
 msgid "Favorite food?"
-msgstr "Comida favorita?"
+msgstr "子供の頃のヒーローは？"
 
 msgctxt "#30226"
 msgid "Security Reset"
-msgstr "Redefinição de Segurança"
+msgstr "緊急リセット"
 
 msgctxt "#30227"
 msgid "Recovery file detected.\nPassword has been removed.\nYou can set a new one in Settings."
-msgstr "Arquivo de recuperação detectado.\nA senha foi removida.\nVocê pode definir uma nova nas Configurações."
+msgstr "緊急リセットファイルを検出しました。\nセキュリティ機能を無効化し、ファイルを削除しました。"
 
 msgctxt "#30228"
 msgid "Installed Addons"
-msgstr "Addons Instalados"
+msgstr "インストール済みアドオン"
 
 msgctxt "#30229"
 msgid "Gold (Default)"
-msgstr "Ouro (Padrão)"
+msgstr "ゴールド（デフォルト）"
 
 msgctxt "#30230"
 msgid "Change Icon"
-msgstr "Alterar Ícone"
+msgstr "アイコンを変更"
 
 msgctxt "#30231"
 msgid "Change Color"
-msgstr "Alterar Cor"
+msgstr "色を変更"
 
 msgctxt "#30232"
 msgid "Change Format"
-msgstr "Alterar Formato"
+msgstr "形式を変更"
 
 msgctxt "#30233"
 msgid "Move"
-msgstr "Mover"
+msgstr "移動"
 
 msgctxt "#30234"
 msgid "Duplicate"
-msgstr "Duplicar"
+msgstr "複製"
 
 msgctxt "#30235"
 msgid "[B]Custom / Manual[/B] (Write command)"
-msgstr "[B]Personalizado / Manual[/B] (Escrever comando)"
+msgstr "[B]カスタム / 手動[/B]（コマンドを入力）"
 
 msgctxt "#30236"
 msgid "Installed Addons (Video and Programs)"
-msgstr "Addons Instalados (Vídeo e Programas)"
+msgstr "インストール済みアドオン（ビデオとプログラム）"
 
 msgctxt "#30237"
 msgid "Favourite Name"
-msgstr "Nome do Favorito"
+msgstr "お気に入り名"
 
 msgctxt "#30238"
 msgid "No addons found"
-msgstr "Nenhum addon encontrado"
+msgstr "アドオンが見つかりません"
 
 msgctxt "#30239"
 msgid "Select Addon"
-msgstr "Selecionar Addon"
+msgstr "アドオンを選択"
 
 msgctxt "#30240"
 msgid "This category is empty"
-msgstr "Esta categoria está vazia"
+msgstr "このカテゴリは空です"
 
 msgctxt "#30241"
 msgid "Select from "
-msgstr "Selecionar de "
+msgstr "選択元: "
 
 msgctxt "#30242"
 msgid "Added"
-msgstr "Adicionado"
+msgstr "追加しました"
 
 msgctxt "#30243"
 msgid "Quick Editor"
-msgstr "Editor Rápido"
+msgstr "クイックエディタ"
 
 msgctxt "#30244"
 msgid "Saved"
-msgstr "Salvo"
+msgstr "保存しました"
 
 msgctxt "#30245"
 msgid "Create Backup"
-msgstr "Criar Backup"
+msgstr "バックアップを作成"
 
 msgctxt "#30246"
 msgid "Restore from Backup"
-msgstr "Restaurar do Backup"
+msgstr "バックアップから復元"
 
 msgctxt "#30247"
 msgid "Backup"
-msgstr "Backup"
+msgstr "バックアップ"
 
 msgctxt "#30248"
 msgid "No favourites to save."
-msgstr "Sem favoritos para salvar."
+msgstr "保存するお気に入りがありません。"
 
 msgctxt "#30249"
 msgid "Backup Created"
-msgstr "Backup Criado"
+msgstr "バックアップを作成しました"
 
 msgctxt "#30250"
 msgid "Select backup file (.xml)"
-msgstr "Selecionar arquivo de backup (.xml)"
+msgstr "XMLファイルを選択"
 
 msgctxt "#30251"
 msgid "File not found."
-msgstr "Arquivo não encontrado."
+msgstr "ファイルが見つかりません。"
 
 msgctxt "#30252"
 msgid "The file does not seem to be a valid backup."
-msgstr "O arquivo não parece ser um backup válido."
+msgstr "ファイルが有効なバックアップではないようです。"
 
 msgctxt "#30253"
 msgid "The backup is empty."
-msgstr "O backup está vazio."
+msgstr "バックアップが空です。"
 
 msgctxt "#30254"
 msgid "Replace your current favourites with the backup?\n({} items)"
-msgstr "Substituir seus favoritos atuais pelo backup?\n({} itens)"
+msgstr "現在のお気に入りをバックアップで置き換えますか？\n（{} 項目）"
 
 msgctxt "#30255"
 msgid "Restored"
-msgstr "Restaurado"
+msgstr "復元しました"
 
 msgctxt "#30256"
 msgid "{} favourites loaded"
-msgstr "{} favoritos carregados"
+msgstr "{} 件のお気に入りを読み込みました"
 
 msgctxt "#30257"
 msgid "Could not load backup:"
-msgstr "Não foi possível carregar o backup:"
+msgstr "バックアップを読み込めませんでした:"
 
 msgctxt "#30258"
 msgid "[B]+ Create Profile[/B] (Save current state)"
-msgstr "[B]+ Criar Perfil[/B] (Salvar estado atual)"
+msgstr "[COLOR lime]+ 現在の状態から新規プロフィール作成[/COLOR]"
 
 msgctxt "#30259"
 msgid "[B]+ Import from XML[/B]"
-msgstr "[B]+ Importar de XML[/B]"
+msgstr "[COLOR cyan]favourites.xml からインポート[/COLOR]"
 
 msgctxt "#30260"
 msgid "[B]+ Export current to XML[/B]"
-msgstr "[B]+ Exportar atual para XML[/B]"
+msgstr "[COLOR orange]現在の状態を XML にエクスポート[/COLOR]"
 
 msgctxt "#30261"
 msgid "Profile Manager"
-msgstr "Gerenciador de Perfis"
+msgstr "プロフィールマネージャ"
 
 msgctxt "#30262"
 msgid "Profile Created"
-msgstr "Perfil Criado"
+msgstr "プロフィールを作成しました"
 
 msgctxt "#30263"
 msgid "Saved '{}'"
-msgstr "Salvo '{}'"
+msgstr "プロフィール「{}」が作成されました。"
 
 msgctxt "#30264"
 msgid "No valid favourites found"
-msgstr "Nenhum favorito válido encontrado"
+msgstr "XML内にお気に入りが見つかりませんでした"
 
 msgctxt "#30265"
 msgid "Imported Profile"
-msgstr "Perfil Importado"
+msgstr "インポートされたプロフィール"
 
 msgctxt "#30266"
 msgid "Name for the profile"
-msgstr "Nome para o perfil"
+msgstr "インポートするプロフィールの名前を入力"
 
 msgctxt "#30267"
 msgid "Imported"
-msgstr "Importado"
+msgstr "プロフィールをインポートしました"
 
 msgctxt "#30268"
 msgid "{} favourites added"
-msgstr "{} favoritos adicionados"
+msgstr "{} 個のお気に入りを正常にインポートしました。"
 
 msgctxt "#30269"
 msgid "Import Error"
-msgstr "Erro na Importação"
+msgstr "XMLのインポート中にエラーが発生しました"
 
 msgctxt "#30270"
 msgid "Exported"
-msgstr "Exportado"
+msgstr "エクスポート完了"
 
 msgctxt "#30271"
 msgid "Error Exporting"
-msgstr "Erro ao Exportar"
+msgstr "エクスポート失敗"
 
 msgctxt "#30272"
 msgid "[B]Load Profile[/B] (Replaces current favourites)"
-msgstr "[B]Carregar Perfil[/B] (Substitui os favoritos atuais)"
+msgstr "プロフィールの読み込み / 有効化"
 
 msgctxt "#30273"
 msgid "Export to XML"
-msgstr "Exportar para XML"
+msgstr "XMLへエクスポート"
 
 msgctxt "#30274"
 msgid "Profile"
-msgstr "Perfil"
+msgstr "プロフィール"
 
 msgctxt "#30275"
 msgid "Load Profile"
-msgstr "Carregar Perfil"
+msgstr "読み込みの確認"
 
 msgctxt "#30276"
 msgid "SURE? This will replace your current favourites with those of '{}'.\nIt is recommended to make a backup first."
-msgstr "TEM CERTEZA? Isso substituirá seus favoritos atuais pelos de '{}'.\nRecomenda-se fazer um backup primeiro."
+msgstr "現在のすべてのお気に入りが「{}」の内容に置き換えられます。\n続行しますか？"
 
 msgctxt "#30277"
 msgid "Profile Loaded"
-msgstr "Perfil Carregado"
+msgstr "プロフィールを読み込みました"
 
 msgctxt "#30278"
 msgid "Favourites updated"
-msgstr "Favoritos atualizados"
+msgstr "Kodi全体のお気に入りを更新しました。"
 
 msgctxt "#30279"
 msgid "Rename profile"
-msgstr "Renomear perfil"
+msgstr "プロフィールの名前変更"
 
 msgctxt "#30280"
 msgid "Renamed"
-msgstr "Renomeado"
+msgstr "プロフィールの名前を変更しました"
 
 msgctxt "#30281"
 msgid "Now is '{}'"
-msgstr "Agora é '{}'"
+msgstr "新しい名前: {}"
 
 msgctxt "#30282"
 msgid "Saved in {}"
-msgstr "Salvo em {}"
+msgstr "プロフィールを {} としてエクスポートしました"
 
 msgctxt "#30283"
 msgid "Delete Profile"
-msgstr "Excluir Perfil"
+msgstr "プロフィール削除"
 
 msgctxt "#30284"
 msgid "Permanently delete profile '{}'?"
-msgstr "Excluir permanentemente o perfil '{}'?"
+msgstr "プロフィール「{}」を削除してもよろしいですか？"
 
 msgctxt "#30285"
 msgid "Templates Editor"
-msgstr "Editor de Modelos"
+msgstr "テンプレートエディタ"
 
 msgctxt "#30286"
 msgid "Add New Category"
-msgstr "Adicionar Nova Categoria"
+msgstr "新しいカテゴリを追加"
 
 msgctxt "#30287"
 msgid "Reset to defaults"
-msgstr "Redefinir para padrões"
+msgstr "デフォルトに戻す"
 
 msgctxt "#30288"
 msgid "Export Templates"
-msgstr "Exportar Modelos"
+msgstr "テンプレートをエクスポート"
 
 msgctxt "#30289"
 msgid "Import Templates"
-msgstr "Importar Modelos"
+msgstr "テンプレートをインポート"
 
 msgctxt "#30290"
 msgid "Name of the new category"
-msgstr "Nome da nova categoria"
+msgstr "新しいカテゴリ名"
 
 msgctxt "#30292"
 msgid "A category with that name already exists"
-msgstr "Uma categoria com esse nome já existe"
+msgstr "このカテゴリは既に存在します"
 
 msgctxt "#30293"
 msgid "Created"
-msgstr "Criado"
+msgstr "カテゴリを追加しました"
 
 msgctxt "#30294"
 msgid "Add New"
-msgstr "Adicionar Novo"
+msgstr "新しいアイテムを追加"
 
 msgctxt "#30295"
 msgid "Delete this Category"
-msgstr "Excluir esta Categoria"
+msgstr "カテゴリ削除"
 
 msgctxt "#30296"
 msgid "Delete category '{}' and all its items?"
-msgstr "Excluir a categoria '{}' e todos os seus itens?"
+msgstr "カテゴリ「{}」とその全テンプレートを削除しますか？"
 
 msgctxt "#30297"
 msgid "Deleted"
-msgstr "Excluído"
+msgstr "削除しました"
 
 msgctxt "#30298"
 msgid "Item Name"
-msgstr "Nome do Item"
+msgstr "アイテム名"
 
 msgctxt "#30299"
 msgid "Command or Path (Ex: ActivateWindow(...))"
-msgstr "Comando ou Caminho (Ex: ActivateWindow(...))"
+msgstr "アイテムのコマンド/パス"
 
 msgctxt "#30300"
 msgid "Select Icon"
-msgstr "Selecionar Ícone"
+msgstr "アイコンを選択"
 
 msgctxt "#30301"
 msgid "Type name (Ex: DefaultMovies.png)"
-msgstr "Digite o nome (Ex: DefaultMovies.png)"
+msgstr "アイコンのパスを直接入力"
 
 msgctxt "#30302"
 msgid "Browse image in explorer"
-msgstr "Procurar imagem no explorador"
+msgstr "アイコンをブラウズ"
 
 msgctxt "#30303"
 msgid "Icon name"
-msgstr "Nome do ícone"
+msgstr "アイコンのパス"
 
 msgctxt "#30304"
 msgid "Edit Name"
-msgstr "Editar Nome"
+msgstr "名前を編集"
 
 msgctxt "#30305"
 msgid "Edit Command"
-msgstr "Editar Comando"
+msgstr "パスを編集"
 
 msgctxt "#30306"
 msgid "Edit Icon"
-msgstr "Editar Ícone"
+msgstr "アイコンを編集"
 
 msgctxt "#30307"
 msgid "New Name"
-msgstr "Novo Nome"
+msgstr "新しいアイテム名"
 
 msgctxt "#30308"
 msgid "New Command"
-msgstr "Novo Comando"
+msgstr "新しいアイテムパス"
 
 msgctxt "#30309"
 msgid "New Icon"
-msgstr "Novo Ícone"
+msgstr "新しいアイコンパス"
 
 msgctxt "#30310"
 msgid "Reset all templates to default values?\nThis will delete custom categories."
-msgstr "Redefinir todos os modelos para os valores padrão?\nIsso excluirá as categorias personalizadas."
+msgstr "すべてのテンプレートを初期状態に戻しますか？"
 
 msgctxt "#30311"
 msgid "Templates"
-msgstr "Modelos"
+msgstr "テンプレートをリセットしました"
 
 msgctxt "#30312"
 msgid "Reset"
-msgstr "Redefinir"
+msgstr "オリジナルのテンプレートを復元しました"
 
 msgctxt "#30313"
 msgid "Templates replaced"
-msgstr "Modelos substituídos"
+msgstr "テンプレートを置き換えました"
 
 msgctxt "#30314"
 msgid "Merged"
-msgstr "Mesclado"
+msgstr "結合しました"
 
 msgctxt "#30315"
 msgid "Categories added"
-msgstr "Categorias adicionadas"
+msgstr "カテゴリを追加しました"
 
 msgctxt "#30316"
 msgid "How to import?"
-msgstr "Como importar?"
+msgstr "インポート方法は？"
 
 msgctxt "#30317"
 msgid "Replace all"
-msgstr "Substituir tudo"
+msgstr "すべて置き換え"
 
 msgctxt "#30318"
 msgid "Merge (add new categories)"
-msgstr "Mesclar (adicionar novas categorias)"
+msgstr "結合（新しいカテゴリを追加）"
 
 msgctxt "#30319"
 msgid "File name (without extension)"
-msgstr "Nome do arquivo (sem extensão)"
+msgstr "ファイル名（拡張子なし）"
 
 msgctxt "#30320"
 msgid "Search in all profiles"
-msgstr "Pesquisar em todos os perfis"
+msgstr "全プロフィールから検索"
 
 msgctxt "#30321"
 msgid "No results for '{}'"
-msgstr "Sem resultados para '{}'"
+msgstr "「{}」に一致する結果はありませんでした"
 
 msgctxt "#30322"
 msgid "No items matching your search were found."
-msgstr "Nenhum item correspondente à sua pesquisa foi encontrado."
+msgstr "保存されているすべてのプロフィール内でお気に入りを検索します。"
 
 msgctxt "#30323"
 msgid "From profile:"
-msgstr "Do perfil:"
+msgstr "見つかったプロフィール:"
 
 msgctxt "#30324"
 msgid "Explore My Profiles"
-msgstr "Explorar Meus Perfis"
+msgstr "プロフィールを見る"
 
 msgctxt "#30325"
 msgid "Navigate through your profiles as folder. Useful for creating menus and Widgets in Skins."
-msgstr "Navegue pelos seus perfis como pastas. Útil para criar menus e Widgets em Skins."
+msgstr "保存済みプロフィールを閲覧・管理します。"
 
 msgctxt "#30326"
 msgid "Advanced Editor"
-msgstr "Editor Avançado"
+msgstr "高度なエディタ"
 
 msgctxt "#30327"
 msgid "Graphic editor with icon and color visualization."
-msgstr "Editor gráfico com visualização de ícones e cores."
+msgstr "ドラッグ＆ドロップ対応のビジュアルエディタ。"
 
 msgctxt "#30328"
 msgid "Quick Editor"
-msgstr "Editor Rápido"
+msgstr "シンプルエディタ"
 
 msgctxt "#30329"
 msgid "Simple and lightweight editor. Fast and compatible with all devices."
-msgstr "Editor simples e leve. Rápido e compatível com todos os dispositivos."
+msgstr "お気に入りの追加と整理ができるクイックメニュー。"
 
 msgctxt "#30330"
 msgid "Reload Profile (See changes)"
-msgstr "Recarregar Perfil (Ver alterações)"
+msgstr "再読み込み (変更を反映)"
 
 msgctxt "#30331"
 msgid "Reload Kodi profile to apply changes in main interface."
-msgstr "Recarregar perfil do Kodi para aplicar as alterações na interface principal."
+msgstr "変更を即座に反映させるためにKodiをリフレッシュします。"
 
 msgctxt "#30332"
 msgid "Configuration"
-msgstr "Configuração"
+msgstr "設定"
 
 msgctxt "#30333"
 msgid "Visual editor and template editor settings."
-msgstr "Configurações do editor visual e editor de modelos."
+msgstr "表示設定やセキュリティ設定を行います。"
 
 msgctxt "#30334"
 msgid "View Favourites Menu"
-msgstr "Ver Menu de Favoritos"
+msgstr "お気に入りメニュー"
 
 msgctxt "#30335"
 msgid "Open Kodi favourites menu to see the result."
-msgstr "Abrir o menu de favoritos do Kodi para ver o resultado."
+msgstr "Kodi標準のお気に入りウィンドウを開きます。"
 
 msgctxt "#30336"
 msgid "Back / Exit"
-msgstr "Voltar / Sair"
+msgstr "戻る / 終了"
 
 msgctxt "#30337"
 msgid "Return to Kodi."
-msgstr "Voltar para o Kodi."
+msgstr "アドオンを終了します。"
 
 msgctxt "#30338"
 msgid "About Flow FavManager"
-msgstr "Sobre o Flow FavManager"
+msgstr "Flow FavManagerについて"
 
 msgctxt "#30339"
 msgid "Information."
-msgstr "Informações."
+msgstr "プログラム情報とクレジット。"
 
 msgctxt "#30340"
 msgid "About"
-msgstr "Sobre"
+msgstr "詳細"
 
 msgctxt "#30341"
 msgid "For more information and projects visit:"
-msgstr "Para mais informações e projetos visite:"
+msgstr "本プロジェクトは、Kodiのお気に入り管理システムを進化させるために誕生しました。"
 
 msgctxt "#30342"
 msgid "PROFILE MANAGER (Create / Import / Save)"
-msgstr "GERENCIADOR DE PERFIS (Criar / Importar / Salvar)"
+msgstr "プロフィールマネージャ"
 
 msgctxt "#30343"
 msgid "Tools to create new profiles, import from XML or save current state."
-msgstr "Ferramentas para criar novos perfis, importar de XML ou salvar o estado atual."
+msgstr "プロフィールの作成、インポート、エクスポートを行います。"
 
 msgctxt "#30344"
 msgid "Widget View (Clean Navigation)"
-msgstr "Visualização de Widget (Navegação Limpa)"
+msgstr "クリーンウィジェット表示"
 
 msgctxt "#30345"
 msgid "Show your profiles without management buttons. Ideal for adding to your skin's home screen as a Widget."
-msgstr "Mostre seus perfis sem os botões de gerenciamento. Ideal para adicionar à tela inicial da sua skin como Widget."
+msgstr "ウィジェットとしての使用に最適化された表示モード。"
 
 msgctxt "#30346"
 msgid "Add to Flow FavManager"
-msgstr "Adicionar ao Flow FavManager"
+msgstr "Flow FavManager に追加"
 
 msgctxt "#30347"
 msgid "Backup Created"
-msgstr "Backup Criado"
+msgstr "バックアップを作成しました"
 
 msgctxt "#30348"
 msgid "Restored"
-msgstr "Restaurado"
+msgstr "復元完了"
 
 msgctxt "#30349"
 msgid "Press Confirm/Back to save."
-msgstr "Pressione Confirmar/Voltar para salvar."
+msgstr "確定/戻るを押して保存します。"
 
 msgctxt "#30350"
 msgid "Behavior Changed"
-msgstr "Comportamento Alterado"
+msgstr "動作が変更されました"
 
 msgctxt "#30351"
 msgid "Maintenance"
-msgstr "Manutenção"
+msgstr "画像キャッシュをクリア"
 
 msgctxt "#30352"
 msgid "Updating textures..."
-msgstr "Atualizando texturas..."
+msgstr "キャッシュをクリアしました。画像を再読み込みします。"
 
 msgctxt "#30353"
 msgid "Log"
-msgstr "Log"
+msgstr "監査ログ"
 
 msgctxt "#30354"
 msgid "Enabled"
-msgstr "Ativado"
+msgstr "監査ログを有効化しました"
 
 msgctxt "#30355"
 msgid "Disabled"
-msgstr "Desativado"
+msgstr "監査ログを無効化しました"
 
 msgctxt "#30356"
 msgid "History cleared"
-msgstr "Histórico limpo"
+msgstr "ログを削除しました"
 
 msgctxt "#30357"
 msgid "Info"
-msgstr "Info"
+msgstr "ログなし"
 
 msgctxt "#30358"
 msgid "No log to clear"
-msgstr "Nenhum log para limpar"
+msgstr "監査ログが空、または存在しません"
 
 msgctxt "#30359"
 msgid "Could not read profile"
-msgstr "Não foi possível ler o perfil"
+msgstr "プロフィールを読み込めませんでした"
 
 msgctxt "#30360"
 msgid "Deleted"
-msgstr "Excluído"
+msgstr "プロフィールを削除しました"
 
 msgctxt "#30361"
 msgid "Profile deleted successfully"
-msgstr "Perfil excluído com sucesso"
+msgstr "プロフィールを削除しました"
 
 msgctxt "#30362"
 msgid "Could not delete file"
-msgstr "Não foi possível excluir o arquivo"
+msgstr "プロフィールを削除できませんでした"
 
 msgctxt "#30363"
 msgid "Renamed"
-msgstr "Renomeado"
+msgstr "プロフィールの名前を変更しました"
 
 msgctxt "#30364"
 msgid "Profile updated"
-msgstr "Perfil atualizado"
+msgstr "名前変更が成功しました"
 
 msgctxt "#30365"
 msgid "File not found."
-msgstr "Arquivo não encontrado."
+msgstr "名前変更に失敗しました"
 
 msgctxt "#30366"
 msgid "File does not appear to be a valid backup."
-msgstr "O arquivo não parece ser um backup válido."
+msgstr "ファイルが有効なバックアップではないようです。"
 
 msgctxt "#30367"
 msgid "Could not load backup:"
-msgstr "Não foi possível carregar o backup:"
+msgstr "バックアップを読み込めませんでした:"
 
 msgctxt "#30368"
 msgid "Quick Editor"
-msgstr "Editor Rápido"
+msgstr "クイックエディタ"
 
 msgctxt "#30369"
 msgid "No favorites to edit."
-msgstr "Sem favoritos para editar."
+msgstr "編集するお気に入りがありません。"
 
 msgctxt "#30370"
 msgid "Empty Log"
-msgstr "Log Vazio"
+msgstr "ログビューア"
 
 msgctxt "#30371"
 msgid "No events recorded yet."
-msgstr "Nenhum evento registrado ainda."
+msgstr "監査ログは空です"
 
 msgctxt "#30372"
 msgid "Log Does Not Exist"
-msgstr "O Log não existe"
+msgstr "ログファイルがありません"
 
 msgctxt "#30373"
 msgid "Enable logging and perform an action to generate events."
-msgstr "Habilite o log e realize uma ação para gerar eventos."
+msgstr "監査ログファイルが見つかりません"
 
 msgctxt "#30374"
 msgid "Could not read log:"
-msgstr "Não foi possível ler o log:"
+msgstr "ログの読み取り中にエラーが発生しました"
 
 msgctxt "#30375"
 msgid "Confirm"
-msgstr "Confirmar"
+msgstr "確定"
 
 msgctxt "#30376"
 msgid "Delete '{}'?"
-msgstr "Excluir '{}'?"
+msgstr "'{}' を削除しますか？"
 
 msgctxt "#30377"
 msgid "Clear image cache (Textures) before reloading?\nThis fixes issues with old icons."
-msgstr "Limpar o cache de imagens (Texturas) antes de recarregar?\nIsso corrige problemas com ícones antigos."
+msgstr "再読み込みの前にサムネイルキャッシュをクリアしますか？\n(視覚的な変更を確実に反映するために推奨します)"
 
 msgctxt "#30378"
 msgid "Delete Log"
-msgstr "Excluir Log"
+msgstr "ログを削除"
 
 msgctxt "#30379"
 msgid "Delete all audit history?"
-msgstr "Excluir todo o histórico de auditoria?"
+msgstr "監査ログを削除してもよろしいですか？"
 
 msgctxt "#30380"
 msgid "Delete Profile"
-msgstr "Excluir Perfil"
+msgstr "削除の確認"
 
 msgctxt "#30381"
 msgid "Are you sure you want to permanently delete this profile?"
-msgstr "Tem certeza de que deseja excluir permanentemente este perfil?"
+msgstr "このプロフィールを削除してもよろしいですか？"
 
 msgctxt "#30382"
 msgid "New profile name"
-msgstr "Nome do novo perfil"
+msgstr "新しいプロフィールの名前"
 
 msgctxt "#30383"
 msgid "Backup name (without extension)"
-msgstr "Nome do backup (sem extensão)"
+msgstr "バックアップ名（拡張子なし）"
 
 msgctxt "#30384"
 msgid "Select a Favorite to edit"
-msgstr "Selecione um Favorito para editar"
+msgstr "編集するお気に入りを選択"
 
 msgctxt "#30385"
 msgid "Action for: {}"
-msgstr "Ação para: {}"
+msgstr "アクション: {}"
 
 msgctxt "#30386"
 msgid "Audit Log"
-msgstr "Log de Auditoria"
+msgstr "監査ログ"
 
 msgctxt "#30387"
 msgid "Critical Error"
-msgstr "Erro Crítico"
+msgstr "致命的なエラー"
 
 msgctxt "#30388"
 msgid "Select folder to save"
-msgstr "Selecionar pasta para salvar"
+msgstr "移動先を選択"
 
 msgctxt "#30389"
 msgid "Select backup file (.xml)"
-msgstr "Selecionar arquivo de backup (.xml)"
+msgstr "バックアップファイルを選択 (.xml)"
 
 msgctxt "#30390"
 msgid "Move Up 1"
-msgstr "Mover para Cima 1"
+msgstr "1 つ上へ"
 
 msgctxt "#30391"
 msgid "Move Down 1"
-msgstr "Mover para Baixo 1"
+msgstr "1 つ下へ"
 
 msgctxt "#30392"
 msgid "Move to Position..."
-msgstr "Mover para Posição..."
+msgstr "指定位置へ移動..."
 
 msgctxt "#30393"
 msgid "Enter new position (1-{})"
-msgstr "Digite a nova posição (1-{})"
+msgstr "新しい位置を入力 (1-{})"
 
 msgctxt "#30394"
 msgid "Invalid Format"
-msgstr "Formato Inválido"
+msgstr "無効な形式"
 
 msgctxt "#30395"
 msgid "Audit Log: [COLOR lime]ON[/COLOR]"
-msgstr "Log de Auditoria: [COLOR lime]LIGADO[/COLOR]"
+msgstr "監査ログ: 有効"
 
 msgctxt "#30396"
 msgid "Audit Log: [COLOR gray]OFF[/COLOR]"
-msgstr "Log de Auditoria: [COLOR gray]DESLIGADO[/COLOR]"
+msgstr "監査ログ: 無効"
 
 msgctxt "#30397"
 msgid "View Audit Log"
-msgstr "Ver Log de Auditoria"
+msgstr "監査ログを見る"
 
 msgctxt "#30398"
 msgid "[Empty Folder]"
-msgstr "[Pasta Vazia]"
+msgstr "空のプロフィール"
 
 msgctxt "#30399"
 msgid "(Empty)"
-msgstr "(Vazio)"
+msgstr "[I]空のプロフィール[/I]"
 
 msgctxt "#30400"
 msgid "Movies"
-msgstr "Filmes"
+msgstr "映画"
 
 msgctxt "#30401"
 msgid "TV (PVR)"
-msgstr "TV (PVR)"
+msgstr "ライブTV (PVR)"
 
 msgctxt "#30402"
 msgid "TV Guide (EPG)"
-msgstr "Guia de TV (EPG)"
+msgstr "番組表 (EPG)"
 
 msgctxt "#30403"
 msgid "Music"
-msgstr "Música"
+msgstr "音楽"
 
 msgctxt "#30404"
 msgid "Pictures"
-msgstr "Imagens"
+msgstr "画像"
 
 msgctxt "#30405"
 msgid "Power / Restart Menu"
-msgstr "Menu de Energia / Reiniciar"
+msgstr "電源 / 再起動メニュー"
 
 msgctxt "#30406"
 msgid "Update Library (Video)"
-msgstr "Atualizar Biblioteca (Vídeo)"
+msgstr "ライブラリ更新 (ビデオ)"
 
 msgctxt "#30407"
 msgid "Clean Library (Video)"
-msgstr "Limpar Biblioteca (Vídeo)"
+msgstr "ライブラリのクリーンアップ"
 
 msgctxt "#30408"
 msgid "Move Up 5"
-msgstr "Mover para Cima 5"
+msgstr "5 つ上へ"
 
 msgctxt "#30409"
 msgid "Move Down 5"
-msgstr "Mover para Baixo 5"
+msgstr "5 つ下へ"
 
 msgctxt "#30410"
 msgid "Move to Top"
-msgstr "Mover para o Topo"
+msgstr "先頭へ移動"
 
 msgctxt "#30411"
 msgid "Move to Bottom"
-msgstr "Mover para o Final"
+msgstr "末尾へ移動"
 
 msgctxt "#30412"
 msgid "Status: [COLOR {color}]{status}[/COLOR]"
-msgstr "Status: [COLOR {color}]{status}[/COLOR]"
+msgstr "ステータス: [COLOR {color}]{status}[/COLOR]"
 
 msgctxt "#30413"
 msgid "ACTIVATED"
-msgstr "ATIVADO"
+msgstr "有効"
 
 msgctxt "#30414"
 msgid "DEACTIVATED"
-msgstr "DESATIVADO"
+msgstr "無効"
 
 msgctxt "#30415"
 msgid "Turn Log Off"
-msgstr "Desligar Log"
+msgstr "ログを無効化"
 
 msgctxt "#30416"
 msgid "Turn Log On"
-msgstr "Ligar Log"
+msgstr "ログを有効化"
 
 msgctxt "#30417"
 msgid "TV Shows"
-msgstr "Séries"
+msgstr "テレビ番組"
 
 msgctxt "#30418"
 msgid "Home"
-msgstr "Início"
+msgstr "ホーム"
 
 msgctxt "#30419"
 msgid "Radio"
-msgstr "Rádio"
+msgstr "ラジオ"
 
 msgctxt "#30420"
 msgid "Music Videos"
-msgstr "Vídeos Musicais"
+msgstr "ミュージックビデオ"
 
 msgctxt "#30421"
 msgid "Weather"
-msgstr "Clima"
+msgstr "天気予報"
 
 msgctxt "#30422"
 msgid "Settings"
-msgstr "Configurações"
+msgstr "システム設定"
 
 msgctxt "#30423"
 msgid "File Manager"
-msgstr "Gerenciador de Arquivos"
+msgstr "ファイルマネージャ"
 
 msgctxt "#30424"
 msgid "System Info"
-msgstr "Info do Sistema"
+msgstr "システム情報"
 
 msgctxt "#30425"
 msgid "Events / Log"
-msgstr "Eventos / Log"
+msgstr "イベントログ"
 
 msgctxt "#30426"
 msgid "Addons (Browser)"
-msgstr "Addons (Navegador)"
+msgstr "アドオン (ブラウザ)"
 
 msgctxt "#30427"
 msgid "Reload Skin"
-msgstr "Recarregar Skin"
+msgstr "スキンを再読み込み"
 
 msgctxt "#30428"
 msgid "Skin Settings"
-msgstr "Configurações da Skin"
+msgstr "スキン設定"
 
 msgctxt "#30429"
-msgid "Created by RubénSDFA1laberot - v"
-msgstr "Criado por RubénSDFA1laberot - v"
+msgid "Created by RubénSDFA1labernt - v"
+msgstr "バージョン: "
 
 msgctxt "#30430"
 msgid "Back"
-msgstr "Voltar"
+msgstr "戻る"
 
 msgctxt "#30431"
 msgid "Swap Mode"
-msgstr "Modo Trocar"
+msgstr "入れ替えモード"
 
 msgctxt "#30432"
 msgid "Insert Before"
-msgstr "Inserir Antes"
+msgstr "前に挿入"
 
 msgctxt "#30433"
 msgid "Insert After"
-msgstr "Inserir Depois"
+msgstr "後に挿入"
 
 msgctxt "#30434"
 msgid "Arrow Mode"
-msgstr "Modo Direcional"
+msgstr "矢印モード"
 
 msgctxt "#30435"
 msgid "Save / Exit"
-msgstr "Salvar / Sair"
+msgstr "保存 / 終了"
 
 msgctxt "#30436"
 msgid "Save / Exit (*)"
-msgstr "Salvar / Sair (*)"
+msgstr "保存 / 終了 (*)"
 
 msgctxt "#30437"
 msgid "Add..."
-msgstr "Adicionar..."
+msgstr "追加..."
 
 msgctxt "#30438"
 msgid "Multiselect Mode"
-msgstr "Modo Multiseleção"
+msgstr "複数選択モード"
 
 msgctxt "#30439"
 msgid "Backup / Restore"
-msgstr "Backup / Restaurar"
+msgstr "バックアップ / 復元"
 
 msgctxt "#30440"
 msgid "Sort"
-msgstr "Ordenar"
+msgstr "並べ替え"
 
 msgctxt "#30441"
 msgid "Undo / Reset"
-msgstr "Desfazer / Redefinir"
+msgstr "オリジナルの状態を読み込みました"
 
 msgctxt "#30442"
 msgid "Help / Instructions"
-msgstr "Ajuda / Instruções"
+msgstr "ヘルプ / 説明"
 
 msgctxt "#30443"
 msgid "Exit (Discard)"
-msgstr "Sair (Descartar)"
+msgstr "終了（破棄）"
 
 msgctxt "#30444"
 msgid "Move to..."
-msgstr "Mover para..."
+msgstr "移動先..."
 
 msgctxt "#30445"
 msgid "Change Color"
-msgstr "Alterar Cor"
+msgstr "色を変更"
 
 msgctxt "#30446"
 msgid "Delete Selected"
-msgstr "Excluir Selecionados"
+msgstr "選択項目を削除"
 
 msgctxt "#30447"
 msgid "CANCEL / EXIT"
-msgstr "CANCELAR / SAIR"
+msgstr "キャンセル / 終了"
 
 msgctxt "#30448"
 msgid "BULK ACTIONS"
-msgstr "AÇÕES EM MASSA"
+msgstr "一括操作"
 
 msgctxt "#30449"
 msgid "Section"
-msgstr "Seção"
+msgstr "セクション"
 
 msgctxt "#30450"
 msgid "Attention"
-msgstr "Atenção"
+msgstr "注意"
 
 msgctxt "#30451"
 msgid "Hidden Credits"
-msgstr "Créditos Ocultos"
+msgstr "イースターエッグモード"
 
 msgctxt "#30452"
 msgid "Kodi Sections"
-msgstr "Seções do Kodi"
+msgstr "Kodiの各セクション"
 
 msgctxt "#30453"
 msgid "System Commands"
-msgstr "Comandos do Sistema"
+msgstr "システムコマンド"
 
 msgctxt "#30454"
 msgid "{} icons assigned"
-msgstr "{} ícones atribuídos"
+msgstr "{} 個のアイコンを復旧しました"
 
 msgctxt "#30455"
 msgid " (copy)"
-msgstr " (cópia)"
+msgstr "（コピー）"
 
 msgctxt "#30456"
 msgid "Save as New Profile"
-msgstr "Salvar como Novo Perfil"
+msgstr "新しいプロファイルとして保存"
 
 msgctxt "#30457"
 msgid "Create a backup of your favorites or restore a previous one."
-msgstr "Crie um backup dos seus favoritos ou restaure um anterior."
+msgstr "バックアップとXMLインポートの管理。"
+
 
 msgctxt "#30458"
 msgid "Show 'Add to Flow FavManager' in menus"
-msgstr "Mostrar 'Adicionar ao Flow FavManager' nos menus"
+msgstr "メニューに「Flow FavManager に追加」を表示する"
+
 
 msgctxt "#30459"
 msgid "Auto-start"
-msgstr "Início automático"
+msgstr "自動起動"
 
 msgctxt "#30460"
 msgid "Launch favorites automatically when Kodi starts."
-msgstr "Inicia favoritos automaticamente ao iniciar o Kodi."
+msgstr "Kodi 起動時にお気に入りを自動的に開始します。"
 
 msgctxt "#30461"
 msgid "No delay"
-msgstr "Sem espera"
+msgstr "遅延なし"
 
 msgctxt "#30462"
 msgid "Delay before launching"
-msgstr "Atraso antes de iniciar"
+msgstr "起動前の遅延"
 
 msgctxt "#30463"
 msgid "Select favorite to launch at startup"
-msgstr "Selecionar favorito para iniciar no arranque"
+msgstr "起動時に開始するお気に入りを選択"
 
 msgctxt "#30464"
 msgid "Not configured"
-msgstr "Não configurado"
+msgstr "未設定"
 
 msgctxt "#30465"
 msgid "Change favorite"
-msgstr "Alterar favorito"
+msgstr "お気に入りを変更"
 
 msgctxt "#30466"
 msgid "Change delay"
-msgstr "Alterar atraso"
+msgstr "遅延を変更"
 
 msgctxt "#30467"
 msgid "Disable this slot"
-msgstr "Desativar este slot"
+msgstr "このスロットを無効にする"
 
 msgctxt "#30468"
 msgid "No favorites available"
-msgstr "Nenhum favorito disponível"
+msgstr "利用可能なお気に入りがありません"
 
 msgctxt "#30469"
 msgid "Favorite {}"
-msgstr "Favorito {}"
+msgstr "お気に入り {}"
 
 msgctxt "#30470"
 msgid "Auto-start configured"
-msgstr "Início automático configurado"
+msgstr "自動起動が設定されました"
 
 msgctxt "#30471"
 msgid "Slot disabled"
-msgstr "Slot desativado"
+msgstr "スロットが無効になりました"
 
 msgctxt "#30472"
 msgid "Web Remote"
-msgstr "Controle remoto web"
+msgstr "Web リモート"
 
 msgctxt "#30473"
 msgid "Web remote port"
-msgstr "Porta do controle remoto web"
+msgstr "Web リモートポート"
 
 msgctxt "#30474"
 msgid "Manage favourites from your phone's browser"
-msgstr "Gerencie os favoritos pelo navegador do celular"
+msgstr "スマホのブラウザからお気に入りを管理"
 
 msgctxt "#30475"
 msgid "The server is off.\nYou need it running to manage your favourites from your phone's browser."
-msgstr "O servidor está desligado.\nEle precisa estar ativo para gerenciar os favoritos pelo navegador do celular."
+msgstr "サーバーがオフです。\nスマホのブラウザからお気に入りを管理するには、サーバーを実行する必要があります。"
 
 msgctxt "#30476"
 msgid "Start"
-msgstr "Iniciar"
+msgstr "開始"
 
 msgctxt "#30477"
 msgid "Could not start (ports busy?)"
-msgstr "Não foi possível iniciar (portas ocupadas?)"
+msgstr "開始できませんでした (ポートが使用中？)"
 
 msgctxt "#30478"
 msgid "Open in browser"
-msgstr "Abrir no navegador"
+msgstr "ブラウザで開く"
 
 msgctxt "#30479"
 msgid "Stop server"
-msgstr "Parar o servidor"
+msgstr "サーバーを停止"
 
 msgctxt "#30480"
 msgid "Open this address in your browser:\n[B]{}[/B]"
-msgstr "Abra este endereço no navegador:\n[B]{}[/B]"
+msgstr "ブラウザでこのアドレスを開いてください:\n[B]{}[/B]"
 
 msgctxt "#30481"
 msgid "Server stopped"
-msgstr "Servidor parado"
+msgstr "サーバーが停止しました"
 
 msgctxt "#30485"
 msgid "Add text in bulk ({0} items)"
-msgstr "Adicionar texto em lote ({0} itens)"
+msgstr "一括でテキストを追加 ({0} 件)"
 
 msgctxt "#30486"
 msgid "Prefix"
-msgstr "Prefix"
+msgstr "接頭辞"
 
 msgctxt "#30487"
 msgid "Suffix"
-msgstr "Suffix"
+msgstr "接尾辞"
 
 msgctxt "#30488"
 msgid "Text to add"
-msgstr "Texto a adicionar"
+msgstr "追加するテキスト"
 
 msgctxt "#30489"
 msgid "Text color"
-msgstr "Cor do texto"
+msgstr "テキストの色"
 
 msgctxt "#30490"
 msgid "Prefix / Suffix"
-msgstr "Prefix / Suffix"
+msgstr "接頭辞 / 接尾辞"
 
 msgctxt "#30491"
 msgid "Open loiolog (Advanced Log Viewer)"
-msgstr "Abrir loiolog (Visualizador de log avançado)"
+msgstr "loiolog を開く (高度なログビューア)"
 
 msgctxt "#30492"
 msgid "{0} is already installed"
-msgstr "{0} já está instalado"
+msgstr "{0} は既にインストールされています"
 
 msgctxt "#30493"
 msgid "{0} reactivated successfully"
-msgstr "{0} reativado com sucesso"
+msgstr "{0} の再アクティブ化に成功しました"
 
 msgctxt "#30494"
 msgid "The 'requests' library is not available.\n\nPlease restart Kodi to load the new dependencies and try again."
-msgstr "A biblioteca 'requests' não está disponível.\n\nPor favor, reinicie o Kodi para carregar as novas dependências e tente novamente."
+msgstr "「requests」ライブラリが利用できません。\n\nKodi を再起動して新しい依存関係をロードし、もう一度お試しください。"
 
 msgctxt "#30495"
 msgid "Downloading {0} repository..."
-msgstr "Baixando repositório de {0}..."
+msgstr "{0} リポジトリをダウンロード中..."
 
 msgctxt "#30496"
 msgid "Installing {0}..."
-msgstr "Instalando {0}..."
+msgstr "{0} をインストール中..."
 
 msgctxt "#30497"
 msgid "Downloading repository..."
-msgstr "Baixando repositório..."
+msgstr "リポジトリをダウンロード中..."
 
 msgctxt "#30498"
 msgid "Extracting repository..."
-msgstr "Extraindo repositório..."
+msgstr "リポジトリを展開中..."
 
 msgctxt "#30499"
 msgid "Registering repository in Kodi..."
-msgstr "Registrando repositório no Kodi..."
+msgstr "Kodi にリポジトリを登録中..."
 
 msgctxt "#30500"
 msgid "Activating repository..."
-msgstr "Ativando repositório..."
+msgstr "リポジトリをアクティブ化中..."
 
 msgctxt "#30501"
 msgid "Updating repository index..."
-msgstr "Atualizando índice do repositório..."
+msgstr "リポジトリのインデックスを更新中..."
 
 msgctxt "#30502"
 msgid "Confirm installation of {0}"
-msgstr "Confirme a instalação de {0}"
+msgstr "{0} のインストールを確認"
 
 msgctxt "#30503"
 msgid "Waiting for {0} installation..."
-msgstr "Aguardando instalação de {0}..."
+msgstr "{0} のインストールを待機中..."
 
 msgctxt "#30504"
 msgid "{0} installed successfully"
-msgstr "{0} instalado com sucesso"
+msgstr "{0} のインストールに成功しました"
 
 msgctxt "#30505"
 msgid "Auto-installing {0} (fallback)..."
-msgstr "Instalação automática de {0} (fallback)..."
+msgstr "{0} を自動インストール中 (フォールバック)..."
 
 msgctxt "#30506"
 msgid "The {0} repository was installed, but the addon installation did not complete.\n\nTo finish manually:\nAddons - Install from repository - {0} - Install"
-msgstr "O repositório de {0} foi instalado, mas a instalação do addon não foi concluída.\n\nPara concluir manualmente:\nAddons - Instalar do repositório - {0} - Instalar"
+msgstr "{0} リポジトリはインストールされましたが、アドオンのインストールが完了しませんでした。\n\n手動で完了するには:\nアドオン - リポジトリからインストール - {0} - インストール"
 
 msgctxt "#30507"
 msgid "Installation error"
-msgstr "Erro de instalação"
+msgstr "インストールエラー"
 
 msgctxt "#30508"
 msgid "Could not install {0} automatically.\n\nError: {1}\n\nYou may need to enable Unknown Sources in Settings."
-msgstr "Não foi possível instalar {0} automaticamente.\n\nErro: {1}\n\nTalvez seja necessário ativar Fontes desconhecidas nas Configurações."
+msgstr "{0} を自動的にインストールできませんでした。\n\nエラー: {1}\n\n設定で「提供元不明のアプリ」を有効にする必要があるかもしれません。"
+
 
 msgctxt "#30510"
 msgid "Opening loiolog..."
-msgstr "Abrindo loiolog..."
+msgstr "loiolog を開いています..."
 
 msgctxt "#30511"
 msgid "loiolog - installation"
-msgstr "loiolog - instalação"
+msgstr "loiolog - インストール"
 
 msgctxt "#30512"
 msgid "Auto installer (recommended)"
-msgstr "Instalador automático (recomendado)"
+msgstr "自動インストーラー (推奨)"
 
 msgctxt "#30513"
 msgid "View manual installation instructions"
-msgstr "Ver instruções de instalação manual"
+msgstr "手動インストールの手順を表示"
 
 msgctxt "#30514"
 msgid "loiolog is not installed.\n\nDownload and install automatically?"
-msgstr "loiolog não está instalado.\n\nBaixar e instalar automaticamente?"
+msgstr "loiolog はインストールされていません。\n\n自動的にダウンロードしてインストールしますか？"
 
 msgctxt "#30515"
 msgid "loiolog instructions"
-msgstr "Instruções loiolog"
+msgstr "loiolog の説明"
 
 msgctxt "#30516"
 msgid "[B]How to install loiolog[/B]\n\n1. Settings - System - Addons - enable Unknown Sources\n\n2. Settings - File Manager - Add source:\n   {0}\n\n3. Addons - Install from zip file - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. Install from repository - loiolog - Program Addons - loiolog"
-msgstr "[B]Como instalar loiolog[/B]\n\n1. Configurações - Sistema - Addons - ativar Fontes desconhecidas\n\n2. Configurações - Gerenciador de arquivos - Adicionar fonte:\n   {0}\n\n3. Addons - Instalar de arquivo zip - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. Instalar do repositório - loiolog - Addons de programa - loiolog"
+msgstr "[B]loiolog のインストール方法[/B]\n\n1. 設定 - システム - アドオン - 「提供元不明のアプリ」を有効にする\n\n2. 設定 - ファイルマネージャー - ソースを追加:\n   {0}\n\n3. アドオン - zip ファイルからインストール - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. リポジトリからインストール - loiolog - プログラムアドオン - loiolog"
 
 msgctxt "#30517"
 msgid "Add advanced editor to Kodi favourites"
-msgstr "Adicionar editor avançado aos favoritos do Kodi"
+msgstr "高度なエディタを Kodi のお気に入りに追加"
 
 msgctxt "#30518"
 msgid "Advanced editor added. Reload skin or restart Kodi to see it"
-msgstr "Editor adicionado. Recarregue a skin ou reinicie o Kodi"
+msgstr "高度なエディタが追加されました。確認するにはスキンを再読み込みするか、Kodi を再起動してください"
 
 msgctxt "#30519"
 msgid "Advanced editor already in Kodi favourites"
-msgstr "Editor avançado já existe nos favoritos do Kodi"
+msgstr "高度なエディタはすでに Kodi のお気に入りにあります"
 
 msgctxt "#30520"
 msgid "Close"
-msgstr "Fechar"
+msgstr "閉じる"
 
 msgctxt "#30521"
 msgid "Add the Advanced Editor to Kodi favourites?\n\nAllows opening it directly without launching the addon.\n\nIf cancelled, it can be added later from Settings. Kodi must be restarted for it to appear in the favourites list."
-msgstr "Adicionar o Editor Avançado aos favoritos do Kodi?\n\nPermite abri-lo diretamente sem iniciar o addon.\n\nSe cancelado, pode ser adicionado depois nas Configurações. O Kodi deve ser reiniciado para que apareça na lista de favoritos."
+msgstr "高度なエディタを Kodi のお気に入りに追加しますか？\n\nアドオンを起動せずに直接開けるようになります。\n\nキャンセルした場合、後で設定から追加できます。お気に入りリストに表示させるには、Kodi を再起動する必要があります。"
 
 msgctxt "#30522"
 msgid "Flow FavManager"
@@ -2088,4 +2092,4 @@ msgstr "Flow FavManager"
 
 msgctxt "#30523"
 msgid "The favourites file is corrupted or unreadable.\nThe editor will not open to avoid overwriting it and losing your favourites.\nRestore a backup or fix the file before continuing."
-msgstr "O arquivo de favoritos está corrompido ou ilegível.\nO editor não será aberto para evitar sobrescrevê-lo e perder seus favoritos.\nRestaure um backup ou corrija o arquivo antes de continuar."
+msgstr "お気に入りファイルが破損しているか、読み取れません。\n上書きによるお気に入りの消失を防ぐため、エディタは開きません。\n続行する前にバックアップを復元するか、ファイルを修正してください。"

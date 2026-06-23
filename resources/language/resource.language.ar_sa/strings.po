@@ -11,128 +11,129 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+
 
 msgctxt "#30000"
-msgid "Editor"
-msgstr "Editor"
+msgid "Customization"
+msgstr "تخصيص"
 
 msgctxt "#30001"
 msgid "List Layout"
-msgstr "Layout da Lista"
+msgstr "تنسيق القائمة"
 
 msgctxt "#30002"
 msgid "Simple List"
-msgstr "Lista Simples"
+msgstr "قائمة بسيطة"
 
 msgctxt "#30003"
 msgid "Grid (Thumbnails)"
-msgstr "Grade (Miniaturas)"
+msgstr "شبكة (مصغرات)"
 
 msgctxt "#30004"
 msgid "Icon Scale"
-msgstr "Escala do Ícone"
+msgstr "مقياس الأيقونة"
 
 msgctxt "#30005"
 msgid "Default"
-msgstr "Padrão"
+msgstr "افتراضي"
 
 msgctxt "#30006"
 msgid "Large"
-msgstr "Grande"
+msgstr "كبير"
 
 msgctxt "#30007"
 msgid "Text Size"
-msgstr "Tamanho do Texto"
+msgstr "حجم الخط"
 
 msgctxt "#30008"
 msgid "Small"
-msgstr "Pequeno"
+msgstr "صغير"
 
 msgctxt "#30009"
 msgid "Medium"
-msgstr "Médio"
+msgstr "متوسط"
 
 msgctxt "#30010"
 msgid "Colors & Accessibility"
-msgstr "Cores e Acessibilidade"
+msgstr "الألوان وسهولة الوصول"
 
 msgctxt "#30011"
 msgid "Background Color"
-msgstr "Cor de Fundo"
+msgstr "لون الخلفية"
 
 msgctxt "#30012"
 msgid "Dark (Default)"
-msgstr "Escuro (Padrão)"
+msgstr "داكن (افتراضي)"
 
 msgctxt "#30013"
 msgid "Light"
-msgstr "Claro"
+msgstr "فاتح"
 
 msgctxt "#30014"
 msgid "Neutral Gray"
-msgstr "Cinza Neutro"
+msgstr "رمادي محايد"
 
 msgctxt "#30015"
 msgid "Deep Blue"
-msgstr "Azul Profundo"
+msgstr "أزرق عميق"
 
 msgctxt "#30016"
 msgid "Selection Color"
-msgstr "Cor de Seleção"
+msgstr "لون التحديد"
 
 msgctxt "#30017"
 msgid "Cyan (Default)"
-msgstr "Ciano (Padrão)"
+msgstr "سماوي (افتراضي)"
 
 msgctxt "#30018"
 msgid "Green"
-msgstr "Verde"
+msgstr "أخضر"
 
 msgctxt "#30019"
 msgid "Yellow"
-msgstr "Amarelo"
+msgstr "أصفر"
 
 msgctxt "#30020"
 msgid "Red"
-msgstr "Vermelho"
+msgstr "أحمر"
 
 msgctxt "#30021"
 msgid "Orange"
-msgstr "Laranja"
+msgstr "برتقالي"
 
 msgctxt "#30022"
 msgid "Violet"
-msgstr "Violeta"
+msgstr "بنفسجي"
 
 msgctxt "#30023"
 msgid "Multiselect Color"
-msgstr "Cor de Multiseleção"
+msgstr "لون التحديد المتعدد"
 
 msgctxt "#30024"
 msgid "Green (Default)"
-msgstr "Verde (Padrão)"
+msgstr "أخضر (افتراضي)"
 
 msgctxt "#30025"
 msgid "Magenta"
-msgstr "Magenta"
+msgstr "أرجواني"
 
 msgctxt "#30026"
 msgid "White"
-msgstr "Branco"
+msgstr "أبيض"
 
 msgctxt "#30027"
 msgid "Colorblind Mode (High Contrast)"
-msgstr "Modo para Daltônicos (Alto Contraste)"
+msgstr "وضع عمى الألوان (تباين عالٍ)"
 
 msgctxt "#30028"
 msgid "Advanced"
-msgstr "Avançado"
+msgstr "متقدم"
 
 msgctxt "#30029"
 msgid "Enable Audit Log (Security)"
-msgstr "Habilitar Log de Auditoria (Segurança)"
+msgstr "تفعيل سجل التدقيق (الأمان)"
 
 msgctxt "#30030"
 msgid "Flow FavManager"
@@ -140,1947 +141,1950 @@ msgstr "Flow FavManager"
 
 msgctxt "#30031"
 msgid "Could not retrieve item information"
-msgstr "Não foi possível obter informações do item"
+msgstr "تعذر استرداد معلومات العنصر"
 
 msgctxt "#30032"
 msgid "No Profiles"
-msgstr "Sem Perfis"
+msgstr "لا توجد ملفات تعريف"
 
 msgctxt "#30033"
 msgid "No created profiles found.\nDo you want to create one now?"
-msgstr "Nenhum perfil criado encontrado.\nDeseja criar um agora?"
+msgstr "لم يتم العثور على ملفات تعريف.\nهل تريد إنشاء واحد الآن؟"
 
 msgctxt "#30034"
 msgid "My Favorites"
-msgstr "Meus Favoritos"
+msgstr "مفضلاتي"
 
 msgctxt "#30035"
 msgid "New profile name"
-msgstr "Nome do novo perfil"
+msgstr "اسم ملف التعريف الجديد"
 
 msgctxt "#30036"
 msgid "Profile Created"
-msgstr "Perfil Criado"
+msgstr "تم إنشاء ملف التعريف"
 
 msgctxt "#30037"
 msgid "'{}' added to '{}'"
-msgstr "'{}' adicionado a '{}'"
+msgstr "تمت إضافة '{}' إلى '{}'"
 
 msgctxt "#30038"
 msgid "[COLOR lime]+ Create New Profile[/COLOR]"
-msgstr "[COLOR lime]+ Criar Novo Perfil[/COLOR]"
+msgstr "[COLOR lime]+ إنشاء ملف تعريف جديد[/COLOR]"
 
 msgctxt "#30039"
 msgid "Add '{}...' to:"
-msgstr "Adicionar '{}...' a:"
+msgstr "إضافة '{}...' إلى:"
 
 msgctxt "#30040"
 msgid "Already Exists"
-msgstr "Já Existe"
+msgstr "موجود بالفعل"
 
 msgctxt "#30041"
 msgid "'{}' is already in '{}'"
-msgstr "'{}' já está em '{}'"
+msgstr "'{}' موجود بالفعل في '{}'"
 
 msgctxt "#30042"
 msgid "Added"
-msgstr "Adicionado"
+msgstr "تمت الإضافة"
 
 msgctxt "#30043"
 msgid "'{}' → '{}'"
-msgstr "'{}' → '{}'"
+msgstr "'{}' ← '{}'"
 
 msgctxt "#30044"
 msgid "Error"
-msgstr "Erro"
+msgstr "خطأ"
 
 msgctxt "#30045"
 msgid "Failed to save profile"
-msgstr "Falha ao salvar o perfil"
+msgstr "فشل حفظ ملف التعريف"
 
 msgctxt "#30046"
 msgid "Could not add to profile"
-msgstr "Não foi possível adicionar ao perfil"
+msgstr "تعذر الإضافة إلى ملف التعريف"
 
 msgctxt "#30047"
 msgid "Incorrect PIN"
-msgstr "PIN Incorreto"
+msgstr "رمز PIN غير صحيح"
 
 msgctxt "#30048"
 msgid "{} attempts remaining"
-msgstr "{} tentativas restantes"
+msgstr "تبقت {} محاولات"
 
 msgctxt "#30049"
 msgid "Incorrect PIN - Recovery"
-msgstr "PIN Incorreto - Recuperação"
+msgstr "رمز PIN غير صحيح - استعادة"
 
 msgctxt "#30050"
 msgid "Answer Security Question"
-msgstr "Responder Pergunta de Segurança"
+msgstr "أجب عن السؤال الأمني"
 
 msgctxt "#30051"
 msgid "Cancel (Close Addon)"
-msgstr "Cancelar (Fechar Addon)"
+msgstr "إلغاء (إغلاق الإضافة)"
 
 msgctxt "#30052"
 msgid "Question not set?"
-msgstr "Pergunta não configurada?"
+msgstr "لم يتم تعيين سؤال؟"
 
 msgctxt "#30053"
 msgid "No security question set.\n\nYou can create a 'reset_pass.txt' file in the addon folder to reset."
-msgstr "Nenhuma pergunta de segurança configurada.\n\nVocê pode criar um arquivo 'reset_pass.txt' na pasta do addon para redefinir."
+msgstr "لم يتم تعيين سؤال أمني.\nيمكنك إنشاء ملف 'reset_pass.txt' في مجلد الإضافة لإعادة التعيين."
 
 msgctxt "#30054"
 msgid "Access Recovered"
-msgstr "Acesso Recuperado"
+msgstr "تم استعادة الوصول"
 
 msgctxt "#30055"
 msgid "Correct answer.\nProtection is temporarily disabled.\nRemember to set a new PIN."
-msgstr "Resposta correta.\nA proteção está temporariamente desativada.\nLembre-se de definir um novo PIN."
+msgstr "إجابة صحيحة.\nتم تعطيل الحماية مؤقتاً.\nتذكر تعيين رمز PIN جديد."
 
 msgctxt "#30056"
 msgid "Incorrect Answer"
-msgstr "Resposta Incorreta"
+msgstr "إجابة غير صحيحة"
 
 msgctxt "#30057"
 msgid "Could not verify.\n\nIf you forgot both, create an empty file named 'reset_pass.txt' in:\n"
-msgstr "Não foi possível verificar.\n\nSe você esqueceu ambos, crie um arquivo vazio chamado 'reset_pass.txt' em:\n"
+msgstr "تعذر التحقق.\nإذا نسيت كليهما، قم بإنشاء ملف فارغ باسم 'reset_pass.txt' في:\n"
 
 msgctxt "#30058"
 msgid "Security and Password"
-msgstr "Segurança e Senha"
+msgstr "الأمان وكلمة المرور"
 
 msgctxt "#30059"
 msgid "ENABLED"
-msgstr "ATIVADO"
+msgstr "مفعل"
 
 msgctxt "#30060"
 msgid "Disabled"
-msgstr "Desativado"
+msgstr "معطل"
 
 msgctxt "#30061"
 msgid "Status: {}"
-msgstr "Status: {}"
+msgstr "الحالة: {}"
 
 msgctxt "#30062"
 msgid "Change PIN"
-msgstr "Alterar PIN"
+msgstr "تغيير رمز PIN"
 
 msgctxt "#30063"
 msgid "Set PIN"
-msgstr "Definir PIN"
+msgstr "تعيين رمز PIN"
 
 msgctxt "#30064"
 msgid "Set Security Question"
-msgstr "Definir Pergunta de Segurança"
+msgstr "تعيين السؤال الأمني"
 
 msgctxt "#30065"
 msgid "Enable Protection"
-msgstr "Ativar Proteção"
+msgstr "تفعيل الحماية"
 
 msgctxt "#30066"
 msgid "Disable Protection"
-msgstr "Desativar Proteção"
+msgstr "تعطيل الحماية"
 
 msgctxt "#30067"
 msgid "« Back"
-msgstr "« Voltar"
+msgstr "« عودة"
 
 msgctxt "#30068"
 msgid "Security Information"
-msgstr "Informações de Segurança"
+msgstr "معلومات الأمان"
 
 msgctxt "#30069"
 msgid "PIN protection prevents unauthorized persons from accessing the addon.\n\n"
-msgstr "A proteção por PIN evita o acesso de pessoas não autorizadas ao addon.\n\n"
+msgstr "حماية رمز PIN تمنع الأشخاص غير المصرح لهم من الوصول للإضافة.\n\n"
 
 msgctxt "#30070"
 msgid "Question set: {}"
-msgstr "Pergunta definida: {}"
+msgstr "السؤال المعين: {}"
 
 msgctxt "#30071"
 msgid "Yes"
-msgstr "Sim"
+msgstr "نعم"
 
 msgctxt "#30072"
 msgid "No"
-msgstr "Não"
+msgstr "لا"
 
 msgctxt "#30073"
 msgid "To recover access if you forget the PIN:\n1. Answer the security question.\n2. Or create a 'reset_pass.txt' file in:\n"
-msgstr "Para recuperar o acesso se você esquecer o PIN:\n1. Responda à pergunta de segurança.\n2. Ou crie um arquivo 'reset_pass.txt' em:\n"
+msgstr "لاستعادة الوصول إذا نسيت رمز PIN:\n1. أجب عن سؤال الأمان.\n2. أو أنشئ ملف 'reset_pass.txt' في:\n"
 
 msgctxt "#30074"
 msgid "Enter new PIN (recommended numbers)"
-msgstr "Digite o novo PIN (recomenda-se números)"
+msgstr "أدخل رمز PIN الجديد (نوصي بالأرقام)"
 
 msgctxt "#30075"
 msgid "Confirm PIN"
-msgstr "Confirmar PIN"
+msgstr "تأكيد رمز PIN"
 
 msgctxt "#30076"
 msgid "PIN Saved"
-msgstr "PIN Salvo"
+msgstr "تم حفظ رمز PIN"
 
 msgctxt "#30077"
 msgid "Remember to configure security question"
-msgstr "Lembre-se de configurar a pergunta de segurança"
+msgstr "تذكر تكوين سؤال الأمان"
 
 msgctxt "#30078"
 msgid "PINs do not match"
-msgstr "Os PINs não coincidem"
+msgstr "رموز PIN غير متطابقة"
 
 msgctxt "#30079"
 msgid "Choose a security question"
-msgstr "Escolha uma pergunta de segurança"
+msgstr "اختر سؤالاً أمنياً"
 
 msgctxt "#30080"
 msgid "[Write custom question]"
-msgstr "[Escrever pergunta personalizada]"
+msgstr "[اكتب سؤالاً مخصصاً]"
 
 msgctxt "#30081"
 msgid "Write your question"
-msgstr "Escreva sua pergunta"
+msgstr "اكتب سؤالك"
 
 msgctxt "#30082"
 msgid "Answer (case insensitive)"
-msgstr "Resposta (sem distinção de maiúsculas/minúsculas)"
+msgstr "الإجابة (لا تهم حالة الأحرف)"
 
 msgctxt "#30083"
 msgid "Saved"
-msgstr "Salvo"
+msgstr "تم الحفظ"
 
 msgctxt "#30084"
 msgid "Security question set"
-msgstr "Pergunta de segurança definida"
+msgstr "تم تعيين سؤال الأمان"
 
 msgctxt "#30085"
 msgid "Set a PIN"
-msgstr "Definir um PIN"
+msgstr "تعيين رمز PIN"
 
 msgctxt "#30086"
 msgid "You must set a PIN before enabling protection."
-msgstr "Você deve definir um PIN antes de ativar a proteção."
+msgstr "يجب تعيين رمز PIN قبل تفعيل الحماية."
 
 msgctxt "#30087"
 msgid "Warning"
-msgstr "Aviso"
+msgstr "تحذير"
 
 msgctxt "#30088"
 msgid "You haven't set a security question.\nIf you forget the PIN, you can only recover access via the rescue file.\n\nEnable anyway?"
-msgstr "Você não definiu uma pergunta de segurança.\nSe você esquecer o PIN, só poderá recuperar o acesso pelo arquivo de resgate.\n\nAtivar mesmo assim?"
+msgstr "لم تقم بتعيين سؤال أمان.\nإذا نسيت رمز PIN، يمكنك استعادة الوصول عبر ملف الإنقاذ فقط.\nهل تريد التفعيل على أي حال؟"
 
 msgctxt "#30089"
 msgid "Protection Enabled"
-msgstr "Proteção Ativada"
+msgstr "تم تفعيل الحماية"
 
 msgctxt "#30090"
 msgid "PIN will be asked upon entry"
-msgstr "O PIN será solicitado ao entrar"
+msgstr "سيتم طلب رمز PIN عند الدخول"
 
 msgctxt "#30091"
 msgid "Protection Disabled"
-msgstr "Proteção Desativada"
+msgstr "تم تعطيل الحماية"
 
 msgctxt "#30092"
 msgid "Open access"
-msgstr "Acesso livre"
+msgstr "وصول مفتوح"
 
 msgctxt "#30093"
 msgid "Dynamic Icons"
-msgstr "Ícones Dinâmicos"
+msgstr "أيقونات ديناميكية"
 
 msgctxt "#30094"
 msgid "{} icons recovered"
-msgstr "{} ícones recuperados"
+msgstr "تم استعادة {} أيقونة"
 
 msgctxt "#30095"
 msgid "Reset"
-msgstr "Redefinir"
+msgstr "إعادة تعيين"
 
 msgctxt "#30096"
 msgid "Discard all changes and return to original state?"
-msgstr "Descartar todas as alterações e voltar ao estado original?"
+msgstr "تجاهل جميع التغييرات والعودة للحالة الأصلية؟"
 
 msgctxt "#30097"
 msgid "Reset"
-msgstr "Redefinir"
+msgstr "إعادة تعيين"
 
 msgctxt "#30098"
 msgid "Changes discarded"
-msgstr "Alterações descartadas"
+msgstr "تم تجاهل التغييرات"
 
 msgctxt "#30099"
 msgid "Auto-Group"
-msgstr "Agrupamento Automático"
+msgstr "تجميع تلقائي"
 
 msgctxt "#30100"
 msgid "This will reorganize your list by grouping favorites from the same addon together (alphabetically).\nNo separators will be created.\nProceed?"
-msgstr "Isso reorganizará sua lista agrupando favoritos do mesmo addon (em ordem alfabética).\nNenhum separador será criado.\nProsseguir?"
+msgstr "سيؤدي هذا لإعادة تنظيم قائمتك بتجميع المفضلات من نفس الإضافة معاً (أبجدياً).\nلن يتم إنشاء فواصل.\nهل تريد المتابعة؟"
 
 msgctxt "#30101"
 msgid "Grouped"
-msgstr "Agrupado"
+msgstr "تم التجميع"
 
 msgctxt "#30102"
 msgid "List sorted by Type/Addon"
-msgstr "Lista organizada por Tipo/Addon"
+msgstr "تم فرز القائمة حسب النوع/الإضافة"
 
 msgctxt "#30103"
 msgid "Help & Instructions"
-msgstr "Ajuda e Instruções"
+msgstr "المساعدة والتعليمات"
 
 msgctxt "#30104"
 msgid "[B]CURRENT MODE: Swap[/B]\nSelect a favorite then another.\nThey will swap places."
-msgstr "[B]MODO ATUAL: Trocar[/B]\nSelecione um favorito e depois outro.\nEles trocarão de posição."
+msgstr "[B]الوضع الحالي: تبديل[/B]\nاختر مفضلة ثم أخرى.\nسيتبادلان الأماكن."
 
 msgctxt "#30105"
 msgid "[B]CURRENT MODE: Insert Before[/B]\nSelect an item and then the destination.\nThe first will move just [B]before[/B] the second."
-msgstr "[B]MODO ATUAL: Inserir Antes[/B]\nSelecione um item e depois o destino.\nO primeiro será movido para [B]antes[/B] do segundo."
+msgstr "[B]الوضع الحالي: إدراج قبل[/B]\nاختر عنصراً ثم الوجهة.\nسينتقل الأول مباشرة [B]قبل[/B] الثاني."
 
 msgctxt "#30106"
 msgid "[B]CURRENT MODE: Insert After[/B]\nSelect an item then the destination.\nThe first will move just [B]after[/B] the second."
-msgstr "[B]MODO ATUAL: Inserir Depois[/B]\nSelecione um item e depois o destino.\nO primeiro será movido para [B]depois[/B] do segundo."
+msgstr "[B]الوضع الحالي: إدراج بعد[/B]\nاختر عنصراً ثم الوجهة.\nسينتقل الأول مباشرة [B]بعد[/B] الثاني."
 
 msgctxt "#30107"
 msgid "[B]CURRENT MODE: Arrow Move[/B]\nSelect a favorite and use UP/DOWN keys to move it.\nPress the SAME favorite to release it."
-msgstr "[B]MODO ATUAL: Mover com Setas[/B]\nSelecione um favorito e use as teclas CIMA/BAIXO para movê-lo.\nPressione o MESMO favorito para soltá-lo."
+msgstr "[B]الوضع الحالي: تحريك بالأسهم[/B]\nاختر مفضلة واستخدم مفاتيح أعلى/أسفل لتحريكها.\nاضغط على نفس المفضلة لإفلاتها."
 
 msgctxt "#30108"
 msgid "\n\n[B]CHANGE MODE:[/B]\nUse the sidebar button to rotate between these behaviors according to your preference."
-msgstr "\n\n[B]ALTERAR MODO:[/B]\nUse o botão lateral para alternar entre estes comportamentos conforme sua preferência."
+msgstr "\n\n[B]تغيير الوضع:[/B]\nاستخدم زر الشريط الجانبي للتنقل بين هذه السلوكيات حسب تفضيلك."
 
 msgctxt "#30109"
 msgid "\n\n[B]CONTEXT MENU[/B] (extra options):"
-msgstr "\n\n[B]MENU DE CONTEXTO[/B] (opções extras):"
+msgstr "\n\n[B]القائمة المختصرة[/B] (خيارات إضافية):"
 
 msgctxt "#30110"
 msgid "\n- PC: Right Click or 'C' key\n- Remote/TV: 'Menu' button\n- Touch: Long Press"
-msgstr "\n- PC: Clique Direito ou tecla 'C'\n- Controle/TV: Botão 'Menu'\n- Toque: Pressionar Longamente"
+msgstr "\n- كمبيوتر: نقرة يمين أو مفتاح 'C'\n- ريموت/تلفاز: زر 'القائمة'\n- لمس: ضغطة مطولة"
 
 msgctxt "#30111"
 msgid "\n\n[B]TIPS:[/B]\n- [I]Multiselect[/I]: select multiple to move in block\n- [I]Carousel[/I]: In arrow mode, reaching the end jumps to the beginning"
-msgstr "\n\n[B]DICAS:[/B]\n- [I]Multiseleção[/I]: selecione vários para mover em bloco\n- [I]Carrossel[/I]: No modo de setas, ao chegar no fim ele volta para o início"
+msgstr "\n\n[B]نصائح:[/B]\n- [I]تحديد متعدد[/I]: حدد عدة عناصر لنقلها ككتلة\n- [I]الدوار[/I]: في وضع الأسهم، الوصول للنهاية يقفز للبداية"
 
 msgctxt "#30112"
 msgid "Rename"
-msgstr "Renomear"
+msgstr "إعادة تسمية"
 
 msgctxt "#30113"
 msgid "Edit Command"
-msgstr "Editar Comando"
+msgstr "تعديل الأمر"
 
 msgctxt "#30114"
 msgid "Change Icon"
-msgstr "Alterar Ícone"
+msgstr "تغيير الأيقونة"
 
 msgctxt "#30115"
 msgid "Change Color"
-msgstr "Alterar Cor"
+msgstr "تغيير اللون"
 
 msgctxt "#30116"
 msgid "Change Format"
-msgstr "Alterar Formato"
+msgstr "تغيير التنسيق"
 
 msgctxt "#30117"
 msgid "Move"
-msgstr "Mover"
+msgstr "نقل"
 
 msgctxt "#30118"
 msgid "Duplicate"
-msgstr "Duplicar"
+msgstr "تكرار"
 
 msgctxt "#30119"
 msgid "Delete"
-msgstr "Excluir"
+msgstr "حذف"
 
 msgctxt "#30120"
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "إلغاء الأمر"
 
 msgctxt "#30121"
 msgid "Duplicated"
-msgstr "Duplicado"
+msgstr "تم التكرار"
 
 msgctxt "#30122"
 msgid "Move item"
-msgstr "Mover item"
+msgstr "نقل العنصر"
 
 msgctxt "#30123"
 msgid "↑ Move 1 up"
-msgstr "↑ Mover 1 para cima"
+msgstr "↑ نقل 1 للأعلى"
 
 msgctxt "#30124"
 msgid "↑↑ Move 5 up"
-msgstr "↑↑ Mover 5 para cima"
+msgstr "↑↑ نقل 5 للأعلى"
 
 msgctxt "#30125"
 msgid "↑↑↑ Move 10 up"
-msgstr "↑↑↑ Mover 10 para cima"
+msgstr "↑↑↑ نقل 10 للأعلى"
 
 msgctxt "#30126"
 msgid "^^^ [B]TO THE TOP[/B]"
-msgstr "^^^ [B]PARA O TOPO[/B]"
+msgstr "^^^ [B]إلى القمة[/B]"
 
 msgctxt "#30127"
 msgid "↓ Move 1 down"
-msgstr "↓ Mover 1 para baixo"
+msgstr "↓ نقل 1 للأسفل"
 
 msgctxt "#30128"
 msgid "↓↓ Move 5 down"
-msgstr "↓↓ Mover 5 para baixo"
+msgstr "↓↓ نقل 5 للأسفل"
 
 msgctxt "#30129"
 msgid "↓↓↓ Move 10 down"
-msgstr "↓↓↓ Mover 10 para baixo"
+msgstr "↓↓↓ نقل 10 للأسفل"
 
 msgctxt "#30130"
 msgid "vvv [B]TO THE BOTTOM[/B]"
-msgstr "vvv [B]PARA O FINAL[/B]"
+msgstr "vvv [B]إلى القاع[/B]"
 
 msgctxt "#30131"
 msgid "Sort favorites"
-msgstr "Ordenar favoritos"
+msgstr "فرز المفضلات"
 
 msgctxt "#30132"
 msgid "Sort A → Z"
-msgstr "Ordenar A → Z"
+msgstr "فرز أ ← ي"
 
 msgctxt "#30133"
 msgid "Sort Z → A"
-msgstr "Ordenar Z → A"
+msgstr "فرز ي ← أ"
 
 msgctxt "#30134"
 msgid "Reverse order (flip list)"
-msgstr "Inverter ordem (espelhar lista)"
+msgstr "عكس الترتيب (قلب القائمة)"
 
 msgctxt "#30135"
 msgid "Group by TYPE / ADDON"
-msgstr "Agrupar por TIPO / ADDON"
+msgstr "تجميع حسب النوع / الإضافة"
 
 msgctxt "#30136"
 msgid "Sorted A → Z"
-msgstr "Ordenado A → Z"
+msgstr "تم الفرز أ ← ي"
 
 msgctxt "#30137"
 msgid "Sorted Z → A"
-msgstr "Ordenado Z → A"
+msgstr "تم الفرز ي ← أ"
 
 msgctxt "#30138"
 msgid "Order reversed"
-msgstr "Ordem invertida"
+msgstr "تم عكس الترتيب"
 
 msgctxt "#30139"
 msgid "Sorted"
-msgstr "Ordenado"
+msgstr "تم الفرز"
 
 msgctxt "#30140"
 msgid "Profile Saved"
-msgstr "Perfil Salvo"
+msgstr "تم حفظ ملف التعريف"
 
 msgctxt "#30141"
 msgid "Saved as '{}'"
-msgstr "Salvo como '{}'"
+msgstr "حُفظ كـ '{}'"
 
 msgctxt "#30142"
 msgid "Select Color"
-msgstr "Selecionar Cor"
+msgstr "اختر لوناً"
 
 msgctxt "#30143"
 msgid "No color"
-msgstr "Sem cor"
+msgstr "بدون لون"
 
 msgctxt "#30144"
 msgid "White"
-msgstr "Branco"
+msgstr "أبيض"
 
 msgctxt "#30145"
 msgid "Yellow"
-msgstr "Amarelo"
+msgstr "أصفر"
 
 msgctxt "#30146"
 msgid "Orange"
-msgstr "Laranja"
+msgstr "برتقالي"
 
 msgctxt "#30147"
 msgid "Red"
-msgstr "Vermelho"
+msgstr "أحمر"
 
 msgctxt "#30148"
 msgid "Pink"
-msgstr "Rosa"
+msgstr "وردي"
 
 msgctxt "#30149"
 msgid "Violet"
-msgstr "Violeta"
+msgstr "بنفسجي"
 
 msgctxt "#30150"
 msgid "Blue"
-msgstr "Azul"
+msgstr "أزرق"
 
 msgctxt "#30151"
 msgid "Cyan"
-msgstr "Ciano"
+msgstr "سماوي"
 
 msgctxt "#30152"
 msgid "Green"
-msgstr "Verde"
+msgstr "أخضر"
 
 msgctxt "#30153"
 msgid "Lime"
-msgstr "Lima"
+msgstr "ليموني"
 
 msgctxt "#30154"
 msgid "Select Format"
-msgstr "Selecionar Formato"
+msgstr "اختر تنسيقاً"
 
 msgctxt "#30155"
 msgid "No format"
-msgstr "Sem formato"
+msgstr "بدون تنسيق"
 
 msgctxt "#30156"
 msgid "Bold"
-msgstr "Negrito"
+msgstr "عريض"
 
 msgctxt "#30157"
 msgid "Italic"
-msgstr "Itálico"
+msgstr "مائل"
 
 msgctxt "#30158"
 msgid "Bold + Italic"
-msgstr "Negrito + Itálico"
+msgstr "عريض + مائل"
 
 msgctxt "#30159"
 msgid "UPPERCASE"
-msgstr "MAIÚSCULAS"
+msgstr "أحرف كبيرة"
 
 msgctxt "#30160"
 msgid "Rename Favorite"
-msgstr "Renomear Favorito"
+msgstr "إعادة تسمية المفضلة"
 
 msgctxt "#30161"
 msgid "Edit Command / Path"
-msgstr "Editar Comando / Caminho"
+msgstr "تعديل الأمر / المسار"
 
 msgctxt "#30162"
 msgid "Updated"
-msgstr "Atualizado"
+msgstr "تم التحديث"
 
 msgctxt "#30163"
 msgid "Command changed"
-msgstr "Comando alterado"
+msgstr "تم تغيير الأمر"
 
 msgctxt "#30164"
 msgid "Separator only"
-msgstr "Somente o separador"
+msgstr "فاصل فقط"
 
 msgctxt "#30165"
 msgid "Separator and all its content"
-msgstr "Separador e todo o seu conteúdo"
+msgstr "الفاصل وجميع محتوياته"
 
 msgctxt "#30166"
 msgid "Delete Section: {}"
-msgstr "Excluir Seção: {}"
+msgstr "حذف القسم: {}"
 
 msgctxt "#30167"
 msgid "Confirm"
-msgstr "Confirmar"
+msgstr "تأكيد"
 
 msgctxt "#30168"
 msgid "Delete '{}'?"
-msgstr "Excluir '{}'?"
+msgstr "حذف '{}'؟"
 
 msgctxt "#30169"
 msgid "Unsaved changes"
-msgstr "Alterações não salvas"
+msgstr "تغييرات غير محفوظة"
 
 msgctxt "#30170"
 msgid "Save and Exit"
-msgstr "Salvar e Sair"
+msgstr "حفظ وخروج"
 
 msgctxt "#30171"
 msgid "Save and Update"
-msgstr "Salvar e Atualizar"
+msgstr "حفظ وتحديث"
 
 msgctxt "#30172"
 msgid "Exit without Saving (Discard Changes)"
-msgstr "Sair sem Salvar (Descartar Alterações)"
+msgstr "خروج بدون حفظ (تجاهل التغييرات)"
 
 msgctxt "#30173"
 msgid "Automatically assigned icons detected for some favorites.\nDo you want to keep these new icons?"
-msgstr "Ícones atribuídos automaticamente detectados para alguns favoritos.\nDeseja manter estes novos ícones?"
+msgstr "تم اكتشاف أيقونات معينة تلقائياً لبعض المفضلات.\nهل تريد الاحتفاظ بهذه الأيقونات الجديدة؟"
 
 msgctxt "#30174"
 msgid "Keep"
-msgstr "Manter"
+msgstr "احتفاظ"
 
 msgctxt "#30175"
 msgid "Discard"
-msgstr "Descartar"
+msgstr "تجاهل"
 
 msgctxt "#30176"
 msgid "Icons"
-msgstr "Ícones"
+msgstr "أيقونات"
 
 msgctxt "#30177"
 msgid "{} icons discarded"
-msgstr "{} ícones descartados"
+msgstr "تم تجاهل {} أيقونة"
 
 msgctxt "#30178"
 msgid "Saved Successfully"
-msgstr "Salvo com Sucesso"
+msgstr "تم الحفظ بنجاح"
 
 msgctxt "#30179"
 msgid "Could not save."
-msgstr "Não foi possível salvar."
+msgstr "تعذر الحفظ."
 
 msgctxt "#30180"
 msgid "[B]Custom / Manual[/B] (Write command)"
-msgstr "[B]Personalizado / Manual[/B] (Escrever comando)"
+msgstr "[B]مخصص / يدوي[/B] (اكتب الأمر)"
 
 msgctxt "#30181"
 msgid "Installed Addons (Video and Programs)"
-msgstr "Addons Instalados (Vídeo e Programas)"
+msgstr "الإضافات المثبتة (فيديو وبرامج)"
 
 msgctxt "#30182"
 msgid "What do you want to add?"
-msgstr "O que você deseja adicionar?"
+msgstr "ماذا تريد أن تضيف؟"
 
 msgctxt "#30183"
 msgid "Favorite Name"
-msgstr "Nome do Favorito"
+msgstr "اسم المفضلة"
 
 msgctxt "#30184"
 msgid "Path or Command (Ex: ActivateWindow(...))"
-msgstr "Caminho ou Comando (Ex: ActivateWindow(...))"
+msgstr "المسار أو الأمر (مثال: ActivateWindow(...))"
 
 msgctxt "#30185"
 msgid "Select Image"
-msgstr "Selecionar Imagem"
+msgstr "اختر صورة"
 
 msgctxt "#30186"
 msgid "No addons found"
-msgstr "Nenhum addon encontrado"
+msgstr "لم يتم العثور على إضافات"
 
 msgctxt "#30187"
 msgid "Select Addon"
-msgstr "Selecionar Addon"
+msgstr "اختر إضافة"
 
 msgctxt "#30188"
 msgid "This category is empty"
-msgstr "Esta categoria está vazia"
+msgstr "هذه الفئة فارغة"
 
 msgctxt "#30189"
 msgid "Select from {}"
-msgstr "Selecionar de {}"
+msgstr "اختر من {}"
 
 msgctxt "#30190"
 msgid "Attention"
-msgstr "Atenção"
+msgstr "تنبيه"
 
 msgctxt "#30191"
 msgid "Favorite without path"
-msgstr "Favorito sem caminho"
+msgstr "مفضلة بدون مسار"
 
 msgctxt "#30192"
 msgid "Added"
-msgstr "Adicionado"
+msgstr "تمت الإضافة"
 
 msgctxt "#30193"
 msgid "Section / Separator Name"
-msgstr "Nome da Seção / Separador"
+msgstr "اسم القسم / الفاصل"
 
 msgctxt "#30194"
 msgid "Gold (Default)"
-msgstr "Ouro (Padrão)"
+msgstr "ذهبي (افتراضي)"
 
 msgctxt "#30195"
 msgid "Gray"
-msgstr "Cinza"
+msgstr "رمادي"
 
 msgctxt "#30196"
 msgid "Separator Color"
-msgstr "Cor do Separador"
+msgstr "اختر مجلد الوجهة"
 
 msgctxt "#30197"
 msgid "Nothing selected"
-msgstr "Nada selecionado"
+msgstr "لم يتم تحديد شيء"
 
 msgctxt "#30198"
 msgid "Move to..."
-msgstr "Mover para..."
+msgstr "نقل إلى..."
 
 msgctxt "#30199"
 msgid "Click on the destination position"
-msgstr "Clique na posição de destino"
+msgstr "انقر على الموضع الوجهة"
 
 msgctxt "#30200"
 msgid "Before (At the top)"
-msgstr "Antes (No topo)"
+msgstr "إضافة مفضلة"
 
 msgctxt "#30201"
 msgid "After"
-msgstr "Depois"
+msgstr "محرر متقدم"
 
 msgctxt "#30202"
 msgid "Moved"
-msgstr "Movido"
+msgstr "محرر بسيط"
 
 msgctxt "#30203"
 msgid "{} items"
-msgstr "{} itens"
+msgstr "{} عناصر"
 
 msgctxt "#30204"
 msgid "Delete {} selected items?"
-msgstr "Excluir {} itens selecionados?"
+msgstr "حذف {} عنصرًا محددًا؟"
 
 msgctxt "#30205"
 msgid "Color for {} items"
-msgstr "Cor para {} itens"
+msgstr "لون لـ {} عنصر"
 
 msgctxt "#30206"
 msgid "Select New Image"
-msgstr "Selecionar Nova Imagem"
+msgstr "اختيار صورة جديدة"
 
 msgctxt "#30207"
 msgid "Icon"
-msgstr "Ícone"
+msgstr "إضافة قسم / فاصل"
 
 msgctxt "#30208"
 msgid "Image updated"
-msgstr "Imagem atualizada"
+msgstr "أقسام كودي"
 
 msgctxt "#30209"
 msgid "Add Item / Addon"
-msgstr "Adicionar Item / Addon"
+msgstr "أوامر النظام"
 
 msgctxt "#30210"
 msgid "Add Separator"
-msgstr "Adicionar Separador"
+msgstr "إضافة من القوالب"
 
 msgctxt "#30211"
 msgid "Add..."
-msgstr "Adicionar..."
+msgstr "تعديل القوالب"
 
 msgctxt "#30212"
 msgid "Save as New Profile"
-msgstr "Salvar como Novo Perfil"
+msgstr "إضافة قسم"
 
 msgctxt "#30213"
 msgid "Create backup (XML)"
-msgstr "Criar backup (XML)"
+msgstr "نقل للأعلى"
 
 msgctxt "#30214"
 msgid "Restore from backup (XML)"
-msgstr "Restaurar do backup (XML)"
+msgstr "نقل للأسفل"
 
 msgctxt "#30215"
 msgid "Discard current changes"
-msgstr "Descartar alterações atuais"
+msgstr "سيؤدي هذا لإعادة تعيين مفضلاتك لحالتها الأصلية (آخر حفظ).\nهل أنت متأكد؟"
 
 msgctxt "#30216"
 msgid "Backup / Restore"
-msgstr "Backup / Restaurar"
+msgstr "نسخ احتياطي / استعادة"
 
 msgctxt "#30217"
 msgid "Backup name (no extension)"
-msgstr "Nome do backup (sem extensão)"
+msgstr "اسم النسخة الاحتياطية (بدون امتداد)"
 
 msgctxt "#30218"
 msgid "Select folder to save"
-msgstr "Selecionar pasta para salvar"
+msgstr "اختر مجلد الحفظ"
 
 msgctxt "#30219"
 msgid "Backup Created"
-msgstr "Backup Criado"
+msgstr "تم إنشاء النسخة الاحتياطية"
 
 msgctxt "#30220"
 msgid "Error saving"
-msgstr "Erro ao salvar"
+msgstr "خطأ في الحفظ"
 
 msgctxt "#30221"
 msgid "Name of your first pet?"
-msgstr "Nome do seu primeiro animal de estimação?"
+msgstr "ما هو اسم أول حيوان أليف لك؟"
 
 msgctxt "#30222"
 msgid "City where you were born?"
-msgstr "Cidade onde você nasceu?"
+msgstr "في أي مدينة ولدت؟"
 
 msgctxt "#30223"
 msgid "Mother's birth year?"
-msgstr "Ano de nascimento da sua mãe?"
+msgstr "ما هو كتابك المفضل؟"
 
 msgctxt "#30224"
 msgid "Name of childhood best friend?"
-msgstr "Nome do seu melhor amigo de infância?"
+msgstr "ما هي ماركة أول سيارة لك؟"
 
 msgctxt "#30225"
 msgid "Favorite food?"
-msgstr "Comida favorita?"
+msgstr "من كان بطل طفولتك؟"
 
 msgctxt "#30226"
 msgid "Security Reset"
-msgstr "Redefinição de Segurança"
+msgstr "إعادة تعيين طوارئ"
 
 msgctxt "#30227"
 msgid "Recovery file detected.\nPassword has been removed.\nYou can set a new one in Settings."
-msgstr "Arquivo de recuperação detectado.\nA senha foi removida.\nVocê pode definir uma nova nas Configurações."
+msgstr "تم اكتشاف ملف إعادة تعيين طوارئ.\nتم تعطيل الأمان وحذف الملف."
 
 msgctxt "#30228"
 msgid "Installed Addons"
-msgstr "Addons Instalados"
+msgstr "الإضافات المثبتة"
 
 msgctxt "#30229"
 msgid "Gold (Default)"
-msgstr "Ouro (Padrão)"
+msgstr "ذهبي (افتراضي)"
 
 msgctxt "#30230"
 msgid "Change Icon"
-msgstr "Alterar Ícone"
+msgstr "تغيير الأيقونة"
 
 msgctxt "#30231"
 msgid "Change Color"
-msgstr "Alterar Cor"
+msgstr "تغيير اللون"
 
 msgctxt "#30232"
 msgid "Change Format"
-msgstr "Alterar Formato"
+msgstr "تغيير التنسيق"
 
 msgctxt "#30233"
 msgid "Move"
-msgstr "Mover"
+msgstr "نقل"
 
 msgctxt "#30234"
 msgid "Duplicate"
-msgstr "Duplicar"
+msgstr "تكرار"
 
 msgctxt "#30235"
 msgid "[B]Custom / Manual[/B] (Write command)"
-msgstr "[B]Personalizado / Manual[/B] (Escrever comando)"
+msgstr "[B]مخصص / يدوي[/B] (اكتب أمرًا)"
 
 msgctxt "#30236"
 msgid "Installed Addons (Video and Programs)"
-msgstr "Addons Instalados (Vídeo e Programas)"
+msgstr "الإضافات المثبتة (فيديو وبرامج)"
 
 msgctxt "#30237"
 msgid "Favourite Name"
-msgstr "Nome do Favorito"
+msgstr "اسم المفضلة"
 
 msgctxt "#30238"
 msgid "No addons found"
-msgstr "Nenhum addon encontrado"
+msgstr "لم يتم العثور على إضافات"
 
 msgctxt "#30239"
 msgid "Select Addon"
-msgstr "Selecionar Addon"
+msgstr "اختر إضافة"
 
 msgctxt "#30240"
 msgid "This category is empty"
-msgstr "Esta categoria está vazia"
+msgstr "هذه الفئة فارغة"
 
 msgctxt "#30241"
 msgid "Select from "
-msgstr "Selecionar de "
+msgstr "اختر من "
 
 msgctxt "#30242"
 msgid "Added"
-msgstr "Adicionado"
+msgstr "تمت الإضافة"
 
 msgctxt "#30243"
 msgid "Quick Editor"
-msgstr "Editor Rápido"
+msgstr "محرر سريع"
 
 msgctxt "#30244"
 msgid "Saved"
-msgstr "Salvo"
+msgstr "تم الحفظ"
 
 msgctxt "#30245"
 msgid "Create Backup"
-msgstr "Criar Backup"
+msgstr "إنشاء نسخة احتياطية"
 
 msgctxt "#30246"
 msgid "Restore from Backup"
-msgstr "Restaurar do Backup"
+msgstr "استعادة من نسخة احتياطية"
 
 msgctxt "#30247"
 msgid "Backup"
-msgstr "Backup"
+msgstr "نسخة احتياطية"
 
 msgctxt "#30248"
 msgid "No favourites to save."
-msgstr "Sem favoritos para salvar."
+msgstr "لا توجد مفضلات للحفظ."
 
 msgctxt "#30249"
 msgid "Backup Created"
-msgstr "Backup Criado"
+msgstr "تم إنشاء النسخة الاحتياطية"
 
 msgctxt "#30250"
 msgid "Select backup file (.xml)"
-msgstr "Selecionar arquivo de backup (.xml)"
+msgstr "اختر ملف XML"
 
 msgctxt "#30251"
 msgid "File not found."
-msgstr "Arquivo não encontrado."
+msgstr "الملف غير موجود."
 
 msgctxt "#30252"
 msgid "The file does not seem to be a valid backup."
-msgstr "O arquivo não parece ser um backup válido."
+msgstr "لا يبدو أن الملف نسخة احتياطية صالحة."
 
 msgctxt "#30253"
 msgid "The backup is empty."
-msgstr "O backup está vazio."
+msgstr "النسخة الاحتياطية فارغة."
 
 msgctxt "#30254"
 msgid "Replace your current favourites with the backup?\n({} items)"
-msgstr "Substituir seus favoritos atuais pelo backup?\n({} itens)"
+msgstr "استبدال مفضلاتك الحالية بالنسخة الاحتياطية؟\n({} عنصر)"
 
 msgctxt "#30255"
 msgid "Restored"
-msgstr "Restaurado"
+msgstr "تمت الاستعادة"
 
 msgctxt "#30256"
 msgid "{} favourites loaded"
-msgstr "{} favoritos carregados"
+msgstr "تم تحميل {} مفضلة"
 
 msgctxt "#30257"
 msgid "Could not load backup:"
-msgstr "Não foi possível carregar o backup:"
+msgstr "تعذر تحميل النسخة الاحتياطية:"
 
 msgctxt "#30258"
 msgid "[B]+ Create Profile[/B] (Save current state)"
-msgstr "[B]+ Criar Perfil[/B] (Salvar estado atual)"
+msgstr "[COLOR lime]+ إنشاء ملف تعريف جديد (من الحالي)[/COLOR]"
 
 msgctxt "#30259"
 msgid "[B]+ Import from XML[/B]"
-msgstr "[B]+ Importar de XML[/B]"
+msgstr "[COLOR cyan]استيراد من favourites.xml[/COLOR]"
 
 msgctxt "#30260"
 msgid "[B]+ Export current to XML[/B]"
-msgstr "[B]+ Exportar atual para XML[/B]"
+msgstr "[COLOR orange]تصدير الحالي كـ XML[/COLOR]"
 
 msgctxt "#30261"
 msgid "Profile Manager"
-msgstr "Gerenciador de Perfis"
+msgstr "مدير ملفات التعريف"
 
 msgctxt "#30262"
 msgid "Profile Created"
-msgstr "Perfil Criado"
+msgstr "تم إنشاء ملف التعريف"
 
 msgctxt "#30263"
 msgid "Saved '{}'"
-msgstr "Salvo '{}'"
+msgstr "تم إنشاء ملف التعريف '{}'."
 
 msgctxt "#30264"
 msgid "No valid favourites found"
-msgstr "Nenhum favorito válido encontrado"
+msgstr "لم يتم العثور على مفضلات في XML"
 
 msgctxt "#30265"
 msgid "Imported Profile"
-msgstr "Perfil Importado"
+msgstr "ملف تعريف مستورد"
 
 msgctxt "#30266"
 msgid "Name for the profile"
-msgstr "Nome para o perfil"
+msgstr "أدخل اسماً لملف التعريف المستورد"
 
 msgctxt "#30267"
 msgid "Imported"
-msgstr "Importado"
+msgstr "تم استيراد ملف التعريف"
 
 msgctxt "#30268"
 msgid "{} favourites added"
-msgstr "{} favoritos adicionados"
+msgstr "تم استيراد {} مفضلة بنجاح."
 
 msgctxt "#30269"
 msgid "Import Error"
-msgstr "Erro na Importação"
+msgstr "خطأ في استيراد XML"
 
 msgctxt "#30270"
 msgid "Exported"
-msgstr "Exportado"
+msgstr "تصدير ناجح"
 
 msgctxt "#30271"
 msgid "Error Exporting"
-msgstr "Erro ao Exportar"
+msgstr "فشل التصدير"
 
 msgctxt "#30272"
 msgid "[B]Load Profile[/B] (Replaces current favourites)"
-msgstr "[B]Carregar Perfil[/B] (Substitui os favoritos atuais)"
+msgstr "تحميل / تفعيل ملف التعريف"
 
 msgctxt "#30273"
 msgid "Export to XML"
-msgstr "Exportar para XML"
+msgstr "تصدير إلى XML"
 
 msgctxt "#30274"
 msgid "Profile"
-msgstr "Perfil"
+msgstr "ملف تعريف"
 
 msgctxt "#30275"
 msgid "Load Profile"
-msgstr "Carregar Perfil"
+msgstr "تأكيد التحميل"
 
 msgctxt "#30276"
 msgid "SURE? This will replace your current favourites with those of '{}'.\nIt is recommended to make a backup first."
-msgstr "TEM CERTEZA? Isso substituirá seus favoritos atuais pelos de '{}'.\nRecomenda-se fazer um backup primeiro."
+msgstr "سيؤدي هذا لاستبدال جميع مفضلاتك الحالية بالموجودة في '{}'.\nهل تريد المتابعة؟"
 
 msgctxt "#30277"
 msgid "Profile Loaded"
-msgstr "Perfil Carregado"
+msgstr "تم تحميل ملف التعريف"
 
 msgctxt "#30278"
 msgid "Favourites updated"
-msgstr "Favoritos atualizados"
+msgstr "تم تحديث مفضلات كودي."
 
 msgctxt "#30279"
 msgid "Rename profile"
-msgstr "Renomear perfil"
+msgstr "إعادة تسمية ملف التعريف"
 
 msgctxt "#30280"
 msgid "Renamed"
-msgstr "Renomeado"
+msgstr "تم إعادة تسمية ملف التعريف"
 
 msgctxt "#30281"
 msgid "Now is '{}'"
-msgstr "Agora é '{}'"
+msgstr "الاسم الجديد: {}"
 
 msgctxt "#30282"
 msgid "Saved in {}"
-msgstr "Salvo em {}"
+msgstr "تم تصدير ملف التعريف كـ {}"
 
 msgctxt "#30283"
 msgid "Delete Profile"
-msgstr "Excluir Perfil"
+msgstr "حذف ملف التعريف"
 
 msgctxt "#30284"
 msgid "Permanently delete profile '{}'?"
-msgstr "Excluir permanentemente o perfil '{}'?"
+msgstr "هل أنت متأكد من حذف ملف التعريف '{}'؟"
 
 msgctxt "#30285"
 msgid "Templates Editor"
-msgstr "Editor de Modelos"
+msgstr "محرر القوالب"
 
 msgctxt "#30286"
 msgid "Add New Category"
-msgstr "Adicionar Nova Categoria"
+msgstr "إضافة فئة جديدة"
 
 msgctxt "#30287"
 msgid "Reset to defaults"
-msgstr "Redefinir para padrões"
+msgstr "إعادة التعيين إلى الافتراضي"
 
 msgctxt "#30288"
 msgid "Export Templates"
-msgstr "Exportar Modelos"
+msgstr "تصدير القوالب"
 
 msgctxt "#30289"
 msgid "Import Templates"
-msgstr "Importar Modelos"
+msgstr "استيراد القوالب"
 
 msgctxt "#30290"
 msgid "Name of the new category"
-msgstr "Nome da nova categoria"
+msgstr "اسم فئة جديد"
 
 msgctxt "#30292"
 msgid "A category with that name already exists"
-msgstr "Uma categoria com esse nome já existe"
+msgstr "الفئة موجودة بالفعل"
 
 msgctxt "#30293"
 msgid "Created"
-msgstr "Criado"
+msgstr "تم إضافة الفئة"
 
 msgctxt "#30294"
 msgid "Add New"
-msgstr "Adicionar Novo"
+msgstr "إضافة عنصر جديد"
 
 msgctxt "#30295"
 msgid "Delete this Category"
-msgstr "Excluir esta Categoria"
+msgstr "حذف الفئة"
 
 msgctxt "#30296"
 msgid "Delete category '{}' and all its items?"
-msgstr "Excluir a categoria '{}' e todos os seus itens?"
+msgstr "حذف الفئة '{}' وجميع قوالبها؟"
 
 msgctxt "#30297"
 msgid "Deleted"
-msgstr "Excluído"
+msgstr "تم الحذف"
 
 msgctxt "#30298"
 msgid "Item Name"
-msgstr "Nome do Item"
+msgstr "اسم العنصر"
 
 msgctxt "#30299"
 msgid "Command or Path (Ex: ActivateWindow(...))"
-msgstr "Comando ou Caminho (Ex: ActivateWindow(...))"
+msgstr "أمر العنصر / المسار"
 
 msgctxt "#30300"
 msgid "Select Icon"
-msgstr "Selecionar Ícone"
+msgstr "اختر أيقونة"
 
 msgctxt "#30301"
 msgid "Type name (Ex: DefaultMovies.png)"
-msgstr "Digite o nome (Ex: DefaultMovies.png)"
+msgstr "مسار أيقونة يدوي"
 
 msgctxt "#30302"
 msgid "Browse image in explorer"
-msgstr "Procurar imagem no explorador"
+msgstr "تصفح للأيقونات"
 
 msgctxt "#30303"
 msgid "Icon name"
-msgstr "Nome do ícone"
+msgstr "مسار الأيقونة"
 
 msgctxt "#30304"
 msgid "Edit Name"
-msgstr "Editar Nome"
+msgstr "تعديل الاسم"
 
 msgctxt "#30305"
 msgid "Edit Command"
-msgstr "Editar Comando"
+msgstr "تعديل المسار"
 
 msgctxt "#30306"
 msgid "Edit Icon"
-msgstr "Editar Ícone"
+msgstr "تعديل الأيقونة"
 
 msgctxt "#30307"
 msgid "New Name"
-msgstr "Novo Nome"
+msgstr "اسم عنصر جديد"
 
 msgctxt "#30308"
 msgid "New Command"
-msgstr "Novo Comando"
+msgstr "مسار عنصر جديد"
 
 msgctxt "#30309"
 msgid "New Icon"
-msgstr "Novo Ícone"
+msgstr "مسار أيقونة جديد"
 
 msgctxt "#30310"
 msgid "Reset all templates to default values?\nThis will delete custom categories."
-msgstr "Redefinir todos os modelos para os valores padrão?\nIsso excluirá as categorias personalizadas."
+msgstr "إعادة تعيين جميع القوالب للوضع الافتراضي؟"
 
 msgctxt "#30311"
 msgid "Templates"
-msgstr "Modelos"
+msgstr "تم إعادة تعيين القوالب"
 
 msgctxt "#30312"
 msgid "Reset"
-msgstr "Redefinir"
+msgstr "تم استعادة القوالب الأصلية"
 
 msgctxt "#30313"
 msgid "Templates replaced"
-msgstr "Modelos substituídos"
+msgstr "تم استبدال القوالب"
 
 msgctxt "#30314"
 msgid "Merged"
-msgstr "Mesclado"
+msgstr "تم الدمج"
 
 msgctxt "#30315"
 msgid "Categories added"
-msgstr "Categorias adicionadas"
+msgstr "تمت إضافة الفئات"
 
 msgctxt "#30316"
 msgid "How to import?"
-msgstr "Como importar?"
+msgstr "كيفية الاستيراد؟"
 
 msgctxt "#30317"
 msgid "Replace all"
-msgstr "Substituir tudo"
+msgstr "استبدال الكل"
 
 msgctxt "#30318"
 msgid "Merge (add new categories)"
-msgstr "Mesclar (adicionar novas categorias)"
+msgstr "دمج (إضافة فئات جديدة)"
 
 msgctxt "#30319"
 msgid "File name (without extension)"
-msgstr "Nome do arquivo (sem extensão)"
+msgstr "اسم الملف (بدون امتداد)"
 
 msgctxt "#30320"
 msgid "Search in all profiles"
-msgstr "Pesquisar em todos os perfis"
+msgstr "البحث في كل ملفات التعريف"
 
 msgctxt "#30321"
 msgid "No results for '{}'"
-msgstr "Sem resultados para '{}'"
+msgstr "لا توجد نتائج لـ '{}'"
 
 msgctxt "#30322"
 msgid "No items matching your search were found."
-msgstr "Nenhum item correspondente à sua pesquisa foi encontrado."
+msgstr "ابحث عن مفضلة عبر كل ملفات تعريفك المحفوظة."
 
 msgctxt "#30323"
 msgid "From profile:"
-msgstr "Do perfil:"
+msgstr "وُجد في ملف التعريف:"
 
 msgctxt "#30324"
 msgid "Explore My Profiles"
-msgstr "Explorar Meus Perfis"
+msgstr "استكشف ملفات تعريفي"
 
 msgctxt "#30325"
 msgid "Navigate through your profiles as folder. Useful for creating menus and Widgets in Skins."
-msgstr "Navegue pelos seus perfis como pastas. Útil para criar menus e Widgets em Skins."
+msgstr "تصفح وادر ملفات تعريفك المفضلة المحفوظة."
 
 msgctxt "#30326"
 msgid "Advanced Editor"
-msgstr "Editor Avançado"
+msgstr "محرر متقدم"
 
 msgctxt "#30327"
 msgid "Graphic editor with icon and color visualization."
-msgstr "Editor gráfico com visualização de ícones e cores."
+msgstr "محرر مرئي مع دعم السحب والإفلات."
 
 msgctxt "#30328"
 msgid "Quick Editor"
-msgstr "Editor Rápido"
+msgstr "محرر بسيط"
 
 msgctxt "#30329"
 msgid "Simple and lightweight editor. Fast and compatible with all devices."
-msgstr "Editor simples e leve. Rápido e compatível com todos os dispositivos."
+msgstr "قائمة سريعة لإضافة وتنظيم المفضلات."
 
 msgctxt "#30330"
 msgid "Reload Profile (See changes)"
-msgstr "Recarregar Perfil (Ver alterações)"
+msgstr "إعادة تحميل ملف التعريف (تطبيق التغييرات)"
 
 msgctxt "#30331"
 msgid "Reload Kodi profile to apply changes in main interface."
-msgstr "Recarregar perfil do Kodi para aplicar as alterações na interface principal."
+msgstr "تحديث كودي لإظهار جميع التغييرات فوراً."
 
 msgctxt "#30332"
 msgid "Configuration"
-msgstr "Configuração"
+msgstr "التكوين"
 
 msgctxt "#30333"
 msgid "Visual editor and template editor settings."
-msgstr "Configurações do editor visual e editor de modelos."
+msgstr "ضبط إعدادات المظهر والأمان."
 
 msgctxt "#30334"
 msgid "View Favourites Menu"
-msgstr "Ver Menu de Favoritos"
+msgstr "عرض قائمة المفضلات"
 
 msgctxt "#30335"
 msgid "Open Kodi favourites menu to see the result."
-msgstr "Abrir o menu de favoritos do Kodi para ver o resultado."
+msgstr "فتح نافذة مفضلات كودي الأصلية."
 
 msgctxt "#30336"
 msgid "Back / Exit"
-msgstr "Voltar / Sair"
+msgstr "عودة / خروج"
 
 msgctxt "#30337"
 msgid "Return to Kodi."
-msgstr "Voltar para o Kodi."
+msgstr "إغلاق الإضافة."
 
 msgctxt "#30338"
 msgid "About Flow FavManager"
-msgstr "Sobre o Flow FavManager"
+msgstr "حول Flow FavManager"
 
 msgctxt "#30339"
 msgid "Information."
-msgstr "Informações."
+msgstr "المعلومات والحقوق."
 
 msgctxt "#30340"
 msgid "About"
-msgstr "Sobre"
+msgstr "حول"
 
 msgctxt "#30341"
 msgid "For more information and projects visit:"
-msgstr "Para mais informações e projetos visite:"
+msgstr "وُلد هذا المشروع بقصد أن يكون التطور لنظام إدارة المفضلات في كودي."
 
 msgctxt "#30342"
 msgid "PROFILE MANAGER (Create / Import / Save)"
-msgstr "GERENCIADOR DE PERFIS (Criar / Importar / Salvar)"
+msgstr "مدير ملفات التعريف"
 
 msgctxt "#30343"
 msgid "Tools to create new profiles, import from XML or save current state."
-msgstr "Ferramentas para criar novos perfis, importar de XML ou salvar o estado atual."
+msgstr "إنشاء واستيراد وتصدير ملفات تعريفك."
 
 msgctxt "#30344"
 msgid "Widget View (Clean Navigation)"
-msgstr "Visualização de Widget (Navegação Limpa)"
+msgstr "عرض أدوات نظيف"
 
 msgctxt "#30345"
 msgid "Show your profiles without management buttons. Ideal for adding to your skin's home screen as a Widget."
-msgstr "Mostre seus perfis sem os botões de gerenciamento. Ideal para adicionar à tela inicial da sua skin como Widget."
+msgstr "عرض محسن للاستخدام كأدوات."
 
 msgctxt "#30346"
 msgid "Add to Flow FavManager"
-msgstr "Adicionar ao Flow FavManager"
+msgstr "إضافة إلى Flow FavManager"
 
 msgctxt "#30347"
 msgid "Backup Created"
-msgstr "Backup Criado"
+msgstr "تم إنشاء النسخة الاحتياطية"
 
 msgctxt "#30348"
 msgid "Restored"
-msgstr "Restaurado"
+msgstr "تم الاستعادة"
 
 msgctxt "#30349"
 msgid "Press Confirm/Back to save."
-msgstr "Pressione Confirmar/Voltar para salvar."
+msgstr "اضغط تأكيد/رجوع للحفظ."
 
 msgctxt "#30350"
 msgid "Behavior Changed"
-msgstr "Comportamento Alterado"
+msgstr "تم تغيير السلوك"
 
 msgctxt "#30351"
 msgid "Maintenance"
-msgstr "Manutenção"
+msgstr "مسح ذاكرة الصور"
 
 msgctxt "#30352"
 msgid "Updating textures..."
-msgstr "Atualizando texturas..."
+msgstr "تم مسح الذاكرة. الصور ستعاد تحميلها."
 
 msgctxt "#30353"
 msgid "Log"
-msgstr "Log"
+msgstr "سجل التدقيق"
 
 msgctxt "#30354"
 msgid "Enabled"
-msgstr "Ativado"
+msgstr "تم تفعيل سجل التدقيق"
 
 msgctxt "#30355"
 msgid "Disabled"
-msgstr "Desativado"
+msgstr "تم تعطيل سجل التدقيق"
 
 msgctxt "#30356"
 msgid "History cleared"
-msgstr "Histórico limpo"
+msgstr "تم حذف السجل"
 
 msgctxt "#30357"
 msgid "Info"
-msgstr "Info"
+msgstr "لا يوجد سجل"
 
 msgctxt "#30358"
 msgid "No log to clear"
-msgstr "Nenhum log para limpar"
+msgstr "سجل التدقيق فارغ أو غير موجود"
 
 msgctxt "#30359"
 msgid "Could not read profile"
-msgstr "Não foi possível ler o perfil"
+msgstr "تعذر تحميل ملف التعريف"
 
 msgctxt "#30360"
 msgid "Deleted"
-msgstr "Excluído"
+msgstr "تم حذف ملف التعريف"
 
 msgctxt "#30361"
 msgid "Profile deleted successfully"
-msgstr "Perfil excluído com sucesso"
+msgstr "تمت إزالة ملف التعريف"
 
 msgctxt "#30362"
 msgid "Could not delete file"
-msgstr "Não foi possível excluir o arquivo"
+msgstr "تعذر حذف ملف التعريف"
 
 msgctxt "#30363"
 msgid "Renamed"
-msgstr "Renomeado"
+msgstr "تم إعادة تسمية ملف التعريف"
 
 msgctxt "#30364"
 msgid "Profile updated"
-msgstr "Perfil atualizado"
+msgstr "نجحت إعادة التسمية"
 
 msgctxt "#30365"
 msgid "File not found."
-msgstr "Arquivo não encontrado."
+msgstr "فشلت إعادة التسمية"
 
 msgctxt "#30366"
 msgid "File does not appear to be a valid backup."
-msgstr "O arquivo não parece ser um backup válido."
+msgstr "لا يبدو أن الملف نسخة احتياطية صالحة."
 
 msgctxt "#30367"
 msgid "Could not load backup:"
-msgstr "Não foi possível carregar o backup:"
+msgstr "تعذر تحميل النسخة الاحتياطية:"
 
 msgctxt "#30368"
 msgid "Quick Editor"
-msgstr "Editor Rápido"
+msgstr "محرر سريع"
 
 msgctxt "#30369"
 msgid "No favorites to edit."
-msgstr "Sem favoritos para editar."
+msgstr "لا توجد مفضلات للتحرير."
 
 msgctxt "#30370"
 msgid "Empty Log"
-msgstr "Log Vazio"
+msgstr "مشاهد السجل"
 
 msgctxt "#30371"
 msgid "No events recorded yet."
-msgstr "Nenhum evento registrado ainda."
+msgstr "سجل التدقيق فارغ"
 
 msgctxt "#30372"
 msgid "Log Does Not Exist"
-msgstr "O Log não existe"
+msgstr "لا يوجد ملف سجل"
 
 msgctxt "#30373"
 msgid "Enable logging and perform an action to generate events."
-msgstr "Habilite o log e realize uma ação para gerar eventos."
+msgstr "ملف سجل التدقيق غير موجود"
 
 msgctxt "#30374"
 msgid "Could not read log:"
-msgstr "Não foi possível ler o log:"
+msgstr "خطأ في قراءة السجل"
 
 msgctxt "#30375"
 msgid "Confirm"
-msgstr "Confirmar"
+msgstr "تأكيد"
 
 msgctxt "#30376"
 msgid "Delete '{}'?"
-msgstr "Excluir '{}'?"
+msgstr "حذف '{}'؟"
 
 msgctxt "#30377"
 msgid "Clear image cache (Textures) before reloading?\nThis fixes issues with old icons."
-msgstr "Limpar o cache de imagens (Texturas) antes de recarregar?\nIsso corrige problemas com ícones antigos."
+msgstr "هل تريد مسح ذاكرة المصغرات قبل إعادة التحميل؟\n(نوصي بذلك لتفعيل التغييرات المرئية)"
 
 msgctxt "#30378"
 msgid "Delete Log"
-msgstr "Excluir Log"
+msgstr "حذف السجل"
 
 msgctxt "#30379"
 msgid "Delete all audit history?"
-msgstr "Excluir todo o histórico de auditoria?"
+msgstr "هل أنت متأكد من حذف سجل التدقيق؟"
 
 msgctxt "#30380"
 msgid "Delete Profile"
-msgstr "Excluir Perfil"
+msgstr "تأكيد الحذف"
 
 msgctxt "#30381"
 msgid "Are you sure you want to permanently delete this profile?"
-msgstr "Tem certeza de que deseja excluir permanentemente este perfil?"
+msgstr "هل أنت متأكد من حذف ملف التعريف هذا؟"
 
 msgctxt "#30382"
 msgid "New profile name"
-msgstr "Nome do novo perfil"
+msgstr "اسم ملف تعريف جديد"
 
 msgctxt "#30383"
 msgid "Backup name (without extension)"
-msgstr "Nome do backup (sem extensão)"
+msgstr "اسم النسخة الاحتياطية (بدون امتداد)"
 
 msgctxt "#30384"
 msgid "Select a Favorite to edit"
-msgstr "Selecione um Favorito para editar"
+msgstr "اختر مفضلة لتحريرها"
 
 msgctxt "#30385"
 msgid "Action for: {}"
-msgstr "Ação para: {}"
+msgstr "إجراء لـ: {}"
 
 msgctxt "#30386"
 msgid "Audit Log"
-msgstr "Log de Auditoria"
+msgstr "سجل التدقيق"
 
 msgctxt "#30387"
 msgid "Critical Error"
-msgstr "Erro Crítico"
+msgstr "خطأ حرج"
 
 msgctxt "#30388"
 msgid "Select folder to save"
-msgstr "Selecionar pasta para salvar"
+msgstr "اختر الوجهة"
 
 msgctxt "#30389"
 msgid "Select backup file (.xml)"
-msgstr "Selecionar arquivo de backup (.xml)"
+msgstr "اختر ملف النسخة الاحتياطية (.xml)"
 
 msgctxt "#30390"
 msgid "Move Up 1"
-msgstr "Mover para Cima 1"
+msgstr "تحريك لأعلى 1"
 
 msgctxt "#30391"
 msgid "Move Down 1"
-msgstr "Mover para Baixo 1"
+msgstr "تحريك لأسفل 1"
 
 msgctxt "#30392"
 msgid "Move to Position..."
-msgstr "Mover para Posição..."
+msgstr "نقل إلى موضع..."
 
 msgctxt "#30393"
 msgid "Enter new position (1-{})"
-msgstr "Digite a nova posição (1-{})"
+msgstr "أدخل موضعًا جديدًا (1-{})"
 
 msgctxt "#30394"
 msgid "Invalid Format"
-msgstr "Formato Inválido"
+msgstr "تنسيق غير صالح"
 
 msgctxt "#30395"
 msgid "Audit Log: [COLOR lime]ON[/COLOR]"
-msgstr "Log de Auditoria: [COLOR lime]LIGADO[/COLOR]"
+msgstr "سجل التدقيق: مفعل"
 
 msgctxt "#30396"
 msgid "Audit Log: [COLOR gray]OFF[/COLOR]"
-msgstr "Log de Auditoria: [COLOR gray]DESLIGADO[/COLOR]"
+msgstr "سجل التدقيق: غير نشط"
 
 msgctxt "#30397"
 msgid "View Audit Log"
-msgstr "Ver Log de Auditoria"
+msgstr "عرض سجل التدقيق"
 
 msgctxt "#30398"
 msgid "[Empty Folder]"
-msgstr "[Pasta Vazia]"
+msgstr "ملف تعريف فارغ"
 
 msgctxt "#30399"
 msgid "(Empty)"
-msgstr "(Vazio)"
+msgstr "[I]ملف تعريف فارغ[/I]"
 
 msgctxt "#30400"
 msgid "Movies"
-msgstr "Filmes"
+msgstr "أفلام"
 
 msgctxt "#30401"
 msgid "TV (PVR)"
-msgstr "TV (PVR)"
+msgstr "قنوات مباشرة (PVR)"
 
 msgctxt "#30402"
 msgid "TV Guide (EPG)"
-msgstr "Guia de TV (EPG)"
+msgstr "دليل القنوات (EPG)"
 
 msgctxt "#30403"
 msgid "Music"
-msgstr "Música"
+msgstr "موسيقى"
 
 msgctxt "#30404"
 msgid "Pictures"
-msgstr "Imagens"
+msgstr "صور"
 
 msgctxt "#30405"
 msgid "Power / Restart Menu"
-msgstr "Menu de Energia / Reiniciar"
+msgstr "قائمة الطاقة / إعادة التشغيل"
 
 msgctxt "#30406"
 msgid "Update Library (Video)"
-msgstr "Atualizar Biblioteca (Vídeo)"
+msgstr "تحديث المكتبة (فيديو)"
 
 msgctxt "#30407"
 msgid "Clean Library (Video)"
-msgstr "Limpar Biblioteca (Vídeo)"
+msgstr "تنظيف المكتبة (فيديو)"
 
 msgctxt "#30408"
 msgid "Move Up 5"
-msgstr "Mover para Cima 5"
+msgstr "تحريك لأعلى 5"
 
 msgctxt "#30409"
 msgid "Move Down 5"
-msgstr "Mover para Baixo 5"
+msgstr "تحريك لأسفل 5"
 
 msgctxt "#30410"
 msgid "Move to Top"
-msgstr "Mover para o Topo"
+msgstr "نقل إلى الأعلى"
 
 msgctxt "#30411"
 msgid "Move to Bottom"
-msgstr "Mover para o Final"
+msgstr "نقل إلى الأسفل"
 
 msgctxt "#30412"
 msgid "Status: [COLOR {color}]{status}[/COLOR]"
-msgstr "Status: [COLOR {color}]{status}[/COLOR]"
+msgstr "الحالة: [COLOR {color}]{status}[/COLOR]"
 
 msgctxt "#30413"
 msgid "ACTIVATED"
-msgstr "ATIVADO"
+msgstr "نشط"
 
 msgctxt "#30414"
 msgid "DEACTIVATED"
-msgstr "DESATIVADO"
+msgstr "غير نشط"
 
 msgctxt "#30415"
 msgid "Turn Log Off"
-msgstr "Desligar Log"
+msgstr "تعطيل السجل"
 
 msgctxt "#30416"
 msgid "Turn Log On"
-msgstr "Ligar Log"
+msgstr "تفعيل السجل"
 
 msgctxt "#30417"
 msgid "TV Shows"
-msgstr "Séries"
+msgstr "مسلسلات"
 
 msgctxt "#30418"
 msgid "Home"
-msgstr "Início"
+msgstr "الرئيسية"
 
 msgctxt "#30419"
 msgid "Radio"
-msgstr "Rádio"
+msgstr "راديو"
 
 msgctxt "#30420"
 msgid "Music Videos"
-msgstr "Vídeos Musicais"
+msgstr "فيديوهات موسيقية"
 
 msgctxt "#30421"
 msgid "Weather"
-msgstr "Clima"
+msgstr "الطقس"
 
 msgctxt "#30422"
 msgid "Settings"
-msgstr "Configurações"
+msgstr "الإعدادات"
 
 msgctxt "#30423"
 msgid "File Manager"
-msgstr "Gerenciador de Arquivos"
+msgstr "مدير الملفات"
 
 msgctxt "#30424"
 msgid "System Info"
-msgstr "Info do Sistema"
+msgstr "معلومات النظام"
 
 msgctxt "#30425"
 msgid "Events / Log"
-msgstr "Eventos / Log"
+msgstr "سجل الأحداث"
 
 msgctxt "#30426"
 msgid "Addons (Browser)"
-msgstr "Addons (Navegador)"
+msgstr "الإضافات (متصفح)"
 
 msgctxt "#30427"
 msgid "Reload Skin"
-msgstr "Recarregar Skin"
+msgstr "إعادة تحميل المظهر"
 
 msgctxt "#30428"
 msgid "Skin Settings"
-msgstr "Configurações da Skin"
+msgstr "إعدادات المظهر"
 
 msgctxt "#30429"
-msgid "Created by RubénSDFA1laberot - v"
-msgstr "Criado por RubénSDFA1laberot - v"
+msgid "Created by RubénSDFA1labernt - v"
+msgstr "الإصدار: "
 
 msgctxt "#30430"
 msgid "Back"
-msgstr "Voltar"
+msgstr "عودة"
 
 msgctxt "#30431"
 msgid "Swap Mode"
-msgstr "Modo Trocar"
+msgstr "وضع التبديل"
 
 msgctxt "#30432"
 msgid "Insert Before"
-msgstr "Inserir Antes"
+msgstr "إدراج قبل"
 
 msgctxt "#30433"
 msgid "Insert After"
-msgstr "Inserir Depois"
+msgstr "إدراج بعد"
 
 msgctxt "#30434"
 msgid "Arrow Mode"
-msgstr "Modo Direcional"
+msgstr "وضع الأسهم"
 
 msgctxt "#30435"
 msgid "Save / Exit"
-msgstr "Salvar / Sair"
+msgstr "حفظ / خروج"
 
 msgctxt "#30436"
 msgid "Save / Exit (*)"
-msgstr "Salvar / Sair (*)"
+msgstr "حفظ / خروج (*)"
 
 msgctxt "#30437"
 msgid "Add..."
-msgstr "Adicionar..."
+msgstr "إضافة..."
 
 msgctxt "#30438"
 msgid "Multiselect Mode"
-msgstr "Modo Multiseleção"
+msgstr "وضع التحديد المتعدد"
 
 msgctxt "#30439"
 msgid "Backup / Restore"
-msgstr "Backup / Restaurar"
+msgstr "نسخ احتياطي / استعادة"
 
 msgctxt "#30440"
 msgid "Sort"
-msgstr "Ordenar"
+msgstr "فرز"
 
 msgctxt "#30441"
 msgid "Undo / Reset"
-msgstr "Desfazer / Redefinir"
+msgstr "تم تحميل الحالة الأصلية"
 
 msgctxt "#30442"
 msgid "Help / Instructions"
-msgstr "Ajuda / Instruções"
+msgstr "مساعدة / تعليمات"
 
 msgctxt "#30443"
 msgid "Exit (Discard)"
-msgstr "Sair (Descartar)"
+msgstr "خروج (تجاهل)"
 
 msgctxt "#30444"
 msgid "Move to..."
-msgstr "Mover para..."
+msgstr "نقل إلى..."
 
 msgctxt "#30445"
 msgid "Change Color"
-msgstr "Alterar Cor"
+msgstr "تغيير اللون"
 
 msgctxt "#30446"
 msgid "Delete Selected"
-msgstr "Excluir Selecionados"
+msgstr "حذف المحدد"
 
 msgctxt "#30447"
 msgid "CANCEL / EXIT"
-msgstr "CANCELAR / SAIR"
+msgstr "إلغاء / خروج"
 
 msgctxt "#30448"
 msgid "BULK ACTIONS"
-msgstr "AÇÕES EM MASSA"
+msgstr "إجراءات جماعية"
 
 msgctxt "#30449"
 msgid "Section"
-msgstr "Seção"
+msgstr "قسم"
 
 msgctxt "#30450"
 msgid "Attention"
-msgstr "Atenção"
+msgstr "تنبيه"
 
 msgctxt "#30451"
 msgid "Hidden Credits"
-msgstr "Créditos Ocultos"
+msgstr "وضع بيضة الفصح"
 
 msgctxt "#30452"
 msgid "Kodi Sections"
-msgstr "Seções do Kodi"
+msgstr "أقسام كودي"
 
 msgctxt "#30453"
 msgid "System Commands"
-msgstr "Comandos do Sistema"
+msgstr "أوامر النظام"
 
 msgctxt "#30454"
 msgid "{} icons assigned"
-msgstr "{} ícones atribuídos"
+msgstr "تم استعادة {} أيقونة"
 
 msgctxt "#30455"
 msgid " (copy)"
-msgstr " (cópia)"
+msgstr " (نسخة)"
 
 msgctxt "#30456"
 msgid "Save as New Profile"
-msgstr "Salvar como Novo Perfil"
+msgstr "حفظ كملف تعريف جديد"
 
 msgctxt "#30457"
 msgid "Create a backup of your favorites or restore a previous one."
-msgstr "Crie um backup dos seus favoritos ou restaure um anterior."
+msgstr "إدارة النسخ الاحتياطي واستيراد XML."
+
 
 msgctxt "#30458"
 msgid "Show 'Add to Flow FavManager' in menus"
-msgstr "Mostrar 'Adicionar ao Flow FavManager' nos menus"
+msgstr "إظهار 'إضافة إلى Flow FavManager' في القوائم"
+
 
 msgctxt "#30459"
 msgid "Auto-start"
-msgstr "Início automático"
+msgstr "بدء تلقائي"
 
 msgctxt "#30460"
 msgid "Launch favorites automatically when Kodi starts."
-msgstr "Inicia favoritos automaticamente ao iniciar o Kodi."
+msgstr "تشغيل المفضلة تلقائيًا عند بدء Kodi."
 
 msgctxt "#30461"
 msgid "No delay"
-msgstr "Sem espera"
+msgstr "بدون تأخير"
 
 msgctxt "#30462"
 msgid "Delay before launching"
-msgstr "Atraso antes de iniciar"
+msgstr "التأخير قبل التشغيل"
 
 msgctxt "#30463"
 msgid "Select favorite to launch at startup"
-msgstr "Selecionar favorito para iniciar no arranque"
+msgstr "حدد المفضلة للتشغيل عند بدء التشغيل"
 
 msgctxt "#30464"
 msgid "Not configured"
-msgstr "Não configurado"
+msgstr "غير مكون"
 
 msgctxt "#30465"
 msgid "Change favorite"
-msgstr "Alterar favorito"
+msgstr "تغيير المفضلة"
 
 msgctxt "#30466"
 msgid "Change delay"
-msgstr "Alterar atraso"
+msgstr "تغيير التأخير"
 
 msgctxt "#30467"
 msgid "Disable this slot"
-msgstr "Desativar este slot"
+msgstr "تعطيل هذه الخانة"
 
 msgctxt "#30468"
 msgid "No favorites available"
-msgstr "Nenhum favorito disponível"
+msgstr "لا توجد مفضلات متاحة"
 
 msgctxt "#30469"
 msgid "Favorite {}"
-msgstr "Favorito {}"
+msgstr "المفضلة {}"
 
 msgctxt "#30470"
 msgid "Auto-start configured"
-msgstr "Início automático configurado"
+msgstr "تم تكوين البدء التلقائي"
 
 msgctxt "#30471"
 msgid "Slot disabled"
-msgstr "Slot desativado"
+msgstr "الخانة معطلة"
 
 msgctxt "#30472"
 msgid "Web Remote"
-msgstr "Controle remoto web"
+msgstr "جهاز التحكم عن بعد عبر الويب"
 
 msgctxt "#30473"
 msgid "Web remote port"
-msgstr "Porta do controle remoto web"
+msgstr "منفذ جهاز التحكم عن بعد عبر الويب"
 
 msgctxt "#30474"
 msgid "Manage favourites from your phone's browser"
-msgstr "Gerencie os favoritos pelo navegador do celular"
+msgstr "إدارة المفضلات من متصفح هاتفك"
 
 msgctxt "#30475"
 msgid "The server is off.\nYou need it running to manage your favourites from your phone's browser."
-msgstr "O servidor está desligado.\nEle precisa estar ativo para gerenciar os favoritos pelo navegador do celular."
+msgstr "الخادم متوقف.\nأنت بحاجة إلى تشغيله لإدارة مفضلاتك من متصفح هاتفك."
 
 msgctxt "#30476"
 msgid "Start"
-msgstr "Iniciar"
+msgstr "بدء"
 
 msgctxt "#30477"
 msgid "Could not start (ports busy?)"
-msgstr "Não foi possível iniciar (portas ocupadas?)"
+msgstr "تعذر البدء (المنافذ مشغولة؟)"
 
 msgctxt "#30478"
 msgid "Open in browser"
-msgstr "Abrir no navegador"
+msgstr "افتح في المتصفح"
 
 msgctxt "#30479"
 msgid "Stop server"
-msgstr "Parar o servidor"
+msgstr "إيقاف الخادم"
 
 msgctxt "#30480"
 msgid "Open this address in your browser:\n[B]{}[/B]"
-msgstr "Abra este endereço no navegador:\n[B]{}[/B]"
+msgstr "افتح هذا العنوان في متصفحك:\n[B]{}[/B]"
 
 msgctxt "#30481"
 msgid "Server stopped"
-msgstr "Servidor parado"
+msgstr "تم إيقاف الخادم"
 
 msgctxt "#30485"
 msgid "Add text in bulk ({0} items)"
-msgstr "Adicionar texto em lote ({0} itens)"
+msgstr "إضافة نص بكميات كبيرة ({0} عناصر)"
 
 msgctxt "#30486"
 msgid "Prefix"
-msgstr "Prefix"
+msgstr "بادئة"
 
 msgctxt "#30487"
 msgid "Suffix"
-msgstr "Suffix"
+msgstr "لاحقة"
 
 msgctxt "#30488"
 msgid "Text to add"
-msgstr "Texto a adicionar"
+msgstr "نص للإضافة"
 
 msgctxt "#30489"
 msgid "Text color"
-msgstr "Cor do texto"
+msgstr "لون النص"
 
 msgctxt "#30490"
 msgid "Prefix / Suffix"
-msgstr "Prefix / Suffix"
+msgstr "بادئة / لاحقة"
 
 msgctxt "#30491"
 msgid "Open loiolog (Advanced Log Viewer)"
-msgstr "Abrir loiolog (Visualizador de log avançado)"
+msgstr "افتح loiolog (عارض سجلات متقدم)"
 
 msgctxt "#30492"
 msgid "{0} is already installed"
-msgstr "{0} já está instalado"
+msgstr "{0} مثبت بالفعل"
 
 msgctxt "#30493"
 msgid "{0} reactivated successfully"
-msgstr "{0} reativado com sucesso"
+msgstr "تمت إعادة تنشيط {0} بنجاح"
 
 msgctxt "#30494"
 msgid "The 'requests' library is not available.\n\nPlease restart Kodi to load the new dependencies and try again."
-msgstr "A biblioteca 'requests' não está disponível.\n\nPor favor, reinicie o Kodi para carregar as novas dependências e tente novamente."
+msgstr "مكتبة 'requests' غير متوفرة.\n\nيرجى إعادة تشغيل Kodi لتحميل التبعيات الجديدة والمحاولة مرة أخرى."
 
 msgctxt "#30495"
 msgid "Downloading {0} repository..."
-msgstr "Baixando repositório de {0}..."
+msgstr "جاري تنزيل مستودع {0}..."
 
 msgctxt "#30496"
 msgid "Installing {0}..."
-msgstr "Instalando {0}..."
+msgstr "جاري تثبيت {0}..."
 
 msgctxt "#30497"
 msgid "Downloading repository..."
-msgstr "Baixando repositório..."
+msgstr "جاري تنزيل المستودع..."
 
 msgctxt "#30498"
 msgid "Extracting repository..."
-msgstr "Extraindo repositório..."
+msgstr "جاري استخراج المستودع..."
 
 msgctxt "#30499"
 msgid "Registering repository in Kodi..."
-msgstr "Registrando repositório no Kodi..."
+msgstr "جاري تسجيل المستودع في Kodi..."
 
 msgctxt "#30500"
 msgid "Activating repository..."
-msgstr "Ativando repositório..."
+msgstr "تنشيط المستودع..."
 
 msgctxt "#30501"
 msgid "Updating repository index..."
-msgstr "Atualizando índice do repositório..."
+msgstr "تحديث فهرس المستودع..."
 
 msgctxt "#30502"
 msgid "Confirm installation of {0}"
-msgstr "Confirme a instalação de {0}"
+msgstr "تأكيد تثبيت {0}"
 
 msgctxt "#30503"
 msgid "Waiting for {0} installation..."
-msgstr "Aguardando instalação de {0}..."
+msgstr "في انتظار تثبيت {0}..."
 
 msgctxt "#30504"
 msgid "{0} installed successfully"
-msgstr "{0} instalado com sucesso"
+msgstr "تم تثبيت {0} بنجاح"
 
 msgctxt "#30505"
 msgid "Auto-installing {0} (fallback)..."
-msgstr "Instalação automática de {0} (fallback)..."
+msgstr "التثبيت التلقائي لـ {0} (بديل)..."
 
 msgctxt "#30506"
 msgid "The {0} repository was installed, but the addon installation did not complete.\n\nTo finish manually:\nAddons - Install from repository - {0} - Install"
-msgstr "O repositório de {0} foi instalado, mas a instalação do addon não foi concluída.\n\nPara concluir manualmente:\nAddons - Instalar do repositório - {0} - Instalar"
+msgstr "تم تثبيت مستودع {0} ، ولكن لم يكتمل تثبيت الإضافة.\n\nللإنهاء يدويًا:\nالإضافات - التثبيت من المستودع - {0} - تثبيت"
 
 msgctxt "#30507"
 msgid "Installation error"
-msgstr "Erro de instalação"
+msgstr "خطأ في التثبيت"
 
 msgctxt "#30508"
 msgid "Could not install {0} automatically.\n\nError: {1}\n\nYou may need to enable Unknown Sources in Settings."
-msgstr "Não foi possível instalar {0} automaticamente.\n\nErro: {1}\n\nTalvez seja necessário ativar Fontes desconhecidas nas Configurações."
+msgstr "تعذر تثبيت {0} تلقائيًا.\n\nالخطأ: {1}\n\nقد تحتاج إلى تمكين مصادر غير معروفة في الإعدادات."
+
 
 msgctxt "#30510"
 msgid "Opening loiolog..."
-msgstr "Abrindo loiolog..."
+msgstr "جاري فتح loiolog..."
 
 msgctxt "#30511"
 msgid "loiolog - installation"
-msgstr "loiolog - instalação"
+msgstr "loiolog - التثبيت"
 
 msgctxt "#30512"
 msgid "Auto installer (recommended)"
-msgstr "Instalador automático (recomendado)"
+msgstr "المثبت التلقائي (موصى به)"
 
 msgctxt "#30513"
 msgid "View manual installation instructions"
-msgstr "Ver instruções de instalação manual"
+msgstr "عرض إرشادات التثبيت اليدوي"
 
 msgctxt "#30514"
 msgid "loiolog is not installed.\n\nDownload and install automatically?"
-msgstr "loiolog não está instalado.\n\nBaixar e instalar automaticamente?"
+msgstr "loiolog غير مثبت.\n\nتنزيل وتثبيت تلقائيًا؟"
 
 msgctxt "#30515"
 msgid "loiolog instructions"
-msgstr "Instruções loiolog"
+msgstr "تعليمات loiolog"
 
 msgctxt "#30516"
 msgid "[B]How to install loiolog[/B]\n\n1. Settings - System - Addons - enable Unknown Sources\n\n2. Settings - File Manager - Add source:\n   {0}\n\n3. Addons - Install from zip file - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. Install from repository - loiolog - Program Addons - loiolog"
-msgstr "[B]Como instalar loiolog[/B]\n\n1. Configurações - Sistema - Addons - ativar Fontes desconhecidas\n\n2. Configurações - Gerenciador de arquivos - Adicionar fonte:\n   {0}\n\n3. Addons - Instalar de arquivo zip - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. Instalar do repositório - loiolog - Addons de programa - loiolog"
+msgstr "[B]كيفية تثبيت loiolog[/B]\n\n1. الإعدادات - النظام - الإضافات - تمكين مصادر غير معروفة\n\n2. الإعدادات - مدير الملفات - إضافة مصدر:\n   {0}\n\n3. الإضافات - التثبيت من ملف zip - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. التثبيت من المستودع - loiolog - إضافات البرامج - loiolog"
 
 msgctxt "#30517"
 msgid "Add advanced editor to Kodi favourites"
-msgstr "Adicionar editor avançado aos favoritos do Kodi"
+msgstr "أضف محررًا متقدمًا إلى مفضلات Kodi"
 
 msgctxt "#30518"
 msgid "Advanced editor added. Reload skin or restart Kodi to see it"
-msgstr "Editor adicionado. Recarregue a skin ou reinicie o Kodi"
+msgstr "تمت إضافة المحرر المتقدم. أعد تحميل المظهر أو أعد تشغيل Kodi لرؤيته"
 
 msgctxt "#30519"
 msgid "Advanced editor already in Kodi favourites"
-msgstr "Editor avançado já existe nos favoritos do Kodi"
+msgstr "المحرر المتقدم موجود بالفعل في مفضلات Kodi"
 
 msgctxt "#30520"
 msgid "Close"
-msgstr "Fechar"
+msgstr "إغلاق"
 
 msgctxt "#30521"
 msgid "Add the Advanced Editor to Kodi favourites?\n\nAllows opening it directly without launching the addon.\n\nIf cancelled, it can be added later from Settings. Kodi must be restarted for it to appear in the favourites list."
-msgstr "Adicionar o Editor Avançado aos favoritos do Kodi?\n\nPermite abri-lo diretamente sem iniciar o addon.\n\nSe cancelado, pode ser adicionado depois nas Configurações. O Kodi deve ser reiniciado para que apareça na lista de favoritos."
+msgstr "هل تريد إضافة المحرر المتقدم إلى مفضلات Kodi؟\n\nيسمح بفتحه مباشرة دون تشغيل الإضافة.\n\nإذا تم الإلغاء، يمكن إضافته لاحقًا من الإعدادات. يجب إعادة تشغيل Kodi حتى يظهر في قائمة المفضلات."
 
 msgctxt "#30522"
 msgid "Flow FavManager"
@@ -2088,4 +2092,4 @@ msgstr "Flow FavManager"
 
 msgctxt "#30523"
 msgid "The favourites file is corrupted or unreadable.\nThe editor will not open to avoid overwriting it and losing your favourites.\nRestore a backup or fix the file before continuing."
-msgstr "O arquivo de favoritos está corrompido ou ilegível.\nO editor não será aberto para evitar sobrescrevê-lo e perder seus favoritos.\nRestaure um backup ou corrija o arquivo antes de continuar."
+msgstr "ملف المفضلات تالف أو غير قابل للقراءة.\nلن يفتح المحرر لتجنب الكتابة فوقه وفقدان مفضلاتك.\nقم باستعادة نسخة احتياطية أو إصلاح الملف قبل المتابعة."

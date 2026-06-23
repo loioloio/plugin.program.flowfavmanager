@@ -11,128 +11,129 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
 
 msgctxt "#30000"
-msgid "Editor"
-msgstr "Editor"
+msgid "Customization"
+msgstr "自定义"
 
 msgctxt "#30001"
 msgid "List Layout"
-msgstr "Layout da Lista"
+msgstr "列表布局"
 
 msgctxt "#30002"
 msgid "Simple List"
-msgstr "Lista Simples"
+msgstr "简单列表"
 
 msgctxt "#30003"
 msgid "Grid (Thumbnails)"
-msgstr "Grade (Miniaturas)"
+msgstr "网格 (缩略图)"
 
 msgctxt "#30004"
 msgid "Icon Scale"
-msgstr "Escala do Ícone"
+msgstr "图标缩放"
 
 msgctxt "#30005"
 msgid "Default"
-msgstr "Padrão"
+msgstr "默认"
 
 msgctxt "#30006"
 msgid "Large"
-msgstr "Grande"
+msgstr "大"
 
 msgctxt "#30007"
 msgid "Text Size"
-msgstr "Tamanho do Texto"
+msgstr "文本大小"
 
 msgctxt "#30008"
 msgid "Small"
-msgstr "Pequeno"
+msgstr "小"
 
 msgctxt "#30009"
 msgid "Medium"
-msgstr "Médio"
+msgstr "中"
 
 msgctxt "#30010"
 msgid "Colors & Accessibility"
-msgstr "Cores e Acessibilidade"
+msgstr "颜色与辅助功能"
 
 msgctxt "#30011"
 msgid "Background Color"
-msgstr "Cor de Fundo"
+msgstr "背景颜色"
 
 msgctxt "#30012"
 msgid "Dark (Default)"
-msgstr "Escuro (Padrão)"
+msgstr "深色 (默认)"
 
 msgctxt "#30013"
 msgid "Light"
-msgstr "Claro"
+msgstr "浅色"
 
 msgctxt "#30014"
 msgid "Neutral Gray"
-msgstr "Cinza Neutro"
+msgstr "中性灰"
 
 msgctxt "#30015"
 msgid "Deep Blue"
-msgstr "Azul Profundo"
+msgstr "深蓝色"
 
 msgctxt "#30016"
 msgid "Selection Color"
-msgstr "Cor de Seleção"
+msgstr "选中颜色"
 
 msgctxt "#30017"
 msgid "Cyan (Default)"
-msgstr "Ciano (Padrão)"
+msgstr "青色 (默认)"
 
 msgctxt "#30018"
 msgid "Green"
-msgstr "Verde"
+msgstr "绿色"
 
 msgctxt "#30019"
 msgid "Yellow"
-msgstr "Amarelo"
+msgstr "黄色"
 
 msgctxt "#30020"
 msgid "Red"
-msgstr "Vermelho"
+msgstr "红色"
 
 msgctxt "#30021"
 msgid "Orange"
-msgstr "Laranja"
+msgstr "橙色"
 
 msgctxt "#30022"
 msgid "Violet"
-msgstr "Violeta"
+msgstr "紫色"
 
 msgctxt "#30023"
 msgid "Multiselect Color"
-msgstr "Cor de Multiseleção"
+msgstr "多选颜色"
 
 msgctxt "#30024"
 msgid "Green (Default)"
-msgstr "Verde (Padrão)"
+msgstr "绿色 (默认)"
 
 msgctxt "#30025"
 msgid "Magenta"
-msgstr "Magenta"
+msgstr "洋红色"
 
 msgctxt "#30026"
 msgid "White"
-msgstr "Branco"
+msgstr "白色"
 
 msgctxt "#30027"
 msgid "Colorblind Mode (High Contrast)"
-msgstr "Modo para Daltônicos (Alto Contraste)"
+msgstr "色盲模式 (高对比度)"
 
 msgctxt "#30028"
 msgid "Advanced"
-msgstr "Avançado"
+msgstr "高级"
 
 msgctxt "#30029"
 msgid "Enable Audit Log (Security)"
-msgstr "Habilitar Log de Auditoria (Segurança)"
+msgstr "启用审计日志 (安全)"
 
 msgctxt "#30030"
 msgid "Flow FavManager"
@@ -140,1947 +141,1950 @@ msgstr "Flow FavManager"
 
 msgctxt "#30031"
 msgid "Could not retrieve item information"
-msgstr "Não foi possível obter informações do item"
+msgstr "无法检索项目信息"
 
 msgctxt "#30032"
 msgid "No Profiles"
-msgstr "Sem Perfis"
+msgstr "无配置文件"
 
 msgctxt "#30033"
 msgid "No created profiles found.\nDo you want to create one now?"
-msgstr "Nenhum perfil criado encontrado.\nDeseja criar um agora?"
+msgstr "未找到已创建的配置文件。\n现在要创建一个吗？"
 
 msgctxt "#30034"
 msgid "My Favorites"
-msgstr "Meus Favoritos"
+msgstr "我的收藏"
 
 msgctxt "#30035"
 msgid "New profile name"
-msgstr "Nome do novo perfil"
+msgstr "新配置文件名称"
 
 msgctxt "#30036"
 msgid "Profile Created"
-msgstr "Perfil Criado"
+msgstr "配置文件已创建"
 
 msgctxt "#30037"
 msgid "'{}' added to '{}'"
-msgstr "'{}' adicionado a '{}'"
+msgstr "“{}”已添加到“{}”"
 
 msgctxt "#30038"
 msgid "[COLOR lime]+ Create New Profile[/COLOR]"
-msgstr "[COLOR lime]+ Criar Novo Perfil[/COLOR]"
+msgstr "[COLOR lime]+ 创建新配置文件[/COLOR]"
 
 msgctxt "#30039"
 msgid "Add '{}...' to:"
-msgstr "Adicionar '{}...' a:"
+msgstr "将“{}...”添加到："
 
 msgctxt "#30040"
 msgid "Already Exists"
-msgstr "Já Existe"
+msgstr "已存在"
 
 msgctxt "#30041"
 msgid "'{}' is already in '{}'"
-msgstr "'{}' já está em '{}'"
+msgstr "“{}”已在“{}”中"
 
 msgctxt "#30042"
 msgid "Added"
-msgstr "Adicionado"
+msgstr "已添加"
 
 msgctxt "#30043"
 msgid "'{}' → '{}'"
-msgstr "'{}' → '{}'"
+msgstr "“{}” → “{}”"
 
 msgctxt "#30044"
 msgid "Error"
-msgstr "Erro"
+msgstr "错误"
 
 msgctxt "#30045"
 msgid "Failed to save profile"
-msgstr "Falha ao salvar o perfil"
+msgstr "保存配置文件失败"
 
 msgctxt "#30046"
 msgid "Could not add to profile"
-msgstr "Não foi possível adicionar ao perfil"
+msgstr "无法添加到配置文件"
 
 msgctxt "#30047"
 msgid "Incorrect PIN"
-msgstr "PIN Incorreto"
+msgstr "PIN 码错误"
 
 msgctxt "#30048"
 msgid "{} attempts remaining"
-msgstr "{} tentativas restantes"
+msgstr "剩余 {} 次尝试"
 
 msgctxt "#30049"
 msgid "Incorrect PIN - Recovery"
-msgstr "PIN Incorreto - Recuperação"
+msgstr "PIN 码错误 - 恢复"
 
 msgctxt "#30050"
 msgid "Answer Security Question"
-msgstr "Responder Pergunta de Segurança"
+msgstr "回答安全问题"
 
 msgctxt "#30051"
 msgid "Cancel (Close Addon)"
-msgstr "Cancelar (Fechar Addon)"
+msgstr "取消 (关闭插件)"
 
 msgctxt "#30052"
 msgid "Question not set?"
-msgstr "Pergunta não configurada?"
+msgstr "未设置问题？"
 
 msgctxt "#30053"
 msgid "No security question set.\n\nYou can create a 'reset_pass.txt' file in the addon folder to reset."
-msgstr "Nenhuma pergunta de segurança configurada.\n\nVocê pode criar um arquivo 'reset_pass.txt' na pasta do addon para redefinir."
+msgstr "未设置安全问题。\n\n您可以在插件文件夹中创建一个“reset_pass.txt”文件来重置。"
 
 msgctxt "#30054"
 msgid "Access Recovered"
-msgstr "Acesso Recuperado"
+msgstr "访问已恢复"
 
 msgctxt "#30055"
 msgid "Correct answer.\nProtection is temporarily disabled.\nRemember to set a new PIN."
-msgstr "Resposta correta.\nA proteção está temporariamente desativada.\nLembre-se de definir um novo PIN."
+msgstr "回答正确。\n防护已暂时禁用。\n请记得设置新的 PIN 码。"
 
 msgctxt "#30056"
 msgid "Incorrect Answer"
-msgstr "Resposta Incorreta"
+msgstr "回答错误"
 
 msgctxt "#30057"
 msgid "Could not verify.\n\nIf you forgot both, create an empty file named 'reset_pass.txt' in:\n"
-msgstr "Não foi possível verificar.\n\nSe você esqueceu ambos, crie um arquivo vazio chamado 'reset_pass.txt' em:\n"
+msgstr "无法验证。\n\n如果您两个都忘了，请在以下位置创建一个名为“reset_pass.txt”的空文件：\n"
 
 msgctxt "#30058"
 msgid "Security and Password"
-msgstr "Segurança e Senha"
+msgstr "安全与密码"
 
 msgctxt "#30059"
 msgid "ENABLED"
-msgstr "ATIVADO"
+msgstr "已启用"
 
 msgctxt "#30060"
 msgid "Disabled"
-msgstr "Desativado"
+msgstr "已禁用"
 
 msgctxt "#30061"
 msgid "Status: {}"
-msgstr "Status: {}"
+msgstr "状态: {}"
 
 msgctxt "#30062"
 msgid "Change PIN"
-msgstr "Alterar PIN"
+msgstr "更改 PIN 码"
 
 msgctxt "#30063"
 msgid "Set PIN"
-msgstr "Definir PIN"
+msgstr "设置 PIN 码"
 
 msgctxt "#30064"
 msgid "Set Security Question"
-msgstr "Definir Pergunta de Segurança"
+msgstr "设置安全问题"
 
 msgctxt "#30065"
 msgid "Enable Protection"
-msgstr "Ativar Proteção"
+msgstr "启用防护"
 
 msgctxt "#30066"
 msgid "Disable Protection"
-msgstr "Desativar Proteção"
+msgstr "禁用防护"
 
 msgctxt "#30067"
 msgid "« Back"
-msgstr "« Voltar"
+msgstr "« 返回"
 
 msgctxt "#30068"
 msgid "Security Information"
-msgstr "Informações de Segurança"
+msgstr "安全信息"
 
 msgctxt "#30069"
 msgid "PIN protection prevents unauthorized persons from accessing the addon.\n\n"
-msgstr "A proteção por PIN evita o acesso de pessoas não autorizadas ao addon.\n\n"
+msgstr "PIN 码保护可防止未经授权的人员访问该插件。\n\n"
 
 msgctxt "#30070"
 msgid "Question set: {}"
-msgstr "Pergunta definida: {}"
+msgstr "已设置问题: {}"
 
 msgctxt "#30071"
 msgid "Yes"
-msgstr "Sim"
+msgstr "是"
 
 msgctxt "#30072"
 msgid "No"
-msgstr "Não"
+msgstr "否"
 
 msgctxt "#30073"
 msgid "To recover access if you forget the PIN:\n1. Answer the security question.\n2. Or create a 'reset_pass.txt' file in:\n"
-msgstr "Para recuperar o acesso se você esquecer o PIN:\n1. Responda à pergunta de segurança.\n2. Ou crie um arquivo 'reset_pass.txt' em:\n"
+msgstr "如果忘记 PIN 码要恢复访问：\n1. 回答安全问题。\n2. 或者在以下位置创建一个“reset_pass.txt”文件：\n"
 
 msgctxt "#30074"
 msgid "Enter new PIN (recommended numbers)"
-msgstr "Digite o novo PIN (recomenda-se números)"
+msgstr "输入新 PIN 码 (建议使用数字)"
 
 msgctxt "#30075"
 msgid "Confirm PIN"
-msgstr "Confirmar PIN"
+msgstr "确认 PIN 码"
 
 msgctxt "#30076"
 msgid "PIN Saved"
-msgstr "PIN Salvo"
+msgstr "PIN 码已保存"
 
 msgctxt "#30077"
 msgid "Remember to configure security question"
-msgstr "Lembre-se de configurar a pergunta de segurança"
+msgstr "记得配置安全问题"
 
 msgctxt "#30078"
 msgid "PINs do not match"
-msgstr "Os PINs não coincidem"
+msgstr "PIN 码不匹配"
 
 msgctxt "#30079"
 msgid "Choose a security question"
-msgstr "Escolha uma pergunta de segurança"
+msgstr "选择一个安全问题"
 
 msgctxt "#30080"
 msgid "[Write custom question]"
-msgstr "[Escrever pergunta personalizada]"
+msgstr "[填写自定义问题]"
 
 msgctxt "#30081"
 msgid "Write your question"
-msgstr "Escreva sua pergunta"
+msgstr "填写您的问题"
 
 msgctxt "#30082"
 msgid "Answer (case insensitive)"
-msgstr "Resposta (sem distinção de maiúsculas/minúsculas)"
+msgstr "回答 (不区分大小写)"
 
 msgctxt "#30083"
 msgid "Saved"
-msgstr "Salvo"
+msgstr "已保存"
 
 msgctxt "#30084"
 msgid "Security question set"
-msgstr "Pergunta de segurança definida"
+msgstr "安全问题已设置"
 
 msgctxt "#30085"
 msgid "Set a PIN"
-msgstr "Definir um PIN"
+msgstr "设置 PIN 码"
 
 msgctxt "#30086"
 msgid "You must set a PIN before enabling protection."
-msgstr "Você deve definir um PIN antes de ativar a proteção."
+msgstr "在启用防护之前，您必须先设置一个 PIN 码。"
 
 msgctxt "#30087"
 msgid "Warning"
-msgstr "Aviso"
+msgstr "警告"
 
 msgctxt "#30088"
 msgid "You haven't set a security question.\nIf you forget the PIN, you can only recover access via the rescue file.\n\nEnable anyway?"
-msgstr "Você não definiu uma pergunta de segurança.\nSe você esquecer o PIN, só poderá recuperar o acesso pelo arquivo de resgate.\n\nAtivar mesmo assim?"
+msgstr "您尚未设置安全问题。\n如果您忘记了 PIN 码，只能通过救援文件恢复访问。\n\n仍然启用吗？"
 
 msgctxt "#30089"
 msgid "Protection Enabled"
-msgstr "Proteção Ativada"
+msgstr "防护已启用"
 
 msgctxt "#30090"
 msgid "PIN will be asked upon entry"
-msgstr "O PIN será solicitado ao entrar"
+msgstr "进入时将要求输入 PIN 码"
 
 msgctxt "#30091"
 msgid "Protection Disabled"
-msgstr "Proteção Desativada"
+msgstr "防护已禁用"
 
 msgctxt "#30092"
 msgid "Open access"
-msgstr "Acesso livre"
+msgstr "开放访问"
 
 msgctxt "#30093"
 msgid "Dynamic Icons"
-msgstr "Ícones Dinâmicos"
+msgstr "动态图标"
 
 msgctxt "#30094"
 msgid "{} icons recovered"
-msgstr "{} ícones recuperados"
+msgstr "已恢复 {} 个图标"
 
 msgctxt "#30095"
 msgid "Reset"
-msgstr "Redefinir"
+msgstr "重置"
 
 msgctxt "#30096"
 msgid "Discard all changes and return to original state?"
-msgstr "Descartar todas as alterações e voltar ao estado original?"
+msgstr "放弃所有更改并返回原始状态？"
 
 msgctxt "#30097"
 msgid "Reset"
-msgstr "Redefinir"
+msgstr "重置"
 
 msgctxt "#30098"
 msgid "Changes discarded"
-msgstr "Alterações descartadas"
+msgstr "更改已放弃"
 
 msgctxt "#30099"
 msgid "Auto-Group"
-msgstr "Agrupamento Automático"
+msgstr "自动分组"
 
 msgctxt "#30100"
 msgid "This will reorganize your list by grouping favorites from the same addon together (alphabetically).\nNo separators will be created.\nProceed?"
-msgstr "Isso reorganizará sua lista agrupando favoritos do mesmo addon (em ordem alfabética).\nNenhum separador será criado.\nProsseguir?"
+msgstr "这将通过将来自同一插件的收藏归类在一起来重新组织您的列表（按字母顺序）。\n不会创建分隔符。\n继续吗？"
 
 msgctxt "#30101"
 msgid "Grouped"
-msgstr "Agrupado"
+msgstr "已分组"
 
 msgctxt "#30102"
 msgid "List sorted by Type/Addon"
-msgstr "Lista organizada por Tipo/Addon"
+msgstr "列表已按类型/插件排序"
 
 msgctxt "#30103"
 msgid "Help & Instructions"
-msgstr "Ajuda e Instruções"
+msgstr "帮助与说明"
 
 msgctxt "#30104"
 msgid "[B]CURRENT MODE: Swap[/B]\nSelect a favorite then another.\nThey will swap places."
-msgstr "[B]MODO ATUAL: Trocar[/B]\nSelecione um favorito e depois outro.\nEles trocarão de posição."
+msgstr "[B]当前模式: 交换[/B]\n先选择一个收藏，再选择另一个。\n它们将交换位置。"
 
 msgctxt "#30105"
 msgid "[B]CURRENT MODE: Insert Before[/B]\nSelect an item and then the destination.\nThe first will move just [B]before[/B] the second."
-msgstr "[B]MODO ATUAL: Inserir Antes[/B]\nSelecione um item e depois o destino.\nO primeiro será movido para [B]antes[/B] do segundo."
+msgstr "[B]当前模式: 插入向前[/B]\n选择一个项目，然后选择目的地。\n第一个将移动到第二个[B]之前[/B]。"
 
 msgctxt "#30106"
 msgid "[B]CURRENT MODE: Insert After[/B]\nSelect an item then the destination.\nThe first will move just [B]after[/B] the second."
-msgstr "[B]MODO ATUAL: Inserir Depois[/B]\nSelecione um item e depois o destino.\nO primeiro será movido para [B]depois[/B] do segundo."
+msgstr "[B]当前模式: 插入向后[/B]\n选择一个项目，然后选择目的地。\n第一个将移动到第二个[B]之后[/B]。"
 
 msgctxt "#30107"
 msgid "[B]CURRENT MODE: Arrow Move[/B]\nSelect a favorite and use UP/DOWN keys to move it.\nPress the SAME favorite to release it."
-msgstr "[B]MODO ATUAL: Mover com Setas[/B]\nSelecione um favorito e use as teclas CIMA/BAIXO para movê-lo.\nPressione o MESMO favorito para soltá-lo."
+msgstr "[B]当前模式: 箭头移动[/B]\n选择一个收藏并使用上/下键来移动它。\n再次点击该项目可将其释放。"
 
 msgctxt "#30108"
 msgid "\n\n[B]CHANGE MODE:[/B]\nUse the sidebar button to rotate between these behaviors according to your preference."
-msgstr "\n\n[B]ALTERAR MODO:[/B]\nUse o botão lateral para alternar entre estes comportamentos conforme sua preferência."
+msgstr "\n\n[B]更改模式:[/B]\n使用侧边栏按钮根据您的偏好在这些行为之间切换。"
 
 msgctxt "#30109"
 msgid "\n\n[B]CONTEXT MENU[/B] (extra options):"
-msgstr "\n\n[B]MENU DE CONTEXTO[/B] (opções extras):"
+msgstr "\n\n[B]右键菜单[/B] (额外选项):"
 
 msgctxt "#30110"
 msgid "\n- PC: Right Click or 'C' key\n- Remote/TV: 'Menu' button\n- Touch: Long Press"
-msgstr "\n- PC: Clique Direito ou tecla 'C'\n- Controle/TV: Botão 'Menu'\n- Toque: Pressionar Longamente"
+msgstr "\n- PC: 右键点击或“C”键\n- 遥控器/电视: “菜单”键\n- 触摸屏: 长按"
 
 msgctxt "#30111"
 msgid "\n\n[B]TIPS:[/B]\n- [I]Multiselect[/I]: select multiple to move in block\n- [I]Carousel[/I]: In arrow mode, reaching the end jumps to the beginning"
-msgstr "\n\n[B]DICAS:[/B]\n- [I]Multiseleção[/I]: selecione vários para mover em bloco\n- [I]Carrossel[/I]: No modo de setas, ao chegar no fim ele volta para o início"
+msgstr "\n\n[B]提示:[/B]\n- [I]多选[/I]: 选择多个以块的形式移动\n- [I]循环[/I]: 在箭头模式下，到达终点将跳到起点"
 
 msgctxt "#30112"
 msgid "Rename"
-msgstr "Renomear"
+msgstr "重命名"
 
 msgctxt "#30113"
 msgid "Edit Command"
-msgstr "Editar Comando"
+msgstr "编辑命令"
 
 msgctxt "#30114"
 msgid "Change Icon"
-msgstr "Alterar Ícone"
+msgstr "更改图标"
 
 msgctxt "#30115"
 msgid "Change Color"
-msgstr "Alterar Cor"
+msgstr "更改颜色"
 
 msgctxt "#30116"
 msgid "Change Format"
-msgstr "Alterar Formato"
+msgstr "更改格式"
 
 msgctxt "#30117"
 msgid "Move"
-msgstr "Mover"
+msgstr "移动"
 
 msgctxt "#30118"
 msgid "Duplicate"
-msgstr "Duplicar"
+msgstr "复制"
 
 msgctxt "#30119"
 msgid "Delete"
-msgstr "Excluir"
+msgstr "删除"
 
 msgctxt "#30120"
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "取消"
 
 msgctxt "#30121"
 msgid "Duplicated"
-msgstr "Duplicado"
+msgstr "已复制"
 
 msgctxt "#30122"
 msgid "Move item"
-msgstr "Mover item"
+msgstr "移动项目"
 
 msgctxt "#30123"
 msgid "↑ Move 1 up"
-msgstr "↑ Mover 1 para cima"
+msgstr "↑ 向上移动 1"
 
 msgctxt "#30124"
 msgid "↑↑ Move 5 up"
-msgstr "↑↑ Mover 5 para cima"
+msgstr "↑↑ 向上移动 5"
 
 msgctxt "#30125"
 msgid "↑↑↑ Move 10 up"
-msgstr "↑↑↑ Mover 10 para cima"
+msgstr "↑↑↑ 向上移动 10"
 
 msgctxt "#30126"
 msgid "^^^ [B]TO THE TOP[/B]"
-msgstr "^^^ [B]PARA O TOPO[/B]"
+msgstr "^^^ [B]到顶部[/B]"
 
 msgctxt "#30127"
 msgid "↓ Move 1 down"
-msgstr "↓ Mover 1 para baixo"
+msgstr "↓ 向下移动 1"
 
 msgctxt "#30128"
 msgid "↓↓ Move 5 down"
-msgstr "↓↓ Mover 5 para baixo"
+msgstr "↓↓ 向下移动 5"
 
 msgctxt "#30129"
 msgid "↓↓↓ Move 10 down"
-msgstr "↓↓↓ Mover 10 para baixo"
+msgstr "↓↓↓ 向下移动 10"
 
 msgctxt "#30130"
 msgid "vvv [B]TO THE BOTTOM[/B]"
-msgstr "vvv [B]PARA O FINAL[/B]"
+msgstr "vvv [B]到底部[/B]"
 
 msgctxt "#30131"
 msgid "Sort favorites"
-msgstr "Ordenar favoritos"
+msgstr "排序收藏"
 
 msgctxt "#30132"
 msgid "Sort A → Z"
-msgstr "Ordenar A → Z"
+msgstr "按 A → Z 排序"
 
 msgctxt "#30133"
 msgid "Sort Z → A"
-msgstr "Ordenar Z → A"
+msgstr "按 Z → A 排序"
 
 msgctxt "#30134"
 msgid "Reverse order (flip list)"
-msgstr "Inverter ordem (espelhar lista)"
+msgstr "反序 (翻转列表)"
 
 msgctxt "#30135"
 msgid "Group by TYPE / ADDON"
-msgstr "Agrupar por TIPO / ADDON"
+msgstr "按 类型/插件 分组"
 
 msgctxt "#30136"
 msgid "Sorted A → Z"
-msgstr "Ordenado A → Z"
+msgstr "已按 A → Z 排序"
 
 msgctxt "#30137"
 msgid "Sorted Z → A"
-msgstr "Ordenado Z → A"
+msgstr "已按 Z → A 排序"
 
 msgctxt "#30138"
 msgid "Order reversed"
-msgstr "Ordem invertida"
+msgstr "排序已反转"
 
 msgctxt "#30139"
 msgid "Sorted"
-msgstr "Ordenado"
+msgstr "已排序"
 
 msgctxt "#30140"
 msgid "Profile Saved"
-msgstr "Perfil Salvo"
+msgstr "配置文件已保存"
 
 msgctxt "#30141"
 msgid "Saved as '{}'"
-msgstr "Salvo como '{}'"
+msgstr "已另存为“{}”"
 
 msgctxt "#30142"
 msgid "Select Color"
-msgstr "Selecionar Cor"
+msgstr "选择颜色"
 
 msgctxt "#30143"
 msgid "No color"
-msgstr "Sem cor"
+msgstr "无颜色"
 
 msgctxt "#30144"
 msgid "White"
-msgstr "Branco"
+msgstr "白色"
 
 msgctxt "#30145"
 msgid "Yellow"
-msgstr "Amarelo"
+msgstr "黄色"
 
 msgctxt "#30146"
 msgid "Orange"
-msgstr "Laranja"
+msgstr "橙色"
 
 msgctxt "#30147"
 msgid "Red"
-msgstr "Vermelho"
+msgstr "红色"
 
 msgctxt "#30148"
 msgid "Pink"
-msgstr "Rosa"
+msgstr "粉色"
 
 msgctxt "#30149"
 msgid "Violet"
-msgstr "Violeta"
+msgstr "紫色"
 
 msgctxt "#30150"
 msgid "Blue"
-msgstr "Azul"
+msgstr "蓝色"
 
 msgctxt "#30151"
 msgid "Cyan"
-msgstr "Ciano"
+msgstr "青色"
 
 msgctxt "#30152"
 msgid "Green"
-msgstr "Verde"
+msgstr "绿色"
 
 msgctxt "#30153"
 msgid "Lime"
-msgstr "Lima"
+msgstr "石灰绿"
 
 msgctxt "#30154"
 msgid "Select Format"
-msgstr "Selecionar Formato"
+msgstr "选择格式"
 
 msgctxt "#30155"
 msgid "No format"
-msgstr "Sem formato"
+msgstr "无格式"
 
 msgctxt "#30156"
 msgid "Bold"
-msgstr "Negrito"
+msgstr "粗体"
 
 msgctxt "#30157"
 msgid "Italic"
-msgstr "Itálico"
+msgstr "斜体"
 
 msgctxt "#30158"
 msgid "Bold + Italic"
-msgstr "Negrito + Itálico"
+msgstr "粗斜体"
 
 msgctxt "#30159"
 msgid "UPPERCASE"
-msgstr "MAIÚSCULAS"
+msgstr "全大写"
 
 msgctxt "#30160"
 msgid "Rename Favorite"
-msgstr "Renomear Favorito"
+msgstr "重命名收藏"
 
 msgctxt "#30161"
 msgid "Edit Command / Path"
-msgstr "Editar Comando / Caminho"
+msgstr "编辑命令/路径"
 
 msgctxt "#30162"
 msgid "Updated"
-msgstr "Atualizado"
+msgstr "已更新"
 
 msgctxt "#30163"
 msgid "Command changed"
-msgstr "Comando alterado"
+msgstr "命令已更改"
 
 msgctxt "#30164"
 msgid "Separator only"
-msgstr "Somente o separador"
+msgstr "仅分隔符"
 
 msgctxt "#30165"
 msgid "Separator and all its content"
-msgstr "Separador e todo o seu conteúdo"
+msgstr "分隔符及其所有内容"
 
 msgctxt "#30166"
 msgid "Delete Section: {}"
-msgstr "Excluir Seção: {}"
+msgstr "删除章节: {}"
 
 msgctxt "#30167"
 msgid "Confirm"
-msgstr "Confirmar"
+msgstr "确认"
 
 msgctxt "#30168"
 msgid "Delete '{}'?"
-msgstr "Excluir '{}'?"
+msgstr "删除“{}”吗？"
 
 msgctxt "#30169"
 msgid "Unsaved changes"
-msgstr "Alterações não salvas"
+msgstr "未保存的更改"
 
 msgctxt "#30170"
 msgid "Save and Exit"
-msgstr "Salvar e Sair"
+msgstr "保存并退出"
 
 msgctxt "#30171"
 msgid "Save and Update"
-msgstr "Salvar e Atualizar"
+msgstr "保存并更新"
 
 msgctxt "#30172"
 msgid "Exit without Saving (Discard Changes)"
-msgstr "Sair sem Salvar (Descartar Alterações)"
+msgstr "退出不保存 (放弃更改)"
 
 msgctxt "#30173"
 msgid "Automatically assigned icons detected for some favorites.\nDo you want to keep these new icons?"
-msgstr "Ícones atribuídos automaticamente detectados para alguns favoritos.\nDeseja manter estes novos ícones?"
+msgstr "检测到部分收藏已自动分配图标。\n要保留这些新图标吗？"
 
 msgctxt "#30174"
 msgid "Keep"
-msgstr "Manter"
+msgstr "保留"
 
 msgctxt "#30175"
 msgid "Discard"
-msgstr "Descartar"
+msgstr "放弃"
 
 msgctxt "#30176"
 msgid "Icons"
-msgstr "Ícones"
+msgstr "图标"
 
 msgctxt "#30177"
 msgid "{} icons discarded"
-msgstr "{} ícones descartados"
+msgstr "已放弃 {} 个图标"
 
 msgctxt "#30178"
 msgid "Saved Successfully"
-msgstr "Salvo com Sucesso"
+msgstr "保存成功"
 
 msgctxt "#30179"
 msgid "Could not save."
-msgstr "Não foi possível salvar."
+msgstr "无法保存。"
 
 msgctxt "#30180"
 msgid "[B]Custom / Manual[/B] (Write command)"
-msgstr "[B]Personalizado / Manual[/B] (Escrever comando)"
+msgstr "[B]自定义 / 手动[/B] (填写命令)"
 
 msgctxt "#30181"
 msgid "Installed Addons (Video and Programs)"
-msgstr "Addons Instalados (Vídeo e Programas)"
+msgstr "已安装的插件 (视频与程序)"
 
 msgctxt "#30182"
 msgid "What do you want to add?"
-msgstr "O que você deseja adicionar?"
+msgstr "您想添加什么？"
 
 msgctxt "#30183"
 msgid "Favorite Name"
-msgstr "Nome do Favorito"
+msgstr "收藏名称"
 
 msgctxt "#30184"
 msgid "Path or Command (Ex: ActivateWindow(...))"
-msgstr "Caminho ou Comando (Ex: ActivateWindow(...))"
+msgstr "路径或命令 (例如: ActivateWindow(...))"
 
 msgctxt "#30185"
 msgid "Select Image"
-msgstr "Selecionar Imagem"
+msgstr "选择图像"
 
 msgctxt "#30186"
 msgid "No addons found"
-msgstr "Nenhum addon encontrado"
+msgstr "未找到插件"
 
 msgctxt "#30187"
 msgid "Select Addon"
-msgstr "Selecionar Addon"
+msgstr "选择插件"
 
 msgctxt "#30188"
 msgid "This category is empty"
-msgstr "Esta categoria está vazia"
+msgstr "此类别是空的"
 
 msgctxt "#30189"
 msgid "Select from {}"
-msgstr "Selecionar de {}"
+msgstr "从 {} 中选择"
 
 msgctxt "#30190"
 msgid "Attention"
-msgstr "Atenção"
+msgstr "注意"
 
 msgctxt "#30191"
 msgid "Favorite without path"
-msgstr "Favorito sem caminho"
+msgstr "收藏无路径"
 
 msgctxt "#30192"
 msgid "Added"
-msgstr "Adicionado"
+msgstr "已添加"
 
 msgctxt "#30193"
 msgid "Section / Separator Name"
-msgstr "Nome da Seção / Separador"
+msgstr "章节/分隔符名称"
 
 msgctxt "#30194"
 msgid "Gold (Default)"
-msgstr "Ouro (Padrão)"
+msgstr "金色 (默认)"
 
 msgctxt "#30195"
 msgid "Gray"
-msgstr "Cinza"
+msgstr "灰色"
 
 msgctxt "#30196"
 msgid "Separator Color"
-msgstr "Cor do Separador"
+msgstr "选择目的地文件夹"
 
 msgctxt "#30197"
 msgid "Nothing selected"
-msgstr "Nada selecionado"
+msgstr "未选择任何项"
 
 msgctxt "#30198"
 msgid "Move to..."
-msgstr "Mover para..."
+msgstr "移动到…"
 
 msgctxt "#30199"
 msgid "Click on the destination position"
-msgstr "Clique na posição de destino"
+msgstr "点击目标位置"
 
 msgctxt "#30200"
 msgid "Before (At the top)"
-msgstr "Antes (No topo)"
+msgstr "添加收藏"
 
 msgctxt "#30201"
 msgid "After"
-msgstr "Depois"
+msgstr "高级编辑器"
 
 msgctxt "#30202"
 msgid "Moved"
-msgstr "Movido"
+msgstr "简单编辑器"
 
 msgctxt "#30203"
 msgid "{} items"
-msgstr "{} itens"
+msgstr "{} 个项目"
 
 msgctxt "#30204"
 msgid "Delete {} selected items?"
-msgstr "Excluir {} itens selecionados?"
+msgstr "删除选中的 {} 项？"
 
 msgctxt "#30205"
 msgid "Color for {} items"
-msgstr "Cor para {} itens"
+msgstr "{} 项的颜色"
 
 msgctxt "#30206"
 msgid "Select New Image"
-msgstr "Selecionar Nova Imagem"
+msgstr "选择新图片"
 
 msgctxt "#30207"
 msgid "Icon"
-msgstr "Ícone"
+msgstr "添加章节/分隔符"
 
 msgctxt "#30208"
 msgid "Image updated"
-msgstr "Imagem atualizada"
+msgstr "Kodi 章节"
 
 msgctxt "#30209"
 msgid "Add Item / Addon"
-msgstr "Adicionar Item / Addon"
+msgstr "系统命令"
 
 msgctxt "#30210"
 msgid "Add Separator"
-msgstr "Adicionar Separador"
+msgstr "从模板添加"
 
 msgctxt "#30211"
 msgid "Add..."
-msgstr "Adicionar..."
+msgstr "编辑模板"
 
 msgctxt "#30212"
 msgid "Save as New Profile"
-msgstr "Salvar como Novo Perfil"
+msgstr "添加章节"
 
 msgctxt "#30213"
 msgid "Create backup (XML)"
-msgstr "Criar backup (XML)"
+msgstr "移至顶部"
 
 msgctxt "#30214"
 msgid "Restore from backup (XML)"
-msgstr "Restaurar do backup (XML)"
+msgstr "移至底部"
 
 msgctxt "#30215"
 msgid "Discard current changes"
-msgstr "Descartar alterações atuais"
+msgstr "这将把您的所有收藏重置为原始状态 (上次保存的状态)。\n您确定吗？"
 
 msgctxt "#30216"
 msgid "Backup / Restore"
-msgstr "Backup / Restaurar"
+msgstr "备份/还原"
 
 msgctxt "#30217"
 msgid "Backup name (no extension)"
-msgstr "Nome do backup (sem extensão)"
+msgstr "备份名称（无扩展名）"
 
 msgctxt "#30218"
 msgid "Select folder to save"
-msgstr "Selecionar pasta para salvar"
+msgstr "选择保存文件夹"
 
 msgctxt "#30219"
 msgid "Backup Created"
-msgstr "Backup Criado"
+msgstr "已创建备份"
 
 msgctxt "#30220"
 msgid "Error saving"
-msgstr "Erro ao salvar"
+msgstr "保存出错"
 
 msgctxt "#30221"
 msgid "Name of your first pet?"
-msgstr "Nome do seu primeiro animal de estimação?"
+msgstr "您的第一只宠物叫什么名字？"
 
 msgctxt "#30222"
 msgid "City where you were born?"
-msgstr "Cidade onde você nasceu?"
+msgstr "您在哪个城市出生？"
 
 msgctxt "#30223"
 msgid "Mother's birth year?"
-msgstr "Ano de nascimento da sua mãe?"
+msgstr "您最喜欢的书是什么？"
 
 msgctxt "#30224"
 msgid "Name of childhood best friend?"
-msgstr "Nome do seu melhor amigo de infância?"
+msgstr "您的第一辆车是什么品牌的？"
 
 msgctxt "#30225"
 msgid "Favorite food?"
-msgstr "Comida favorita?"
+msgstr "您童年时期的英雄是谁？"
 
 msgctxt "#30226"
 msgid "Security Reset"
-msgstr "Redefinição de Segurança"
+msgstr "紧急重置"
 
 msgctxt "#30227"
 msgid "Recovery file detected.\nPassword has been removed.\nYou can set a new one in Settings."
-msgstr "Arquivo de recuperação detectado.\nA senha foi removida.\nVocê pode definir uma nova nas Configurações."
+msgstr "检测到紧急重置文件。\n防护已禁用，文件已删除。"
 
 msgctxt "#30228"
 msgid "Installed Addons"
-msgstr "Addons Instalados"
+msgstr "已安装插件"
 
 msgctxt "#30229"
 msgid "Gold (Default)"
-msgstr "Ouro (Padrão)"
+msgstr "金色（默认）"
 
 msgctxt "#30230"
 msgid "Change Icon"
-msgstr "Alterar Ícone"
+msgstr "更改图标"
 
 msgctxt "#30231"
 msgid "Change Color"
-msgstr "Alterar Cor"
+msgstr "更改颜色"
 
 msgctxt "#30232"
 msgid "Change Format"
-msgstr "Alterar Formato"
+msgstr "更改格式"
 
 msgctxt "#30233"
 msgid "Move"
-msgstr "Mover"
+msgstr "移动"
 
 msgctxt "#30234"
 msgid "Duplicate"
-msgstr "Duplicar"
+msgstr "复制"
 
 msgctxt "#30235"
 msgid "[B]Custom / Manual[/B] (Write command)"
-msgstr "[B]Personalizado / Manual[/B] (Escrever comando)"
+msgstr "[B]自定义 / 手动[/B]（输入命令）"
 
 msgctxt "#30236"
 msgid "Installed Addons (Video and Programs)"
-msgstr "Addons Instalados (Vídeo e Programas)"
+msgstr "已安装插件（视频和程序）"
 
 msgctxt "#30237"
 msgid "Favourite Name"
-msgstr "Nome do Favorito"
+msgstr "收藏名称"
 
 msgctxt "#30238"
 msgid "No addons found"
-msgstr "Nenhum addon encontrado"
+msgstr "未找到插件"
 
 msgctxt "#30239"
 msgid "Select Addon"
-msgstr "Selecionar Addon"
+msgstr "选择插件"
 
 msgctxt "#30240"
 msgid "This category is empty"
-msgstr "Esta categoria está vazia"
+msgstr "此分类为空"
 
 msgctxt "#30241"
 msgid "Select from "
-msgstr "Selecionar de "
+msgstr "选择来源："
 
 msgctxt "#30242"
 msgid "Added"
-msgstr "Adicionado"
+msgstr "已添加"
 
 msgctxt "#30243"
 msgid "Quick Editor"
-msgstr "Editor Rápido"
+msgstr "快速编辑器"
 
 msgctxt "#30244"
 msgid "Saved"
-msgstr "Salvo"
+msgstr "已保存"
 
 msgctxt "#30245"
 msgid "Create Backup"
-msgstr "Criar Backup"
+msgstr "创建备份"
 
 msgctxt "#30246"
 msgid "Restore from Backup"
-msgstr "Restaurar do Backup"
+msgstr "从备份恢复"
 
 msgctxt "#30247"
 msgid "Backup"
-msgstr "Backup"
+msgstr "备份"
 
 msgctxt "#30248"
 msgid "No favourites to save."
-msgstr "Sem favoritos para salvar."
+msgstr "没有可保存的收藏。"
 
 msgctxt "#30249"
 msgid "Backup Created"
-msgstr "Backup Criado"
+msgstr "已创建备份"
 
 msgctxt "#30250"
 msgid "Select backup file (.xml)"
-msgstr "Selecionar arquivo de backup (.xml)"
+msgstr "选择 XML 文件"
 
 msgctxt "#30251"
 msgid "File not found."
-msgstr "Arquivo não encontrado."
+msgstr "未找到文件。"
 
 msgctxt "#30252"
 msgid "The file does not seem to be a valid backup."
-msgstr "O arquivo não parece ser um backup válido."
+msgstr "该文件似乎不是有效的备份。"
 
 msgctxt "#30253"
 msgid "The backup is empty."
-msgstr "O backup está vazio."
+msgstr "备份为空。"
 
 msgctxt "#30254"
 msgid "Replace your current favourites with the backup?\n({} items)"
-msgstr "Substituir seus favoritos atuais pelo backup?\n({} itens)"
+msgstr "用备份替换当前收藏？\n（{} 项）"
 
 msgctxt "#30255"
 msgid "Restored"
-msgstr "Restaurado"
+msgstr "已恢复"
 
 msgctxt "#30256"
 msgid "{} favourites loaded"
-msgstr "{} favoritos carregados"
+msgstr "已加载 {} 个收藏"
 
 msgctxt "#30257"
 msgid "Could not load backup:"
-msgstr "Não foi possível carregar o backup:"
+msgstr "无法加载备份："
 
 msgctxt "#30258"
 msgid "[B]+ Create Profile[/B] (Save current state)"
-msgstr "[B]+ Criar Perfil[/B] (Salvar estado atual)"
+msgstr "[COLOR lime]+ 创建新配置文件 (从当前)[/COLOR]"
 
 msgctxt "#30259"
 msgid "[B]+ Import from XML[/B]"
-msgstr "[B]+ Importar de XML[/B]"
+msgstr "[COLOR cyan]从 favourites.xml 导入[/COLOR]"
 
 msgctxt "#30260"
 msgid "[B]+ Export current to XML[/B]"
-msgstr "[B]+ Exportar atual para XML[/B]"
+msgstr "[COLOR orange]将当前导出为 XML[/COLOR]"
 
 msgctxt "#30261"
 msgid "Profile Manager"
-msgstr "Gerenciador de Perfis"
+msgstr "配置文件管理器"
 
 msgctxt "#30262"
 msgid "Profile Created"
-msgstr "Perfil Criado"
+msgstr "配置文件已创建"
 
 msgctxt "#30263"
 msgid "Saved '{}'"
-msgstr "Salvo '{}'"
+msgstr "配置文件“{}”已创建。"
 
 msgctxt "#30264"
 msgid "No valid favourites found"
-msgstr "Nenhum favorito válido encontrado"
+msgstr "XML 中未找到收藏"
 
 msgctxt "#30265"
 msgid "Imported Profile"
-msgstr "Perfil Importado"
+msgstr "已导入的配置文件"
 
 msgctxt "#30266"
 msgid "Name for the profile"
-msgstr "Nome para o perfil"
+msgstr "输入已导入配置文件的名称"
 
 msgctxt "#30267"
 msgid "Imported"
-msgstr "Importado"
+msgstr "配置文件已导入"
 
 msgctxt "#30268"
 msgid "{} favourites added"
-msgstr "{} favoritos adicionados"
+msgstr "成功导入 {} 个收藏。"
 
 msgctxt "#30269"
 msgid "Import Error"
-msgstr "Erro na Importação"
+msgstr "导入 XML 错误"
 
 msgctxt "#30270"
 msgid "Exported"
-msgstr "Exportado"
+msgstr "导出成功"
 
 msgctxt "#30271"
 msgid "Error Exporting"
-msgstr "Erro ao Exportar"
+msgstr "导出失败"
 
 msgctxt "#30272"
 msgid "[B]Load Profile[/B] (Replaces current favourites)"
-msgstr "[B]Carregar Perfil[/B] (Substitui os favoritos atuais)"
+msgstr "加载/激活配置文件"
 
 msgctxt "#30273"
 msgid "Export to XML"
-msgstr "Exportar para XML"
+msgstr "导出为 XML"
 
 msgctxt "#30274"
 msgid "Profile"
-msgstr "Perfil"
+msgstr "配置文件"
 
 msgctxt "#30275"
 msgid "Load Profile"
-msgstr "Carregar Perfil"
+msgstr "确认加载"
 
 msgctxt "#30276"
 msgid "SURE? This will replace your current favourites with those of '{}'.\nIt is recommended to make a backup first."
-msgstr "TEM CERTEZA? Isso substituirá seus favoritos atuais pelos de '{}'.\nRecomenda-se fazer um backup primeiro."
+msgstr "这将用来自“{}”的项目替换您当前所有的收藏。\n\n继续吗？"
 
 msgctxt "#30277"
 msgid "Profile Loaded"
-msgstr "Perfil Carregado"
+msgstr "配置文件已加载"
 
 msgctxt "#30278"
 msgid "Favourites updated"
-msgstr "Favoritos atualizados"
+msgstr "Kodi 收藏已更新。"
 
 msgctxt "#30279"
 msgid "Rename profile"
-msgstr "Renomear perfil"
+msgstr "重命名配置文件"
 
 msgctxt "#30280"
 msgid "Renamed"
-msgstr "Renomeado"
+msgstr "配置文件已重命名"
 
 msgctxt "#30281"
 msgid "Now is '{}'"
-msgstr "Agora é '{}'"
+msgstr "新名称: {}"
 
 msgctxt "#30282"
 msgid "Saved in {}"
-msgstr "Salvo em {}"
+msgstr "配置文件已导出为 {}"
 
 msgctxt "#30283"
 msgid "Delete Profile"
-msgstr "Excluir Perfil"
+msgstr "删除配置文件"
 
 msgctxt "#30284"
 msgid "Permanently delete profile '{}'?"
-msgstr "Excluir permanentemente o perfil '{}'?"
+msgstr "您确定要删除配置文件“{}”吗？"
 
 msgctxt "#30285"
 msgid "Templates Editor"
-msgstr "Editor de Modelos"
+msgstr "模板编辑器"
 
 msgctxt "#30286"
 msgid "Add New Category"
-msgstr "Adicionar Nova Categoria"
+msgstr "添加新分类"
 
 msgctxt "#30287"
 msgid "Reset to defaults"
-msgstr "Redefinir para padrões"
+msgstr "恢复为默认值"
 
 msgctxt "#30288"
 msgid "Export Templates"
-msgstr "Exportar Modelos"
+msgstr "导出模板"
 
 msgctxt "#30289"
 msgid "Import Templates"
-msgstr "Importar Modelos"
+msgstr "导入模板"
 
 msgctxt "#30290"
 msgid "Name of the new category"
-msgstr "Nome da nova categoria"
+msgstr "新类别名称"
 
 msgctxt "#30292"
 msgid "A category with that name already exists"
-msgstr "Uma categoria com esse nome já existe"
+msgstr "类别已存在"
 
 msgctxt "#30293"
 msgid "Created"
-msgstr "Criado"
+msgstr "类别已添加"
 
 msgctxt "#30294"
 msgid "Add New"
-msgstr "Adicionar Novo"
+msgstr "添加新项目"
 
 msgctxt "#30295"
 msgid "Delete this Category"
-msgstr "Excluir esta Categoria"
+msgstr "删除类别"
 
 msgctxt "#30296"
 msgid "Delete category '{}' and all its items?"
-msgstr "Excluir a categoria '{}' e todos os seus itens?"
+msgstr "删除类别“{}”及其所有模板吗？"
 
 msgctxt "#30297"
 msgid "Deleted"
-msgstr "Excluído"
+msgstr "已删除"
 
 msgctxt "#30298"
 msgid "Item Name"
-msgstr "Nome do Item"
+msgstr "项目名称"
 
 msgctxt "#30299"
 msgid "Command or Path (Ex: ActivateWindow(...))"
-msgstr "Comando ou Caminho (Ex: ActivateWindow(...))"
+msgstr "项目命令/路径"
 
 msgctxt "#30300"
 msgid "Select Icon"
-msgstr "Selecionar Ícone"
+msgstr "选择图标"
 
 msgctxt "#30301"
 msgid "Type name (Ex: DefaultMovies.png)"
-msgstr "Digite o nome (Ex: DefaultMovies.png)"
+msgstr "手动图标路径"
 
 msgctxt "#30302"
 msgid "Browse image in explorer"
-msgstr "Procurar imagem no explorador"
+msgstr "浏览图标"
 
 msgctxt "#30303"
 msgid "Icon name"
-msgstr "Nome do ícone"
+msgstr "图标路径"
 
 msgctxt "#30304"
 msgid "Edit Name"
-msgstr "Editar Nome"
+msgstr "编辑名称"
 
 msgctxt "#30305"
 msgid "Edit Command"
-msgstr "Editar Comando"
+msgstr "编辑路径"
 
 msgctxt "#30306"
 msgid "Edit Icon"
-msgstr "Editar Ícone"
+msgstr "编辑图标"
 
 msgctxt "#30307"
 msgid "New Name"
-msgstr "Novo Nome"
+msgstr "新项目名称"
 
 msgctxt "#30308"
 msgid "New Command"
-msgstr "Novo Comando"
+msgstr "新项目路径"
 
 msgctxt "#30309"
 msgid "New Icon"
-msgstr "Novo Ícone"
+msgstr "新图标路径"
 
 msgctxt "#30310"
 msgid "Reset all templates to default values?\nThis will delete custom categories."
-msgstr "Redefinir todos os modelos para os valores padrão?\nIsso excluirá as categorias personalizadas."
+msgstr "将所有模板重置为默认值吗？"
 
 msgctxt "#30311"
 msgid "Templates"
-msgstr "Modelos"
+msgstr "模板已重置"
 
 msgctxt "#30312"
 msgid "Reset"
-msgstr "Redefinir"
+msgstr "原始模板已恢复"
 
 msgctxt "#30313"
 msgid "Templates replaced"
-msgstr "Modelos substituídos"
+msgstr "模板已替换"
 
 msgctxt "#30314"
 msgid "Merged"
-msgstr "Mesclado"
+msgstr "已合并"
 
 msgctxt "#30315"
 msgid "Categories added"
-msgstr "Categorias adicionadas"
+msgstr "已添加分类"
 
 msgctxt "#30316"
 msgid "How to import?"
-msgstr "Como importar?"
+msgstr "如何导入？"
 
 msgctxt "#30317"
 msgid "Replace all"
-msgstr "Substituir tudo"
+msgstr "全部替换"
 
 msgctxt "#30318"
 msgid "Merge (add new categories)"
-msgstr "Mesclar (adicionar novas categorias)"
+msgstr "合并（添加新分类）"
 
 msgctxt "#30319"
 msgid "File name (without extension)"
-msgstr "Nome do arquivo (sem extensão)"
+msgstr "文件名（无扩展名）"
 
 msgctxt "#30320"
 msgid "Search in all profiles"
-msgstr "Pesquisar em todos os perfis"
+msgstr "在所有配置文件中搜索"
 
 msgctxt "#30321"
 msgid "No results for '{}'"
-msgstr "Sem resultados para '{}'"
+msgstr "无关于“{}”的结果"
 
 msgctxt "#30322"
 msgid "No items matching your search were found."
-msgstr "Nenhum item correspondente à sua pesquisa foi encontrado."
+msgstr "在您所有保存的配置文件中搜索收藏。"
 
 msgctxt "#30323"
 msgid "From profile:"
-msgstr "Do perfil:"
+msgstr "在配置文件中找到："
 
 msgctxt "#30324"
 msgid "Explore My Profiles"
-msgstr "Explorar Meus Perfis"
+msgstr "浏览我的配置文件"
 
 msgctxt "#30325"
 msgid "Navigate through your profiles as folder. Useful for creating menus and Widgets in Skins."
-msgstr "Navegue pelos seus perfis como pastas. Útil para criar menus e Widgets em Skins."
+msgstr "浏览并管理您保存的收藏配置文件。"
 
 msgctxt "#30326"
 msgid "Advanced Editor"
-msgstr "Editor Avançado"
+msgstr "高级编辑器"
 
 msgctxt "#30327"
 msgid "Graphic editor with icon and color visualization."
-msgstr "Editor gráfico com visualização de ícones e cores."
+msgstr "支持拖放的视觉编辑器。"
 
 msgctxt "#30328"
 msgid "Quick Editor"
-msgstr "Editor Rápido"
+msgstr "快捷编辑器"
 
 msgctxt "#30329"
 msgid "Simple and lightweight editor. Fast and compatible with all devices."
-msgstr "Editor simples e leve. Rápido e compatível com todos os dispositivos."
+msgstr "用于添加和组织收藏的快捷菜单。"
 
 msgctxt "#30330"
 msgid "Reload Profile (See changes)"
-msgstr "Recarregar Perfil (Ver alterações)"
+msgstr "重新加载配置文件 (应用更改)"
 
 msgctxt "#30331"
 msgid "Reload Kodi profile to apply changes in main interface."
-msgstr "Recarregar perfil do Kodi para aplicar as alterações na interface principal."
+msgstr "刷新 Kodi 以立即显示所有更改。"
 
 msgctxt "#30332"
 msgid "Configuration"
-msgstr "Configuração"
+msgstr "配置"
 
 msgctxt "#30333"
 msgid "Visual editor and template editor settings."
-msgstr "Configurações do editor visual e editor de modelos."
+msgstr "调整视觉和安全设置。"
 
 msgctxt "#30334"
 msgid "View Favourites Menu"
-msgstr "Ver Menu de Favoritos"
+msgstr "查看收藏菜单"
 
 msgctxt "#30335"
 msgid "Open Kodi favourites menu to see the result."
-msgstr "Abrir o menu de favoritos do Kodi para ver o resultado."
+msgstr "打开 Kodi 原生收藏窗口。"
 
 msgctxt "#30336"
 msgid "Back / Exit"
-msgstr "Voltar / Sair"
+msgstr "返回/退出"
 
 msgctxt "#30337"
 msgid "Return to Kodi."
-msgstr "Voltar para o Kodi."
+msgstr "关闭插件。"
 
 msgctxt "#30338"
 msgid "About Flow FavManager"
-msgstr "Sobre o Flow FavManager"
+msgstr "关于 Flow FavManager"
 
 msgctxt "#30339"
 msgid "Information."
-msgstr "Informações."
+msgstr "信息与鸣谢。"
 
 msgctxt "#30340"
 msgid "About"
-msgstr "Sobre"
+msgstr "关于"
 
 msgctxt "#30341"
 msgid "For more information and projects visit:"
-msgstr "Para mais informações e projetos visite:"
+msgstr "本项目的初衷是成为 Kodi 收藏管理系统的进化版。"
 
 msgctxt "#30342"
 msgid "PROFILE MANAGER (Create / Import / Save)"
-msgstr "GERENCIADOR DE PERFIS (Criar / Importar / Salvar)"
+msgstr "配置文件管理器"
 
 msgctxt "#30343"
 msgid "Tools to create new profiles, import from XML or save current state."
-msgstr "Ferramentas para criar novos perfis, importar de XML ou salvar o estado atual."
+msgstr "创建、导入和导出您的配置文件。"
 
 msgctxt "#30344"
 msgid "Widget View (Clean Navigation)"
-msgstr "Visualização de Widget (Navegação Limpa)"
+msgstr "清爽小部件视图"
 
 msgctxt "#30345"
 msgid "Show your profiles without management buttons. Ideal for adding to your skin's home screen as a Widget."
-msgstr "Mostre seus perfis sem os botões de gerenciamento. Ideal para adicionar à tela inicial da sua skin como Widget."
+msgstr "针对用作小部件的优化视图。"
 
 msgctxt "#30346"
 msgid "Add to Flow FavManager"
-msgstr "Adicionar ao Flow FavManager"
+msgstr "添加到 Flow FavManager"
 
 msgctxt "#30347"
 msgid "Backup Created"
-msgstr "Backup Criado"
+msgstr "已创建备份"
 
 msgctxt "#30348"
 msgid "Restored"
-msgstr "Restaurado"
+msgstr "已还原"
 
 msgctxt "#30349"
 msgid "Press Confirm/Back to save."
-msgstr "Pressione Confirmar/Voltar para salvar."
+msgstr "按确认/返回以保存。"
 
 msgctxt "#30350"
 msgid "Behavior Changed"
-msgstr "Comportamento Alterado"
+msgstr "行为已更改"
 
 msgctxt "#30351"
 msgid "Maintenance"
-msgstr "Manutenção"
+msgstr "清除图像缓存"
 
 msgctxt "#30352"
 msgid "Updating textures..."
-msgstr "Atualizando texturas..."
+msgstr "缓存已清除。图像将重新加载。"
 
 msgctxt "#30353"
 msgid "Log"
-msgstr "Log"
+msgstr "审计日志"
 
 msgctxt "#30354"
 msgid "Enabled"
-msgstr "Ativado"
+msgstr "审计日志已启用"
 
 msgctxt "#30355"
 msgid "Disabled"
-msgstr "Desativado"
+msgstr "审计日志已禁用"
 
 msgctxt "#30356"
 msgid "History cleared"
-msgstr "Histórico limpo"
+msgstr "日志已删除"
 
 msgctxt "#30357"
 msgid "Info"
-msgstr "Info"
+msgstr "无日志"
 
 msgctxt "#30358"
 msgid "No log to clear"
-msgstr "Nenhum log para limpar"
+msgstr "审计日志为空或不存在"
 
 msgctxt "#30359"
 msgid "Could not read profile"
-msgstr "Não foi possível ler o perfil"
+msgstr "无法加载配置文件"
 
 msgctxt "#30360"
 msgid "Deleted"
-msgstr "Excluído"
+msgstr "配置文件已删除"
 
 msgctxt "#30361"
 msgid "Profile deleted successfully"
-msgstr "Perfil excluído com sucesso"
+msgstr "配置文件已被移除"
 
 msgctxt "#30362"
 msgid "Could not delete file"
-msgstr "Não foi possível excluir o arquivo"
+msgstr "无法删除配置文件"
 
 msgctxt "#30363"
 msgid "Renamed"
-msgstr "Renomeado"
+msgstr "配置文件已重命名"
 
 msgctxt "#30364"
 msgid "Profile updated"
-msgstr "Perfil atualizado"
+msgstr "重命名成功"
 
 msgctxt "#30365"
 msgid "File not found."
-msgstr "Arquivo não encontrado."
+msgstr "重命名失败"
 
 msgctxt "#30366"
 msgid "File does not appear to be a valid backup."
-msgstr "O arquivo não parece ser um backup válido."
+msgstr "该文件似乎不是有效的备份。"
 
 msgctxt "#30367"
 msgid "Could not load backup:"
-msgstr "Não foi possível carregar o backup:"
+msgstr "无法加载备份："
 
 msgctxt "#30368"
 msgid "Quick Editor"
-msgstr "Editor Rápido"
+msgstr "快速编辑器"
 
 msgctxt "#30369"
 msgid "No favorites to edit."
-msgstr "Sem favoritos para editar."
+msgstr "没有可编辑的收藏。"
 
 msgctxt "#30370"
 msgid "Empty Log"
-msgstr "Log Vazio"
+msgstr "日志查看器"
 
 msgctxt "#30371"
 msgid "No events recorded yet."
-msgstr "Nenhum evento registrado ainda."
+msgstr "审计日志为空"
 
 msgctxt "#30372"
 msgid "Log Does Not Exist"
-msgstr "O Log não existe"
+msgstr "无日志文件"
 
 msgctxt "#30373"
 msgid "Enable logging and perform an action to generate events."
-msgstr "Habilite o log e realize uma ação para gerar eventos."
+msgstr "未找到审计日志文件"
 
 msgctxt "#30374"
 msgid "Could not read log:"
-msgstr "Não foi possível ler o log:"
+msgstr "读取日志错误"
 
 msgctxt "#30375"
 msgid "Confirm"
-msgstr "Confirmar"
+msgstr "确认"
 
 msgctxt "#30376"
 msgid "Delete '{}'?"
-msgstr "Excluir '{}'?"
+msgstr "删除“{}”？"
 
 msgctxt "#30377"
 msgid "Clear image cache (Textures) before reloading?\nThis fixes issues with old icons."
-msgstr "Limpar o cache de imagens (Texturas) antes de recarregar?\nIsso corrige problemas com ícones antigos."
+msgstr "在重新加载之前要清除缩略图缓存吗？\n(建议这样做以使视觉更改生效)"
 
 msgctxt "#30378"
 msgid "Delete Log"
-msgstr "Excluir Log"
+msgstr "删除日志"
 
 msgctxt "#30379"
 msgid "Delete all audit history?"
-msgstr "Excluir todo o histórico de auditoria?"
+msgstr "您确定要删除审计日志吗？"
 
 msgctxt "#30380"
 msgid "Delete Profile"
-msgstr "Excluir Perfil"
+msgstr "确认删除"
 
 msgctxt "#30381"
 msgid "Are you sure you want to permanently delete this profile?"
-msgstr "Tem certeza de que deseja excluir permanentemente este perfil?"
+msgstr "您确定要删除此配置文件吗？"
 
 msgctxt "#30382"
 msgid "New profile name"
-msgstr "Nome do novo perfil"
+msgstr "新配置文件名称"
 
 msgctxt "#30383"
 msgid "Backup name (without extension)"
-msgstr "Nome do backup (sem extensão)"
+msgstr "备份名称（无扩展名）"
 
 msgctxt "#30384"
 msgid "Select a Favorite to edit"
-msgstr "Selecione um Favorito para editar"
+msgstr "选择要编辑的收藏"
 
 msgctxt "#30385"
 msgid "Action for: {}"
-msgstr "Ação para: {}"
+msgstr "操作：{}"
 
 msgctxt "#30386"
 msgid "Audit Log"
-msgstr "Log de Auditoria"
+msgstr "审计日志"
 
 msgctxt "#30387"
 msgid "Critical Error"
-msgstr "Erro Crítico"
+msgstr "严重错误"
 
 msgctxt "#30388"
 msgid "Select folder to save"
-msgstr "Selecionar pasta para salvar"
+msgstr "选择目的地"
 
 msgctxt "#30389"
 msgid "Select backup file (.xml)"
-msgstr "Selecionar arquivo de backup (.xml)"
+msgstr "选择备份文件（.xml）"
 
 msgctxt "#30390"
 msgid "Move Up 1"
-msgstr "Mover para Cima 1"
+msgstr "上移 1"
 
 msgctxt "#30391"
 msgid "Move Down 1"
-msgstr "Mover para Baixo 1"
+msgstr "下移 1"
 
 msgctxt "#30392"
 msgid "Move to Position..."
-msgstr "Mover para Posição..."
+msgstr "移动到位置…"
 
 msgctxt "#30393"
 msgid "Enter new position (1-{})"
-msgstr "Digite a nova posição (1-{})"
+msgstr "输入新位置（1-{}）"
 
 msgctxt "#30394"
 msgid "Invalid Format"
-msgstr "Formato Inválido"
+msgstr "格式无效"
 
 msgctxt "#30395"
 msgid "Audit Log: [COLOR lime]ON[/COLOR]"
-msgstr "Log de Auditoria: [COLOR lime]LIGADO[/COLOR]"
+msgstr "审计日志: 活跃"
 
 msgctxt "#30396"
 msgid "Audit Log: [COLOR gray]OFF[/COLOR]"
-msgstr "Log de Auditoria: [COLOR gray]DESLIGADO[/COLOR]"
+msgstr "审计日志: 未激活"
 
 msgctxt "#30397"
 msgid "View Audit Log"
-msgstr "Ver Log de Auditoria"
+msgstr "查看审计日志"
 
 msgctxt "#30398"
 msgid "[Empty Folder]"
-msgstr "[Pasta Vazia]"
+msgstr "空配置文件"
 
 msgctxt "#30399"
 msgid "(Empty)"
-msgstr "(Vazio)"
+msgstr "[I]空配置文件[/I]"
 
 msgctxt "#30400"
 msgid "Movies"
-msgstr "Filmes"
+msgstr "电影"
 
 msgctxt "#30401"
 msgid "TV (PVR)"
-msgstr "TV (PVR)"
+msgstr "直播电视 (PVR)"
 
 msgctxt "#30402"
 msgid "TV Guide (EPG)"
-msgstr "Guia de TV (EPG)"
+msgstr "电视指南 (EPG)"
 
 msgctxt "#30403"
 msgid "Music"
-msgstr "Música"
+msgstr "音乐"
 
 msgctxt "#30404"
 msgid "Pictures"
-msgstr "Imagens"
+msgstr "图片"
 
 msgctxt "#30405"
 msgid "Power / Restart Menu"
-msgstr "Menu de Energia / Reiniciar"
+msgstr "电源/重启菜单"
 
 msgctxt "#30406"
 msgid "Update Library (Video)"
-msgstr "Atualizar Biblioteca (Vídeo)"
+msgstr "更新库 (视频)"
 
 msgctxt "#30407"
 msgid "Clean Library (Video)"
-msgstr "Limpar Biblioteca (Vídeo)"
+msgstr "清理库 (视频)"
 
 msgctxt "#30408"
 msgid "Move Up 5"
-msgstr "Mover para Cima 5"
+msgstr "上移 5"
 
 msgctxt "#30409"
 msgid "Move Down 5"
-msgstr "Mover para Baixo 5"
+msgstr "下移 5"
 
 msgctxt "#30410"
 msgid "Move to Top"
-msgstr "Mover para o Topo"
+msgstr "移到顶部"
 
 msgctxt "#30411"
 msgid "Move to Bottom"
-msgstr "Mover para o Final"
+msgstr "移到底部"
 
 msgctxt "#30412"
 msgid "Status: [COLOR {color}]{status}[/COLOR]"
-msgstr "Status: [COLOR {color}]{status}[/COLOR]"
+msgstr "状态: [COLOR {color}]{status}[/COLOR]"
 
 msgctxt "#30413"
 msgid "ACTIVATED"
-msgstr "ATIVADO"
+msgstr "活跃"
 
 msgctxt "#30414"
 msgid "DEACTIVATED"
-msgstr "DESATIVADO"
+msgstr "未激活"
 
 msgctxt "#30415"
 msgid "Turn Log Off"
-msgstr "Desligar Log"
+msgstr "停用日志"
 
 msgctxt "#30416"
 msgid "Turn Log On"
-msgstr "Ligar Log"
+msgstr "激活日志"
 
 msgctxt "#30417"
 msgid "TV Shows"
-msgstr "Séries"
+msgstr "剧集"
 
 msgctxt "#30418"
 msgid "Home"
-msgstr "Início"
+msgstr "主页"
 
 msgctxt "#30419"
 msgid "Radio"
-msgstr "Rádio"
+msgstr "收音机"
 
 msgctxt "#30420"
 msgid "Music Videos"
-msgstr "Vídeos Musicais"
+msgstr "音乐录影带"
 
 msgctxt "#30421"
 msgid "Weather"
-msgstr "Clima"
+msgstr "天气"
 
 msgctxt "#30422"
 msgid "Settings"
-msgstr "Configurações"
+msgstr "设置"
 
 msgctxt "#30423"
 msgid "File Manager"
-msgstr "Gerenciador de Arquivos"
+msgstr "文件管理器"
 
 msgctxt "#30424"
 msgid "System Info"
-msgstr "Info do Sistema"
+msgstr "系统信息"
 
 msgctxt "#30425"
 msgid "Events / Log"
-msgstr "Eventos / Log"
+msgstr "事件日志"
 
 msgctxt "#30426"
 msgid "Addons (Browser)"
-msgstr "Addons (Navegador)"
+msgstr "插件 (浏览器)"
 
 msgctxt "#30427"
 msgid "Reload Skin"
-msgstr "Recarregar Skin"
+msgstr "重新加载皮肤"
 
 msgctxt "#30428"
 msgid "Skin Settings"
-msgstr "Configurações da Skin"
+msgstr "皮肤设置"
 
 msgctxt "#30429"
-msgid "Created by RubénSDFA1laberot - v"
-msgstr "Criado por RubénSDFA1laberot - v"
+msgid "Created by RubénSDFA1labernt - v"
+msgstr "版本: "
 
 msgctxt "#30430"
 msgid "Back"
-msgstr "Voltar"
+msgstr "返回"
 
 msgctxt "#30431"
 msgid "Swap Mode"
-msgstr "Modo Trocar"
+msgstr "交换模式"
 
 msgctxt "#30432"
 msgid "Insert Before"
-msgstr "Inserir Antes"
+msgstr "插入到前面"
 
 msgctxt "#30433"
 msgid "Insert After"
-msgstr "Inserir Depois"
+msgstr "插入到后面"
 
 msgctxt "#30434"
 msgid "Arrow Mode"
-msgstr "Modo Direcional"
+msgstr "箭头模式"
 
 msgctxt "#30435"
 msgid "Save / Exit"
-msgstr "Salvar / Sair"
+msgstr "保存 / 退出"
 
 msgctxt "#30436"
 msgid "Save / Exit (*)"
-msgstr "Salvar / Sair (*)"
+msgstr "保存 / 退出 (*)"
 
 msgctxt "#30437"
 msgid "Add..."
-msgstr "Adicionar..."
+msgstr "添加…"
 
 msgctxt "#30438"
 msgid "Multiselect Mode"
-msgstr "Modo Multiseleção"
+msgstr "多选模式"
 
 msgctxt "#30439"
 msgid "Backup / Restore"
-msgstr "Backup / Restaurar"
+msgstr "备份 / 恢复"
 
 msgctxt "#30440"
 msgid "Sort"
-msgstr "Ordenar"
+msgstr "排序"
 
 msgctxt "#30441"
 msgid "Undo / Reset"
-msgstr "Desfazer / Redefinir"
+msgstr "已加载原始状态"
 
 msgctxt "#30442"
 msgid "Help / Instructions"
-msgstr "Ajuda / Instruções"
+msgstr "帮助 / 说明"
 
 msgctxt "#30443"
 msgid "Exit (Discard)"
-msgstr "Sair (Descartar)"
+msgstr "退出（放弃）"
 
 msgctxt "#30444"
 msgid "Move to..."
-msgstr "Mover para..."
+msgstr "移动到…"
 
 msgctxt "#30445"
 msgid "Change Color"
-msgstr "Alterar Cor"
+msgstr "更改颜色"
 
 msgctxt "#30446"
 msgid "Delete Selected"
-msgstr "Excluir Selecionados"
+msgstr "删除选中项"
 
 msgctxt "#30447"
 msgid "CANCEL / EXIT"
-msgstr "CANCELAR / SAIR"
+msgstr "取消 / 退出"
 
 msgctxt "#30448"
 msgid "BULK ACTIONS"
-msgstr "AÇÕES EM MASSA"
+msgstr "批量操作"
 
 msgctxt "#30449"
 msgid "Section"
-msgstr "Seção"
+msgstr "分区"
 
 msgctxt "#30450"
 msgid "Attention"
-msgstr "Atenção"
+msgstr "注意"
 
 msgctxt "#30451"
 msgid "Hidden Credits"
-msgstr "Créditos Ocultos"
+msgstr "彩蛋模式"
 
 msgctxt "#30452"
 msgid "Kodi Sections"
-msgstr "Seções do Kodi"
+msgstr "Kodi 章节"
 
 msgctxt "#30453"
 msgid "System Commands"
-msgstr "Comandos do Sistema"
+msgstr "系统命令"
 
 msgctxt "#30454"
 msgid "{} icons assigned"
-msgstr "{} ícones atribuídos"
+msgstr "已恢复 {} 个图标"
 
 msgctxt "#30455"
 msgid " (copy)"
-msgstr " (cópia)"
+msgstr "（副本）"
 
 msgctxt "#30456"
 msgid "Save as New Profile"
-msgstr "Salvar como Novo Perfil"
+msgstr "另存为新配置"
 
 msgctxt "#30457"
 msgid "Create a backup of your favorites or restore a previous one."
-msgstr "Crie um backup dos seus favoritos ou restaure um anterior."
+msgstr "管理备份和 XML 导入。"
+
 
 msgctxt "#30458"
 msgid "Show 'Add to Flow FavManager' in menus"
-msgstr "Mostrar 'Adicionar ao Flow FavManager' nos menus"
+msgstr "在菜单中显示 '添加到 Flow FavManager'"
+
 
 msgctxt "#30459"
 msgid "Auto-start"
-msgstr "Início automático"
+msgstr "开机自启"
 
 msgctxt "#30460"
 msgid "Launch favorites automatically when Kodi starts."
-msgstr "Inicia favoritos automaticamente ao iniciar o Kodi."
+msgstr "当 Kodi 启动时自动运行收藏。"
 
 msgctxt "#30461"
 msgid "No delay"
-msgstr "Sem espera"
+msgstr "无延迟"
 
 msgctxt "#30462"
 msgid "Delay before launching"
-msgstr "Atraso antes de iniciar"
+msgstr "启动前延迟"
 
 msgctxt "#30463"
 msgid "Select favorite to launch at startup"
-msgstr "Selecionar favorito para iniciar no arranque"
+msgstr "选择启动时运行的收藏"
 
 msgctxt "#30464"
 msgid "Not configured"
-msgstr "Não configurado"
+msgstr "未配置"
 
 msgctxt "#30465"
 msgid "Change favorite"
-msgstr "Alterar favorito"
+msgstr "更改收藏"
 
 msgctxt "#30466"
 msgid "Change delay"
-msgstr "Alterar atraso"
+msgstr "更改延迟"
 
 msgctxt "#30467"
 msgid "Disable this slot"
-msgstr "Desativar este slot"
+msgstr "禁用此槽位"
 
 msgctxt "#30468"
 msgid "No favorites available"
-msgstr "Nenhum favorito disponível"
+msgstr "没有可用的收藏"
 
 msgctxt "#30469"
 msgid "Favorite {}"
-msgstr "Favorito {}"
+msgstr "收藏 {}"
 
 msgctxt "#30470"
 msgid "Auto-start configured"
-msgstr "Início automático configurado"
+msgstr "已配置开机自启"
 
 msgctxt "#30471"
 msgid "Slot disabled"
-msgstr "Slot desativado"
+msgstr "槽位已禁用"
 
 msgctxt "#30472"
 msgid "Web Remote"
-msgstr "Controle remoto web"
+msgstr "Web 遥控器"
 
 msgctxt "#30473"
 msgid "Web remote port"
-msgstr "Porta do controle remoto web"
+msgstr "Web 遥控端口"
 
 msgctxt "#30474"
 msgid "Manage favourites from your phone's browser"
-msgstr "Gerencie os favoritos pelo navegador do celular"
+msgstr "从手机浏览器管理收藏"
 
 msgctxt "#30475"
 msgid "The server is off.\nYou need it running to manage your favourites from your phone's browser."
-msgstr "O servidor está desligado.\nEle precisa estar ativo para gerenciar os favoritos pelo navegador do celular."
+msgstr "服务器已关闭。\n您需要运行它才能从手机浏览器管理收藏。"
 
 msgctxt "#30476"
 msgid "Start"
-msgstr "Iniciar"
+msgstr "启动"
 
 msgctxt "#30477"
 msgid "Could not start (ports busy?)"
-msgstr "Não foi possível iniciar (portas ocupadas?)"
+msgstr "无法启动 (端口被占用？)"
 
 msgctxt "#30478"
 msgid "Open in browser"
-msgstr "Abrir no navegador"
+msgstr "在浏览器中打开"
 
 msgctxt "#30479"
 msgid "Stop server"
-msgstr "Parar o servidor"
+msgstr "停止服务器"
 
 msgctxt "#30480"
 msgid "Open this address in your browser:\n[B]{}[/B]"
-msgstr "Abra este endereço no navegador:\n[B]{}[/B]"
+msgstr "在您的浏览器中打开此地址：\n[B]{}[/B]"
 
 msgctxt "#30481"
 msgid "Server stopped"
-msgstr "Servidor parado"
+msgstr "服务器已停止"
 
 msgctxt "#30485"
 msgid "Add text in bulk ({0} items)"
-msgstr "Adicionar texto em lote ({0} itens)"
+msgstr "批量添加文本 ({0} 个项目)"
 
 msgctxt "#30486"
 msgid "Prefix"
-msgstr "Prefix"
+msgstr "前缀"
 
 msgctxt "#30487"
 msgid "Suffix"
-msgstr "Suffix"
+msgstr "后缀"
 
 msgctxt "#30488"
 msgid "Text to add"
-msgstr "Texto a adicionar"
+msgstr "要添加的文本"
 
 msgctxt "#30489"
 msgid "Text color"
-msgstr "Cor do texto"
+msgstr "文本颜色"
 
 msgctxt "#30490"
 msgid "Prefix / Suffix"
-msgstr "Prefix / Suffix"
+msgstr "前缀 / 后缀"
 
 msgctxt "#30491"
 msgid "Open loiolog (Advanced Log Viewer)"
-msgstr "Abrir loiolog (Visualizador de log avançado)"
+msgstr "打开 loiolog (高级日志查看器)"
 
 msgctxt "#30492"
 msgid "{0} is already installed"
-msgstr "{0} já está instalado"
+msgstr "{0} 已经安装"
 
 msgctxt "#30493"
 msgid "{0} reactivated successfully"
-msgstr "{0} reativado com sucesso"
+msgstr "{0} 成功重新激活"
 
 msgctxt "#30494"
 msgid "The 'requests' library is not available.\n\nPlease restart Kodi to load the new dependencies and try again."
-msgstr "A biblioteca 'requests' não está disponível.\n\nPor favor, reinicie o Kodi para carregar as novas dependências e tente novamente."
+msgstr "'requests' 库不可用。\n\n请重启 Kodi 以加载新的依赖项，然后重试。"
 
 msgctxt "#30495"
 msgid "Downloading {0} repository..."
-msgstr "Baixando repositório de {0}..."
+msgstr "正在下载 {0} 存储库..."
 
 msgctxt "#30496"
 msgid "Installing {0}..."
-msgstr "Instalando {0}..."
+msgstr "正在安装 {0}..."
 
 msgctxt "#30497"
 msgid "Downloading repository..."
-msgstr "Baixando repositório..."
+msgstr "正在下载存储库..."
 
 msgctxt "#30498"
 msgid "Extracting repository..."
-msgstr "Extraindo repositório..."
+msgstr "正在提取存储库..."
 
 msgctxt "#30499"
 msgid "Registering repository in Kodi..."
-msgstr "Registrando repositório no Kodi..."
+msgstr "正在 Kodi 中注册存储库..."
 
 msgctxt "#30500"
 msgid "Activating repository..."
-msgstr "Ativando repositório..."
+msgstr "正在激活存储库..."
 
 msgctxt "#30501"
 msgid "Updating repository index..."
-msgstr "Atualizando índice do repositório..."
+msgstr "正在更新存储库索引..."
 
 msgctxt "#30502"
 msgid "Confirm installation of {0}"
-msgstr "Confirme a instalação de {0}"
+msgstr "确认安装 {0}"
 
 msgctxt "#30503"
 msgid "Waiting for {0} installation..."
-msgstr "Aguardando instalação de {0}..."
+msgstr "等待 {0} 安装..."
 
 msgctxt "#30504"
 msgid "{0} installed successfully"
-msgstr "{0} instalado com sucesso"
+msgstr "{0} 安装成功"
 
 msgctxt "#30505"
 msgid "Auto-installing {0} (fallback)..."
-msgstr "Instalação automática de {0} (fallback)..."
+msgstr "自动安装 {0} (后备)..."
 
 msgctxt "#30506"
 msgid "The {0} repository was installed, but the addon installation did not complete.\n\nTo finish manually:\nAddons - Install from repository - {0} - Install"
-msgstr "O repositório de {0} foi instalado, mas a instalação do addon não foi concluída.\n\nPara concluir manualmente:\nAddons - Instalar do repositório - {0} - Instalar"
+msgstr "已安装 {0} 存储库，但插件安装未完成。\n\n如需手动完成：\n插件 - 从存储库安装 - {0} - 安装"
 
 msgctxt "#30507"
 msgid "Installation error"
-msgstr "Erro de instalação"
+msgstr "安装错误"
 
 msgctxt "#30508"
 msgid "Could not install {0} automatically.\n\nError: {1}\n\nYou may need to enable Unknown Sources in Settings."
-msgstr "Não foi possível instalar {0} automaticamente.\n\nErro: {1}\n\nTalvez seja necessário ativar Fontes desconhecidas nas Configurações."
+msgstr "无法自动安装 {0}。\n\n错误：{1}\n\n您可能需要在设置中启用未知来源。"
+
 
 msgctxt "#30510"
 msgid "Opening loiolog..."
-msgstr "Abrindo loiolog..."
+msgstr "正在打开 loiolog..."
 
 msgctxt "#30511"
 msgid "loiolog - installation"
-msgstr "loiolog - instalação"
+msgstr "loiolog - 安装"
 
 msgctxt "#30512"
 msgid "Auto installer (recommended)"
-msgstr "Instalador automático (recomendado)"
+msgstr "自动安装程序 (推荐)"
 
 msgctxt "#30513"
 msgid "View manual installation instructions"
-msgstr "Ver instruções de instalação manual"
+msgstr "查看手动安装说明"
 
 msgctxt "#30514"
 msgid "loiolog is not installed.\n\nDownload and install automatically?"
-msgstr "loiolog não está instalado.\n\nBaixar e instalar automaticamente?"
+msgstr "未安装 loiolog。\n\n是否自动下载并安装？"
 
 msgctxt "#30515"
 msgid "loiolog instructions"
-msgstr "Instruções loiolog"
+msgstr "loiolog 说明"
 
 msgctxt "#30516"
 msgid "[B]How to install loiolog[/B]\n\n1. Settings - System - Addons - enable Unknown Sources\n\n2. Settings - File Manager - Add source:\n   {0}\n\n3. Addons - Install from zip file - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. Install from repository - loiolog - Program Addons - loiolog"
-msgstr "[B]Como instalar loiolog[/B]\n\n1. Configurações - Sistema - Addons - ativar Fontes desconhecidas\n\n2. Configurações - Gerenciador de arquivos - Adicionar fonte:\n   {0}\n\n3. Addons - Instalar de arquivo zip - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. Instalar do repositório - loiolog - Addons de programa - loiolog"
+msgstr "[B]如何安装 loiolog[/B]\n\n1. 设置 - 系统 - 插件 - 启用未知来源\n\n2. 设置 - 文件管理器 - 添加源：\n   {0}\n\n3. 插件 - 从 zip 文件安装 - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. 从存储库安装 - loiolog - 程序插件 - loiolog"
 
 msgctxt "#30517"
 msgid "Add advanced editor to Kodi favourites"
-msgstr "Adicionar editor avançado aos favoritos do Kodi"
+msgstr "将高级编辑器添加到 Kodi 收藏夹"
 
 msgctxt "#30518"
 msgid "Advanced editor added. Reload skin or restart Kodi to see it"
-msgstr "Editor adicionado. Recarregue a skin ou reinicie o Kodi"
+msgstr "已添加高级编辑器。重新加载皮肤或重启 Kodi 以查看"
 
 msgctxt "#30519"
 msgid "Advanced editor already in Kodi favourites"
-msgstr "Editor avançado já existe nos favoritos do Kodi"
+msgstr "高级编辑器已在 Kodi 收藏夹中"
 
 msgctxt "#30520"
 msgid "Close"
-msgstr "Fechar"
+msgstr "关闭"
 
 msgctxt "#30521"
 msgid "Add the Advanced Editor to Kodi favourites?\n\nAllows opening it directly without launching the addon.\n\nIf cancelled, it can be added later from Settings. Kodi must be restarted for it to appear in the favourites list."
-msgstr "Adicionar o Editor Avançado aos favoritos do Kodi?\n\nPermite abri-lo diretamente sem iniciar o addon.\n\nSe cancelado, pode ser adicionado depois nas Configurações. O Kodi deve ser reiniciado para que apareça na lista de favoritos."
+msgstr "将高级编辑器添加到 Kodi 收藏夹？\n\n允许在不启动插件的情况下直接打开它。\n\n如果取消，之后可以从设置中添加。必须重启 Kodi 才能让它出现在收藏夹列表中。"
 
 msgctxt "#30522"
 msgid "Flow FavManager"
@@ -2088,4 +2092,4 @@ msgstr "Flow FavManager"
 
 msgctxt "#30523"
 msgid "The favourites file is corrupted or unreadable.\nThe editor will not open to avoid overwriting it and losing your favourites.\nRestore a backup or fix the file before continuing."
-msgstr "O arquivo de favoritos está corrompido ou ilegível.\nO editor não será aberto para evitar sobrescrevê-lo e perder seus favoritos.\nRestaure um backup ou corrija o arquivo antes de continuar."
+msgstr "收藏夹文件已损坏或不可读。\n为避免覆盖并丢失您的收藏，编辑器将不会打开。\n请在继续之前恢复备份或修复文件。"

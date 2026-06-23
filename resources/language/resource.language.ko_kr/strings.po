@@ -1,0 +1,2096 @@
+# Kodi Media Center
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Flow FavManager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+
+msgctxt "#30000"
+msgid "Customization"
+msgstr "ì‚¬ìš©ìž ì„¤ì •"
+
+msgctxt "#30001"
+msgid "List Layout"
+msgstr "ëª©ë¡ ë ˆì´ì•„ì›ƒ"
+
+msgctxt "#30002"
+msgid "Simple List"
+msgstr "ê°„ë‹¨í•œ ëª©ë¡"
+
+msgctxt "#30003"
+msgid "Grid (Thumbnails)"
+msgstr "ê·¸ë¦¬ë“œ (ì„¬ë„¤ì¼)"
+
+msgctxt "#30004"
+msgid "Icon Scale"
+msgstr "ì•„ì´ì½˜ í¬ê¸°"
+
+msgctxt "#30005"
+msgid "Default"
+msgstr "ê¸°ë³¸ê°’"
+
+msgctxt "#30006"
+msgid "Large"
+msgstr "í¬ê²Œ"
+
+msgctxt "#30007"
+msgid "Text Size"
+msgstr "í…ìŠ¤íŠ¸ í¬ê¸°"
+
+msgctxt "#30008"
+msgid "Small"
+msgstr "ìž‘ê²Œ"
+
+msgctxt "#30009"
+msgid "Medium"
+msgstr "ì¤‘ê°„"
+
+msgctxt "#30010"
+msgid "Colors & Accessibility"
+msgstr "ìƒ‰ìƒ ë° ì ‘ê·¼ì„±"
+
+msgctxt "#30011"
+msgid "Background Color"
+msgstr "ë°°ê²½ ìƒ‰ìƒ"
+
+msgctxt "#30012"
+msgid "Dark (Default)"
+msgstr "ì–´ë‘¡ê²Œ (ê¸°ë³¸)"
+
+msgctxt "#30013"
+msgid "Light"
+msgstr "ë°ê²Œ"
+
+msgctxt "#30014"
+msgid "Neutral Gray"
+msgstr "ì¤‘ë¦½ íšŒìƒ‰"
+
+msgctxt "#30015"
+msgid "Deep Blue"
+msgstr "ì§„í•œ íŒŒëž€ìƒ‰"
+
+msgctxt "#30016"
+msgid "Selection Color"
+msgstr "ì„ íƒ ìƒ‰ìƒ"
+
+msgctxt "#30017"
+msgid "Cyan (Default)"
+msgstr "ì‹œì•ˆ (ê¸°ë³¸)"
+
+msgctxt "#30018"
+msgid "Green"
+msgstr "ì´ˆë¡ìƒ‰"
+
+msgctxt "#30019"
+msgid "Yellow"
+msgstr "ë…¸ëž€ìƒ‰"
+
+msgctxt "#30020"
+msgid "Red"
+msgstr "ë¹¨ê°„ìƒ‰"
+
+msgctxt "#30021"
+msgid "Orange"
+msgstr "ì£¼í™©ìƒ‰"
+
+msgctxt "#30022"
+msgid "Violet"
+msgstr "ë³´ë¼ìƒ‰"
+
+msgctxt "#30023"
+msgid "Multiselect Color"
+msgstr "ë‹¤ì¤‘ ì„ íƒ ìƒ‰ìƒ"
+
+msgctxt "#30024"
+msgid "Green (Default)"
+msgstr "ì´ˆë¡ìƒ‰ (ê¸°ë³¸)"
+
+msgctxt "#30025"
+msgid "Magenta"
+msgstr "ë§ˆì  íƒ€"
+
+msgctxt "#30026"
+msgid "White"
+msgstr "í•˜ì–€ìƒ‰"
+
+msgctxt "#30027"
+msgid "Colorblind Mode (High Contrast)"
+msgstr "ìƒ‰ë§¹ ëª¨ë“œ (ê³ ëŒ€ë¹„)"
+
+msgctxt "#30028"
+msgid "Advanced"
+msgstr "ê³ ê¸‰ ì„¤ì •"
+
+msgctxt "#30029"
+msgid "Enable Audit Log (Security)"
+msgstr "ê°ì‚¬ ë¡œê·¸ í™œì„±í™” (ë³´ì•ˆ)"
+
+msgctxt "#30030"
+msgid "Flow FavManager"
+msgstr "Flow FavManager"
+
+msgctxt "#30031"
+msgid "Could not retrieve item information"
+msgstr "í•­ëª© ì •ë³´ë¥¼ ê°€ì ¸ì˜¬ ìˆ˜ ì—†ìŠµë‹ˆë‹¤"
+
+msgctxt "#30032"
+msgid "No Profiles"
+msgstr "í”„ë¡œí•„ ì—†ìŒ"
+
+msgctxt "#30033"
+msgid "No created profiles found.\nDo you want to create one now?"
+msgstr "ìƒì„±ëœ í”„ë¡œí•„ì´ ì—†ìŠµë‹ˆë‹¤.\nì§€ê¸ˆ ë§Œë“œì‹œê² ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30034"
+msgid "My Favorites"
+msgstr "ë‚´ ì¦ê²¨ì°¾ê¸°"
+
+msgctxt "#30035"
+msgid "New profile name"
+msgstr "ìƒˆ í”„ë¡œí•„ ì´ë¦„"
+
+msgctxt "#30036"
+msgid "Profile Created"
+msgstr "í”„ë¡œí•„ ìƒì„±ë¨"
+
+msgctxt "#30037"
+msgid "'{}' added to '{}'"
+msgstr "'{}'ì´(ê°€) '{}'ì— ì¶”ê°€ë˜ì—ˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30038"
+msgid "[COLOR lime]+ Create New Profile[/COLOR]"
+msgstr "[COLOR lime]+ ìƒˆ í”„ë¡œí•„ ë§Œë“¤ê¸°[/COLOR]"
+
+msgctxt "#30039"
+msgid "Add '{}...' to:"
+msgstr "'{}...' ì¶”ê°€ ìœ„ì¹˜:"
+
+msgctxt "#30040"
+msgid "Already Exists"
+msgstr "ì´ë¯¸ ì¡´ìž¬í•¨"
+
+msgctxt "#30041"
+msgid "'{}' is already in '{}'"
+msgstr "'{}'ì€(ëŠ”) ì´ë¯¸ '{}'ì— ìžˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30042"
+msgid "Added"
+msgstr "ì¶”ê°€ë¨"
+
+msgctxt "#30043"
+msgid "'{}' â†’ '{}'"
+msgstr "'{}' â†’ '{}'"
+
+msgctxt "#30044"
+msgid "Error"
+msgstr "ì˜¤ë¥˜"
+
+msgctxt "#30045"
+msgid "Failed to save profile"
+msgstr "í”„ë¡œí•„ ì €ìž¥ ì‹¤íŒ¨"
+
+msgctxt "#30046"
+msgid "Could not add to profile"
+msgstr "í”„ë¡œí•„ì— ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤"
+
+msgctxt "#30047"
+msgid "Incorrect PIN"
+msgstr "PIN ë²ˆí˜¸ê°€ í‹€ë ¸ìŠµë‹ˆë‹¤"
+
+msgctxt "#30048"
+msgid "{} attempts remaining"
+msgstr "{}íšŒ ì‹œë„ ë‚¨ìŒ"
+
+msgctxt "#30049"
+msgid "Incorrect PIN - Recovery"
+msgstr "PIN ë²ˆí˜¸ ìœ íš¨í•˜ì§€ ì•ŠìŒ - ë³µêµ¬"
+
+msgctxt "#30050"
+msgid "Answer Security Question"
+msgstr "ë³´ì•ˆ ì§ˆë¬¸ì— ë‹µë³€í•˜ì„¸ìš”"
+
+msgctxt "#30051"
+msgid "Cancel (Close Addon)"
+msgstr "ì·¨ì†Œ (ì• ë“œì˜¨ ë‹«ê¸°)"
+
+msgctxt "#30052"
+msgid "Question not set?"
+msgstr "ì§ˆë¬¸ì´ ì„¤ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30053"
+msgid "No security question set.\n\nYou can create a 'reset_pass.txt' file in the addon folder to reset."
+msgstr "ë³´ì•ˆ ì§ˆë¬¸ì´ ì„¤ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.\nì´ˆê¸°í™”í•˜ë ¤ë©´ ì• ë“œì˜¨ í´ë”ì— 'reset_pass.txt' íŒŒì¼ì„ ë§Œë“œì„¸ìš”."
+
+msgctxt "#30054"
+msgid "Access Recovered"
+msgstr "ì•¡ì„¸ìŠ¤ ë³µêµ¬ë¨"
+
+msgctxt "#30055"
+msgid "Correct answer.\nProtection is temporarily disabled.\nRemember to set a new PIN."
+msgstr "ì •ë‹µìž…ë‹ˆë‹¤.\në³´í˜¸ ê¸°ëŠ¥ì´ ì¼ì‹œì ìœ¼ë¡œ ë¹„í™œì„±í™”ë©ë‹ˆë‹¤.\nìƒˆ PINì„ ì„¤ì •í•˜ëŠ” ê²ƒì„ ìžŠì§€ ë§ˆì„¸ìš”."
+
+msgctxt "#30056"
+msgid "Incorrect Answer"
+msgstr "ìž˜ëª»ëœ ë‹µë³€"
+
+msgctxt "#30057"
+msgid "Could not verify.\n\nIf you forgot both, create an empty file named 'reset_pass.txt' in:\n"
+msgstr "í™•ì¸í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.\në‘˜ ë‹¤ ìžŠì–´ë²„ë¦° ê²½ìš°, ë‹¤ìŒ ìœ„ì¹˜ì— 'reset_pass.txt'ë¼ëŠ” ë¹ˆ íŒŒì¼ì„ ë§Œë“œì„¸ìš”:\n"
+
+msgctxt "#30058"
+msgid "Security and Password"
+msgstr "ë³´ì•ˆ ë° ë¹„ë°€ë²ˆí˜¸"
+
+msgctxt "#30059"
+msgid "ENABLED"
+msgstr "í™œì„±í™”ë¨"
+
+msgctxt "#30060"
+msgid "Disabled"
+msgstr "ë¹„í™œì„±í™”ë¨"
+
+msgctxt "#30061"
+msgid "Status: {}"
+msgstr "ìƒíƒœ: {}"
+
+msgctxt "#30062"
+msgid "Change PIN"
+msgstr "PIN ë³€ê²½"
+
+msgctxt "#30063"
+msgid "Set PIN"
+msgstr "PIN ì„¤ì •"
+
+msgctxt "#30064"
+msgid "Set Security Question"
+msgstr "ë³´ì•ˆ ì§ˆë¬¸ ì„¤ì •"
+
+msgctxt "#30065"
+msgid "Enable Protection"
+msgstr "ë³´í˜¸ í™œì„±í™”"
+
+msgctxt "#30066"
+msgid "Disable Protection"
+msgstr "ë³´í˜¸ ë¹„í™œì„±í™”"
+
+msgctxt "#30067"
+msgid "Â« Back"
+msgstr "Â« ë’¤ë¡œ"
+
+msgctxt "#30068"
+msgid "Security Information"
+msgstr "ë³´ì•ˆ ì •ë³´"
+
+msgctxt "#30069"
+msgid "PIN protection prevents unauthorized persons from accessing the addon.\n\n"
+msgstr "PIN ë³´í˜¸ëŠ” ê¶Œí•œì´ ì—†ëŠ” ì‚¬ëžŒì´ ì• ë“œì˜¨ì— ì ‘ê·¼í•˜ëŠ” ê²ƒì„ ë°©ì§€í•©ë‹ˆë‹¤.\n\n"
+
+msgctxt "#30070"
+msgid "Question set: {}"
+msgstr "ì§ˆë¬¸ ì„¤ì •ë¨: {}"
+
+msgctxt "#30071"
+msgid "Yes"
+msgstr "ì˜ˆ"
+
+msgctxt "#30072"
+msgid "No"
+msgstr "ì•„ë‹ˆìš”"
+
+msgctxt "#30073"
+msgid "To recover access if you forget the PIN:\n1. Answer the security question.\n2. Or create a 'reset_pass.txt' file in:\n"
+msgstr "PINì„ ìžŠì–´ë²„ë¦° ê²½ìš° ë³µêµ¬ ë°©ë²•:\n1. ë³´ì•ˆ ì§ˆë¬¸ì— ë‹µí•˜ê¸°\n2. ë˜ëŠ” ë‹¤ìŒ ìœ„ì¹˜ì— 'reset_pass.txt' íŒŒì¼ ë§Œë“¤ê¸°:\n"
+
+msgctxt "#30074"
+msgid "Enter new PIN (recommended numbers)"
+msgstr "ìƒˆ PIN ìž…ë ¥ (ìˆ«ìž ê¶Œìž¥)"
+
+msgctxt "#30075"
+msgid "Confirm PIN"
+msgstr "PIN í™•ì¸"
+
+msgctxt "#30076"
+msgid "PIN Saved"
+msgstr "PIN ì €ìž¥ë¨"
+
+msgctxt "#30077"
+msgid "Remember to configure security question"
+msgstr "ë³´ì•ˆ ì§ˆë¬¸ì„ êµ¬ì„±í•˜ëŠ” ê²ƒì„ ìžŠì§€ ë§ˆì„¸ìš”"
+
+msgctxt "#30078"
+msgid "PINs do not match"
+msgstr "PINì´ ì¼ì¹˜í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤"
+
+msgctxt "#30079"
+msgid "Choose a security question"
+msgstr "ë³´ì•ˆ ì§ˆë¬¸ ì„ íƒ"
+
+msgctxt "#30080"
+msgid "[Write custom question]"
+msgstr "[ì§ì ‘ ì§ˆë¬¸ ìž‘ì„±]"
+
+msgctxt "#30081"
+msgid "Write your question"
+msgstr "ì§ˆë¬¸ì„ ìž‘ì„±í•˜ì„¸ìš”"
+
+msgctxt "#30082"
+msgid "Answer (case insensitive)"
+msgstr "ë‹µë³€ (ëŒ€ì†Œë¬¸ìž êµ¬ë¶„ ì—†ìŒ)"
+
+msgctxt "#30083"
+msgid "Saved"
+msgstr "ì €ìž¥ë¨"
+
+msgctxt "#30084"
+msgid "Security question set"
+msgstr "ë³´ì•ˆ ì§ˆë¬¸ ì„¤ì •ë¨"
+
+msgctxt "#30085"
+msgid "Set a PIN"
+msgstr "PIN ì„¤ì •"
+
+msgctxt "#30086"
+msgid "You must set a PIN before enabling protection."
+msgstr "ë³´í˜¸ ê¸°ëŠ¥ì„ í™œì„±í™”í•˜ê¸° ì „ì— PINì„ ì„¤ì •í•´ì•¼ í•©ë‹ˆë‹¤."
+
+msgctxt "#30087"
+msgid "Warning"
+msgstr "ê²½ê³ "
+
+msgctxt "#30088"
+msgid "You haven't set a security question.\nIf you forget the PIN, you can only recover access via the rescue file.\n\nEnable anyway?"
+msgstr "ë³´ì•ˆ ì§ˆë¬¸ì„ ì„¤ì •í•˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.\nPINì„ ìžŠì–´ë²„ë¦° ê²½ìš° ë³µêµ¬ íŒŒì¼ì„ í†µí•´ì„œë§Œ ì ‘ê·¼ì„ ë³µêµ¬í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.\nê·¸ëž˜ë„ í™œì„±í™”í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30089"
+msgid "Protection Enabled"
+msgstr "ë³´í˜¸ í™œì„±í™”ë¨"
+
+msgctxt "#30090"
+msgid "PIN will be asked upon entry"
+msgstr "ì§„ìž… ì‹œ PINì„ ë¬»ìŠµë‹ˆë‹¤"
+
+msgctxt "#30091"
+msgid "Protection Disabled"
+msgstr "ë³´í˜¸ ë¹„í™œì„±í™”ë¨"
+
+msgctxt "#30092"
+msgid "Open access"
+msgstr "ì—´ë¦° ì•¡ì„¸ìŠ¤"
+
+msgctxt "#30093"
+msgid "Dynamic Icons"
+msgstr "ë™ì  ì•„ì´ì½˜"
+
+msgctxt "#30094"
+msgid "{} icons recovered"
+msgstr "{}ê°œì˜ ì•„ì´ì½˜ì´ ë³µêµ¬ë˜ì—ˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30095"
+msgid "Reset"
+msgstr "ì´ˆê¸°í™”"
+
+msgctxt "#30096"
+msgid "Discard all changes and return to original state?"
+msgstr "ëª¨ë“  ë³€ê²½ ì‚¬í•­ì„ ì·¨ì†Œí•˜ê³  ì›ëž˜ ìƒíƒœë¡œ ëŒì•„ê°€ì‹œê² ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30097"
+msgid "Reset"
+msgstr "ì´ˆê¸°í™”"
+
+msgctxt "#30098"
+msgid "Changes discarded"
+msgstr "ë³€ê²½ ì‚¬í•­ ì·¨ì†Œë¨"
+
+msgctxt "#30099"
+msgid "Auto-Group"
+msgstr "ìžë™ ê·¸ë£¹í™”"
+
+msgctxt "#30100"
+msgid "This will reorganize your list by grouping favorites from the same addon together (alphabetically).\nNo separators will be created.\nProceed?"
+msgstr "ë™ì¼í•œ ì• ë“œì˜¨ì˜ ì¦ê²¨ì°¾ê¸°ë¥¼ (ì•ŒíŒŒë²³ìˆœìœ¼ë¡œ) ê·¸ë£¹í™”í•˜ì—¬ ëª©ë¡ì„ ìž¬êµ¬ì„±í•©ë‹ˆë‹¤.\nêµ¬ë¶„ì„ ì€ ìƒì„±ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.\nê³„ì†í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30101"
+msgid "Grouped"
+msgstr "ê·¸ë£¹í™”ë¨"
+
+msgctxt "#30102"
+msgid "List sorted by Type/Addon"
+msgstr "ìœ í˜•/ì• ë“œì˜¨ë³„ë¡œ ì •ë ¬ëœ ëª©ë¡"
+
+msgctxt "#30103"
+msgid "Help & Instructions"
+msgstr "ë„ì›€ë§ ë° ì§€ì¹¨"
+
+msgctxt "#30104"
+msgid "[B]CURRENT MODE: Swap[/B]\nSelect a favorite then another.\nThey will swap places."
+msgstr "[B]í˜„ìž¬ ëª¨ë“œ: ìœ„ì¹˜ ë°”ê¾¸ê¸°[/B]\nì¦ê²¨ì°¾ê¸°ë¥¼ í•˜ë‚˜ ì„ íƒí•œ ë‹¤ìŒ ë‹¤ë¥¸ í•˜ë‚˜ë¥¼ ì„ íƒí•˜ì„¸ìš”.\në‘ í•­ëª©ì˜ ìœ„ì¹˜ê°€ ë°”ë€ë‹ˆë‹¤."
+
+msgctxt "#30105"
+msgid "[B]CURRENT MODE: Insert Before[/B]\nSelect an item and then the destination.\nThe first will move just [B]before[/B] the second."
+msgstr "[B]í˜„ìž¬ ëª¨ë“œ: ì•žì— ì‚½ìž…[/B]\ní•­ëª©ì„ ì„ íƒí•œ ë‹¤ìŒ ëŒ€ìƒì„ ì„ íƒí•˜ì„¸ìš”.\nì²« ë²ˆì§¸ í•­ëª©ì´ ë‘ ë²ˆì§¸ í•­ëª© ë°”ë¡œ [B]ì•ž[/B]ìœ¼ë¡œ ì´ë™í•©ë‹ˆë‹¤."
+
+msgctxt "#30106"
+msgid "[B]CURRENT MODE: Insert After[/B]\nSelect an item then the destination.\nThe first will move just [B]after[/B] the second."
+msgstr "[B]í˜„ìž¬ ëª¨ë“œ: ë’¤ì— ì‚½ìž…[/B]\ní•­ëª©ì„ ì„ íƒí•œ ë‹¤ìŒ ëŒ€ìƒì„ ì„ íƒí•˜ì„¸ìš”.\nì²« ë²ˆì§¸ í•­ëª©ì´ ë‘ ë²ˆì§¸ í•­ëª© ë°”ë¡œ [B]ë’¤[/B]ë¡œ ì´ë™í•©ë‹ˆë‹¤."
+
+msgctxt "#30107"
+msgid "[B]CURRENT MODE: Arrow Move[/B]\nSelect a favorite and use UP/DOWN keys to move it.\nPress the SAME favorite to release it."
+msgstr "[B]í˜„ìž¬ ëª¨ë“œ: í™”ì‚´í‘œ ì´ë™[/B]\nì¦ê²¨ì°¾ê¸°ë¥¼ ì„ íƒí•˜ê³  ìœ„/ì•„ëž˜ í‚¤ë¥¼ ì‚¬ìš©í•˜ì—¬ ì´ë™í•˜ì„¸ìš”.\në™ì¼í•œ ì¦ê²¨ì°¾ê¸°ë¥¼ ë‹¤ì‹œ ëˆ„ë¥´ë©´ ê³ ì •ì´ í•´ì œë©ë‹ˆë‹¤."
+
+msgctxt "#30108"
+msgid "\n\n[B]CHANGE MODE:[/B]\nUse the sidebar button to rotate between these behaviors according to your preference."
+msgstr "\n\n[B]ëª¨ë“œ ë³€ê²½:[/B]\nì‚¬ì´ë“œë°” ë²„íŠ¼ì„ ì‚¬ìš©í•˜ì—¬ ì›í•˜ëŠ” ë™ìž‘ìœ¼ë¡œ ì „í™˜í•˜ì„¸ìš”."
+
+msgctxt "#30109"
+msgid "\n\n[B]CONTEXT MENU[/B] (extra options):"
+msgstr "\n\n[B]ì»¨í…ìŠ¤íŠ¸ ë©”ë‰´[/B] (ì¶”ê°€ ì˜µì…˜):"
+
+msgctxt "#30110"
+msgid "\n- PC: Right Click or 'C' key\n- Remote/TV: 'Menu' button\n- Touch: Long Press"
+msgstr "\n- PC: ìš°í´ë¦­ ë˜ëŠ” 'C' í‚¤\n- ë¦¬ëª¨ì»¨/TV: 'ë©”ë‰´' ë²„íŠ¼\n- í„°ì¹˜: ê¸¸ê²Œ ëˆ„ë¥´ê¸°"
+
+msgctxt "#30111"
+msgid "\n\n[B]TIPS:[/B]\n- [I]Multiselect[/I]: select multiple to move in block\n- [I]Carousel[/I]: In arrow mode, reaching the end jumps to the beginning"
+msgstr "\n\n[B]íŒ:[/B]\n- [I]ë‹¤ì¤‘ ì„ íƒ[/I]: ì—¬ëŸ¬ ê°œë¥¼ ì„ íƒí•˜ì—¬ ë¸”ë¡ ë‹¨ìœ„ë¡œ ì´ë™\n- [I]ì¹´ë£¨ì…€[/I]: í™”ì‚´í‘œ ëª¨ë“œì—ì„œ ëì— ë„ë‹¬í•˜ë©´ ì²˜ìŒìœ¼ë¡œ ì í”„"
+
+msgctxt "#30112"
+msgid "Rename"
+msgstr "ì´ë¦„ ë°”ê¾¸ê¸°"
+
+msgctxt "#30113"
+msgid "Edit Command"
+msgstr "ëª…ë ¹ì–´ íŽ¸ì§‘"
+
+msgctxt "#30114"
+msgid "Change Icon"
+msgstr "ì•„ì´ì½˜ ë³€ê²½"
+
+msgctxt "#30115"
+msgid "Change Color"
+msgstr "ìƒ‰ìƒ ë³€ê²½"
+
+msgctxt "#30116"
+msgid "Change Format"
+msgstr "í˜•ì‹ ë³€ê²½"
+
+msgctxt "#30117"
+msgid "Move"
+msgstr "ì´ë™"
+
+msgctxt "#30118"
+msgid "Duplicate"
+msgstr "ë³µì œ"
+
+msgctxt "#30119"
+msgid "Delete"
+msgstr "ì‚­ì œ"
+
+msgctxt "#30120"
+msgid "Cancel"
+msgstr "ì·¨ì†Œ"
+
+msgctxt "#30121"
+msgid "Duplicated"
+msgstr "ë³µì œë¨"
+
+msgctxt "#30122"
+msgid "Move item"
+msgstr "í•­ëª© ì´ë™"
+
+msgctxt "#30123"
+msgid "â†‘ Move 1 up"
+msgstr "â†‘ 1ì¹¸ ìœ„ë¡œ"
+
+msgctxt "#30124"
+msgid "â†‘â†‘ Move 5 up"
+msgstr "â†‘â†‘ 5ì¹¸ ìœ„ë¡œ"
+
+msgctxt "#30125"
+msgid "â†‘â†‘â†‘ Move 10 up"
+msgstr "â†‘â†‘â†‘ 10ì¹¸ ìœ„ë¡œ"
+
+msgctxt "#30126"
+msgid "^^^ [B]TO THE TOP[/B]"
+msgstr "^^^ [B]ë§¨ ìœ„ë¡œ[/B]"
+
+msgctxt "#30127"
+msgid "â†“ Move 1 down"
+msgstr "â†“ 1ì¹¸ ì•„ëž˜ë¡œ"
+
+msgctxt "#30128"
+msgid "â†“â†“ Move 5 down"
+msgstr "â†“â†“ 5ì¹¸ ì•„ëž˜ë¡œ"
+
+msgctxt "#30129"
+msgid "â†“â†“â†“ Move 10 down"
+msgstr "â†“â†“â†“ 10ì¹¸ ì•„ëž˜ë¡œ"
+
+msgctxt "#30130"
+msgid "vvv [B]TO THE BOTTOM[/B]"
+msgstr "vvv [B]ë§¨ ì•„ëž˜ë¡œ[/B]"
+
+msgctxt "#30131"
+msgid "Sort favorites"
+msgstr "ì¦ê²¨ì°¾ê¸° ì •ë ¬"
+
+msgctxt "#30132"
+msgid "Sort A â†’ Z"
+msgstr "A â†’ Z ì •ë ¬"
+
+msgctxt "#30133"
+msgid "Sort Z â†’ A"
+msgstr "Z â†’ A ì •ë ¬"
+
+msgctxt "#30134"
+msgid "Reverse order (flip list)"
+msgstr "ìˆœì„œ ë°˜ì „ (ëª©ë¡ ë’¤ì§‘ê¸°)"
+
+msgctxt "#30135"
+msgid "Group by TYPE / ADDON"
+msgstr "ìœ í˜• / ì• ë“œì˜¨ë³„ ê·¸ë£¹í™”"
+
+msgctxt "#30136"
+msgid "Sorted A â†’ Z"
+msgstr "A â†’ Z ì •ë ¬ë¨"
+
+msgctxt "#30137"
+msgid "Sorted Z â†’ A"
+msgstr "Z â†’ A ì •ë ¬ë¨"
+
+msgctxt "#30138"
+msgid "Order reversed"
+msgstr "ìˆœì„œê°€ ë°˜ì „ë˜ì—ˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30139"
+msgid "Sorted"
+msgstr "ì •ë ¬ë¨"
+
+msgctxt "#30140"
+msgid "Profile Saved"
+msgstr "í”„ë¡œí•„ ì €ìž¥ë¨"
+
+msgctxt "#30141"
+msgid "Saved as '{}'"
+msgstr "'{}'(ìœ¼)ë¡œ ì €ìž¥ë¨"
+
+msgctxt "#30142"
+msgid "Select Color"
+msgstr "ìƒ‰ìƒ ì„ íƒ"
+
+msgctxt "#30143"
+msgid "No color"
+msgstr "ìƒ‰ìƒ ì—†ìŒ"
+
+msgctxt "#30144"
+msgid "White"
+msgstr "í°ìƒ‰"
+
+msgctxt "#30145"
+msgid "Yellow"
+msgstr "ë…¸ëž€ìƒ‰"
+
+msgctxt "#30146"
+msgid "Orange"
+msgstr "ì£¼í™©ìƒ‰"
+
+msgctxt "#30147"
+msgid "Red"
+msgstr "ë¹¨ê°„ìƒ‰"
+
+msgctxt "#30148"
+msgid "Pink"
+msgstr "ë¶„í™ìƒ‰"
+
+msgctxt "#30149"
+msgid "Violet"
+msgstr "ë³´ë¼ìƒ‰"
+
+msgctxt "#30150"
+msgid "Blue"
+msgstr "íŒŒëž€ìƒ‰"
+
+msgctxt "#30151"
+msgid "Cyan"
+msgstr "ì‹œì•ˆ"
+
+msgctxt "#30152"
+msgid "Green"
+msgstr "ì´ˆë¡ìƒ‰"
+
+msgctxt "#30153"
+msgid "Lime"
+msgstr "ë¼ìž„ìƒ‰"
+
+msgctxt "#30154"
+msgid "Select Format"
+msgstr "í˜•ì‹ ì„ íƒ"
+
+msgctxt "#30155"
+msgid "No format"
+msgstr "í˜•ì‹ ì—†ìŒ"
+
+msgctxt "#30156"
+msgid "Bold"
+msgstr "êµµê²Œ"
+
+msgctxt "#30157"
+msgid "Italic"
+msgstr "ê¸°ìš¸ìž„ê¼´"
+
+msgctxt "#30158"
+msgid "Bold + Italic"
+msgstr "êµµê²Œ + ê¸°ìš¸ìž„ê¼´"
+
+msgctxt "#30159"
+msgid "UPPERCASE"
+msgstr "ëŒ€ë¬¸ìž"
+
+msgctxt "#30160"
+msgid "Rename Favorite"
+msgstr "ì¦ê²¨ì°¾ê¸° ì´ë¦„ ë°”ê¾¸ê¸°"
+
+msgctxt "#30161"
+msgid "Edit Command / Path"
+msgstr "ëª…ë ¹ì–´ / ê²½ë¡œ íŽ¸ì§‘"
+
+msgctxt "#30162"
+msgid "Updated"
+msgstr "ì—…ë°ì´íŠ¸ë¨"
+
+msgctxt "#30163"
+msgid "Command changed"
+msgstr "ëª…ë ¹ì–´ê°€ ë³€ê²½ë˜ì—ˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30164"
+msgid "Separator only"
+msgstr "êµ¬ë¶„ì„ ë§Œ"
+
+msgctxt "#30165"
+msgid "Separator and all its content"
+msgstr "êµ¬ë¶„ì„  ë° ëª¨ë“  ë‚´ìš©"
+
+msgctxt "#30166"
+msgid "Delete Section: {}"
+msgstr "ì„¹ì…˜ ì‚­ì œ: {}"
+
+msgctxt "#30167"
+msgid "Confirm"
+msgstr "í™•ì¸"
+
+msgctxt "#30168"
+msgid "Delete '{}'?"
+msgstr "'{}'ì„(ë¥¼) ì‚­ì œí•˜ì‹œê² ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30169"
+msgid "Unsaved changes"
+msgstr "ì €ìž¥ë˜ì§€ ì•Šì€ ë³€ê²½ ì‚¬í•­"
+
+msgctxt "#30170"
+msgid "Save and Exit"
+msgstr "ì €ìž¥ í›„ ì¢…ë£Œ"
+
+msgctxt "#30171"
+msgid "Save and Update"
+msgstr "ì €ìž¥ ë° ì—…ë°ì´íŠ¸"
+
+msgctxt "#30172"
+msgid "Exit without Saving (Discard Changes)"
+msgstr "ì €ìž¥í•˜ì§€ ì•Šê³  ì¢…ë£Œ (ë³€ê²½ ì‚¬í•­ ì·¨ì†Œ)"
+
+msgctxt "#30173"
+msgid "Automatically assigned icons detected for some favorites.\nDo you want to keep these new icons?"
+msgstr "ì¼ë¶€ ì¦ê²¨ì°¾ê¸°ì— ëŒ€í•´ ìžë™ìœ¼ë¡œ í• ë‹¹ëœ ì•„ì´ì½˜ì´ ê°ì§€ë˜ì—ˆìŠµë‹ˆë‹¤.\nì´ ìƒˆ ì•„ì´ì½˜ì„ ìœ ì§€í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30174"
+msgid "Keep"
+msgstr "ìœ ì§€"
+
+msgctxt "#30175"
+msgid "Discard"
+msgstr "ì·¨ì†Œ"
+
+msgctxt "#30176"
+msgid "Icons"
+msgstr "ì•„ì´ì½˜"
+
+msgctxt "#30177"
+msgid "{} icons discarded"
+msgstr "{}ê°œì˜ ì•„ì´ì½˜ì´ ì·¨ì†Œë˜ì—ˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30178"
+msgid "Saved Successfully"
+msgstr "ì„±ê³µì ìœ¼ë¡œ ì €ìž¥ë˜ì—ˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30179"
+msgid "Could not save."
+msgstr "ì €ìž¥í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤."
+
+msgctxt "#30180"
+msgid "[B]Custom / Manual[/B] (Write command)"
+msgstr "[B]ì‚¬ìš©ìž ì •ì˜ / ìˆ˜ë™[/B] (ëª…ë ¹ì–´ ìž‘ì„±)"
+
+msgctxt "#30181"
+msgid "Installed Addons (Video and Programs)"
+msgstr "ì„¤ì¹˜ëœ ì• ë“œì˜¨ (ë¹„ë””ì˜¤ ë° í”„ë¡œê·¸ëž¨)"
+
+msgctxt "#30182"
+msgid "What do you want to add?"
+msgstr "ë¬´ì—‡ì„ ì¶”ê°€í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30183"
+msgid "Favorite Name"
+msgstr "ì¦ê²¨ì°¾ê¸° ì´ë¦„"
+
+msgctxt "#30184"
+msgid "Path or Command (Ex: ActivateWindow(...))"
+msgstr "ê²½ë¡œ ë˜ëŠ” ëª…ë ¹ì–´ (ì˜ˆ: ActivateWindow(...))"
+
+msgctxt "#30185"
+msgid "Select Image"
+msgstr "ì´ë¯¸ì§€ ì„ íƒ"
+
+msgctxt "#30186"
+msgid "No addons found"
+msgstr "ì• ë“œì˜¨ì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤"
+
+msgctxt "#30187"
+msgid "Select Addon"
+msgstr "ì• ë“œì˜¨ ì„ íƒ"
+
+msgctxt "#30188"
+msgid "This category is empty"
+msgstr "ì´ ì¹´í…Œê³ ë¦¬ëŠ” ë¹„ì–´ ìžˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30189"
+msgid "Select from {}"
+msgstr "{}ì—ì„œ ì„ íƒ"
+
+msgctxt "#30190"
+msgid "Attention"
+msgstr "ì£¼ì˜"
+
+msgctxt "#30191"
+msgid "Favorite without path"
+msgstr "ê²½ë¡œ ì—†ëŠ” ì¦ê²¨ì°¾ê¸°"
+
+msgctxt "#30192"
+msgid "Added"
+msgstr "ì¶”ê°€ë¨"
+
+msgctxt "#30193"
+msgid "Section / Separator Name"
+msgstr "ì„¹ì…˜ / êµ¬ë¶„ì„  ì´ë¦„"
+
+msgctxt "#30194"
+msgid "Gold (Default)"
+msgstr "ê³¨ë“œ (ê¸°ë³¸)"
+
+msgctxt "#30195"
+msgid "Gray"
+msgstr "íšŒìƒ‰"
+
+msgctxt "#30196"
+msgid "Separator Color"
+msgstr "ëŒ€ìƒ í´ë” ì„ íƒ"
+
+msgctxt "#30197"
+msgid "Nothing selected"
+msgstr "선택된 항목 없음"
+
+msgctxt "#30198"
+msgid "Move to..."
+msgstr "이동..."
+
+msgctxt "#30199"
+msgid "Click on the destination position"
+msgstr "대상 위치를 클릭하세요"
+
+msgctxt "#30200"
+msgid "Before (At the top)"
+msgstr "ì¦ê²¨ì°¾ê¸° ì¶”ê°€"
+
+msgctxt "#30201"
+msgid "After"
+msgstr "ê³ ê¸‰ ì—ë””í„°"
+
+msgctxt "#30202"
+msgid "Moved"
+msgstr "ê°„ë‹¨í•œ ì—ë””í„°"
+
+msgctxt "#30203"
+msgid "{} items"
+msgstr "{}ê°œ í•­ëª©"
+
+msgctxt "#30204"
+msgid "Delete {} selected items?"
+msgstr "선택한 {}개 항목을 삭제할까요?"
+
+msgctxt "#30205"
+msgid "Color for {} items"
+msgstr "{}개 항목의 색상"
+
+msgctxt "#30206"
+msgid "Select New Image"
+msgstr "새 이미지 선택"
+
+msgctxt "#30207"
+msgid "Icon"
+msgstr "ì„¹ì…˜ / êµ¬ë¶„ì„  ì¶”ê°€"
+
+msgctxt "#30208"
+msgid "Image updated"
+msgstr "Kodi ì„¹ì…˜"
+
+msgctxt "#30209"
+msgid "Add Item / Addon"
+msgstr "ì‹œìŠ¤í…œ ëª…ë ¹ì–´"
+
+msgctxt "#30210"
+msgid "Add Separator"
+msgstr "í…œí”Œë¦¿ì—ì„œ ì¶”ê°€"
+
+msgctxt "#30211"
+msgid "Add..."
+msgstr "í…œí”Œë¦¿ íŽ¸ì§‘"
+
+msgctxt "#30212"
+msgid "Save as New Profile"
+msgstr "ì„¹ì…˜ ì¶”ê°€"
+
+msgctxt "#30213"
+msgid "Create backup (XML)"
+msgstr "ë§¨ ìœ„ë¡œ ì´ë™"
+
+msgctxt "#30214"
+msgid "Restore from backup (XML)"
+msgstr "ë§¨ ì•„ëž˜ë¡œ ì´ë™"
+
+msgctxt "#30215"
+msgid "Discard current changes"
+msgstr "ì¦ê²¨ì°¾ê¸°ë¥¼ ì›ëž˜ ìƒíƒœ(ë§ˆì§€ë§‰ ì €ìž¥ëœ ìƒíƒœ)ë¡œ ì´ˆê¸°í™”í•©ë‹ˆë‹¤.\nê³„ì†í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30216"
+msgid "Backup / Restore"
+msgstr "ë°±ì—… / ë³µêµ¬"
+
+msgctxt "#30217"
+msgid "Backup name (no extension)"
+msgstr "백업 이름 (확장자 없음)"
+
+msgctxt "#30218"
+msgid "Select folder to save"
+msgstr "저장할 폴더 선택"
+
+msgctxt "#30219"
+msgid "Backup Created"
+msgstr "백업 생성됨"
+
+msgctxt "#30220"
+msgid "Error saving"
+msgstr "저장 오류"
+
+msgctxt "#30221"
+msgid "Name of your first pet?"
+msgstr "ì²« ë²ˆì§¸ ë°˜ë ¤ë™ë¬¼ì˜ ì´ë¦„ì€ ë¬´ì—‡ìž…ë‹ˆê¹Œ?"
+
+msgctxt "#30222"
+msgid "City where you were born?"
+msgstr "íƒœì–´ë‚œ ë„ì‹œëŠ” ì–´ë””ìž…ë‹ˆê¹Œ?"
+
+msgctxt "#30223"
+msgid "Mother's birth year?"
+msgstr "ê°€ìž¥ ì¢‹ì•„í•˜ëŠ” ì±…ì€ ë¬´ì—‡ìž…ë‹ˆê¹Œ?"
+
+msgctxt "#30224"
+msgid "Name of childhood best friend?"
+msgstr "ì²« ì°¨ì˜ ë¸Œëžœë“œëŠ” ë¬´ì—‡ìž…ë‹ˆê¹Œ?"
+
+msgctxt "#30225"
+msgid "Favorite food?"
+msgstr "ì–´ë¦° ì‹œì ˆì˜ ì˜ì›…ì€ ëˆ„êµ¬ìž…ë‹ˆê¹Œ?"
+
+msgctxt "#30226"
+msgid "Security Reset"
+msgstr "ë¹„ìƒ ì´ˆê¸°í™”"
+
+msgctxt "#30227"
+msgid "Recovery file detected.\nPassword has been removed.\nYou can set a new one in Settings."
+msgstr "ë¹„ìƒ ì´ˆê¸°í™” íŒŒì¼ì´ ê°ì§€ë˜ì—ˆìŠµë‹ˆë‹¤.\në³´ì•ˆ ê¸°ëŠ¥ì´ ë¹„í™œì„±í™”ë˜ì—ˆìœ¼ë©° íŒŒì¼ì´ ì‚­ì œë˜ì—ˆìŠµë‹ˆë‹¤."
+
+msgctxt "#30228"
+msgid "Installed Addons"
+msgstr "설치된 애드온"
+
+msgctxt "#30229"
+msgid "Gold (Default)"
+msgstr "골드 (기본값)"
+
+msgctxt "#30230"
+msgid "Change Icon"
+msgstr "아이콘 변경"
+
+msgctxt "#30231"
+msgid "Change Color"
+msgstr "색상 변경"
+
+msgctxt "#30232"
+msgid "Change Format"
+msgstr "형식 변경"
+
+msgctxt "#30233"
+msgid "Move"
+msgstr "이동"
+
+msgctxt "#30234"
+msgid "Duplicate"
+msgstr "복제"
+
+msgctxt "#30235"
+msgid "[B]Custom / Manual[/B] (Write command)"
+msgstr "[B]사용자 지정 / 수동[/B] (명령 입력)"
+
+msgctxt "#30236"
+msgid "Installed Addons (Video and Programs)"
+msgstr "설치된 애드온 (비디오 및 프로그램)"
+
+msgctxt "#30237"
+msgid "Favourite Name"
+msgstr "즐겨찾기 이름"
+
+msgctxt "#30238"
+msgid "No addons found"
+msgstr "애드온을 찾을 수 없음"
+
+msgctxt "#30239"
+msgid "Select Addon"
+msgstr "애드온 선택"
+
+msgctxt "#30240"
+msgid "This category is empty"
+msgstr "이 카테고리는 비어 있습니다"
+
+msgctxt "#30241"
+msgid "Select from "
+msgstr "선택 위치: "
+
+msgctxt "#30242"
+msgid "Added"
+msgstr "추가됨"
+
+msgctxt "#30243"
+msgid "Quick Editor"
+msgstr "빠른 편집기"
+
+msgctxt "#30244"
+msgid "Saved"
+msgstr "저장됨"
+
+msgctxt "#30245"
+msgid "Create Backup"
+msgstr "백업 만들기"
+
+msgctxt "#30246"
+msgid "Restore from Backup"
+msgstr "백업에서 복원"
+
+msgctxt "#30247"
+msgid "Backup"
+msgstr "백업"
+
+msgctxt "#30248"
+msgid "No favourites to save."
+msgstr "저장할 즐겨찾기가 없습니다."
+
+msgctxt "#30249"
+msgid "Backup Created"
+msgstr "백업 생성됨"
+
+msgctxt "#30250"
+msgid "Select backup file (.xml)"
+msgstr "XML íŒŒì¼ ì„ íƒ"
+
+msgctxt "#30251"
+msgid "File not found."
+msgstr "파일을 찾을 수 없습니다."
+
+msgctxt "#30252"
+msgid "The file does not seem to be a valid backup."
+msgstr "유효한 백업 파일이 아닌 것 같습니다."
+
+msgctxt "#30253"
+msgid "The backup is empty."
+msgstr "백업이 비어 있습니다."
+
+msgctxt "#30254"
+msgid "Replace your current favourites with the backup?\n({} items)"
+msgstr "현재 즐겨찾기를 백업으로 바꿀까요?\n({}개 항목)"
+
+msgctxt "#30255"
+msgid "Restored"
+msgstr "복원됨"
+
+msgctxt "#30256"
+msgid "{} favourites loaded"
+msgstr "{}개 즐겨찾기를 불러왔습니다"
+
+msgctxt "#30257"
+msgid "Could not load backup:"
+msgstr "백업을 불러올 수 없습니다:"
+
+msgctxt "#30258"
+msgid "[B]+ Create Profile[/B] (Save current state)"
+msgstr "[COLOR lime]+ ìƒˆ í”„ë¡œí•„ ë§Œë“¤ê¸° (í˜„ìž¬ ìƒíƒœì—ì„œ)[/COLOR]"
+
+msgctxt "#30259"
+msgid "[B]+ Import from XML[/B]"
+msgstr "[COLOR cyan]favourites.xmlì—ì„œ ê°€ì ¸ì˜¤ê¸°[/COLOR]"
+
+msgctxt "#30260"
+msgid "[B]+ Export current to XML[/B]"
+msgstr "[COLOR orange]í˜„ìž¬ ìƒíƒœë¥¼ XMLë¡œ ë‚´ë³´ë‚´ê¸°[/COLOR]"
+
+msgctxt "#30261"
+msgid "Profile Manager"
+msgstr "í”„ë¡œí•„ ê´€ë¦¬ìž"
+
+msgctxt "#30262"
+msgid "Profile Created"
+msgstr "í”„ë¡œí•„ ìƒì„±ë¨"
+
+msgctxt "#30263"
+msgid "Saved '{}'"
+msgstr "'{}' í”„ë¡œí•„ì´ ìƒì„±ë˜ì—ˆìŠµë‹ˆë‹¤."
+
+msgctxt "#30264"
+msgid "No valid favourites found"
+msgstr "XMLì—ì„œ ì¦ê²¨ì°¾ê¸°ë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤"
+
+msgctxt "#30265"
+msgid "Imported Profile"
+msgstr "ê°€ì ¸ì˜¨ í”„ë¡œí•„"
+
+msgctxt "#30266"
+msgid "Name for the profile"
+msgstr "ê°€ì ¸ì˜¨ í”„ë¡œí•„ì˜ ì´ë¦„ì„ ìž…ë ¥í•˜ì„¸ìš”"
+
+msgctxt "#30267"
+msgid "Imported"
+msgstr "í”„ë¡œí•„ ê°€ì ¸ì˜´"
+
+msgctxt "#30268"
+msgid "{} favourites added"
+msgstr "{}ê°œì˜ ì¦ê²¨ì°¾ê¸°ë¥¼ ì„±ê³µì ìœ¼ë¡œ ê°€ì ¸ì™”ìŠµë‹ˆë‹¤."
+
+msgctxt "#30269"
+msgid "Import Error"
+msgstr "XML ê°€ì ¸ì˜¤ê¸° ì˜¤ë¥˜"
+
+msgctxt "#30270"
+msgid "Exported"
+msgstr "ë‚´ë³´ë‚´ê¸° ì„±ê³µ"
+
+msgctxt "#30271"
+msgid "Error Exporting"
+msgstr "ë‚´ë³´ë‚´ê¸° ì‹¤íŒ¨"
+
+msgctxt "#30272"
+msgid "[B]Load Profile[/B] (Replaces current favourites)"
+msgstr "í”„ë¡œí•„ ë¡œë“œ / í™œì„±í™”"
+
+msgctxt "#30273"
+msgid "Export to XML"
+msgstr "XMLë¡œ ë‚´ë³´ë‚´ê¸°"
+
+msgctxt "#30274"
+msgid "Profile"
+msgstr "í”„ë¡œí•„"
+
+msgctxt "#30275"
+msgid "Load Profile"
+msgstr "ë¡œë“œ í™•ì¸"
+
+msgctxt "#30276"
+msgid "SURE? This will replace your current favourites with those of '{}'.\nIt is recommended to make a backup first."
+msgstr "í˜„ìž¬ì˜ ëª¨ë“  ì¦ê²¨ì°¾ê¸°ê°€ '{}'ì˜ ì¦ê²¨ì°¾ê¸°ë¡œ ëŒ€ì²´ë©ë‹ˆë‹¤.\n\nê³„ì†í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30277"
+msgid "Profile Loaded"
+msgstr "í”„ë¡œí•„ ë¡œë“œë¨"
+
+msgctxt "#30278"
+msgid "Favourites updated"
+msgstr "Kodi ì¦ê²¨ì°¾ê¸°ê°€ ì—…ë°ì´íŠ¸ë˜ì—ˆìŠµë‹ˆë‹¤."
+
+msgctxt "#30279"
+msgid "Rename profile"
+msgstr "í”„ë¡œí•„ ì´ë¦„ ë°”ê¾¸ê¸°"
+
+msgctxt "#30280"
+msgid "Renamed"
+msgstr "í”„ë¡œí•„ ì´ë¦„ ë³€ê²½ë¨"
+
+msgctxt "#30281"
+msgid "Now is '{}'"
+msgstr "ìƒˆ ì´ë¦„: {}"
+
+msgctxt "#30282"
+msgid "Saved in {}"
+msgstr "í”„ë¡œí•„ì´ {}(ìœ¼)ë¡œ ë‚´ë³´ë‚´ì¡ŒìŠµë‹ˆë‹¤"
+
+msgctxt "#30283"
+msgid "Delete Profile"
+msgstr "í”„ë¡œí•„ ì‚­ì œ"
+
+msgctxt "#30284"
+msgid "Permanently delete profile '{}'?"
+msgstr "'{}' í”„ë¡œí•„ì„ ì‚­ì œí•˜ì‹œê² ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30285"
+msgid "Templates Editor"
+msgstr "í…œí”Œë¦¿ ì—ë””í„°"
+
+msgctxt "#30286"
+msgid "Add New Category"
+msgstr "새 카테고리 추가"
+
+msgctxt "#30287"
+msgid "Reset to defaults"
+msgstr "기본값으로 재설정"
+
+msgctxt "#30288"
+msgid "Export Templates"
+msgstr "템플릿 내보내기"
+
+msgctxt "#30289"
+msgid "Import Templates"
+msgstr "템플릿 가져오기"
+
+msgctxt "#30290"
+msgid "Name of the new category"
+msgstr "ìƒˆ ì¹´í…Œê³ ë¦¬ ì´ë¦„"
+
+msgctxt "#30292"
+msgid "A category with that name already exists"
+msgstr "ì¹´í…Œê³ ë¦¬ê°€ ì´ë¯¸ ì¡´ìž¬í•©ë‹ˆë‹¤"
+
+msgctxt "#30293"
+msgid "Created"
+msgstr "ì¹´í…Œê³ ë¦¬ ì¶”ê°€ë¨"
+
+msgctxt "#30294"
+msgid "Add New"
+msgstr "ìƒˆ í•­ëª© ì¶”ê°€"
+
+msgctxt "#30295"
+msgid "Delete this Category"
+msgstr "ì¹´í…Œê³ ë¦¬ ì‚­ì œ"
+
+msgctxt "#30296"
+msgid "Delete category '{}' and all its items?"
+msgstr "'{}' ì¹´í…Œê³ ë¦¬ì™€ ëª¨ë“  í…œí”Œë¦¿ì„ ì‚­ì œí•˜ì‹œê² ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30297"
+msgid "Deleted"
+msgstr "ì‚­ì œë¨"
+
+msgctxt "#30298"
+msgid "Item Name"
+msgstr "í•­ëª© ì´ë¦„"
+
+msgctxt "#30299"
+msgid "Command or Path (Ex: ActivateWindow(...))"
+msgstr "í•­ëª© ëª…ë ¹ì–´ / ê²½ë¡œ"
+
+msgctxt "#30300"
+msgid "Select Icon"
+msgstr "ì•„ì´ì½˜ ì„ íƒ"
+
+msgctxt "#30301"
+msgid "Type name (Ex: DefaultMovies.png)"
+msgstr "ìˆ˜ë™ ì•„ì´ì½˜ ê²½ë¡œ"
+
+msgctxt "#30302"
+msgid "Browse image in explorer"
+msgstr "ì•„ì´ì½˜ ì°¾ì•„ë³´ê¸°"
+
+msgctxt "#30303"
+msgid "Icon name"
+msgstr "ì•„ì´ì½˜ ê²½ë¡œ"
+
+msgctxt "#30304"
+msgid "Edit Name"
+msgstr "ì´ë¦„ íŽ¸ì§‘"
+
+msgctxt "#30305"
+msgid "Edit Command"
+msgstr "ê²½ë¡œ íŽ¸ì§‘"
+
+msgctxt "#30306"
+msgid "Edit Icon"
+msgstr "ì•„ì´ì½˜ íŽ¸ì§‘"
+
+msgctxt "#30307"
+msgid "New Name"
+msgstr "ìƒˆ í•­ëª© ì´ë¦„"
+
+msgctxt "#30308"
+msgid "New Command"
+msgstr "ìƒˆ í•­ëª© ê²½ë¡œ"
+
+msgctxt "#30309"
+msgid "New Icon"
+msgstr "ìƒˆ ì•„ì´ì½˜ ê²½ë¡œ"
+
+msgctxt "#30310"
+msgid "Reset all templates to default values?\nThis will delete custom categories."
+msgstr "ëª¨ë“  í…œí”Œë¦¿ì„ ê¸°ë³¸ê°’ìœ¼ë¡œ ì´ˆê¸°í™”í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30311"
+msgid "Templates"
+msgstr "í…œí”Œë¦¿ ì´ˆê¸°í™”ë¨"
+
+msgctxt "#30312"
+msgid "Reset"
+msgstr "ì›ëž˜ í…œí”Œë¦¿ì´ ë³µêµ¬ë˜ì—ˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30313"
+msgid "Templates replaced"
+msgstr "템플릿이 교체됨"
+
+msgctxt "#30314"
+msgid "Merged"
+msgstr "병합됨"
+
+msgctxt "#30315"
+msgid "Categories added"
+msgstr "카테고리가 추가됨"
+
+msgctxt "#30316"
+msgid "How to import?"
+msgstr "어떻게 가져올까요?"
+
+msgctxt "#30317"
+msgid "Replace all"
+msgstr "모두 교체"
+
+msgctxt "#30318"
+msgid "Merge (add new categories)"
+msgstr "병합 (새 카테고리 추가)"
+
+msgctxt "#30319"
+msgid "File name (without extension)"
+msgstr "파일 이름 (확장자 없음)"
+
+msgctxt "#30320"
+msgid "Search in all profiles"
+msgstr "ëª¨ë“  í”„ë¡œí•„ì—ì„œ ê²€ìƒ‰"
+
+msgctxt "#30321"
+msgid "No results for '{}'"
+msgstr "'{}'ì— ëŒ€í•œ ê²°ê³¼ê°€ ì—†ìŠµë‹ˆë‹¤"
+
+msgctxt "#30322"
+msgid "No items matching your search were found."
+msgstr "ì €ìž¥ëœ ëª¨ë“  í”„ë¡œí•„ì—ì„œ ì¦ê²¨ì°¾ê¸°ë¥¼ ê²€ìƒ‰í•©ë‹ˆë‹¤."
+
+msgctxt "#30323"
+msgid "From profile:"
+msgstr "í”„ë¡œí•„ì—ì„œ ì°¾ìŒ:"
+
+msgctxt "#30324"
+msgid "Explore My Profiles"
+msgstr "ë‚´ í”„ë¡œí•„ íƒìƒ‰"
+
+msgctxt "#30325"
+msgid "Navigate through your profiles as folder. Useful for creating menus and Widgets in Skins."
+msgstr "ì €ìž¥ëœ ì¦ê²¨ì°¾ê¸° í”„ë¡œí•„ì„ íƒìƒ‰í•˜ê³  ê´€ë¦¬í•©ë‹ˆë‹¤."
+
+msgctxt "#30326"
+msgid "Advanced Editor"
+msgstr "ê³ ê¸‰ ì—ë””í„°"
+
+msgctxt "#30327"
+msgid "Graphic editor with icon and color visualization."
+msgstr "ë“œëž˜ê·¸ ì•¤ ë“œë¡­ì„ ì§€ì›í•˜ëŠ” ì‹œê°ì  ì—ë””í„°."
+
+msgctxt "#30328"
+msgid "Quick Editor"
+msgstr "ê°„ë‹¨í•œ ì—ë””í„°"
+
+msgctxt "#30329"
+msgid "Simple and lightweight editor. Fast and compatible with all devices."
+msgstr "ì¦ê²¨ì°¾ê¸°ë¥¼ ì¶”ê°€í•˜ê³  ì •ë¦¬í•  ìˆ˜ ìžˆëŠ” ë¹ ë¥¸ ë©”ë‰´."
+
+msgctxt "#30330"
+msgid "Reload Profile (See changes)"
+msgstr "í”„ë¡œí•„ ìƒˆë¡œê³ ì¹¨ (ë³€ê²½ ì‚¬í•­ ì ìš©)"
+
+msgctxt "#30331"
+msgid "Reload Kodi profile to apply changes in main interface."
+msgstr "ëª¨ë“  ë³€ê²½ ì‚¬í•­ì„ ì¦‰ì‹œ ì ìš©í•˜ë ¤ë©´ Kodië¥¼ ìƒˆë¡œê³ ì¹©ë‹ˆë‹¤."
+
+msgctxt "#30332"
+msgid "Configuration"
+msgstr "ì„¤ì •"
+
+msgctxt "#30333"
+msgid "Visual editor and template editor settings."
+msgstr "ì‹œê° ë° ë³´ì•ˆ ì„¤ì •ì„ ì¡°ì •í•©ë‹ˆë‹¤."
+
+msgctxt "#30334"
+msgid "View Favourites Menu"
+msgstr "ì¦ê²¨ì°¾ê¸° ë©”ë‰´ ë³´ê¸°"
+
+msgctxt "#30335"
+msgid "Open Kodi favourites menu to see the result."
+msgstr "Kodi ê¸°ë³¸ ì¦ê²¨ì°¾ê¸° ì°½ì„ ì—½ë‹ˆë‹¤."
+
+msgctxt "#30336"
+msgid "Back / Exit"
+msgstr "ë’¤ë¡œ / ì¢…ë£Œ"
+
+msgctxt "#30337"
+msgid "Return to Kodi."
+msgstr "ì• ë“œì˜¨ì„ ë‹«ìŠµë‹ˆë‹¤."
+
+msgctxt "#30338"
+msgid "About Flow FavManager"
+msgstr "Flow FavManager ì •ë³´"
+
+msgctxt "#30339"
+msgid "Information."
+msgstr "ì •ë³´ ë° í¬ë ˆë”§."
+
+msgctxt "#30340"
+msgid "About"
+msgstr "ì •ë³´"
+
+msgctxt "#30341"
+msgid "For more information and projects visit:"
+msgstr "ì´ í”„ë¡œì íŠ¸ëŠ” Kodiì˜ ì¦ê²¨ì°¾ê¸° ê´€ë¦¬ ì‹œìŠ¤í…œì˜ ì§„í™”ë¼ëŠ” ëª©í‘œë¥¼ ê°€ì§€ê³  ì‹œìž‘ë˜ì—ˆìŠµë‹ˆë‹¤."
+
+msgctxt "#30342"
+msgid "PROFILE MANAGER (Create / Import / Save)"
+msgstr "í”„ë¡œí•„ ê´€ë¦¬ìž"
+
+msgctxt "#30343"
+msgid "Tools to create new profiles, import from XML or save current state."
+msgstr "í”„ë¡œí•„ ìƒì„±, ê°€ì ¸ì˜¤ê¸° ë° ë‚´ë³´ë‚´ê¸°."
+
+msgctxt "#30344"
+msgid "Widget View (Clean Navigation)"
+msgstr "ê¹¨ë—í•œ ìœ„ì ¯ ë³´ê¸°"
+
+msgctxt "#30345"
+msgid "Show your profiles without management buttons. Ideal for adding to your skin's home screen as a Widget."
+msgstr "ìœ„ì ¯ìœ¼ë¡œ ì‚¬ìš©ê¸°ì— ìµœì í™”ëœ ë³´ê¸°."
+
+msgctxt "#30346"
+msgid "Add to Flow FavManager"
+msgstr "Flow FavManager에 추가"
+
+msgctxt "#30347"
+msgid "Backup Created"
+msgstr "백업 생성됨"
+
+msgctxt "#30348"
+msgid "Restored"
+msgstr "ë³µêµ¬ë¨"
+
+msgctxt "#30349"
+msgid "Press Confirm/Back to save."
+msgstr "확인/뒤로를 눌러 저장하세요."
+
+msgctxt "#30350"
+msgid "Behavior Changed"
+msgstr "동작이 변경됨"
+
+msgctxt "#30351"
+msgid "Maintenance"
+msgstr "ì´ë¯¸ì§€ ìºì‹œ ì§€ìš°ê¸°"
+
+msgctxt "#30352"
+msgid "Updating textures..."
+msgstr "ìºì‹œê°€ ì‚­ì œë˜ì—ˆìŠµë‹ˆë‹¤. ì´ë¯¸ì§€ë¥¼ ë‹¤ì‹œ ë¡œë“œí•©ë‹ˆë‹¤."
+
+msgctxt "#30353"
+msgid "Log"
+msgstr "ê°ì‚¬ ë¡œê·¸"
+
+msgctxt "#30354"
+msgid "Enabled"
+msgstr "ê°ì‚¬ ë¡œê·¸ í™œì„±í™”ë¨"
+
+msgctxt "#30355"
+msgid "Disabled"
+msgstr "ê°ì‚¬ ë¡œê·¸ ë¹„í™œì„±í™”ë¨"
+
+msgctxt "#30356"
+msgid "History cleared"
+msgstr "ë¡œê·¸ ì‚­ì œë¨"
+
+msgctxt "#30357"
+msgid "Info"
+msgstr "ë¡œê·¸ ì—†ìŒ"
+
+msgctxt "#30358"
+msgid "No log to clear"
+msgstr "ê°ì‚¬ ë¡œê·¸ê°€ ë¹„ì–´ ìžˆê±°ë‚˜ ì¡´ìž¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤"
+
+msgctxt "#30359"
+msgid "Could not read profile"
+msgstr "í”„ë¡œí•„ì„ ë¡œë“œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤"
+
+msgctxt "#30360"
+msgid "Deleted"
+msgstr "í”„ë¡œí•„ ì‚­ì œë¨"
+
+msgctxt "#30361"
+msgid "Profile deleted successfully"
+msgstr "í”„ë¡œí•„ì´ ì œê±°ë˜ì—ˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30362"
+msgid "Could not delete file"
+msgstr "í”„ë¡œí•„ì„ ì‚­ì œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤"
+
+msgctxt "#30363"
+msgid "Renamed"
+msgstr "í”„ë¡œí•„ ì´ë¦„ ë³€ê²½ë¨"
+
+msgctxt "#30364"
+msgid "Profile updated"
+msgstr "ì´ë¦„ ë³€ê²½ ì„±ê³µ"
+
+msgctxt "#30365"
+msgid "File not found."
+msgstr "ì´ë¦„ ë³€ê²½ ì‹¤íŒ¨"
+
+msgctxt "#30366"
+msgid "File does not appear to be a valid backup."
+msgstr "유효한 백업 파일이 아닌 것 같습니다."
+
+msgctxt "#30367"
+msgid "Could not load backup:"
+msgstr "백업을 불러올 수 없습니다:"
+
+msgctxt "#30368"
+msgid "Quick Editor"
+msgstr "빠른 편집기"
+
+msgctxt "#30369"
+msgid "No favorites to edit."
+msgstr "편집할 즐겨찾기가 없습니다."
+
+msgctxt "#30370"
+msgid "Empty Log"
+msgstr "ë¡œê·¸ ë·°ì–´"
+
+msgctxt "#30371"
+msgid "No events recorded yet."
+msgstr "ê°ì‚¬ ë¡œê·¸ê°€ ë¹„ì–´ ìžˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30372"
+msgid "Log Does Not Exist"
+msgstr "ë¡œê·¸ íŒŒì¼ ì—†ìŒ"
+
+msgctxt "#30373"
+msgid "Enable logging and perform an action to generate events."
+msgstr "ê°ì‚¬ ë¡œê·¸ íŒŒì¼ì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤"
+
+msgctxt "#30374"
+msgid "Could not read log:"
+msgstr "ë¡œê·¸ ì½ê¸° ì˜¤ë¥˜"
+
+msgctxt "#30375"
+msgid "Confirm"
+msgstr "확인"
+
+msgctxt "#30376"
+msgid "Delete '{}'?"
+msgstr "'{}'을(를) 삭제할까요?"
+
+msgctxt "#30377"
+msgid "Clear image cache (Textures) before reloading?\nThis fixes issues with old icons."
+msgstr "ìƒˆë¡œ ê³ ì¹¨ ì „ì— ì¸ë„¤ì¼ ìºì‹œë¥¼ ì§€ìš°ì‹œê² ìŠµë‹ˆê¹Œ?\n(ì‹œê°ì  ë³€ê²½ ì‚¬í•­ì„ ì ìš©í•˜ê¸° ìœ„í•´ ê¶Œìž¥ë©ë‹ˆë‹¤)"
+
+msgctxt "#30378"
+msgid "Delete Log"
+msgstr "ë¡œê·¸ ì‚­ì œ"
+
+msgctxt "#30379"
+msgid "Delete all audit history?"
+msgstr "ê°ì‚¬ ë¡œê·¸ë¥¼ ì‚­ì œí•˜ì‹œê² ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30380"
+msgid "Delete Profile"
+msgstr "ì‚­ì œ í™•ì¸"
+
+msgctxt "#30381"
+msgid "Are you sure you want to permanently delete this profile?"
+msgstr "ì´ í”„ë¡œí•„ì„ ì‚­ì œí•˜ì‹œê² ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30382"
+msgid "New profile name"
+msgstr "ìƒˆ í”„ë¡œí•„ ì´ë¦„"
+
+msgctxt "#30383"
+msgid "Backup name (without extension)"
+msgstr "백업 이름 (확장자 없음)"
+
+msgctxt "#30384"
+msgid "Select a Favorite to edit"
+msgstr "편집할 즐겨찾기 선택"
+
+msgctxt "#30385"
+msgid "Action for: {}"
+msgstr "작업 대상: {}"
+
+msgctxt "#30386"
+msgid "Audit Log"
+msgstr "ê°ì‚¬ ë¡œê·¸"
+
+msgctxt "#30387"
+msgid "Critical Error"
+msgstr "ì¹˜ëª…ì  ì˜¤ë¥˜"
+
+msgctxt "#30388"
+msgid "Select folder to save"
+msgstr "ëŒ€ìƒ ì„ íƒ"
+
+msgctxt "#30389"
+msgid "Select backup file (.xml)"
+msgstr "백업 파일 선택 (.xml)"
+
+msgctxt "#30390"
+msgid "Move Up 1"
+msgstr "위로 1칸"
+
+msgctxt "#30391"
+msgid "Move Down 1"
+msgstr "아래로 1칸"
+
+msgctxt "#30392"
+msgid "Move to Position..."
+msgstr "위치로 이동..."
+
+msgctxt "#30393"
+msgid "Enter new position (1-{})"
+msgstr "새 위치 입력 (1-{})"
+
+msgctxt "#30394"
+msgid "Invalid Format"
+msgstr "잘못된 형식"
+
+msgctxt "#30395"
+msgid "Audit Log: [COLOR lime]ON[/COLOR]"
+msgstr "ê°ì‚¬ ë¡œê·¸: í™œì„±"
+
+msgctxt "#30396"
+msgid "Audit Log: [COLOR gray]OFF[/COLOR]"
+msgstr "ê°ì‚¬ ë¡œê·¸: ë¹„í™œì„±"
+
+msgctxt "#30397"
+msgid "View Audit Log"
+msgstr "ê°ì‚¬ ë¡œê·¸ ë³´ê¸°"
+
+msgctxt "#30398"
+msgid "[Empty Folder]"
+msgstr "ë¹ˆ í”„ë¡œí•„"
+
+msgctxt "#30399"
+msgid "(Empty)"
+msgstr "[I]ë¹ˆ í”„ë¡œí•„[/I]"
+
+msgctxt "#30400"
+msgid "Movies"
+msgstr "ì˜í™”"
+
+msgctxt "#30401"
+msgid "TV (PVR)"
+msgstr "ë¼ì´ë¸Œ TV (PVR)"
+
+msgctxt "#30402"
+msgid "TV Guide (EPG)"
+msgstr "TV ê°€ì´ë“œ (EPG)"
+
+msgctxt "#30403"
+msgid "Music"
+msgstr "ìŒì•…"
+
+msgctxt "#30404"
+msgid "Pictures"
+msgstr "ì‚¬ì§„"
+
+msgctxt "#30405"
+msgid "Power / Restart Menu"
+msgstr "ì „ì› / ìž¬ì‹œìž‘ ë©”ë‰´"
+
+msgctxt "#30406"
+msgid "Update Library (Video)"
+msgstr "ë¼ì´ë¸ŒëŸ¬ë¦¬ ì—…ë°ì´íŠ¸ (ë¹„ë””ì˜¤)"
+
+msgctxt "#30407"
+msgid "Clean Library (Video)"
+msgstr "ë¼ì´ë¸ŒëŸ¬ë¦¬ ì •ë¦¬ (ë¹„ë””ì˜¤)"
+
+msgctxt "#30408"
+msgid "Move Up 5"
+msgstr "위로 5칸"
+
+msgctxt "#30409"
+msgid "Move Down 5"
+msgstr "아래로 5칸"
+
+msgctxt "#30410"
+msgid "Move to Top"
+msgstr "맨 위로"
+
+msgctxt "#30411"
+msgid "Move to Bottom"
+msgstr "맨 아래로"
+
+msgctxt "#30412"
+msgid "Status: [COLOR {color}]{status}[/COLOR]"
+msgstr "ìƒíƒœ: [COLOR {color}]{status}[/COLOR]"
+
+msgctxt "#30413"
+msgid "ACTIVATED"
+msgstr "í™œì„±"
+
+msgctxt "#30414"
+msgid "DEACTIVATED"
+msgstr "ë¹„í™œì„±"
+
+msgctxt "#30415"
+msgid "Turn Log Off"
+msgstr "ë¡œê·¸ ë¹„í™œì„±í™”"
+
+msgctxt "#30416"
+msgid "Turn Log On"
+msgstr "ë¡œê·¸ í™œì„±í™”"
+
+msgctxt "#30417"
+msgid "TV Shows"
+msgstr "TV í”„ë¡œê·¸ëž¨"
+
+msgctxt "#30418"
+msgid "Home"
+msgstr "í™ˆ"
+
+msgctxt "#30419"
+msgid "Radio"
+msgstr "ë¼ë””ì˜¤"
+
+msgctxt "#30420"
+msgid "Music Videos"
+msgstr "ë®¤ì§ ë¹„ë””ì˜¤"
+
+msgctxt "#30421"
+msgid "Weather"
+msgstr "ë‚ ì”¨"
+
+msgctxt "#30422"
+msgid "Settings"
+msgstr "ì„¤ì •"
+
+msgctxt "#30423"
+msgid "File Manager"
+msgstr "íŒŒì¼ ê´€ë¦¬ìž"
+
+msgctxt "#30424"
+msgid "System Info"
+msgstr "ì‹œìŠ¤í…œ ì •ë³´"
+
+msgctxt "#30425"
+msgid "Events / Log"
+msgstr "ì´ë²¤íŠ¸ ë¡œê·¸"
+
+msgctxt "#30426"
+msgid "Addons (Browser)"
+msgstr "ì• ë“œì˜¨ (ë¸Œë¼ìš°ì €)"
+
+msgctxt "#30427"
+msgid "Reload Skin"
+msgstr "ìŠ¤í‚¨ ìƒˆë¡œê³ ì¹¨"
+
+msgctxt "#30428"
+msgid "Skin Settings"
+msgstr "ìŠ¤í‚¨ ì„¤ì •"
+
+msgctxt "#30429"
+msgid "Created by RubÃ©nSDFA1labernt - v"
+msgstr "ë²„ì „: "
+
+msgctxt "#30430"
+msgid "Back"
+msgstr "ë’¤ë¡œ"
+
+msgctxt "#30431"
+msgid "Swap Mode"
+msgstr "교환 모드"
+
+msgctxt "#30432"
+msgid "Insert Before"
+msgstr "앞에 삽입"
+
+msgctxt "#30433"
+msgid "Insert After"
+msgstr "뒤에 삽입"
+
+msgctxt "#30434"
+msgid "Arrow Mode"
+msgstr "화살표 모드"
+
+msgctxt "#30435"
+msgid "Save / Exit"
+msgstr "저장 / 종료"
+
+msgctxt "#30436"
+msgid "Save / Exit (*)"
+msgstr "저장 / 종료 (*)"
+
+msgctxt "#30437"
+msgid "Add..."
+msgstr "추가..."
+
+msgctxt "#30438"
+msgid "Multiselect Mode"
+msgstr "다중 선택 모드"
+
+msgctxt "#30439"
+msgid "Backup / Restore"
+msgstr "백업 / 복원"
+
+msgctxt "#30440"
+msgid "Sort"
+msgstr "정렬"
+
+msgctxt "#30441"
+msgid "Undo / Reset"
+msgstr "ì›ëž˜ ìƒíƒœ ë¡œë“œë¨"
+
+msgctxt "#30442"
+msgid "Help / Instructions"
+msgstr "도움말 / 사용법"
+
+msgctxt "#30443"
+msgid "Exit (Discard)"
+msgstr "종료 (취소)"
+
+msgctxt "#30444"
+msgid "Move to..."
+msgstr "이동..."
+
+msgctxt "#30445"
+msgid "Change Color"
+msgstr "색상 변경"
+
+msgctxt "#30446"
+msgid "Delete Selected"
+msgstr "선택 항목 삭제"
+
+msgctxt "#30447"
+msgid "CANCEL / EXIT"
+msgstr "취소 / 종료"
+
+msgctxt "#30448"
+msgid "BULK ACTIONS"
+msgstr "일괄 작업"
+
+msgctxt "#30449"
+msgid "Section"
+msgstr "섹션"
+
+msgctxt "#30450"
+msgid "Attention"
+msgstr "주의"
+
+msgctxt "#30451"
+msgid "Hidden Credits"
+msgstr "ì´ìŠ¤í„° ì—ê·¸ ëª¨ë“œ"
+
+msgctxt "#30452"
+msgid "Kodi Sections"
+msgstr "Kodi ì„¹ì…˜"
+
+msgctxt "#30453"
+msgid "System Commands"
+msgstr "ì‹œìŠ¤í…œ ëª…ë ¹ì–´"
+
+msgctxt "#30454"
+msgid "{} icons assigned"
+msgstr "{}ê°œì˜ ì•„ì´ì½˜ì´ ë³µêµ¬ë˜ì—ˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30455"
+msgid " (copy)"
+msgstr " (복사본)"
+
+msgctxt "#30456"
+msgid "Save as New Profile"
+msgstr "새 프로필로 저장"
+
+msgctxt "#30457"
+msgid "Create a backup of your favorites or restore a previous one."
+msgstr "ë°±ì—… ë° XML ê°€ì ¸ì˜¤ê¸° ê´€ë¦¬."
+
+
+msgctxt "#30458"
+msgid "Show 'Add to Flow FavManager' in menus"
+msgstr "ë©”ë‰´ì— 'Flow FavManagerì— ì¶”ê°€' í‘œì‹œ"
+
+
+msgctxt "#30459"
+msgid "Auto-start"
+msgstr "ìžë™ ì‹œìž‘"
+
+msgctxt "#30460"
+msgid "Launch favorites automatically when Kodi starts."
+msgstr "Kodi ì‹œìž‘ ì‹œ ì¦ê²¨ì°¾ê¸°ë¥¼ ìžë™ìœ¼ë¡œ ì‹¤í–‰í•©ë‹ˆë‹¤."
+
+msgctxt "#30461"
+msgid "No delay"
+msgstr "ì§€ì—° ì—†ìŒ"
+
+msgctxt "#30462"
+msgid "Delay before launching"
+msgstr "ì‹¤í–‰ ì „ ì§€ì—° ì‹œê°„"
+
+msgctxt "#30463"
+msgid "Select favorite to launch at startup"
+msgstr "ì‹œìž‘í•  ë•Œ ì‹¤í–‰í•  ì¦ê²¨ì°¾ê¸° ì„ íƒ"
+
+msgctxt "#30464"
+msgid "Not configured"
+msgstr "êµ¬ì„±ë˜ì§€ ì•ŠìŒ"
+
+msgctxt "#30465"
+msgid "Change favorite"
+msgstr "ì¦ê²¨ì°¾ê¸° ë³€ê²½"
+
+msgctxt "#30466"
+msgid "Change delay"
+msgstr "ì§€ì—° ì‹œê°„ ë³€ê²½"
+
+msgctxt "#30467"
+msgid "Disable this slot"
+msgstr "ì´ ìŠ¬ë¡¯ ë¹„í™œì„±í™”"
+
+msgctxt "#30468"
+msgid "No favorites available"
+msgstr "ì‚¬ìš© ê°€ëŠ¥í•œ ì¦ê²¨ì°¾ê¸° ì—†ìŒ"
+
+msgctxt "#30469"
+msgid "Favorite {}"
+msgstr "ì¦ê²¨ì°¾ê¸° {}"
+
+msgctxt "#30470"
+msgid "Auto-start configured"
+msgstr "ìžë™ ì‹œìž‘ì´ êµ¬ì„±ë˜ì—ˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30471"
+msgid "Slot disabled"
+msgstr "ìŠ¬ë¡¯ì´ ë¹„í™œì„±í™”ë˜ì—ˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30472"
+msgid "Web Remote"
+msgstr "ì›¹ ë¦¬ëª¨ì»¨"
+
+msgctxt "#30473"
+msgid "Web remote port"
+msgstr "ì›¹ ë¦¬ëª¨ì»¨ í¬íŠ¸"
+
+msgctxt "#30474"
+msgid "Manage favourites from your phone's browser"
+msgstr "ìŠ¤ë§ˆíŠ¸í° ë¸Œë¼ìš°ì €ì—ì„œ ì¦ê²¨ì°¾ê¸° ê´€ë¦¬"
+
+msgctxt "#30475"
+msgid "The server is off.\nYou need it running to manage your favourites from your phone's browser."
+msgstr "ì„œë²„ê°€ êº¼ì ¸ ìžˆìŠµë‹ˆë‹¤.\nìŠ¤ë§ˆíŠ¸í° ë¸Œë¼ìš°ì €ì—ì„œ ì¦ê²¨ì°¾ê¸°ë¥¼ ê´€ë¦¬í•˜ë ¤ë©´ ì„œë²„ë¥¼ ì‹¤í–‰í•´ì•¼ í•©ë‹ˆë‹¤."
+
+msgctxt "#30476"
+msgid "Start"
+msgstr "ì‹œìž‘"
+
+msgctxt "#30477"
+msgid "Could not start (ports busy?)"
+msgstr "ì‹œìž‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤ (í¬íŠ¸ ì‚¬ìš© ì¤‘?)"
+
+msgctxt "#30478"
+msgid "Open in browser"
+msgstr "ë¸Œë¼ìš°ì €ì—ì„œ ì—´ê¸°"
+
+msgctxt "#30479"
+msgid "Stop server"
+msgstr "ì„œë²„ ì¤‘ì§€"
+
+msgctxt "#30480"
+msgid "Open this address in your browser:\n[B]{}[/B]"
+msgstr "ë¸Œë¼ìš°ì €ì—ì„œ ì´ ì£¼ì†Œë¥¼ ì—½ë‹ˆë‹¤:\n[B]{}[/B]"
+
+msgctxt "#30481"
+msgid "Server stopped"
+msgstr "ì„œë²„ê°€ ì¤‘ì§€ë˜ì—ˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30485"
+msgid "Add text in bulk ({0} items)"
+msgstr "í…ìŠ¤íŠ¸ ì¼ê´„ ì¶”ê°€ ({0}ê°œ í•­ëª©)"
+
+msgctxt "#30486"
+msgid "Prefix"
+msgstr "ì ‘ë‘ì‚¬"
+
+msgctxt "#30487"
+msgid "Suffix"
+msgstr "ì ‘ë¯¸ì‚¬"
+
+msgctxt "#30488"
+msgid "Text to add"
+msgstr "ì¶”ê°€í•  í…ìŠ¤íŠ¸"
+
+msgctxt "#30489"
+msgid "Text color"
+msgstr "í…ìŠ¤íŠ¸ ìƒ‰ìƒ"
+
+msgctxt "#30490"
+msgid "Prefix / Suffix"
+msgstr "ì ‘ë‘ì‚¬ / ì ‘ë¯¸ì‚¬"
+
+msgctxt "#30491"
+msgid "Open loiolog (Advanced Log Viewer)"
+msgstr "loiolog ì—´ê¸° (ê³ ê¸‰ ë¡œê·¸ ë·°ì–´)"
+
+msgctxt "#30492"
+msgid "{0} is already installed"
+msgstr "{0}ê°€ ì´ë¯¸ ì„¤ì¹˜ë˜ì–´ ìžˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30493"
+msgid "{0} reactivated successfully"
+msgstr "{0}ê°€ ì„±ê³µì ìœ¼ë¡œ ìž¬í™œì„±í™”ë˜ì—ˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30494"
+msgid "The 'requests' library is not available.\n\nPlease restart Kodi to load the new dependencies and try again."
+msgstr "'requests' ë¼ì´ë¸ŒëŸ¬ë¦¬ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.\n\nìƒˆë¡œìš´ ì¢…ì†ì„±ì„ ë¡œë“œí•˜ê¸° ìœ„í•´ Kodië¥¼ ë‹¤ì‹œ ì‹œìž‘í•˜ê³  ë‹¤ì‹œ ì‹œë„í•˜ì‹­ì‹œì˜¤."
+
+msgctxt "#30495"
+msgid "Downloading {0} repository..."
+msgstr "{0} ì €ìž¥ì†Œ ë‹¤ìš´ë¡œë“œ ì¤‘..."
+
+msgctxt "#30496"
+msgid "Installing {0}..."
+msgstr "{0} ì„¤ì¹˜ ì¤‘..."
+
+msgctxt "#30497"
+msgid "Downloading repository..."
+msgstr "ì €ìž¥ì†Œ ë‹¤ìš´ë¡œë“œ ì¤‘..."
+
+msgctxt "#30498"
+msgid "Extracting repository..."
+msgstr "ì €ìž¥ì†Œ ì••ì¶• í‘¸ëŠ” ì¤‘..."
+
+msgctxt "#30499"
+msgid "Registering repository in Kodi..."
+msgstr "Kodiì— ì €ìž¥ì†Œ ë“±ë¡ ì¤‘..."
+
+msgctxt "#30500"
+msgid "Activating repository..."
+msgstr "ì €ìž¥ì†Œ í™œì„±í™” ì¤‘..."
+
+msgctxt "#30501"
+msgid "Updating repository index..."
+msgstr "ì €ìž¥ì†Œ ì¸ë±ìŠ¤ ì—…ë°ì´íŠ¸ ì¤‘..."
+
+msgctxt "#30502"
+msgid "Confirm installation of {0}"
+msgstr "{0}ì˜ ì„¤ì¹˜ í™•ì¸"
+
+msgctxt "#30503"
+msgid "Waiting for {0} installation..."
+msgstr "{0} ì„¤ì¹˜ ëŒ€ê¸° ì¤‘..."
+
+msgctxt "#30504"
+msgid "{0} installed successfully"
+msgstr "{0}ê°€ ì„±ê³µì ìœ¼ë¡œ ì„¤ì¹˜ë˜ì—ˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30505"
+msgid "Auto-installing {0} (fallback)..."
+msgstr "{0} ìžë™ ì„¤ì¹˜ ì¤‘ (ëŒ€ì²´)..."
+
+msgctxt "#30506"
+msgid "The {0} repository was installed, but the addon installation did not complete.\n\nTo finish manually:\nAddons - Install from repository - {0} - Install"
+msgstr "{0} 저장소가 설치되었지만 애드온 설치가 완료되지 않았습니다.\n\n수동으로 완료하려면:\n애드온 - 저장소에서 설치 - {0} - 설치"
+
+msgctxt "#30507"
+msgid "Installation error"
+msgstr "ì„¤ì¹˜ ì˜¤ë¥˜"
+
+msgctxt "#30508"
+msgid "Could not install {0} automatically.\n\nError: {1}\n\nYou may need to enable Unknown Sources in Settings."
+msgstr "{0}ë¥¼ ìžë™ìœ¼ë¡œ ì„¤ì¹˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.\n\nì˜¤ë¥˜: {1}\n\nì„¤ì •ì—ì„œ ì•Œ ìˆ˜ ì—†ëŠ” ì¶œì²˜ë¥¼ í™œì„±í™”í•´ì•¼ í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."
+
+
+msgctxt "#30510"
+msgid "Opening loiolog..."
+msgstr "loiolog ì—¬ëŠ” ì¤‘..."
+
+msgctxt "#30511"
+msgid "loiolog - installation"
+msgstr "loiolog - ì„¤ì¹˜"
+
+msgctxt "#30512"
+msgid "Auto installer (recommended)"
+msgstr "ìžë™ ì„¤ì¹˜ í”„ë¡œê·¸ëž¨ (ê¶Œìž¥)"
+
+msgctxt "#30513"
+msgid "View manual installation instructions"
+msgstr "ìˆ˜ë™ ì„¤ì¹˜ ì§€ì¹¨ ë³´ê¸°"
+
+msgctxt "#30514"
+msgid "loiolog is not installed.\n\nDownload and install automatically?"
+msgstr "loiologê°€ ì„¤ì¹˜ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.\n\nìžë™ìœ¼ë¡œ ë‹¤ìš´ë¡œë“œí•˜ê³  ì„¤ì¹˜í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"
+
+msgctxt "#30515"
+msgid "loiolog instructions"
+msgstr "loiolog ì§€ì¹¨"
+
+msgctxt "#30516"
+msgid "[B]How to install loiolog[/B]\n\n1. Settings - System - Addons - enable Unknown Sources\n\n2. Settings - File Manager - Add source:\n   {0}\n\n3. Addons - Install from zip file - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. Install from repository - loiolog - Program Addons - loiolog"
+msgstr "[B]loiolog ì„¤ì¹˜ ë°©ë²•[/B]\n\n1. ì„¤ì • - ì‹œìŠ¤í…œ - ì• ë“œì˜¨ - ì•Œ ìˆ˜ ì—†ëŠ” ì¶œì²˜ í™œì„±í™”\n\n2. ì„¤ì • - íŒŒì¼ ê´€ë¦¬ìž - ì†ŒìŠ¤ ì¶”ê°€:\n   {0}\n\n3. ì• ë“œì˜¨ - zip íŒŒì¼ì—ì„œ ì„¤ì¹˜ - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. ì €ìž¥ì†Œì—ì„œ ì„¤ì¹˜ - loiolog - í”„ë¡œê·¸ëž¨ ì• ë“œì˜¨ - loiolog"
+
+msgctxt "#30517"
+msgid "Add advanced editor to Kodi favourites"
+msgstr "Kodi ì¦ê²¨ì°¾ê¸°ì— ê³ ê¸‰ íŽ¸ì§‘ê¸° ì¶”ê°€"
+
+msgctxt "#30518"
+msgid "Advanced editor added. Reload skin or restart Kodi to see it"
+msgstr "ê³ ê¸‰ íŽ¸ì§‘ê¸°ê°€ ì¶”ê°€ë˜ì—ˆìŠµë‹ˆë‹¤. í™•ì¸í•˜ë ¤ë©´ ìŠ¤í‚¨ì„ ë‹¤ì‹œ ë¡œë“œí•˜ê±°ë‚˜ Kodië¥¼ ë‹¤ì‹œ ì‹œìž‘í•˜ì‹­ì‹œì˜¤"
+
+msgctxt "#30519"
+msgid "Advanced editor already in Kodi favourites"
+msgstr "ê³ ê¸‰ íŽ¸ì§‘ê¸°ê°€ ì´ë¯¸ Kodi ì¦ê²¨ì°¾ê¸°ì— ìžˆìŠµë‹ˆë‹¤"
+
+msgctxt "#30520"
+msgid "Close"
+msgstr "ë‹«ê¸°"
+
+msgctxt "#30521"
+msgid "Add the Advanced Editor to Kodi favourites?\n\nAllows opening it directly without launching the addon.\n\nIf cancelled, it can be added later from Settings. Kodi must be restarted for it to appear in the favourites list."
+msgstr "Kodi ì¦ê²¨ì°¾ê¸°ì— ê³ ê¸‰ íŽ¸ì§‘ê¸°ë¥¼ ì¶”ê°€í•˜ì‹œê² ìŠµë‹ˆê¹Œ?\n\nì• ë“œì˜¨ì„ ì‹œìž‘í•˜ì§€ ì•Šê³  ì§ì ‘ ì—´ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.\n\nì·¨ì†Œí•˜ë©´ ë‚˜ì¤‘ì— ì„¤ì •ì—ì„œ ì¶”ê°€í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì¦ê²¨ì°¾ê¸° ëª©ë¡ì— í‘œì‹œí•˜ë ¤ë©´ Kodië¥¼ ë‹¤ì‹œ ì‹œìž‘í•´ì•¼ í•©ë‹ˆë‹¤."
+
+msgctxt "#30522"
+msgid "Flow FavManager"
+msgstr "Flow FavManager"
+
+msgctxt "#30523"
+msgid "The favourites file is corrupted or unreadable.\nThe editor will not open to avoid overwriting it and losing your favourites.\nRestore a backup or fix the file before continuing."
+msgstr "ì¦ê²¨ì°¾ê¸° íŒŒì¼ì´ ì†ìƒë˜ì—ˆê±°ë‚˜ ì½ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.\nì¦ê²¨ì°¾ê¸°ë¥¼ ë®ì–´ì“°ê³  ìžƒì–´ë²„ë¦¬ëŠ” ê²ƒì„ ë°©ì§€í•˜ê¸° ìœ„í•´ íŽ¸ì§‘ê¸°ê°€ ì—´ë¦¬ì§€ ì•ŠìŠµë‹ˆë‹¤.\nê³„ì†í•˜ê¸° ì „ì— ë°±ì—…ì„ ë³µì›í•˜ê±°ë‚˜ íŒŒì¼ì„ ìˆ˜ì •í•˜ì‹­ì‹œì˜¤."
+

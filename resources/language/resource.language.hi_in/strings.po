@@ -1,0 +1,2095 @@
+# Kodi Media Center
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Flow FavManager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+msgctxt "#30000"
+msgid "Customization"
+msgstr "अनुकूलन"
+
+msgctxt "#30001"
+msgid "List Layout"
+msgstr "सूची लेआउट"
+
+msgctxt "#30002"
+msgid "Simple List"
+msgstr "साधारण सूची"
+
+msgctxt "#30003"
+msgid "Grid (Thumbnails)"
+msgstr "ग्रिड (थंबनेल)"
+
+msgctxt "#30004"
+msgid "Icon Scale"
+msgstr "आइकन पैमाना"
+
+msgctxt "#30005"
+msgid "Default"
+msgstr "डिफ़ॉल्ट"
+
+msgctxt "#30006"
+msgid "Large"
+msgstr "बड़ा"
+
+msgctxt "#30007"
+msgid "Text Size"
+msgstr "टेक्स्ट आकार"
+
+msgctxt "#30008"
+msgid "Small"
+msgstr "छोटा"
+
+msgctxt "#30009"
+msgid "Medium"
+msgstr "मध्यम"
+
+msgctxt "#30010"
+msgid "Colors & Accessibility"
+msgstr "रंग और पहुँच क्षमता"
+
+msgctxt "#30011"
+msgid "Background Color"
+msgstr "पृष्ठभूमि का रंग"
+
+msgctxt "#30012"
+msgid "Dark (Default)"
+msgstr "गहरा (डिफ़ॉल्ट)"
+
+msgctxt "#30013"
+msgid "Light"
+msgstr "हल्का"
+
+msgctxt "#30014"
+msgid "Neutral Gray"
+msgstr "तटस्थ धूसर"
+
+msgctxt "#30015"
+msgid "Deep Blue"
+msgstr "गहरा नीला"
+
+msgctxt "#30016"
+msgid "Selection Color"
+msgstr "चयन का रंग"
+
+msgctxt "#30017"
+msgid "Cyan (Default)"
+msgstr "स्यान (डिफ़ॉल्ट)"
+
+msgctxt "#30018"
+msgid "Green"
+msgstr "हरा"
+
+msgctxt "#30019"
+msgid "Yellow"
+msgstr "पीला"
+
+msgctxt "#30020"
+msgid "Red"
+msgstr "लाल"
+
+msgctxt "#30021"
+msgid "Orange"
+msgstr "नारंगी"
+
+msgctxt "#30022"
+msgid "Violet"
+msgstr "बैंगनी"
+
+msgctxt "#30023"
+msgid "Multiselect Color"
+msgstr "बहुचयन रंग"
+
+msgctxt "#30024"
+msgid "Green (Default)"
+msgstr "हरा (डिफ़ॉल्ट)"
+
+msgctxt "#30025"
+msgid "Magenta"
+msgstr "मैजेंटा"
+
+msgctxt "#30026"
+msgid "White"
+msgstr "सफेद"
+
+msgctxt "#30027"
+msgid "Colorblind Mode (High Contrast)"
+msgstr "कलरब्लाइंड मोड (उच्च विपरीतता)"
+
+msgctxt "#30028"
+msgid "Advanced"
+msgstr "उन्नत"
+
+msgctxt "#30029"
+msgid "Enable Audit Log (Security)"
+msgstr "ऑडिट लॉग सक्षम करें (सुरक्षा)"
+
+msgctxt "#30030"
+msgid "Flow FavManager"
+msgstr "Flow FavManager"
+
+msgctxt "#30031"
+msgid "Could not retrieve item information"
+msgstr "आइटम की जानकारी प्राप्त नहीं की जा सकी"
+
+msgctxt "#30032"
+msgid "No Profiles"
+msgstr "कोई प्रोफाइल नहीं"
+
+msgctxt "#30033"
+msgid "No created profiles found.\nDo you want to create one now?"
+msgstr "कोई बना हुआ प्रोफाइल नहीं मिला।\nक्या आप अभी एक बनाना चाहते हैं?"
+
+msgctxt "#30034"
+msgid "My Favorites"
+msgstr "मेरे पसंदीदा"
+
+msgctxt "#30035"
+msgid "New profile name"
+msgstr "नया प्रोफाइल नाम"
+
+msgctxt "#30036"
+msgid "Profile Created"
+msgstr "प्रोफाइल बनाया गया"
+
+msgctxt "#30037"
+msgid "'{}' added to '{}'"
+msgstr "'{}' को '{}' में जोड़ा गया"
+
+msgctxt "#30038"
+msgid "[COLOR lime]+ Create New Profile[/COLOR]"
+msgstr "[COLOR lime]+ नया प्रोफाइल बनाएं[/COLOR]"
+
+msgctxt "#30039"
+msgid "Add '{}...' to:"
+msgstr "'{}...' को इसमें जोड़ें:"
+
+msgctxt "#30040"
+msgid "Already Exists"
+msgstr "पहले से मौजूद है"
+
+msgctxt "#30041"
+msgid "'{}' is already in '{}'"
+msgstr "'{}' पहले से ही '{}' में है"
+
+msgctxt "#30042"
+msgid "Added"
+msgstr "जोड़ा गया"
+
+msgctxt "#30043"
+msgid "'{}' → '{}'"
+msgstr "'{}' → '{}'"
+
+msgctxt "#30044"
+msgid "Error"
+msgstr "त्रुटि"
+
+msgctxt "#30045"
+msgid "Failed to save profile"
+msgstr "प्रोफाइल सहेजने में विफल"
+
+msgctxt "#30046"
+msgid "Could not add to profile"
+msgstr "प्रोफाइल में जोड़ा नहीं जा सका"
+
+msgctxt "#30047"
+msgid "Incorrect PIN"
+msgstr "गलत पिन"
+
+msgctxt "#30048"
+msgid "{} attempts remaining"
+msgstr "{} प्रयास शेष"
+
+msgctxt "#30049"
+msgid "Incorrect PIN - Recovery"
+msgstr "गलत पिन - रिकवरी"
+
+msgctxt "#30050"
+msgid "Answer Security Question"
+msgstr "सुरक्षा प्रश्न का उत्तर दें"
+
+msgctxt "#30051"
+msgid "Cancel (Close Addon)"
+msgstr "रद्द करें (एडऑन बंद करें)"
+
+msgctxt "#30052"
+msgid "Question not set?"
+msgstr "प्रश्न सेट नहीं है?"
+
+msgctxt "#30053"
+msgid "No security question set.\n\nYou can create a 'reset_pass.txt' file in the addon folder to reset."
+msgstr "कोई सुरक्षा प्रश्न सेट नहीं है।\n\nआप रीसेट करने के लिए एडऑन फोल्डर में 'reset_pass.txt' फाइल बना सकते हैं।"
+
+msgctxt "#30054"
+msgid "Access Recovered"
+msgstr "एक्सेस बहाल"
+
+msgctxt "#30055"
+msgid "Correct answer.\nProtection is temporarily disabled.\nRemember to set a new PIN."
+msgstr "सही उत्तर।\nसुरक्षा अस्थायी रूप से अक्षम है।\nनया पिन सेट करना याद रखें।"
+
+msgctxt "#30056"
+msgid "Incorrect Answer"
+msgstr "गलत उत्तर"
+
+msgctxt "#30057"
+msgid "Could not verify.\n\nIf you forgot both, create an empty file named 'reset_pass.txt' in:\n"
+msgstr "सत्यापित नहीं किया जा सका।\n\nयदि आप दोनों भूल गए हैं, तो यहाँ 'reset_pass.txt' नाम की एक खाली फाइल बनाएं:\n"
+
+msgctxt "#30058"
+msgid "Security and Password"
+msgstr "सुरक्षा और पासवर्ड"
+
+msgctxt "#30059"
+msgid "ENABLED"
+msgstr "सक्षम"
+
+msgctxt "#30060"
+msgid "Disabled"
+msgstr "अक्षम"
+
+msgctxt "#30061"
+msgid "Status: {}"
+msgstr "स्थिति: {}"
+
+msgctxt "#30062"
+msgid "Change PIN"
+msgstr "पिन बदलें"
+
+msgctxt "#30063"
+msgid "Set PIN"
+msgstr "पिन सेट करें"
+
+msgctxt "#30064"
+msgid "Set Security Question"
+msgstr "सुरक्षा प्रश्न सेट करें"
+
+msgctxt "#30065"
+msgid "Enable Protection"
+msgstr "सुरक्षा सक्षम करें"
+
+msgctxt "#30066"
+msgid "Disable Protection"
+msgstr "सुरक्षा अक्षम करें"
+
+msgctxt "#30067"
+msgid "« Back"
+msgstr "« पीछे"
+
+msgctxt "#30068"
+msgid "Security Information"
+msgstr "सुरक्षा जानकारी"
+
+msgctxt "#30069"
+msgid "PIN protection prevents unauthorized persons from accessing the addon.\n\n"
+msgstr "पिन सुरक्षा अनधिकृत व्यक्तियों को एडऑन एक्सेस करने से रोकती है।\n\n"
+
+msgctxt "#30070"
+msgid "Question set: {}"
+msgstr "प्रश्न सेट: {}"
+
+msgctxt "#30071"
+msgid "Yes"
+msgstr "हाँ"
+
+msgctxt "#30072"
+msgid "No"
+msgstr "नहीं"
+
+msgctxt "#30073"
+msgid "To recover access if you forget the PIN:\n1. Answer the security question.\n2. Or create a 'reset_pass.txt' file in:\n"
+msgstr "यदि आप पिन भूल जाते हैं तो एक्सेस बहाल करने के लिए:\n1. सुरक्षा प्रश्न का उत्तर दें।\n2. या यहाँ 'reset_pass.txt' फाइल बनाएं:\n"
+
+msgctxt "#30074"
+msgid "Enter new PIN (recommended numbers)"
+msgstr "नया पिन दर्ज करें (नंबरों की सलाह दी जाती है)"
+
+msgctxt "#30075"
+msgid "Confirm PIN"
+msgstr "पिन की पुष्टि करें"
+
+msgctxt "#30076"
+msgid "PIN Saved"
+msgstr "पिन सहेजा गया"
+
+msgctxt "#30077"
+msgid "Remember to configure security question"
+msgstr "सुरक्षा प्रश्न कॉन्फ़िगर करना याद रखें"
+
+msgctxt "#30078"
+msgid "PINs do not match"
+msgstr "पिन मेल नहीं खाते"
+
+msgctxt "#30079"
+msgid "Choose a security question"
+msgstr "एक सुरक्षा प्रश्न चुनें"
+
+msgctxt "#30080"
+msgid "[Write custom question]"
+msgstr "[कस्टम प्रश्न लिखें]"
+
+msgctxt "#30081"
+msgid "Write your question"
+msgstr "अपना प्रश्न लिखें"
+
+msgctxt "#30082"
+msgid "Answer (case insensitive)"
+msgstr "उत्तर (केस असंवेदनशील)"
+
+msgctxt "#30083"
+msgid "Saved"
+msgstr "सहेजा गया"
+
+msgctxt "#30084"
+msgid "Security question set"
+msgstr "सुरक्षा प्रश्न सेट किया गया"
+
+msgctxt "#30085"
+msgid "Set a PIN"
+msgstr "पिन सेट करें"
+
+msgctxt "#30086"
+msgid "You must set a PIN before enabling protection."
+msgstr "सुरक्षा सक्षम करने से पहले आपको पिन सेट करना होगा।"
+
+msgctxt "#30087"
+msgid "Warning"
+msgstr "चेतावनी"
+
+msgctxt "#30088"
+msgid "You haven't set a security question.\nIf you forget the PIN, you can only recover access via the rescue file.\n\nEnable anyway?"
+msgstr "आपने सुरक्षा प्रश्न सेट नहीं किया है।\nयदि आप पिन भूल जाते हैं, तो आप केवल रेस्क्यू फाइल के माध्यम से एक्सेस बहाल कर सकते हैं।\n\nक्या फिर भी सक्षम करना है?"
+
+msgctxt "#30089"
+msgid "Protection Enabled"
+msgstr "सुरक्षा सक्षम"
+
+msgctxt "#30090"
+msgid "PIN will be asked upon entry"
+msgstr "प्रवेश के समय पिन माँगा जाएगा"
+
+msgctxt "#30091"
+msgid "Protection Disabled"
+msgstr "सुरक्षा अक्षम"
+
+msgctxt "#30092"
+msgid "Open access"
+msgstr "खुला एक्सेस"
+
+msgctxt "#30093"
+msgid "Dynamic Icons"
+msgstr "डायनेमिक आइकन"
+
+msgctxt "#30094"
+msgid "{} icons recovered"
+msgstr "{} आइकन बहाल हुए"
+
+msgctxt "#30095"
+msgid "Reset"
+msgstr "रीसेट"
+
+msgctxt "#30096"
+msgid "Discard all changes and return to original state?"
+msgstr "सभी बदलाव छोड़ें और मूल स्थिति में लौटें?"
+
+msgctxt "#30097"
+msgid "Reset"
+msgstr "रीसेट करें"
+
+msgctxt "#30098"
+msgid "Changes discarded"
+msgstr "बदलाव छोड़ दिए गए"
+
+msgctxt "#30099"
+msgid "Auto-Group"
+msgstr "ऑटो-ग्रुप"
+
+msgctxt "#30100"
+msgid "This will reorganize your list by grouping favorites from the same addon together (alphabetically).\nNo separators will be created.\nProceed?"
+msgstr "यह आपकी सूची को एक ही एडऑन के पसंदीदा को एक साथ (वर्णानुक्रम में) समूहित करके पुनर्गठित करेगा।\nकोई विभाजक नहीं बनाया जाएगा।\nक्या आगे बढ़ना है?"
+
+msgctxt "#30101"
+msgid "Grouped"
+msgstr "समूहित"
+
+msgctxt "#30102"
+msgid "List sorted by Type/Addon"
+msgstr "सूची टाइप/एडऑन द्वारा सॉर्ट की गई"
+
+msgctxt "#30103"
+msgid "Help & Instructions"
+msgstr "सहायता और निर्देश"
+
+msgctxt "#30104"
+msgid "[B]CURRENT MODE: Swap[/B]\nSelect a favorite then another.\nThey will swap places."
+msgstr "[B]वर्तमान मोड: स्वैप[/B]\nएक पसंदीदा चुनें फिर दूसरा।\nवे स्थान बदल लेंगे।"
+
+msgctxt "#30105"
+msgid "[B]CURRENT MODE: Insert Before[/B]\nSelect an item and then the destination.\nThe first will move just [B]before[/B] the second."
+msgstr "[B]वर्तमान मोड: पहले डालें[/B]\nएक आइटम चुनें और फिर गंतव्य।\nपहला दूसरे के ठीक [B]पहले[/B] चला जाएगा।"
+
+msgctxt "#30106"
+msgid "[B]CURRENT MODE: Insert After[/B]\nSelect an item then the destination.\nThe first will move just [B]after[/B] the second."
+msgstr "[B]वर्तमान मोड: बाद में डालें[/B]\nएक आइटम चुनें फिर गंतव्य।\nपहला दूसरे के ठीक [B]बाद[/B] चला जाएगा।"
+
+msgctxt "#30107"
+msgid "[B]CURRENT MODE: Arrow Move[/B]\nSelect a favorite and use UP/DOWN keys to move it.\nPress the SAME favorite to release it."
+msgstr "[B]वर्तमान मोड: एरो मूव[/B]\nएक पसंदीदा चुनें और उसे स्थानांतरित करने के लिए ऊपर/नीचे कुंजियों का उपयोग करें।\nरिलीज़ करने के लिए उसी पसंदीदा को दबाएं।"
+
+msgctxt "#30108"
+msgid "\n\n[B]CHANGE MODE:[/B]\nUse the sidebar button to rotate between these behaviors according to your preference."
+msgstr "\n\n[B]मोड बदलें:[/B]\nअपनी पसंद के अनुसार इन व्यवहारों के बीच घूमने के लिए साइडबार बटन का उपयोग करें।"
+
+msgctxt "#30109"
+msgid "\n\n[B]CONTEXT MENU[/B] (extra options):"
+msgstr "\n\n[B]कॉन्टेक्स्ट मेनू[/B] (अतिरिक्त विकल्प):"
+
+msgctxt "#30110"
+msgid "\n- PC: Right Click or 'C' key\n- Remote/TV: 'Menu' button\n- Touch: Long Press"
+msgstr "\n- पीसी: राइट क्लिक या 'C' की\n- रिमोट/टीवी: 'मेनू' बटन\n- टच: लॉन्ग प्रेस"
+
+msgctxt "#30111"
+msgid "\n\n[B]TIPS:[/B]\n- [I]Multiselect[/I]: select multiple to move in block\n- [I]Carousel[/I]: In arrow mode, reaching the end jumps to the beginning"
+msgstr "\n\n[B]टिप्स:[/B]\n- [I]बहुचयन[/I]: ब्लॉक में स्थानांतरित करने के लिए कई चुनें\n- [I]हिंडोला[/I]: एरो मोड में, अंत तक पहुँचने पर शुरुआत में कूद जाता है"
+
+msgctxt "#30112"
+msgid "Rename"
+msgstr "नाम बदलें"
+
+msgctxt "#30113"
+msgid "Edit Command"
+msgstr "कमांड संपादित करें"
+
+msgctxt "#30114"
+msgid "Change Icon"
+msgstr "आइकन बदलें"
+
+msgctxt "#30115"
+msgid "Change Color"
+msgstr "रंग बदलें"
+
+msgctxt "#30116"
+msgid "Change Format"
+msgstr "प्रारूप बदलें"
+
+msgctxt "#30117"
+msgid "Move"
+msgstr "स्थानांतरित करें"
+
+msgctxt "#30118"
+msgid "Duplicate"
+msgstr "डुप्लिकेट"
+
+msgctxt "#30119"
+msgid "Delete"
+msgstr "मिटाएं"
+
+msgctxt "#30120"
+msgid "Cancel"
+msgstr "रद्द करें"
+
+msgctxt "#30121"
+msgid "Duplicated"
+msgstr "डुप्लिकेट किया गया"
+
+msgctxt "#30122"
+msgid "Move item"
+msgstr "आइटम स्थानांतरित करें"
+
+msgctxt "#30123"
+msgid "↑ Move 1 up"
+msgstr "↑ 1 ऊपर ले जाएं"
+
+msgctxt "#30124"
+msgid "↑↑ Move 5 up"
+msgstr "↑↑ 5 ऊपर ले जाएं"
+
+msgctxt "#30125"
+msgid "↑↑↑ Move 10 up"
+msgstr "↑↑↑ 10 ऊपर ले जाएं"
+
+msgctxt "#30126"
+msgid "^^^ [B]TO THE TOP[/B]"
+msgstr "^^^ [B]सबसे ऊपर[/B]"
+
+msgctxt "#30127"
+msgid "↓ Move 1 down"
+msgstr "↓ 1 नीचे ले जाएं"
+
+msgctxt "#30128"
+msgid "↓↓ Move 5 down"
+msgstr "↓↓ 5 नीचे ले जाएं"
+
+msgctxt "#30129"
+msgid "↓↓↓ Move 10 down"
+msgstr "↓↓↓ 10 नीचे ले जाएं"
+
+msgctxt "#30130"
+msgid "vvv [B]TO THE BOTTOM[/B]"
+msgstr "vvv [B]सबसे नीचे[/B]"
+
+msgctxt "#30131"
+msgid "Sort favorites"
+msgstr "पसंदीदा क्रमबद्ध करें"
+
+msgctxt "#30132"
+msgid "Sort A → Z"
+msgstr "A → Z क्रमबद्ध करें"
+
+msgctxt "#30133"
+msgid "Sort Z → A"
+msgstr "Z → A क्रमबद्ध करें"
+
+msgctxt "#30134"
+msgid "Reverse order (flip list)"
+msgstr "विपरीत क्रम (सूची पलटें)"
+
+msgctxt "#30135"
+msgid "Group by TYPE / ADDON"
+msgstr "प्रकार / एडऑन द्वारा समूहित करें"
+
+msgctxt "#30136"
+msgid "Sorted A → Z"
+msgstr "A → Z क्रमबद्ध"
+
+msgctxt "#30137"
+msgid "Sorted Z → A"
+msgstr "Z → A क्रमबद्ध"
+
+msgctxt "#30138"
+msgid "Order reversed"
+msgstr "क्रम पलट दिया गया"
+
+msgctxt "#30139"
+msgid "Sorted"
+msgstr "क्रमबद्ध"
+
+msgctxt "#30140"
+msgid "Profile Saved"
+msgstr "प्रोफाइल सहेजा गया"
+
+msgctxt "#30141"
+msgid "Saved as '{}'"
+msgstr "'{}' के रूप में सहेजा गया"
+
+msgctxt "#30142"
+msgid "Select Color"
+msgstr "रंग चुनें"
+
+msgctxt "#30143"
+msgid "No color"
+msgstr "कोई रंग नहीं"
+
+msgctxt "#30144"
+msgid "White"
+msgstr "सफेद"
+
+msgctxt "#30145"
+msgid "Yellow"
+msgstr "पीला"
+
+msgctxt "#30146"
+msgid "Orange"
+msgstr "नारंगी"
+
+msgctxt "#30147"
+msgid "Red"
+msgstr "लाल"
+
+msgctxt "#30148"
+msgid "Pink"
+msgstr "गुलाबी"
+
+msgctxt "#30149"
+msgid "Violet"
+msgstr "बैंगनी"
+
+msgctxt "#30150"
+msgid "Blue"
+msgstr "नीला"
+
+msgctxt "#30151"
+msgid "Cyan"
+msgstr "स्यान"
+
+msgctxt "#30152"
+msgid "Green"
+msgstr "हरा"
+
+msgctxt "#30153"
+msgid "Lime"
+msgstr "लाइम"
+
+msgctxt "#30154"
+msgid "Select Format"
+msgstr "प्रारूप चुनें"
+
+msgctxt "#30155"
+msgid "No format"
+msgstr "कोई प्रारूप नहीं"
+
+msgctxt "#30156"
+msgid "Bold"
+msgstr "बोल्ड"
+
+msgctxt "#30157"
+msgid "Italic"
+msgstr "इटैलिक"
+
+msgctxt "#30158"
+msgid "Bold + Italic"
+msgstr "बोल्ड + इटैलिक"
+
+msgctxt "#30159"
+msgid "UPPERCASE"
+msgstr "बड़े अक्षर"
+
+msgctxt "#30160"
+msgid "Rename Favorite"
+msgstr "पसंदीदा का नाम बदलें"
+
+msgctxt "#30161"
+msgid "Edit Command / Path"
+msgstr "कमांड / पथ संपादित करें"
+
+msgctxt "#30162"
+msgid "Updated"
+msgstr "अपडेट किया गया"
+
+msgctxt "#30163"
+msgid "Command changed"
+msgstr "कमांड बदल दिया गया"
+
+msgctxt "#30164"
+msgid "Separator only"
+msgstr "केवल विभाजक"
+
+msgctxt "#30165"
+msgid "Separator and all its content"
+msgstr "विभाजक और उसकी सभी सामग्री"
+
+msgctxt "#30166"
+msgid "Delete Section: {}"
+msgstr "अनुभाग मिटाएं: {}"
+
+msgctxt "#30167"
+msgid "Confirm"
+msgstr "पुष्टि करें"
+
+msgctxt "#30168"
+msgid "Delete '{}'?"
+msgstr "'{}' मिटाएं?"
+
+msgctxt "#30169"
+msgid "Unsaved changes"
+msgstr "अनसहेजे बदलाव"
+
+msgctxt "#30170"
+msgid "Save and Exit"
+msgstr "सहेजें और बाहर निकलें"
+
+msgctxt "#30171"
+msgid "Save and Update"
+msgstr "सहेजें और अपडेट करें"
+
+msgctxt "#30172"
+msgid "Exit without Saving (Discard Changes)"
+msgstr "बिना सहेजे बाहर निकलें (बदलाव छोड़ें)"
+
+msgctxt "#30173"
+msgid "Automatically assigned icons detected for some favorites.\nDo you want to keep these new icons?"
+msgstr "कुछ पसंदीदा के लिए स्वचालित रूप से असाइन किए गए आइकन पाए गए।\nक्या आप इन नए आइकॉन को रखना चाहते हैं?"
+
+msgctxt "#30174"
+msgid "Keep"
+msgstr "रखें"
+
+msgctxt "#30175"
+msgid "Discard"
+msgstr "छोड़ें"
+
+msgctxt "#30176"
+msgid "Icons"
+msgstr "आइकन"
+
+msgctxt "#30177"
+msgid "{} icons discarded"
+msgstr "{} आइकन छोड़ दिए गए"
+
+msgctxt "#30178"
+msgid "Saved Successfully"
+msgstr "सफलतापूर्वक सहेजा गया"
+
+msgctxt "#30179"
+msgid "Could not save."
+msgstr "सहेजा नहीं जा सका"
+
+msgctxt "#30180"
+msgid "[B]Custom / Manual[/B] (Write command)"
+msgstr "[B]कस्टम / मैनुअल[/B] (कमांड लिखें)"
+
+msgctxt "#30181"
+msgid "Installed Addons (Video and Programs)"
+msgstr "इंस्टॉल किए गए एडऑन्स (वीडियो और प्रोग्राम)"
+
+msgctxt "#30182"
+msgid "What do you want to add?"
+msgstr "आप क्या जोड़ना चाहते हैं?"
+
+msgctxt "#30183"
+msgid "Favorite Name"
+msgstr "पसंदीदा नाम"
+
+msgctxt "#30184"
+msgid "Path or Command (Ex: ActivateWindow(...))"
+msgstr "पथ या कमांड (उदाहरण: ActivateWindow(...))"
+
+msgctxt "#30185"
+msgid "Select Image"
+msgstr "छवि चुनें"
+
+msgctxt "#30186"
+msgid "No addons found"
+msgstr "कोई एडऑन्स नहीं मिले"
+
+msgctxt "#30187"
+msgid "Select Addon"
+msgstr "एडऑन चुनें"
+
+msgctxt "#30188"
+msgid "This category is empty"
+msgstr "यह श्रेणी खाली है"
+
+msgctxt "#30189"
+msgid "Select from {}"
+msgstr "{} से चुनें"
+
+msgctxt "#30190"
+msgid "Attention"
+msgstr "ध्यान दें"
+
+msgctxt "#30191"
+msgid "Favorite without path"
+msgstr "बिना पथ के पसंदीदा"
+
+msgctxt "#30192"
+msgid "Added"
+msgstr "जोड़ा गया"
+
+msgctxt "#30193"
+msgid "Section / Separator Name"
+msgstr "अनुभाग / विभाजक नाम"
+
+msgctxt "#30194"
+msgid "Gold (Default)"
+msgstr "गोल्ड (डिफ़ॉल्ट)"
+
+msgctxt "#30195"
+msgid "Gray"
+msgstr "धूसर"
+
+msgctxt "#30196"
+msgid "Separator Color"
+msgstr "गंतव्य फोल्डर चुनें"
+
+msgctxt "#30197"
+msgid "Nothing selected"
+msgstr "कुछ भी चयनित नहीं"
+
+msgctxt "#30198"
+msgid "Move to..."
+msgstr "यहाँ ले जाएँ..."
+
+msgctxt "#30199"
+msgid "Click on the destination position"
+msgstr "गंतव्य स्थिति पर क्लिक करें"
+
+msgctxt "#30200"
+msgid "Before (At the top)"
+msgstr "पसंदीदा जोड़ें"
+
+msgctxt "#30201"
+msgid "After"
+msgstr "उन्नत संपादक"
+
+msgctxt "#30202"
+msgid "Moved"
+msgstr "सरल संपादक"
+
+msgctxt "#30203"
+msgid "{} items"
+msgstr "{} आइटम"
+
+msgctxt "#30204"
+msgid "Delete {} selected items?"
+msgstr "चयनित {} आइटम हटाएँ?"
+
+msgctxt "#30205"
+msgid "Color for {} items"
+msgstr "{} आइटम के लिए रंग"
+
+msgctxt "#30206"
+msgid "Select New Image"
+msgstr "नई छवि चुनें"
+
+msgctxt "#30207"
+msgid "Icon"
+msgstr "अनुभाग / विभाजक जोड़ें"
+
+msgctxt "#30208"
+msgid "Image updated"
+msgstr "कोडी अनुभाग"
+
+msgctxt "#30209"
+msgid "Add Item / Addon"
+msgstr "सिस्टम कमांड"
+
+msgctxt "#30210"
+msgid "Add Separator"
+msgstr "टेम्पलेट्स से जोड़ें"
+
+msgctxt "#30211"
+msgid "Add..."
+msgstr "टेम्पलेट्स संपादित करें"
+
+msgctxt "#30212"
+msgid "Save as New Profile"
+msgstr "अनुभाग जोड़ें"
+
+msgctxt "#30213"
+msgid "Create backup (XML)"
+msgstr "सबसे ऊपर ले जाएं"
+
+msgctxt "#30214"
+msgid "Restore from backup (XML)"
+msgstr "सबसे नीचे ले जाएं"
+
+msgctxt "#30215"
+msgid "Discard current changes"
+msgstr "यह आपके सभी पसंदीदा को उनकी मूल स्थिति (पिछली बार सहेजे गए) में रीसेट कर देगा।\nक्या आप सुनिश्चित हैं?"
+
+msgctxt "#30216"
+msgid "Backup / Restore"
+msgstr "बैकअप / पुनर्स्थापना"
+
+msgctxt "#30217"
+msgid "Backup name (no extension)"
+msgstr "बैकअप नाम (बिना एक्सटेंशन)"
+
+msgctxt "#30218"
+msgid "Select folder to save"
+msgstr "सहेजने के लिए फ़ोल्डर चुनें"
+
+msgctxt "#30219"
+msgid "Backup Created"
+msgstr "बैकअप बनाया गया"
+
+msgctxt "#30220"
+msgid "Error saving"
+msgstr "सहेजने में त्रुटि"
+
+msgctxt "#30221"
+msgid "Name of your first pet?"
+msgstr "आपके पहले पालतू जानवर का क्या नाम था?"
+
+msgctxt "#30222"
+msgid "City where you were born?"
+msgstr "आपका जन्म किस शहर में हुआ था?"
+
+msgctxt "#30223"
+msgid "Mother's birth year?"
+msgstr "आपकी पसंदीदा किताब कौन सी है?"
+
+msgctxt "#30224"
+msgid "Name of childhood best friend?"
+msgstr "आपकी पहली कार किस ब्रांड की थी?"
+
+msgctxt "#30225"
+msgid "Favorite food?"
+msgstr "आपके बचपन का हीरो कौन था?"
+
+msgctxt "#30226"
+msgid "Security Reset"
+msgstr "आपातकालीन रीसेट"
+
+msgctxt "#30227"
+msgid "Recovery file detected.\nPassword has been removed.\nYou can set a new one in Settings."
+msgstr "आपातकालीन रीसेट फाइल मिली।\nसुरक्षा अक्षम कर दी गई है और फाइल हटा दी गई है।"
+
+msgctxt "#30228"
+msgid "Installed Addons"
+msgstr "इंस्टॉल किए गए ऐड-ऑन"
+
+msgctxt "#30229"
+msgid "Gold (Default)"
+msgstr "सुनहरा (डिफ़ॉल्ट)"
+
+msgctxt "#30230"
+msgid "Change Icon"
+msgstr "आइकन बदलें"
+
+msgctxt "#30231"
+msgid "Change Color"
+msgstr "रंग बदलें"
+
+msgctxt "#30232"
+msgid "Change Format"
+msgstr "प्रारूप बदलें"
+
+msgctxt "#30233"
+msgid "Move"
+msgstr "ले जाएँ"
+
+msgctxt "#30234"
+msgid "Duplicate"
+msgstr "डुप्लिकेट"
+
+msgctxt "#30235"
+msgid "[B]Custom / Manual[/B] (Write command)"
+msgstr "[B]कस्टम / मैनुअल[/B] (कमांड लिखें)"
+
+msgctxt "#30236"
+msgid "Installed Addons (Video and Programs)"
+msgstr "इंस्टॉल किए गए ऐड-ऑन (वीडियो और प्रोग्राम)"
+
+msgctxt "#30237"
+msgid "Favourite Name"
+msgstr "पसंदीदा का नाम"
+
+msgctxt "#30238"
+msgid "No addons found"
+msgstr "कोई ऐड-ऑन नहीं मिला"
+
+msgctxt "#30239"
+msgid "Select Addon"
+msgstr "ऐड-ऑन चुनें"
+
+msgctxt "#30240"
+msgid "This category is empty"
+msgstr "यह श्रेणी खाली है"
+
+msgctxt "#30241"
+msgid "Select from "
+msgstr "इससे चुनें "
+
+msgctxt "#30242"
+msgid "Added"
+msgstr "जोड़ा गया"
+
+msgctxt "#30243"
+msgid "Quick Editor"
+msgstr "त्वरित संपादक"
+
+msgctxt "#30244"
+msgid "Saved"
+msgstr "सहेजा गया"
+
+msgctxt "#30245"
+msgid "Create Backup"
+msgstr "बैकअप बनाएँ"
+
+msgctxt "#30246"
+msgid "Restore from Backup"
+msgstr "बैकअप से पुनर्स्थापित करें"
+
+msgctxt "#30247"
+msgid "Backup"
+msgstr "बैकअप"
+
+msgctxt "#30248"
+msgid "No favourites to save."
+msgstr "सहेजने के लिए कोई पसंदीदा नहीं।"
+
+msgctxt "#30249"
+msgid "Backup Created"
+msgstr "बैकअप बनाया गया"
+
+msgctxt "#30250"
+msgid "Select backup file (.xml)"
+msgstr "XML फाइल चुनें"
+
+msgctxt "#30251"
+msgid "File not found."
+msgstr "फ़ाइल नहीं मिली।"
+
+msgctxt "#30252"
+msgid "The file does not seem to be a valid backup."
+msgstr "फ़ाइल एक मान्य बैकअप नहीं लगती।"
+
+msgctxt "#30253"
+msgid "The backup is empty."
+msgstr "बैकअप खाली है।"
+
+msgctxt "#30254"
+msgid "Replace your current favourites with the backup?\n({} items)"
+msgstr "अपने वर्तमान पसंदीदा को बैकअप से बदलें?\n({} आइटम)"
+
+msgctxt "#30255"
+msgid "Restored"
+msgstr "पुनर्स्थापित किया गया"
+
+msgctxt "#30256"
+msgid "{} favourites loaded"
+msgstr "{} पसंदीदा लोड हुए"
+
+msgctxt "#30257"
+msgid "Could not load backup:"
+msgstr "बैकअप लोड नहीं हो सका:"
+
+msgctxt "#30258"
+msgid "[B]+ Create Profile[/B] (Save current state)"
+msgstr "[COLOR lime]+ नया प्रोफाइल बनाएं (सक्रिय से)[/COLOR]"
+
+msgctxt "#30259"
+msgid "[B]+ Import from XML[/B]"
+msgstr "[COLOR cyan]favourites.xml से आयात करें[/COLOR]"
+
+msgctxt "#30260"
+msgid "[B]+ Export current to XML[/B]"
+msgstr "[COLOR orange]सक्रिय को XML के रूप में निर्यात करें[/COLOR]"
+
+msgctxt "#30261"
+msgid "Profile Manager"
+msgstr "प्रोफाइल मैनेजर"
+
+msgctxt "#30262"
+msgid "Profile Created"
+msgstr "प्रोफाइल बनाया गया"
+
+msgctxt "#30263"
+msgid "Saved '{}'"
+msgstr "प्रोफाइल '{}' बनाया गया है।"
+
+msgctxt "#30264"
+msgid "No valid favourites found"
+msgstr "XML में कोई पसंदीदा नहीं मिले"
+
+msgctxt "#30265"
+msgid "Imported Profile"
+msgstr "आयातित प्रोफाइल"
+
+msgctxt "#30266"
+msgid "Name for the profile"
+msgstr "आयातित प्रोफाइल के लिए नाम दर्ज करें"
+
+msgctxt "#30267"
+msgid "Imported"
+msgstr "प्रोफाइल आयात किया गया"
+
+msgctxt "#30268"
+msgid "{} favourites added"
+msgstr "{} पसंदीदा सफलतापूर्वक आयात किए गए।"
+
+msgctxt "#30269"
+msgid "Import Error"
+msgstr "XML आयात करते समय त्रुटि"
+
+msgctxt "#30270"
+msgid "Exported"
+msgstr "निर्यात सफल"
+
+msgctxt "#30271"
+msgid "Error Exporting"
+msgstr "निर्यात विफल"
+
+msgctxt "#30272"
+msgid "[B]Load Profile[/B] (Replaces current favourites)"
+msgstr "प्रोफाइल लोड / सक्रिय करें"
+
+msgctxt "#30273"
+msgid "Export to XML"
+msgstr "XML में निर्यात करें"
+
+msgctxt "#30274"
+msgid "Profile"
+msgstr "प्रोफाइल"
+
+msgctxt "#30275"
+msgid "Load Profile"
+msgstr "लोड की पुष्टि करें"
+
+msgctxt "#30276"
+msgid "SURE? This will replace your current favourites with those of '{}'.\nIt is recommended to make a backup first."
+msgstr "यह आपके सभी वर्तमान पसंदीदा को '{}' वाले पसंदीदा से बदल देगा।\n\nआगे बढ़ें?"
+
+msgctxt "#30277"
+msgid "Profile Loaded"
+msgstr "प्रोफाइल लोड किया गया"
+
+msgctxt "#30278"
+msgid "Favourites updated"
+msgstr "कोडी पसंदीदा अपडेट किए गए।"
+
+msgctxt "#30279"
+msgid "Rename profile"
+msgstr "प्रोफाइल का नाम बदलें"
+
+msgctxt "#30280"
+msgid "Renamed"
+msgstr "प्रोफाइल का नाम बदला गया"
+
+msgctxt "#30281"
+msgid "Now is '{}'"
+msgstr "नया नाम: {}"
+
+msgctxt "#30282"
+msgid "Saved in {}"
+msgstr "प्रोफाइल {} के रूप में निर्यात किया गया"
+
+msgctxt "#30283"
+msgid "Delete Profile"
+msgstr "प्रोफाइल मिटाएं"
+
+msgctxt "#30284"
+msgid "Permanently delete profile '{}'?"
+msgstr "क्या आप वाकई प्रोफाइल '{}' मिटाना चाहते हैं?"
+
+msgctxt "#30285"
+msgid "Templates Editor"
+msgstr "टेम्पलेट्स संपादक"
+
+msgctxt "#30286"
+msgid "Add New Category"
+msgstr "नई श्रेणी जोड़ें"
+
+msgctxt "#30287"
+msgid "Reset to defaults"
+msgstr "डिफ़ॉल्ट पर रीसेट करें"
+
+msgctxt "#30288"
+msgid "Export Templates"
+msgstr "टेम्पलेट निर्यात करें"
+
+msgctxt "#30289"
+msgid "Import Templates"
+msgstr "टेम्पलेट आयात करें"
+
+msgctxt "#30290"
+msgid "Name of the new category"
+msgstr "नया श्रेणी नाम"
+
+msgctxt "#30292"
+msgid "A category with that name already exists"
+msgstr "श्रेणी पहले से मौजूद है"
+
+msgctxt "#30293"
+msgid "Created"
+msgstr "श्रेणी जोड़ी गई"
+
+msgctxt "#30294"
+msgid "Add New"
+msgstr "नया आइटम जोड़ें"
+
+msgctxt "#30295"
+msgid "Delete this Category"
+msgstr "श्रेणी मिटाएं"
+
+msgctxt "#30296"
+msgid "Delete category '{}' and all its items?"
+msgstr "श्रेणी '{}' और उसके सभी टेम्पलेट्स मिटाएं?"
+
+msgctxt "#30297"
+msgid "Deleted"
+msgstr "मिटाया गया"
+
+msgctxt "#30298"
+msgid "Item Name"
+msgstr "आइटम का नाम"
+
+msgctxt "#30299"
+msgid "Command or Path (Ex: ActivateWindow(...))"
+msgstr "आइटम कमांड / पथ"
+
+msgctxt "#30300"
+msgid "Select Icon"
+msgstr "आइकन चुनें"
+
+msgctxt "#30301"
+msgid "Type name (Ex: DefaultMovies.png)"
+msgstr "मैनुअल आइकन पथ"
+
+msgctxt "#30302"
+msgid "Browse image in explorer"
+msgstr "आइकन के लिए ब्राउज़ करें"
+
+msgctxt "#30303"
+msgid "Icon name"
+msgstr "आइकन पथ"
+
+msgctxt "#30304"
+msgid "Edit Name"
+msgstr "नाम संपादित करें"
+
+msgctxt "#30305"
+msgid "Edit Command"
+msgstr "पथ संपादित करें"
+
+msgctxt "#30306"
+msgid "Edit Icon"
+msgstr "आइकन संपादित करें"
+
+msgctxt "#30307"
+msgid "New Name"
+msgstr "नया आइटम नाम"
+
+msgctxt "#30308"
+msgid "New Command"
+msgstr "नया आइटम पथ"
+
+msgctxt "#30309"
+msgid "New Icon"
+msgstr "नया आइकन पथ"
+
+msgctxt "#30310"
+msgid "Reset all templates to default values?\nThis will delete custom categories."
+msgstr "सभी टेम्पलेट्स को डिफ़ॉल्ट पर रीसेट करें?"
+
+msgctxt "#30311"
+msgid "Templates"
+msgstr "टेम्पलेट्स रीसेट"
+
+msgctxt "#30312"
+msgid "Reset"
+msgstr "मूल टेम्पलेट्स बहाल"
+
+msgctxt "#30313"
+msgid "Templates replaced"
+msgstr "टेम्पलेट बदले गए"
+
+msgctxt "#30314"
+msgid "Merged"
+msgstr "मर्ज किया गया"
+
+msgctxt "#30315"
+msgid "Categories added"
+msgstr "श्रेणियाँ जोड़ी गईं"
+
+msgctxt "#30316"
+msgid "How to import?"
+msgstr "कैसे आयात करें?"
+
+msgctxt "#30317"
+msgid "Replace all"
+msgstr "सभी बदलें"
+
+msgctxt "#30318"
+msgid "Merge (add new categories)"
+msgstr "मर्ज करें (नई श्रेणियाँ जोड़ें)"
+
+msgctxt "#30319"
+msgid "File name (without extension)"
+msgstr "फ़ाइल नाम (बिना एक्सटेंशन)"
+
+msgctxt "#30320"
+msgid "Search in all profiles"
+msgstr "सभी प्रोफाइल में खोजें"
+
+msgctxt "#30321"
+msgid "No results for '{}'"
+msgstr "'{}' के लिए कोई परिणाम नहीं"
+
+msgctxt "#30322"
+msgid "No items matching your search were found."
+msgstr "अपने सभी सहेजे गए प्रोफाइल में पसंदीदा खोजें।"
+
+msgctxt "#30323"
+msgid "From profile:"
+msgstr "प्रोफाइल में मिला:"
+
+msgctxt "#30324"
+msgid "Explore My Profiles"
+msgstr "मेरे प्रोफाइल देखें"
+
+msgctxt "#30325"
+msgid "Navigate through your profiles as folder. Useful for creating menus and Widgets in Skins."
+msgstr "अपने सहेजे गए पसंदीदा प्रोफाइल देखें और प्रबंधित करें।"
+
+msgctxt "#30326"
+msgid "Advanced Editor"
+msgstr "उन्नत संपादक"
+
+msgctxt "#30327"
+msgid "Graphic editor with icon and color visualization."
+msgstr "ड्रैग और ड्रॉप समर्थन के साथ विजुअल संपादक।"
+
+msgctxt "#30328"
+msgid "Quick Editor"
+msgstr "सरल संपादक"
+
+msgctxt "#30329"
+msgid "Simple and lightweight editor. Fast and compatible with all devices."
+msgstr "पसंदीदा जोड़ने और व्यवस्थित करने के लिए त्वरित मेनू।"
+
+msgctxt "#30330"
+msgid "Reload Profile (See changes)"
+msgstr "प्रोफाइल रीलोड करें (बदलाव लागू करें)"
+
+msgctxt "#30331"
+msgid "Reload Kodi profile to apply changes in main interface."
+msgstr "सभी बदलाव तुरंत दिखाने के लिए कोडी को रिफ्रेश करें।"
+
+msgctxt "#30332"
+msgid "Configuration"
+msgstr "कॉन्फ़िगरेशन"
+
+msgctxt "#30333"
+msgid "Visual editor and template editor settings."
+msgstr "विजुअल और सुरक्षा सेटिंग्स समायोजित करें।"
+
+msgctxt "#30334"
+msgid "View Favourites Menu"
+msgstr "पसंदीदा मेनू देखें"
+
+msgctxt "#30335"
+msgid "Open Kodi favourites menu to see the result."
+msgstr "नेटिव कोडी पसंदीदा विंडो खोलें।"
+
+msgctxt "#30336"
+msgid "Back / Exit"
+msgstr "पीछे / बाहर निकलें"
+
+msgctxt "#30337"
+msgid "Return to Kodi."
+msgstr "एडऑन बंद करें।"
+
+msgctxt "#30338"
+msgid "About Flow FavManager"
+msgstr "Flow FavManager के बारे में"
+
+msgctxt "#30339"
+msgid "Information."
+msgstr "जानकारी और आभार।"
+
+msgctxt "#30340"
+msgid "About"
+msgstr "विवरण"
+
+msgctxt "#30341"
+msgid "For more information and projects visit:"
+msgstr "यह प्रोजेक्ट कोडी में पसंदीदा प्रबंधन प्रणाली के विकास के इरादे से पैदा हुआ था।"
+
+msgctxt "#30342"
+msgid "PROFILE MANAGER (Create / Import / Save)"
+msgstr "प्रोफाइल मैनेजर"
+
+msgctxt "#30343"
+msgid "Tools to create new profiles, import from XML or save current state."
+msgstr "अपने प्रोफाइल बनाएं, आयात करें और निर्यात करें।"
+
+msgctxt "#30344"
+msgid "Widget View (Clean Navigation)"
+msgstr "क्लीन विजेट व्यू"
+
+msgctxt "#30345"
+msgid "Show your profiles without management buttons. Ideal for adding to your skin's home screen as a Widget."
+msgstr "विजेट के रूप में उपयोग के लिए अनुकूलित व्यू।"
+
+msgctxt "#30346"
+msgid "Add to Flow FavManager"
+msgstr "Flow FavManager में जोड़ें"
+
+msgctxt "#30347"
+msgid "Backup Created"
+msgstr "बैकअप बनाया गया"
+
+msgctxt "#30348"
+msgid "Restored"
+msgstr "बहाल"
+
+msgctxt "#30349"
+msgid "Press Confirm/Back to save."
+msgstr "सहेजने के लिए पुष्टि/वापस दबाएँ।"
+
+msgctxt "#30350"
+msgid "Behavior Changed"
+msgstr "व्यवहार बदला गया"
+
+msgctxt "#30351"
+msgid "Maintenance"
+msgstr "छवि कैश साफ करें"
+
+msgctxt "#30352"
+msgid "Updating textures..."
+msgstr "कैश साफ हो गया। चित्र रीलोड होंगे।"
+
+msgctxt "#30353"
+msgid "Log"
+msgstr "ऑडिट लॉग"
+
+msgctxt "#30354"
+msgid "Enabled"
+msgstr "ऑडिट लॉग सक्षम"
+
+msgctxt "#30355"
+msgid "Disabled"
+msgstr "ऑडिट लॉग अक्षम"
+
+msgctxt "#30356"
+msgid "History cleared"
+msgstr "लॉग मिटाया गया"
+
+msgctxt "#30357"
+msgid "Info"
+msgstr "कोई लॉग नहीं"
+
+msgctxt "#30358"
+msgid "No log to clear"
+msgstr "ऑडिट लॉग खाली है या मौजूद नहीं है"
+
+msgctxt "#30359"
+msgid "Could not read profile"
+msgstr "प्रोफाइल लोड नहीं किया जा सका"
+
+msgctxt "#30360"
+msgid "Deleted"
+msgstr "प्रोफाइल मिटाया गया"
+
+msgctxt "#30361"
+msgid "Profile deleted successfully"
+msgstr "प्रोफाइल हटा दिया गया है"
+
+msgctxt "#30362"
+msgid "Could not delete file"
+msgstr "प्रोफाइल मिटाया नहीं जा सका"
+
+msgctxt "#30363"
+msgid "Renamed"
+msgstr "प्रोफाइल का नाम बदला गया"
+
+msgctxt "#30364"
+msgid "Profile updated"
+msgstr "नाम बदलना सफल रहा"
+
+msgctxt "#30365"
+msgid "File not found."
+msgstr "नाम बदलना विफल रहा"
+
+msgctxt "#30366"
+msgid "File does not appear to be a valid backup."
+msgstr "फ़ाइल एक मान्य बैकअप नहीं लगती।"
+
+msgctxt "#30367"
+msgid "Could not load backup:"
+msgstr "बैकअप लोड नहीं हो सका:"
+
+msgctxt "#30368"
+msgid "Quick Editor"
+msgstr "त्वरित संपादक"
+
+msgctxt "#30369"
+msgid "No favorites to edit."
+msgstr "संपादित करने के लिए कोई पसंदीदा नहीं।"
+
+msgctxt "#30370"
+msgid "Empty Log"
+msgstr "लॉग व्यूअर"
+
+msgctxt "#30371"
+msgid "No events recorded yet."
+msgstr "ऑडिट लॉग खाली है"
+
+msgctxt "#30372"
+msgid "Log Does Not Exist"
+msgstr "कोई लॉग फाइल नहीं"
+
+msgctxt "#30373"
+msgid "Enable logging and perform an action to generate events."
+msgstr "ऑडिट लॉग फाइल नहीं मिली"
+
+msgctxt "#30374"
+msgid "Could not read log:"
+msgstr "लॉग पढ़ने में त्रुटि"
+
+msgctxt "#30375"
+msgid "Confirm"
+msgstr "पुष्टि करें"
+
+msgctxt "#30376"
+msgid "Delete '{}'?"
+msgstr "'{}' हटाएँ?"
+
+msgctxt "#30377"
+msgid "Clear image cache (Textures) before reloading?\nThis fixes issues with old icons."
+msgstr "क्या आप रीलोड करने से पहले थंबनेल कैश साफ करना चाहते हैं?\n(दृश्य परिवर्तनों के प्रभावी होने के लिए अनुशंसित)"
+
+msgctxt "#30378"
+msgid "Delete Log"
+msgstr "लॉग मिटाएं"
+
+msgctxt "#30379"
+msgid "Delete all audit history?"
+msgstr "क्या आप वाकई ऑडिट लॉग मिटाना चाहते हैं?"
+
+msgctxt "#30380"
+msgid "Delete Profile"
+msgstr "मिटाने की पुष्टि करें"
+
+msgctxt "#30381"
+msgid "Are you sure you want to permanently delete this profile?"
+msgstr "क्या आप वाकई इस प्रोफाइल को मिटाना चाहते हैं?"
+
+msgctxt "#30382"
+msgid "New profile name"
+msgstr "नया प्रोफाइल नाम"
+
+msgctxt "#30383"
+msgid "Backup name (without extension)"
+msgstr "बैकअप नाम (बिना एक्सटेंशन)"
+
+msgctxt "#30384"
+msgid "Select a Favorite to edit"
+msgstr "संपादित करने के लिए पसंदीदा चुनें"
+
+msgctxt "#30385"
+msgid "Action for: {}"
+msgstr "इसके लिए क्रिया: {}"
+
+msgctxt "#30386"
+msgid "Audit Log"
+msgstr "ऑडिट लॉग"
+
+msgctxt "#30387"
+msgid "Critical Error"
+msgstr "गंभीर त्रुटि"
+
+msgctxt "#30388"
+msgid "Select folder to save"
+msgstr "गंतव्य चुनें"
+
+msgctxt "#30389"
+msgid "Select backup file (.xml)"
+msgstr "बैकअप फ़ाइल चुनें (.xml)"
+
+msgctxt "#30390"
+msgid "Move Up 1"
+msgstr "1 ऊपर ले जाएँ"
+
+msgctxt "#30391"
+msgid "Move Down 1"
+msgstr "1 नीचे ले जाएँ"
+
+msgctxt "#30392"
+msgid "Move to Position..."
+msgstr "स्थिति पर ले जाएँ..."
+
+msgctxt "#30393"
+msgid "Enter new position (1-{})"
+msgstr "नई स्थिति दर्ज करें (1-{})"
+
+msgctxt "#30394"
+msgid "Invalid Format"
+msgstr "अमान्य प्रारूप"
+
+msgctxt "#30395"
+msgid "Audit Log: [COLOR lime]ON[/COLOR]"
+msgstr "ऑडिट लॉग: सक्रिय"
+
+msgctxt "#30396"
+msgid "Audit Log: [COLOR gray]OFF[/COLOR]"
+msgstr "ऑडिट लॉग: निष्क्रिय"
+
+msgctxt "#30397"
+msgid "View Audit Log"
+msgstr "ऑडिट लॉग देखें"
+
+msgctxt "#30398"
+msgid "[Empty Folder]"
+msgstr "खाली प्रोफाइल"
+
+msgctxt "#30399"
+msgid "(Empty)"
+msgstr "[I]खाली प्रोफाइल[/I]"
+
+msgctxt "#30400"
+msgid "Movies"
+msgstr "फिल्में"
+
+msgctxt "#30401"
+msgid "TV (PVR)"
+msgstr "लाइव टीवी (PVR)"
+
+msgctxt "#30402"
+msgid "TV Guide (EPG)"
+msgstr "टीवी गाइड (EPG)"
+
+msgctxt "#30403"
+msgid "Music"
+msgstr "संगीत"
+
+msgctxt "#30404"
+msgid "Pictures"
+msgstr "चित्र"
+
+msgctxt "#30405"
+msgid "Power / Restart Menu"
+msgstr "पावर / रीस्टार्ट मेनू"
+
+msgctxt "#30406"
+msgid "Update Library (Video)"
+msgstr "लाइब्रेरी अपडेट करें (वीडियो)"
+
+msgctxt "#30407"
+msgid "Clean Library (Video)"
+msgstr "लाइब्रेरी साफ करें (वीडियो)"
+
+msgctxt "#30408"
+msgid "Move Up 5"
+msgstr "5 ऊपर ले जाएँ"
+
+msgctxt "#30409"
+msgid "Move Down 5"
+msgstr "5 नीचे ले जाएँ"
+
+msgctxt "#30410"
+msgid "Move to Top"
+msgstr "सबसे ऊपर ले जाएँ"
+
+msgctxt "#30411"
+msgid "Move to Bottom"
+msgstr "सबसे नीचे ले जाएँ"
+
+msgctxt "#30412"
+msgid "Status: [COLOR {color}]{status}[/COLOR]"
+msgstr "स्थिति: [COLOR {color}]{status}[/COLOR]"
+
+msgctxt "#30413"
+msgid "ACTIVATED"
+msgstr "सक्रिय"
+
+msgctxt "#30414"
+msgid "DEACTIVATED"
+msgstr "निष्क्रिय"
+
+msgctxt "#30415"
+msgid "Turn Log Off"
+msgstr "लॉग निष्क्रिय करें"
+
+msgctxt "#30416"
+msgid "Turn Log On"
+msgstr "लॉग सक्रिय करें"
+
+msgctxt "#30417"
+msgid "TV Shows"
+msgstr "टीवी शो"
+
+msgctxt "#30418"
+msgid "Home"
+msgstr "होम"
+
+msgctxt "#30419"
+msgid "Radio"
+msgstr "रेडियो"
+
+msgctxt "#30420"
+msgid "Music Videos"
+msgstr "संगीत वीडियो"
+
+msgctxt "#30421"
+msgid "Weather"
+msgstr "मौसम"
+
+msgctxt "#30422"
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+msgctxt "#30423"
+msgid "File Manager"
+msgstr "फाइल मैनेजर"
+
+msgctxt "#30424"
+msgid "System Info"
+msgstr "सिस्टम जानकारी"
+
+msgctxt "#30425"
+msgid "Events / Log"
+msgstr "इवेंट लॉग"
+
+msgctxt "#30426"
+msgid "Addons (Browser)"
+msgstr "एडऑन्स (ब्राउज़र)"
+
+msgctxt "#30427"
+msgid "Reload Skin"
+msgstr "स्किन रीलोड करें"
+
+msgctxt "#30428"
+msgid "Skin Settings"
+msgstr "स्किन सेटिंग्स"
+
+msgctxt "#30429"
+msgid "Created by RubénSDFA1labernt - v"
+msgstr "वर्जन: "
+
+msgctxt "#30430"
+msgid "Back"
+msgstr "पीछे"
+
+msgctxt "#30431"
+msgid "Swap Mode"
+msgstr "अदला-बदली मोड"
+
+msgctxt "#30432"
+msgid "Insert Before"
+msgstr "पहले डालें"
+
+msgctxt "#30433"
+msgid "Insert After"
+msgstr "बाद में डालें"
+
+msgctxt "#30434"
+msgid "Arrow Mode"
+msgstr "तीर मोड"
+
+msgctxt "#30435"
+msgid "Save / Exit"
+msgstr "सहेजें / बाहर निकलें"
+
+msgctxt "#30436"
+msgid "Save / Exit (*)"
+msgstr "सहेजें / बाहर निकलें (*)"
+
+msgctxt "#30437"
+msgid "Add..."
+msgstr "जोड़ें..."
+
+msgctxt "#30438"
+msgid "Multiselect Mode"
+msgstr "बहु-चयन मोड"
+
+msgctxt "#30439"
+msgid "Backup / Restore"
+msgstr "बैकअप / पुनर्स्थापना"
+
+msgctxt "#30440"
+msgid "Sort"
+msgstr "क्रमबद्ध करें"
+
+msgctxt "#30441"
+msgid "Undo / Reset"
+msgstr "मूल स्थिति लोड की गई"
+
+msgctxt "#30442"
+msgid "Help / Instructions"
+msgstr "सहायता / निर्देश"
+
+msgctxt "#30443"
+msgid "Exit (Discard)"
+msgstr "बाहर निकलें (छोड़ें)"
+
+msgctxt "#30444"
+msgid "Move to..."
+msgstr "यहाँ ले जाएँ..."
+
+msgctxt "#30445"
+msgid "Change Color"
+msgstr "रंग बदलें"
+
+msgctxt "#30446"
+msgid "Delete Selected"
+msgstr "चयनित हटाएँ"
+
+msgctxt "#30447"
+msgid "CANCEL / EXIT"
+msgstr "रद्द करें / बाहर निकलें"
+
+msgctxt "#30448"
+msgid "BULK ACTIONS"
+msgstr "थोक क्रियाएँ"
+
+msgctxt "#30449"
+msgid "Section"
+msgstr "अनुभाग"
+
+msgctxt "#30450"
+msgid "Attention"
+msgstr "ध्यान दें"
+
+msgctxt "#30451"
+msgid "Hidden Credits"
+msgstr "ईस्टर एग मोड"
+
+msgctxt "#30452"
+msgid "Kodi Sections"
+msgstr "कोडी अनुभाग"
+
+msgctxt "#30453"
+msgid "System Commands"
+msgstr "सिस्टम कमांड"
+
+msgctxt "#30454"
+msgid "{} icons assigned"
+msgstr "{} आइकन बहाल हुए"
+
+msgctxt "#30455"
+msgid " (copy)"
+msgstr " (प्रतिलिपि)"
+
+msgctxt "#30456"
+msgid "Save as New Profile"
+msgstr "नई प्रोफ़ाइल के रूप में सहेजें"
+
+msgctxt "#30457"
+msgid "Create a backup of your favorites or restore a previous one."
+msgstr "बैकअप और XML आयात प्रबंधित करें।"
+
+
+msgctxt "#30458"
+msgid "Show 'Add to Flow FavManager' in menus"
+msgstr "मेनू में 'Flow FavManager में जोड़ें' दिखाएं"
+
+
+msgctxt "#30459"
+msgid "Auto-start"
+msgstr "स्वतः प्रारंभ"
+
+msgctxt "#30460"
+msgid "Launch favorites automatically when Kodi starts."
+msgstr "Kodi प्रारंभ होने पर पसंदीदा को स्वचालित रूप से लॉन्च करें।"
+
+msgctxt "#30461"
+msgid "No delay"
+msgstr "कोई देरी नहीं"
+
+msgctxt "#30462"
+msgid "Delay before launching"
+msgstr "लॉन्च करने से पहले देरी"
+
+msgctxt "#30463"
+msgid "Select favorite to launch at startup"
+msgstr "स्टार्टअप पर लॉन्च करने के लिए पसंदीदा चुनें"
+
+msgctxt "#30464"
+msgid "Not configured"
+msgstr "कॉन्फ़िगर नहीं किया गया"
+
+msgctxt "#30465"
+msgid "Change favorite"
+msgstr "पसंदीदा बदलें"
+
+msgctxt "#30466"
+msgid "Change delay"
+msgstr "देरी बदलें"
+
+msgctxt "#30467"
+msgid "Disable this slot"
+msgstr "इस स्लॉट को अक्षम करें"
+
+msgctxt "#30468"
+msgid "No favorites available"
+msgstr "कोई पसंदीदा उपलब्ध नहीं"
+
+msgctxt "#30469"
+msgid "Favorite {}"
+msgstr "पसंदीदा {}"
+
+msgctxt "#30470"
+msgid "Auto-start configured"
+msgstr "स्वतः प्रारंभ कॉन्फ़िगर किया गया"
+
+msgctxt "#30471"
+msgid "Slot disabled"
+msgstr "स्लॉट अक्षम किया गया"
+
+msgctxt "#30472"
+msgid "Web Remote"
+msgstr "वेब रिमोट"
+
+msgctxt "#30473"
+msgid "Web remote port"
+msgstr "वेब रिमोट पोर्ट"
+
+msgctxt "#30474"
+msgid "Manage favourites from your phone's browser"
+msgstr "अपने फोन के ब्राउज़र से पसंदीदा प्रबंधित करें"
+
+msgctxt "#30475"
+msgid "The server is off.\nYou need it running to manage your favourites from your phone's browser."
+msgstr "सर्वर बंद है।\nअपने फोन के ब्राउज़र से अपने पसंदीदा प्रबंधित करने के लिए आपको इसे चलाना होगा।"
+
+msgctxt "#30476"
+msgid "Start"
+msgstr "शुरू"
+
+msgctxt "#30477"
+msgid "Could not start (ports busy?)"
+msgstr "शुरू नहीं हो सका (पोर्ट व्यस्त हैं?)"
+
+msgctxt "#30478"
+msgid "Open in browser"
+msgstr "ब्राउज़र में खोलें"
+
+msgctxt "#30479"
+msgid "Stop server"
+msgstr "सर्वर रोकें"
+
+msgctxt "#30480"
+msgid "Open this address in your browser:\n[B]{}[/B]"
+msgstr "इस पते को अपने ब्राउज़र में खोलें:\n[B]{}[/B]"
+
+msgctxt "#30481"
+msgid "Server stopped"
+msgstr "सर्वर रुक गया"
+
+msgctxt "#30485"
+msgid "Add text in bulk ({0} items)"
+msgstr "थोक में टेक्स्ट जोड़ें ({0} आइटम)"
+
+msgctxt "#30486"
+msgid "Prefix"
+msgstr "उपसर्ग"
+
+msgctxt "#30487"
+msgid "Suffix"
+msgstr "प्रत्यय"
+
+msgctxt "#30488"
+msgid "Text to add"
+msgstr "जोड़ने के लिए टेक्स्ट"
+
+msgctxt "#30489"
+msgid "Text color"
+msgstr "टेक्स्ट का रंग"
+
+msgctxt "#30490"
+msgid "Prefix / Suffix"
+msgstr "उपसर्ग / प्रत्यय"
+
+msgctxt "#30491"
+msgid "Open loiolog (Advanced Log Viewer)"
+msgstr "loiolog खोलें (उन्नत लॉग व्यूअर)"
+
+msgctxt "#30492"
+msgid "{0} is already installed"
+msgstr "{0} पहले से ही स्थापित है"
+
+msgctxt "#30493"
+msgid "{0} reactivated successfully"
+msgstr "{0} सफलतापूर्वक पुनः सक्रिय किया गया"
+
+msgctxt "#30494"
+msgid "The 'requests' library is not available.\n\nPlease restart Kodi to load the new dependencies and try again."
+msgstr "'requests' लाइब्रेरी उपलब्ध नहीं है।\n\nकृपया नई निर्भरताओं को लोड करने के लिए Kodi को पुनरारंभ करें और पुनः प्रयास करें।"
+
+msgctxt "#30495"
+msgid "Downloading {0} repository..."
+msgstr "{0} रिपॉजिटरी डाउनलोड हो रही है..."
+
+msgctxt "#30496"
+msgid "Installing {0}..."
+msgstr "{0} इंस्टॉल हो रहा है..."
+
+msgctxt "#30497"
+msgid "Downloading repository..."
+msgstr "रिपॉजिटरी डाउनलोड हो रही है..."
+
+msgctxt "#30498"
+msgid "Extracting repository..."
+msgstr "रिपॉजिटरी निकाली जा रही है..."
+
+msgctxt "#30499"
+msgid "Registering repository in Kodi..."
+msgstr "Kodi में रिपॉजिटरी पंजीकृत की जा रही है..."
+
+msgctxt "#30500"
+msgid "Activating repository..."
+msgstr "रिपॉजिटरी सक्रिय की जा रही है..."
+
+msgctxt "#30501"
+msgid "Updating repository index..."
+msgstr "रिपॉजिटरी इंडेक्स अपडेट किया जा रहा है..."
+
+msgctxt "#30502"
+msgid "Confirm installation of {0}"
+msgstr "{0} की स्थापना की पुष्टि करें"
+
+msgctxt "#30503"
+msgid "Waiting for {0} installation..."
+msgstr "{0} की स्थापना की प्रतीक्षा हो रही है..."
+
+msgctxt "#30504"
+msgid "{0} installed successfully"
+msgstr "{0} सफलतापूर्वक स्थापित हो गया"
+
+msgctxt "#30505"
+msgid "Auto-installing {0} (fallback)..."
+msgstr "{0} को स्वतः-स्थापित किया जा रहा है (फ़ॉलबैक)..."
+
+msgctxt "#30506"
+msgid "The {0} repository was installed, but the addon installation did not complete.\n\nTo finish manually:\nAddons - Install from repository - {0} - Install"
+msgstr "{0} रिपॉजिटरी स्थापित हो गई, लेकिन एडऑन की स्थापना पूरी नहीं हुई।\n\nमैन्युअल रूप से समाप्त करने के लिए:\nएडऑन - रिपॉजिटरी से स्थापित करें - {0} - स्थापित करें"
+
+msgctxt "#30507"
+msgid "Installation error"
+msgstr "स्थापना त्रुटि"
+
+msgctxt "#30508"
+msgid "Could not install {0} automatically.\n\nError: {1}\n\nYou may need to enable Unknown Sources in Settings."
+msgstr "{0} स्वचालित रूप से स्थापित नहीं किया जा सका।\n\nत्रुटि: {1}\n\nआपको सेटिंग्स में अज्ञात स्रोतों को सक्षम करने की आवश्यकता हो सकती है।"
+
+
+msgctxt "#30510"
+msgid "Opening loiolog..."
+msgstr "loiolog खोला जा रहा है..."
+
+msgctxt "#30511"
+msgid "loiolog - installation"
+msgstr "loiolog - स्थापना"
+
+msgctxt "#30512"
+msgid "Auto installer (recommended)"
+msgstr "स्वचालित इंस्टॉलर (अनुशंसित)"
+
+msgctxt "#30513"
+msgid "View manual installation instructions"
+msgstr "मैन्युअल स्थापना निर्देश देखें"
+
+msgctxt "#30514"
+msgid "loiolog is not installed.\n\nDownload and install automatically?"
+msgstr "loiolog स्थापित नहीं है।\n\nक्या इसे डाउनलोड करके स्वचालित रूप से स्थापित किया जाए?"
+
+msgctxt "#30515"
+msgid "loiolog instructions"
+msgstr "loiolog निर्देश"
+
+msgctxt "#30516"
+msgid "[B]How to install loiolog[/B]\n\n1. Settings - System - Addons - enable Unknown Sources\n\n2. Settings - File Manager - Add source:\n   {0}\n\n3. Addons - Install from zip file - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. Install from repository - loiolog - Program Addons - loiolog"
+msgstr "[B]loiolog कैसे स्थापित करें[/B]\n\n1. सेटिंग्स - सिस्टम - एडऑन - अज्ञात स्रोतों को सक्षम करें\n\n2. सेटिंग्स - फ़ाइल प्रबंधक - स्रोत जोड़ें:\n   {0}\n\n3. एडऑन - ज़िप फ़ाइल से स्थापित करें - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. रिपॉजिटरी से स्थापित करें - loiolog - प्रोग्राम एडऑन - loiolog"
+
+msgctxt "#30517"
+msgid "Add advanced editor to Kodi favourites"
+msgstr "उन्नत संपादक को Kodi पसंदीदा में जोड़ें"
+
+msgctxt "#30518"
+msgid "Advanced editor added. Reload skin or restart Kodi to see it"
+msgstr "उन्नत संपादक जोड़ा गया। इसे देखने के लिए स्किन को फिर से लोड करें या Kodi को पुनरारंभ करें"
+
+msgctxt "#30519"
+msgid "Advanced editor already in Kodi favourites"
+msgstr "उन्नत संपादक पहले से ही Kodi पसंदीदा में है"
+
+msgctxt "#30520"
+msgid "Close"
+msgstr "बंद करें"
+
+msgctxt "#30521"
+msgid "Add the Advanced Editor to Kodi favourites?\n\nAllows opening it directly without launching the addon.\n\nIf cancelled, it can be added later from Settings. Kodi must be restarted for it to appear in the favourites list."
+msgstr "क्या उन्नत संपादक को Kodi पसंदीदा में जोड़ें?\n\nइसे एडऑन लॉन्च किए बिना सीधे खोलने की अनुमति देता है।\n\nयदि रद्द किया जाता है, तो इसे बाद में सेटिंग्स से जोड़ा जा सकता है। इसे पसंदीदा सूची में प्रदर्शित करने के लिए Kodi को पुनरारंभ किया जाना चाहिए।"
+
+msgctxt "#30522"
+msgid "Flow FavManager"
+msgstr "Flow FavManager"
+
+msgctxt "#30523"
+msgid "The favourites file is corrupted or unreadable.\nThe editor will not open to avoid overwriting it and losing your favourites.\nRestore a backup or fix the file before continuing."
+msgstr "पसंदीदा फ़ाइल दूषित या अपठनीय है।\nइसे अधिलेखित करने और आपके पसंदीदा खोने से बचने के लिए संपादक नहीं खुलेगा।\nजारी रखने से पहले एक बैकअप पुनर्स्थापित करें या फ़ाइल को ठीक करें।"

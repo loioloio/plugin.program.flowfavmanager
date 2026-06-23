@@ -11,128 +11,129 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt_BR\n"
+"Language: tr_TR\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+
 msgctxt "#30000"
-msgid "Editor"
-msgstr "Editor"
+msgid "Customization"
+msgstr "Özelleştirme"
 
 msgctxt "#30001"
 msgid "List Layout"
-msgstr "Layout da Lista"
+msgstr "Liste Düzeni"
 
 msgctxt "#30002"
 msgid "Simple List"
-msgstr "Lista Simples"
+msgstr "Basit Liste"
 
 msgctxt "#30003"
 msgid "Grid (Thumbnails)"
-msgstr "Grade (Miniaturas)"
+msgstr "Izgara (Küçük Resimler)"
 
 msgctxt "#30004"
 msgid "Icon Scale"
-msgstr "Escala do Ícone"
+msgstr "Simge Ölçeği"
 
 msgctxt "#30005"
 msgid "Default"
-msgstr "Padrão"
+msgstr "Varsayılan"
 
 msgctxt "#30006"
 msgid "Large"
-msgstr "Grande"
+msgstr "Büyük"
 
 msgctxt "#30007"
 msgid "Text Size"
-msgstr "Tamanho do Texto"
+msgstr "Metin Boyutu"
 
 msgctxt "#30008"
 msgid "Small"
-msgstr "Pequeno"
+msgstr "Küçük"
 
 msgctxt "#30009"
 msgid "Medium"
-msgstr "Médio"
+msgstr "Orta"
 
 msgctxt "#30010"
 msgid "Colors & Accessibility"
-msgstr "Cores e Acessibilidade"
+msgstr "Renkler ve Erişilebilirlik"
 
 msgctxt "#30011"
 msgid "Background Color"
-msgstr "Cor de Fundo"
+msgstr "Arka Plan Rengi"
 
 msgctxt "#30012"
 msgid "Dark (Default)"
-msgstr "Escuro (Padrão)"
+msgstr "Koyu (Varsayılan)"
 
 msgctxt "#30013"
 msgid "Light"
-msgstr "Claro"
+msgstr "Açık"
 
 msgctxt "#30014"
 msgid "Neutral Gray"
-msgstr "Cinza Neutro"
+msgstr "Nötr Gri"
 
 msgctxt "#30015"
 msgid "Deep Blue"
-msgstr "Azul Profundo"
+msgstr "Derin Mavi"
 
 msgctxt "#30016"
 msgid "Selection Color"
-msgstr "Cor de Seleção"
+msgstr "Seçim Rengi"
 
 msgctxt "#30017"
 msgid "Cyan (Default)"
-msgstr "Ciano (Padrão)"
+msgstr "Camgöbeği (Varsayılan)"
 
 msgctxt "#30018"
 msgid "Green"
-msgstr "Verde"
+msgstr "Yeşil"
 
 msgctxt "#30019"
 msgid "Yellow"
-msgstr "Amarelo"
+msgstr "Sarı"
 
 msgctxt "#30020"
 msgid "Red"
-msgstr "Vermelho"
+msgstr "Kırmızı"
 
 msgctxt "#30021"
 msgid "Orange"
-msgstr "Laranja"
+msgstr "Turuncu"
 
 msgctxt "#30022"
 msgid "Violet"
-msgstr "Violeta"
+msgstr "Menekşe"
 
 msgctxt "#30023"
 msgid "Multiselect Color"
-msgstr "Cor de Multiseleção"
+msgstr "Çoklu Seçim Rengi"
 
 msgctxt "#30024"
 msgid "Green (Default)"
-msgstr "Verde (Padrão)"
+msgstr "Yeşil (Varsayılan)"
 
 msgctxt "#30025"
 msgid "Magenta"
-msgstr "Magenta"
+msgstr "Eflatun"
 
 msgctxt "#30026"
 msgid "White"
-msgstr "Branco"
+msgstr "Beyaz"
 
 msgctxt "#30027"
 msgid "Colorblind Mode (High Contrast)"
-msgstr "Modo para Daltônicos (Alto Contraste)"
+msgstr "Renk Körü Modu (Yüksek Kontrast)"
 
 msgctxt "#30028"
 msgid "Advanced"
-msgstr "Avançado"
+msgstr "Gelişmiş"
 
 msgctxt "#30029"
 msgid "Enable Audit Log (Security)"
-msgstr "Habilitar Log de Auditoria (Segurança)"
+msgstr "Denetim Günlüğünü Etkinleştir (Güvenlik)"
 
 msgctxt "#30030"
 msgid "Flow FavManager"
@@ -140,51 +141,51 @@ msgstr "Flow FavManager"
 
 msgctxt "#30031"
 msgid "Could not retrieve item information"
-msgstr "Não foi possível obter informações do item"
+msgstr "Öğe bilgileri alınamadı"
 
 msgctxt "#30032"
 msgid "No Profiles"
-msgstr "Sem Perfis"
+msgstr "Profil Yok"
 
 msgctxt "#30033"
 msgid "No created profiles found.\nDo you want to create one now?"
-msgstr "Nenhum perfil criado encontrado.\nDeseja criar um agora?"
+msgstr "Oluşturulmuş profil bulunamadı.\nŞimdi bir tane oluşturmak ister misiniz?"
 
 msgctxt "#30034"
 msgid "My Favorites"
-msgstr "Meus Favoritos"
+msgstr "Favorilerim"
 
 msgctxt "#30035"
 msgid "New profile name"
-msgstr "Nome do novo perfil"
+msgstr "Yeni profil adı"
 
 msgctxt "#30036"
 msgid "Profile Created"
-msgstr "Perfil Criado"
+msgstr "Profil Oluşturuldu"
 
 msgctxt "#30037"
 msgid "'{}' added to '{}'"
-msgstr "'{}' adicionado a '{}'"
+msgstr "'{}', '{}' içine eklendi"
 
 msgctxt "#30038"
 msgid "[COLOR lime]+ Create New Profile[/COLOR]"
-msgstr "[COLOR lime]+ Criar Novo Perfil[/COLOR]"
+msgstr "[COLOR lime]+ Yeni Profil Oluştur[/COLOR]"
 
 msgctxt "#30039"
 msgid "Add '{}...' to:"
-msgstr "Adicionar '{}...' a:"
+msgstr "'{}...' şuraya ekle:"
 
 msgctxt "#30040"
 msgid "Already Exists"
-msgstr "Já Existe"
+msgstr "Zaten Mevcut"
 
 msgctxt "#30041"
 msgid "'{}' is already in '{}'"
-msgstr "'{}' já está em '{}'"
+msgstr "'{}' zaten '{}' içinde"
 
 msgctxt "#30042"
 msgid "Added"
-msgstr "Adicionado"
+msgstr "Eklendi"
 
 msgctxt "#30043"
 msgid "'{}' → '{}'"
@@ -192,1895 +193,1898 @@ msgstr "'{}' → '{}'"
 
 msgctxt "#30044"
 msgid "Error"
-msgstr "Erro"
+msgstr "Hata"
 
 msgctxt "#30045"
 msgid "Failed to save profile"
-msgstr "Falha ao salvar o perfil"
+msgstr "Profil kaydedilemedi"
 
 msgctxt "#30046"
 msgid "Could not add to profile"
-msgstr "Não foi possível adicionar ao perfil"
+msgstr "Profile eklenemedi"
 
 msgctxt "#30047"
 msgid "Incorrect PIN"
-msgstr "PIN Incorreto"
+msgstr "Yanlış PIN"
 
 msgctxt "#30048"
 msgid "{} attempts remaining"
-msgstr "{} tentativas restantes"
+msgstr "{} deneme kaldı"
 
 msgctxt "#30049"
 msgid "Incorrect PIN - Recovery"
-msgstr "PIN Incorreto - Recuperação"
+msgstr "Yanlış PIN - Kurtarma"
 
 msgctxt "#30050"
 msgid "Answer Security Question"
-msgstr "Responder Pergunta de Segurança"
+msgstr "Güvenlik Sorusunu Yanıtla"
 
 msgctxt "#30051"
 msgid "Cancel (Close Addon)"
-msgstr "Cancelar (Fechar Addon)"
+msgstr "İptal (Eklentiyi Kapat)"
 
 msgctxt "#30052"
 msgid "Question not set?"
-msgstr "Pergunta não configurada?"
+msgstr "Soru ayarlanmadı mı?"
 
 msgctxt "#30053"
 msgid "No security question set.\n\nYou can create a 'reset_pass.txt' file in the addon folder to reset."
-msgstr "Nenhuma pergunta de segurança configurada.\n\nVocê pode criar um arquivo 'reset_pass.txt' na pasta do addon para redefinir."
+msgstr "Güvenlik sorusu ayarlanmadı.\nSıfırlamak için eklenti klasöründe 'reset_pass.txt' dosyası oluşturabilirsiniz."
 
 msgctxt "#30054"
 msgid "Access Recovered"
-msgstr "Acesso Recuperado"
+msgstr "Erişim Kurtarıldı"
 
 msgctxt "#30055"
 msgid "Correct answer.\nProtection is temporarily disabled.\nRemember to set a new PIN."
-msgstr "Resposta correta.\nA proteção está temporariamente desativada.\nLembre-se de definir um novo PIN."
+msgstr "Doğru yanıt.\nKoruma geçici olarak devre dışı bırakıldı.\nYeni bir PIN ayarlamayı unutmayın."
 
 msgctxt "#30056"
 msgid "Incorrect Answer"
-msgstr "Resposta Incorreta"
+msgstr "Yanlış Yanıt"
 
 msgctxt "#30057"
 msgid "Could not verify.\n\nIf you forgot both, create an empty file named 'reset_pass.txt' in:\n"
-msgstr "Não foi possível verificar.\n\nSe você esqueceu ambos, crie um arquivo vazio chamado 'reset_pass.txt' em:\n"
+msgstr "Doğrulanamadı.\nEğer her ikisini de unuttuysanız, şurada 'reset_pass.txt' adında boş bir dosya oluşturun:\n"
 
 msgctxt "#30058"
 msgid "Security and Password"
-msgstr "Segurança e Senha"
+msgstr "Güvenlik ve Parola"
 
 msgctxt "#30059"
 msgid "ENABLED"
-msgstr "ATIVADO"
+msgstr "ETKİN"
 
 msgctxt "#30060"
 msgid "Disabled"
-msgstr "Desativado"
+msgstr "Devre Dışı"
 
 msgctxt "#30061"
 msgid "Status: {}"
-msgstr "Status: {}"
+msgstr "Durum: {}"
 
 msgctxt "#30062"
 msgid "Change PIN"
-msgstr "Alterar PIN"
+msgstr "PIN'i Değiştir"
 
 msgctxt "#30063"
 msgid "Set PIN"
-msgstr "Definir PIN"
+msgstr "PIN Ayarla"
 
 msgctxt "#30064"
 msgid "Set Security Question"
-msgstr "Definir Pergunta de Segurança"
+msgstr "Güvenlik Sorusunu Ayarla"
 
 msgctxt "#30065"
 msgid "Enable Protection"
-msgstr "Ativar Proteção"
+msgstr "Korumayı Etkinleştir"
 
 msgctxt "#30066"
 msgid "Disable Protection"
-msgstr "Desativar Proteção"
+msgstr "Korumayı Devre Dışı Bırak"
 
 msgctxt "#30067"
 msgid "« Back"
-msgstr "« Voltar"
+msgstr "« Geri"
 
 msgctxt "#30068"
 msgid "Security Information"
-msgstr "Informações de Segurança"
+msgstr "Güvenlik Bilgisi"
 
 msgctxt "#30069"
 msgid "PIN protection prevents unauthorized persons from accessing the addon.\n\n"
-msgstr "A proteção por PIN evita o acesso de pessoas não autorizadas ao addon.\n\n"
+msgstr "PIN koruması, yetkisiz kişilerin eklentiye erişmesini engeller.\n\n"
 
 msgctxt "#30070"
 msgid "Question set: {}"
-msgstr "Pergunta definida: {}"
+msgstr "Ayarlanan soru: {}"
 
 msgctxt "#30071"
 msgid "Yes"
-msgstr "Sim"
+msgstr "Evet"
 
 msgctxt "#30072"
 msgid "No"
-msgstr "Não"
+msgstr "Hayır"
 
 msgctxt "#30073"
 msgid "To recover access if you forget the PIN:\n1. Answer the security question.\n2. Or create a 'reset_pass.txt' file in:\n"
-msgstr "Para recuperar o acesso se você esquecer o PIN:\n1. Responda à pergunta de segurança.\n2. Ou crie um arquivo 'reset_pass.txt' em:\n"
+msgstr "PIN'i unutursanız erişimi kurtarmak için:\n1. Güvenlik sorusunu yanıtlayın.\n2. Veya şurada 'reset_pass.txt' dosyası oluşturun:\n"
 
 msgctxt "#30074"
 msgid "Enter new PIN (recommended numbers)"
-msgstr "Digite o novo PIN (recomenda-se números)"
+msgstr "Yeni PIN girin (sayı önerilir)"
 
 msgctxt "#30075"
 msgid "Confirm PIN"
-msgstr "Confirmar PIN"
+msgstr "PIN'i Onayla"
 
 msgctxt "#30076"
 msgid "PIN Saved"
-msgstr "PIN Salvo"
+msgstr "PIN Kaydedildi"
 
 msgctxt "#30077"
 msgid "Remember to configure security question"
-msgstr "Lembre-se de configurar a pergunta de segurança"
+msgstr "Güvenlik sorusunu yapılandırmayı unutmayın"
 
 msgctxt "#30078"
 msgid "PINs do not match"
-msgstr "Os PINs não coincidem"
+msgstr "PIN'ler eşleşmiyor"
 
 msgctxt "#30079"
 msgid "Choose a security question"
-msgstr "Escolha uma pergunta de segurança"
+msgstr "Bir güvenlik sorusu seçin"
 
 msgctxt "#30080"
 msgid "[Write custom question]"
-msgstr "[Escrever pergunta personalizada]"
+msgstr "[Özel soru yazın]"
 
 msgctxt "#30081"
 msgid "Write your question"
-msgstr "Escreva sua pergunta"
+msgstr "Sorunuzu yazın"
 
 msgctxt "#30082"
 msgid "Answer (case insensitive)"
-msgstr "Resposta (sem distinção de maiúsculas/minúsculas)"
+msgstr "Yanıt (büyük/küçük harf duyarsız)"
 
 msgctxt "#30083"
 msgid "Saved"
-msgstr "Salvo"
+msgstr "Kaydedildi"
 
 msgctxt "#30084"
 msgid "Security question set"
-msgstr "Pergunta de segurança definida"
+msgstr "Güvenlik sorusu ayarlandı"
 
 msgctxt "#30085"
 msgid "Set a PIN"
-msgstr "Definir um PIN"
+msgstr "Bir PIN ayarlayın"
 
 msgctxt "#30086"
 msgid "You must set a PIN before enabling protection."
-msgstr "Você deve definir um PIN antes de ativar a proteção."
+msgstr "Korumayı etkinleştirmeden önce bir PIN ayarlamalısınız."
 
 msgctxt "#30087"
 msgid "Warning"
-msgstr "Aviso"
+msgstr "Uyarı"
 
 msgctxt "#30088"
 msgid "You haven't set a security question.\nIf you forget the PIN, you can only recover access via the rescue file.\n\nEnable anyway?"
-msgstr "Você não definiu uma pergunta de segurança.\nSe você esquecer o PIN, só poderá recuperar o acesso pelo arquivo de resgate.\n\nAtivar mesmo assim?"
+msgstr "Bir güvenlik sorusu ayarlamadınız.\nEğer PIN'i unutursanız, erişimi yalnızca kurtarma dosyası aracılığıyla geri alabilirsiniz.\nYine de etkinleştirilsin mi?"
 
 msgctxt "#30089"
 msgid "Protection Enabled"
-msgstr "Proteção Ativada"
+msgstr "Koruma Etkinleştirildi"
 
 msgctxt "#30090"
 msgid "PIN will be asked upon entry"
-msgstr "O PIN será solicitado ao entrar"
+msgstr "Girişte PIN sorulacak"
 
 msgctxt "#30091"
 msgid "Protection Disabled"
-msgstr "Proteção Desativada"
+msgstr "Koruma Devre Dışı"
 
 msgctxt "#30092"
 msgid "Open access"
-msgstr "Acesso livre"
+msgstr "Açık erişim"
 
 msgctxt "#30093"
 msgid "Dynamic Icons"
-msgstr "Ícones Dinâmicos"
+msgstr "Dinamik Simgeler"
 
 msgctxt "#30094"
 msgid "{} icons recovered"
-msgstr "{} ícones recuperados"
+msgstr "{} simge kurtarıldı"
 
 msgctxt "#30095"
 msgid "Reset"
-msgstr "Redefinir"
+msgstr "Sıfırla"
 
 msgctxt "#30096"
 msgid "Discard all changes and return to original state?"
-msgstr "Descartar todas as alterações e voltar ao estado original?"
+msgstr "Tüm değişiklikleri atıp orijinal duruma dönülsün mü?"
 
 msgctxt "#30097"
 msgid "Reset"
-msgstr "Redefinir"
+msgstr "Sıfırla"
 
 msgctxt "#30098"
 msgid "Changes discarded"
-msgstr "Alterações descartadas"
+msgstr "Değişiklikler atıldı"
 
 msgctxt "#30099"
 msgid "Auto-Group"
-msgstr "Agrupamento Automático"
+msgstr "Otomatik Gruplandır"
 
 msgctxt "#30100"
 msgid "This will reorganize your list by grouping favorites from the same addon together (alphabetically).\nNo separators will be created.\nProceed?"
-msgstr "Isso reorganizará sua lista agrupando favoritos do mesmo addon (em ordem alfabética).\nNenhum separador será criado.\nProsseguir?"
+msgstr "Bu, aynı eklentideki favorileri (alfabetik olarak) bir araya getirerek listenizi yeniden düzenleyecektir.\nHiçbir ayırıcı oluşturulmayacaktır.\nDevam edilsin mi?"
 
 msgctxt "#30101"
 msgid "Grouped"
-msgstr "Agrupado"
+msgstr "Gruplandırıldı"
 
 msgctxt "#30102"
 msgid "List sorted by Type/Addon"
-msgstr "Lista organizada por Tipo/Addon"
+msgstr "Liste Tür/Eklentiye göre sıralandı"
 
 msgctxt "#30103"
 msgid "Help & Instructions"
-msgstr "Ajuda e Instruções"
+msgstr "Yardım ve Talimatlar"
 
 msgctxt "#30104"
 msgid "[B]CURRENT MODE: Swap[/B]\nSelect a favorite then another.\nThey will swap places."
-msgstr "[B]MODO ATUAL: Trocar[/B]\nSelecione um favorito e depois outro.\nEles trocarão de posição."
+msgstr "[B]MEVCUT MOD: Yer Değiştir[/B]\nBir favori seçin, ardından diğerini seçin.\nYer değiştirecekler."
 
 msgctxt "#30105"
 msgid "[B]CURRENT MODE: Insert Before[/B]\nSelect an item and then the destination.\nThe first will move just [B]before[/B] the second."
-msgstr "[B]MODO ATUAL: Inserir Antes[/B]\nSelecione um item e depois o destino.\nO primeiro será movido para [B]antes[/B] do segundo."
+msgstr "[B]MEVCUT MOD: Önüne Ekle[/B]\nBir öğe seçin ve ardından hedefi seçin.\nİlki, ikincinin hemen [B]önüne[/B] taşınacak."
 
 msgctxt "#30106"
 msgid "[B]CURRENT MODE: Insert After[/B]\nSelect an item then the destination.\nThe first will move just [B]after[/B] the second."
-msgstr "[B]MODO ATUAL: Inserir Depois[/B]\nSelecione um item e depois o destino.\nO primeiro será movido para [B]depois[/B] do segundo."
+msgstr "[B]MEVCUT MOD: Arkasına Ekle[/B]\nBir öğe seçin ve ardından hedefi seçin.\nİlki, ikincinin hemen [B]arkasına[/B] taşınacak."
 
 msgctxt "#30107"
 msgid "[B]CURRENT MODE: Arrow Move[/B]\nSelect a favorite and use UP/DOWN keys to move it.\nPress the SAME favorite to release it."
-msgstr "[B]MODO ATUAL: Mover com Setas[/B]\nSelecione um favorito e use as teclas CIMA/BAIXO para movê-lo.\nPressione o MESMO favorito para soltá-lo."
+msgstr "[B]MEVCUT MOD: Oklarla Taşı[/B]\nBir favori seçin ve taşımak için YUKARI/AŞAĞI tuşlarını kullanın.\nBırakmak için AYNI favoriye basın."
 
 msgctxt "#30108"
 msgid "\n\n[B]CHANGE MODE:[/B]\nUse the sidebar button to rotate between these behaviors according to your preference."
-msgstr "\n\n[B]ALTERAR MODO:[/B]\nUse o botão lateral para alternar entre estes comportamentos conforme sua preferência."
+msgstr "\n\n[B]MODU DEĞİŞTİR:[/B]\nTercihinize göre bu davranışlar arasında geçiş yapmak için kenar çubuğu düğmesini kullanın."
 
 msgctxt "#30109"
 msgid "\n\n[B]CONTEXT MENU[/B] (extra options):"
-msgstr "\n\n[B]MENU DE CONTEXTO[/B] (opções extras):"
+msgstr "\n\n[B]BAĞLAM MENÜSÜ[/B] (ekstra seçenekler):"
 
 msgctxt "#30110"
 msgid "\n- PC: Right Click or 'C' key\n- Remote/TV: 'Menu' button\n- Touch: Long Press"
-msgstr "\n- PC: Clique Direito ou tecla 'C'\n- Controle/TV: Botão 'Menu'\n- Toque: Pressionar Longamente"
+msgstr "\n- PC: Sağ Tık veya 'C' tuşu\n- Kumanda/TV: 'Menü' düğmesi\n- Dokunmatik: Uzun Basma"
 
 msgctxt "#30111"
 msgid "\n\n[B]TIPS:[/B]\n- [I]Multiselect[/I]: select multiple to move in block\n- [I]Carousel[/I]: In arrow mode, reaching the end jumps to the beginning"
-msgstr "\n\n[B]DICAS:[/B]\n- [I]Multiseleção[/I]: selecione vários para mover em bloco\n- [I]Carrossel[/I]: No modo de setas, ao chegar no fim ele volta para o início"
+msgstr "\n\n[B]İPUÇLARI:[/B]\n- [I]Çoklu Seçim[/I]: blok halinde taşımak için birden fazla seçin\n- [I]Atlıkarınca[/I]: Ok modunda, sona ulaşıldığında başa döner"
 
 msgctxt "#30112"
 msgid "Rename"
-msgstr "Renomear"
+msgstr "Yeniden Adlandır"
 
 msgctxt "#30113"
 msgid "Edit Command"
-msgstr "Editar Comando"
+msgstr "Komutu Düzenle"
 
 msgctxt "#30114"
 msgid "Change Icon"
-msgstr "Alterar Ícone"
+msgstr "Simgeyi Değiştir"
 
 msgctxt "#30115"
 msgid "Change Color"
-msgstr "Alterar Cor"
+msgstr "Rengi Değiştir"
 
 msgctxt "#30116"
 msgid "Change Format"
-msgstr "Alterar Formato"
+msgstr "Biçimi Değiştir"
 
 msgctxt "#30117"
 msgid "Move"
-msgstr "Mover"
+msgstr "Taşı"
 
 msgctxt "#30118"
 msgid "Duplicate"
-msgstr "Duplicar"
+msgstr "Çoğalt"
 
 msgctxt "#30119"
 msgid "Delete"
-msgstr "Excluir"
+msgstr "Sil"
 
 msgctxt "#30120"
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "İptal"
 
 msgctxt "#30121"
 msgid "Duplicated"
-msgstr "Duplicado"
+msgstr "Çoğaltıldı"
 
 msgctxt "#30122"
 msgid "Move item"
-msgstr "Mover item"
+msgstr "Öğeyi taşı"
 
 msgctxt "#30123"
 msgid "↑ Move 1 up"
-msgstr "↑ Mover 1 para cima"
+msgstr "↑ 1 yukarı taşı"
 
 msgctxt "#30124"
 msgid "↑↑ Move 5 up"
-msgstr "↑↑ Mover 5 para cima"
+msgstr "↑↑ 5 yukarı taşı"
 
 msgctxt "#30125"
 msgid "↑↑↑ Move 10 up"
-msgstr "↑↑↑ Mover 10 para cima"
+msgstr "↑↑↑ 10 yukarı taşı"
 
 msgctxt "#30126"
 msgid "^^^ [B]TO THE TOP[/B]"
-msgstr "^^^ [B]PARA O TOPO[/B]"
+msgstr "^^^ [B]EN ÜSTE[/B]"
 
 msgctxt "#30127"
 msgid "↓ Move 1 down"
-msgstr "↓ Mover 1 para baixo"
+msgstr "↓ 1 aşağı taşı"
 
 msgctxt "#30128"
 msgid "↓↓ Move 5 down"
-msgstr "↓↓ Mover 5 para baixo"
+msgstr "↓↓ 5 aşağı taşı"
 
 msgctxt "#30129"
 msgid "↓↓↓ Move 10 down"
-msgstr "↓↓↓ Mover 10 para baixo"
+msgstr "↓↓↓ 10 aşağı taşı"
 
 msgctxt "#30130"
 msgid "vvv [B]TO THE BOTTOM[/B]"
-msgstr "vvv [B]PARA O FINAL[/B]"
+msgstr "vvv [B]EN ALTA[/B]"
 
 msgctxt "#30131"
 msgid "Sort favorites"
-msgstr "Ordenar favoritos"
+msgstr "Favorileri sırala"
 
 msgctxt "#30132"
 msgid "Sort A → Z"
-msgstr "Ordenar A → Z"
+msgstr "A → Z Sırala"
 
 msgctxt "#30133"
 msgid "Sort Z → A"
-msgstr "Ordenar Z → A"
+msgstr "Z → A Sırala"
 
 msgctxt "#30134"
 msgid "Reverse order (flip list)"
-msgstr "Inverter ordem (espelhar lista)"
+msgstr "Ters düzen (listeyi çevir)"
 
 msgctxt "#30135"
 msgid "Group by TYPE / ADDON"
-msgstr "Agrupar por TIPO / ADDON"
+msgstr "TÜR / EKLENTİYE göre grupla"
 
 msgctxt "#30136"
 msgid "Sorted A → Z"
-msgstr "Ordenado A → Z"
+msgstr "A → Z sıralandı"
 
 msgctxt "#30137"
 msgid "Sorted Z → A"
-msgstr "Ordenado Z → A"
+msgstr "Z → A sıralandı"
 
 msgctxt "#30138"
 msgid "Order reversed"
-msgstr "Ordem invertida"
+msgstr "Sıralama tersine çevrildi"
 
 msgctxt "#30139"
 msgid "Sorted"
-msgstr "Ordenado"
+msgstr "Sıralandı"
 
 msgctxt "#30140"
 msgid "Profile Saved"
-msgstr "Perfil Salvo"
+msgstr "Profil Kaydedildi"
 
 msgctxt "#30141"
 msgid "Saved as '{}'"
-msgstr "Salvo como '{}'"
+msgstr "'{}' olarak kaydedildi"
 
 msgctxt "#30142"
 msgid "Select Color"
-msgstr "Selecionar Cor"
+msgstr "Renk Seçin"
 
 msgctxt "#30143"
 msgid "No color"
-msgstr "Sem cor"
+msgstr "Renk yok"
 
 msgctxt "#30144"
 msgid "White"
-msgstr "Branco"
+msgstr "Beyaz"
 
 msgctxt "#30145"
 msgid "Yellow"
-msgstr "Amarelo"
+msgstr "Sarı"
 
 msgctxt "#30146"
 msgid "Orange"
-msgstr "Laranja"
+msgstr "Turuncu"
 
 msgctxt "#30147"
 msgid "Red"
-msgstr "Vermelho"
+msgstr "Kırmızı"
 
 msgctxt "#30148"
 msgid "Pink"
-msgstr "Rosa"
+msgstr "Pembe"
 
 msgctxt "#30149"
 msgid "Violet"
-msgstr "Violeta"
+msgstr "Menekşe"
 
 msgctxt "#30150"
 msgid "Blue"
-msgstr "Azul"
+msgstr "Mavi"
 
 msgctxt "#30151"
 msgid "Cyan"
-msgstr "Ciano"
+msgstr "Camgöbeği"
 
 msgctxt "#30152"
 msgid "Green"
-msgstr "Verde"
+msgstr "Yeşil"
 
 msgctxt "#30153"
 msgid "Lime"
-msgstr "Lima"
+msgstr "Limon Yeşili"
 
 msgctxt "#30154"
 msgid "Select Format"
-msgstr "Selecionar Formato"
+msgstr "Biçim Seçin"
 
 msgctxt "#30155"
 msgid "No format"
-msgstr "Sem formato"
+msgstr "Biçim yok"
 
 msgctxt "#30156"
 msgid "Bold"
-msgstr "Negrito"
+msgstr "Kalın"
 
 msgctxt "#30157"
 msgid "Italic"
-msgstr "Itálico"
+msgstr "İtalik"
 
 msgctxt "#30158"
 msgid "Bold + Italic"
-msgstr "Negrito + Itálico"
+msgstr "Kalın + İtalik"
 
 msgctxt "#30159"
 msgid "UPPERCASE"
-msgstr "MAIÚSCULAS"
+msgstr "BÜYÜK HARF"
 
 msgctxt "#30160"
 msgid "Rename Favorite"
-msgstr "Renomear Favorito"
+msgstr "Favoriyi Yeniden Adlandır"
 
 msgctxt "#30161"
 msgid "Edit Command / Path"
-msgstr "Editar Comando / Caminho"
+msgstr "Komutu / Yolu Düzenle"
 
 msgctxt "#30162"
 msgid "Updated"
-msgstr "Atualizado"
+msgstr "Güncellendi"
 
 msgctxt "#30163"
 msgid "Command changed"
-msgstr "Comando alterado"
+msgstr "Komut değiştirildi"
 
 msgctxt "#30164"
 msgid "Separator only"
-msgstr "Somente o separador"
+msgstr "Yalnızca ayırıcı"
 
 msgctxt "#30165"
 msgid "Separator and all its content"
-msgstr "Separador e todo o seu conteúdo"
+msgstr "Ayırıcı ve tüm içeriği"
 
 msgctxt "#30166"
 msgid "Delete Section: {}"
-msgstr "Excluir Seção: {}"
+msgstr "Bölümü Sil: {}"
 
 msgctxt "#30167"
 msgid "Confirm"
-msgstr "Confirmar"
+msgstr "Onayla"
 
 msgctxt "#30168"
 msgid "Delete '{}'?"
-msgstr "Excluir '{}'?"
+msgstr "'{}' silinsin mi?"
 
 msgctxt "#30169"
 msgid "Unsaved changes"
-msgstr "Alterações não salvas"
+msgstr "Kaydedilmemiş değişiklikler"
 
 msgctxt "#30170"
 msgid "Save and Exit"
-msgstr "Salvar e Sair"
+msgstr "Kaydet ve Çık"
 
 msgctxt "#30171"
 msgid "Save and Update"
-msgstr "Salvar e Atualizar"
+msgstr "Kaydet ve Güncelle"
 
 msgctxt "#30172"
 msgid "Exit without Saving (Discard Changes)"
-msgstr "Sair sem Salvar (Descartar Alterações)"
+msgstr "Kaydetmeden Çık (Değişiklikleri At)"
 
 msgctxt "#30173"
 msgid "Automatically assigned icons detected for some favorites.\nDo you want to keep these new icons?"
-msgstr "Ícones atribuídos automaticamente detectados para alguns favoritos.\nDeseja manter estes novos ícones?"
+msgstr "Bazı favoriler için otomatik olarak atanan simgeler algılandı.\nBu yeni simgeleri tutmak ister misiniz?"
 
 msgctxt "#30174"
 msgid "Keep"
-msgstr "Manter"
+msgstr "Tut"
 
 msgctxt "#30175"
 msgid "Discard"
-msgstr "Descartar"
+msgstr "At"
 
 msgctxt "#30176"
 msgid "Icons"
-msgstr "Ícones"
+msgstr "Simgeler"
 
 msgctxt "#30177"
 msgid "{} icons discarded"
-msgstr "{} ícones descartados"
+msgstr "{} simge atıldı"
 
 msgctxt "#30178"
 msgid "Saved Successfully"
-msgstr "Salvo com Sucesso"
+msgstr "Başarıyla Kaydedildi"
 
 msgctxt "#30179"
 msgid "Could not save."
-msgstr "Não foi possível salvar."
+msgstr "Kaydedilemedi."
 
 msgctxt "#30180"
 msgid "[B]Custom / Manual[/B] (Write command)"
-msgstr "[B]Personalizado / Manual[/B] (Escrever comando)"
+msgstr "[B]Özel / Manuel[/B] (Komut yazın)"
 
 msgctxt "#30181"
 msgid "Installed Addons (Video and Programs)"
-msgstr "Addons Instalados (Vídeo e Programas)"
+msgstr "Yüklü Eklentiler (Video ve Programlar)"
 
 msgctxt "#30182"
 msgid "What do you want to add?"
-msgstr "O que você deseja adicionar?"
+msgstr "Ne eklemek istersiniz?"
 
 msgctxt "#30183"
 msgid "Favorite Name"
-msgstr "Nome do Favorito"
+msgstr "Favori Adı"
 
 msgctxt "#30184"
 msgid "Path or Command (Ex: ActivateWindow(...))"
-msgstr "Caminho ou Comando (Ex: ActivateWindow(...))"
+msgstr "Yol veya Komut (Örn: ActivateWindow(...))"
 
 msgctxt "#30185"
 msgid "Select Image"
-msgstr "Selecionar Imagem"
+msgstr "Resim Seç"
 
 msgctxt "#30186"
 msgid "No addons found"
-msgstr "Nenhum addon encontrado"
+msgstr "Eklenti bulunamadı"
 
 msgctxt "#30187"
 msgid "Select Addon"
-msgstr "Selecionar Addon"
+msgstr "Eklenti Seç"
 
 msgctxt "#30188"
 msgid "This category is empty"
-msgstr "Esta categoria está vazia"
+msgstr "Bu kategori boş"
 
 msgctxt "#30189"
 msgid "Select from {}"
-msgstr "Selecionar de {}"
+msgstr "{} şuradan seçin"
 
 msgctxt "#30190"
 msgid "Attention"
-msgstr "Atenção"
+msgstr "Dikkat"
 
 msgctxt "#30191"
 msgid "Favorite without path"
-msgstr "Favorito sem caminho"
+msgstr "Yolsuz favori"
 
 msgctxt "#30192"
 msgid "Added"
-msgstr "Adicionado"
+msgstr "Eklendi"
 
 msgctxt "#30193"
 msgid "Section / Separator Name"
-msgstr "Nome da Seção / Separador"
+msgstr "Bölüm / Ayırıcı Adı"
 
 msgctxt "#30194"
 msgid "Gold (Default)"
-msgstr "Ouro (Padrão)"
+msgstr "Altın (Varsayılan)"
 
 msgctxt "#30195"
 msgid "Gray"
-msgstr "Cinza"
+msgstr "Gri"
 
 msgctxt "#30196"
 msgid "Separator Color"
-msgstr "Cor do Separador"
+msgstr "Hedef klasörü seçin"
 
 msgctxt "#30197"
 msgid "Nothing selected"
-msgstr "Nada selecionado"
+msgstr "Hiçbir şey seçilmedi"
 
 msgctxt "#30198"
 msgid "Move to..."
-msgstr "Mover para..."
+msgstr "Şuraya taşı..."
 
 msgctxt "#30199"
 msgid "Click on the destination position"
-msgstr "Clique na posição de destino"
+msgstr "Hedef konuma tıklayın"
 
 msgctxt "#30200"
 msgid "Before (At the top)"
-msgstr "Antes (No topo)"
+msgstr "Favori Ekle"
 
 msgctxt "#30201"
 msgid "After"
-msgstr "Depois"
+msgstr "Gelişmiş Düzenleyici"
 
 msgctxt "#30202"
 msgid "Moved"
-msgstr "Movido"
+msgstr "Basit Düzenleyici"
 
 msgctxt "#30203"
 msgid "{} items"
-msgstr "{} itens"
+msgstr "{} öğe"
 
 msgctxt "#30204"
 msgid "Delete {} selected items?"
-msgstr "Excluir {} itens selecionados?"
+msgstr "Seçili {} öğe silinsin mi?"
 
 msgctxt "#30205"
 msgid "Color for {} items"
-msgstr "Cor para {} itens"
+msgstr "{} öğe için renk"
 
 msgctxt "#30206"
 msgid "Select New Image"
-msgstr "Selecionar Nova Imagem"
+msgstr "Yeni Görsel Seç"
 
 msgctxt "#30207"
 msgid "Icon"
-msgstr "Ícone"
+msgstr "Bölüm / Ayırıcı Ekle"
 
 msgctxt "#30208"
 msgid "Image updated"
-msgstr "Imagem atualizada"
+msgstr "Kodi Bölümleri"
 
 msgctxt "#30209"
 msgid "Add Item / Addon"
-msgstr "Adicionar Item / Addon"
+msgstr "Sistem Komutları"
 
 msgctxt "#30210"
 msgid "Add Separator"
-msgstr "Adicionar Separador"
+msgstr "Şablonlardan Ekle"
 
 msgctxt "#30211"
 msgid "Add..."
-msgstr "Adicionar..."
+msgstr "Şablonları Düzenle"
 
 msgctxt "#30212"
 msgid "Save as New Profile"
-msgstr "Salvar como Novo Perfil"
+msgstr "Bölüm Ekle"
 
 msgctxt "#30213"
 msgid "Create backup (XML)"
-msgstr "Criar backup (XML)"
+msgstr "En Üste Taşı"
 
 msgctxt "#30214"
 msgid "Restore from backup (XML)"
-msgstr "Restaurar do backup (XML)"
+msgstr "En Alta Taşı"
 
 msgctxt "#30215"
 msgid "Discard current changes"
-msgstr "Descartar alterações atuais"
+msgstr "Bu, tüm favorilerinizi orijinal durumlarına (son kaydedilen) sıfırlayacaktır.\nEmin misiniz?"
 
 msgctxt "#30216"
 msgid "Backup / Restore"
-msgstr "Backup / Restaurar"
+msgstr "Yedekle / Geri Yükle"
 
 msgctxt "#30217"
 msgid "Backup name (no extension)"
-msgstr "Nome do backup (sem extensão)"
+msgstr "Yedek adı (uzantısız)"
 
 msgctxt "#30218"
 msgid "Select folder to save"
-msgstr "Selecionar pasta para salvar"
+msgstr "Kaydedilecek klasörü seçin"
 
 msgctxt "#30219"
 msgid "Backup Created"
-msgstr "Backup Criado"
+msgstr "Yedek Oluşturuldu"
 
 msgctxt "#30220"
 msgid "Error saving"
-msgstr "Erro ao salvar"
+msgstr "Kaydetme hatası"
 
 msgctxt "#30221"
 msgid "Name of your first pet?"
-msgstr "Nome do seu primeiro animal de estimação?"
+msgstr "İlk evcil hayvanınızın adı neydi?"
 
 msgctxt "#30222"
 msgid "City where you were born?"
-msgstr "Cidade onde você nasceu?"
+msgstr "Hangi şehirde doğdunuz?"
 
 msgctxt "#30223"
 msgid "Mother's birth year?"
-msgstr "Ano de nascimento da sua mãe?"
+msgstr "En sevdiğiniz kitap nedir?"
 
 msgctxt "#30224"
 msgid "Name of childhood best friend?"
-msgstr "Nome do seu melhor amigo de infância?"
+msgstr "İlk arabanızın markası neydi?"
 
 msgctxt "#30225"
 msgid "Favorite food?"
-msgstr "Comida favorita?"
+msgstr "Çocukluk kahramanınız kimdi?"
 
 msgctxt "#30226"
 msgid "Security Reset"
-msgstr "Redefinição de Segurança"
+msgstr "Acil Sıfırlama"
 
 msgctxt "#30227"
 msgid "Recovery file detected.\nPassword has been removed.\nYou can set a new one in Settings."
-msgstr "Arquivo de recuperação detectado.\nA senha foi removida.\nVocê pode definir uma nova nas Configurações."
+msgstr "Acil sıfırlama dosyası algılandı.\nGüvenlik devre dışı bırakıldı ve dosya kaldırıldı."
 
 msgctxt "#30228"
 msgid "Installed Addons"
-msgstr "Addons Instalados"
+msgstr "Yüklü Eklentiler"
 
 msgctxt "#30229"
 msgid "Gold (Default)"
-msgstr "Ouro (Padrão)"
+msgstr "Altın (Varsayılan)"
 
 msgctxt "#30230"
 msgid "Change Icon"
-msgstr "Alterar Ícone"
+msgstr "Simgeyi Değiştir"
 
 msgctxt "#30231"
 msgid "Change Color"
-msgstr "Alterar Cor"
+msgstr "Rengi Değiştir"
 
 msgctxt "#30232"
 msgid "Change Format"
-msgstr "Alterar Formato"
+msgstr "Biçimi Değiştir"
 
 msgctxt "#30233"
 msgid "Move"
-msgstr "Mover"
+msgstr "Taşı"
 
 msgctxt "#30234"
 msgid "Duplicate"
-msgstr "Duplicar"
+msgstr "Çoğalt"
 
 msgctxt "#30235"
 msgid "[B]Custom / Manual[/B] (Write command)"
-msgstr "[B]Personalizado / Manual[/B] (Escrever comando)"
+msgstr "[B]Özel / Elle[/B] (Komut yaz)"
 
 msgctxt "#30236"
 msgid "Installed Addons (Video and Programs)"
-msgstr "Addons Instalados (Vídeo e Programas)"
+msgstr "Yüklü Eklentiler (Video ve Programlar)"
 
 msgctxt "#30237"
 msgid "Favourite Name"
-msgstr "Nome do Favorito"
+msgstr "Sık Kullanılan Adı"
 
 msgctxt "#30238"
 msgid "No addons found"
-msgstr "Nenhum addon encontrado"
+msgstr "Eklenti bulunamadı"
 
 msgctxt "#30239"
 msgid "Select Addon"
-msgstr "Selecionar Addon"
+msgstr "Eklenti Seç"
 
 msgctxt "#30240"
 msgid "This category is empty"
-msgstr "Esta categoria está vazia"
+msgstr "Bu kategori boş"
 
 msgctxt "#30241"
 msgid "Select from "
-msgstr "Selecionar de "
+msgstr "Şuradan seç: "
 
 msgctxt "#30242"
 msgid "Added"
-msgstr "Adicionado"
+msgstr "Eklendi"
 
 msgctxt "#30243"
 msgid "Quick Editor"
-msgstr "Editor Rápido"
+msgstr "Hızlı Düzenleyici"
 
 msgctxt "#30244"
 msgid "Saved"
-msgstr "Salvo"
+msgstr "Kaydedildi"
 
 msgctxt "#30245"
 msgid "Create Backup"
-msgstr "Criar Backup"
+msgstr "Yedek Oluştur"
 
 msgctxt "#30246"
 msgid "Restore from Backup"
-msgstr "Restaurar do Backup"
+msgstr "Yedekten Geri Yükle"
 
 msgctxt "#30247"
 msgid "Backup"
-msgstr "Backup"
+msgstr "Yedek"
 
 msgctxt "#30248"
 msgid "No favourites to save."
-msgstr "Sem favoritos para salvar."
+msgstr "Kaydedilecek sık kullanılan yok."
 
 msgctxt "#30249"
 msgid "Backup Created"
-msgstr "Backup Criado"
+msgstr "Yedek Oluşturuldu"
 
 msgctxt "#30250"
 msgid "Select backup file (.xml)"
-msgstr "Selecionar arquivo de backup (.xml)"
+msgstr "XML dosyası seçin"
 
 msgctxt "#30251"
 msgid "File not found."
-msgstr "Arquivo não encontrado."
+msgstr "Dosya bulunamadı."
 
 msgctxt "#30252"
 msgid "The file does not seem to be a valid backup."
-msgstr "O arquivo não parece ser um backup válido."
+msgstr "Dosya geçerli bir yedek gibi görünmüyor."
 
 msgctxt "#30253"
 msgid "The backup is empty."
-msgstr "O backup está vazio."
+msgstr "Yedek boş."
 
 msgctxt "#30254"
 msgid "Replace your current favourites with the backup?\n({} items)"
-msgstr "Substituir seus favoritos atuais pelo backup?\n({} itens)"
+msgstr "Mevcut sık kullanılanlar yedekle değiştirilsin mi?\n({} öğe)"
 
 msgctxt "#30255"
 msgid "Restored"
-msgstr "Restaurado"
+msgstr "Geri Yüklendi"
 
 msgctxt "#30256"
 msgid "{} favourites loaded"
-msgstr "{} favoritos carregados"
+msgstr "{} sık kullanılan yüklendi"
 
 msgctxt "#30257"
 msgid "Could not load backup:"
-msgstr "Não foi possível carregar o backup:"
+msgstr "Yedek yüklenemedi:"
 
 msgctxt "#30258"
 msgid "[B]+ Create Profile[/B] (Save current state)"
-msgstr "[B]+ Criar Perfil[/B] (Salvar estado atual)"
+msgstr "[COLOR lime]+ Yeni Profil Oluştur (aktif olandan)[/COLOR]"
 
 msgctxt "#30259"
 msgid "[B]+ Import from XML[/B]"
-msgstr "[B]+ Importar de XML[/B]"
+msgstr "[COLOR cyan]favourites.xml dosyasından içe aktar[/COLOR]"
 
 msgctxt "#30260"
 msgid "[B]+ Export current to XML[/B]"
-msgstr "[B]+ Exportar atual para XML[/B]"
+msgstr "[COLOR orange]Aktif olanı XML olarak dışa aktar[/COLOR]"
 
 msgctxt "#30261"
 msgid "Profile Manager"
-msgstr "Gerenciador de Perfis"
+msgstr "Profil Yöneticisi"
 
 msgctxt "#30262"
 msgid "Profile Created"
-msgstr "Perfil Criado"
+msgstr "Profil Oluşturuldu"
 
 msgctxt "#30263"
 msgid "Saved '{}'"
-msgstr "Salvo '{}'"
+msgstr "'{}' profili oluşturuldu."
 
 msgctxt "#30264"
 msgid "No valid favourites found"
-msgstr "Nenhum favorito válido encontrado"
+msgstr "XML içinde favori bulunamadı"
 
 msgctxt "#30265"
 msgid "Imported Profile"
-msgstr "Perfil Importado"
+msgstr "İçe Aktarılan Profil"
 
 msgctxt "#30266"
 msgid "Name for the profile"
-msgstr "Nome para o perfil"
+msgstr "İçe aktarılan profil için ad girin"
 
 msgctxt "#30267"
 msgid "Imported"
-msgstr "Importado"
+msgstr "Profil İçe Aktarıldı"
 
 msgctxt "#30268"
 msgid "{} favourites added"
-msgstr "{} favoritos adicionados"
+msgstr "{} favori başarıyla içe aktarıldı."
 
 msgctxt "#30269"
 msgid "Import Error"
-msgstr "Erro na Importação"
+msgstr "XML içe aktarma hatası"
 
 msgctxt "#30270"
 msgid "Exported"
-msgstr "Exportado"
+msgstr "Dışa Aktarma Başarılı"
 
 msgctxt "#30271"
 msgid "Error Exporting"
-msgstr "Erro ao Exportar"
+msgstr "Dışa Aktarma Başarısız"
 
 msgctxt "#30272"
 msgid "[B]Load Profile[/B] (Replaces current favourites)"
-msgstr "[B]Carregar Perfil[/B] (Substitui os favoritos atuais)"
+msgstr "Profili Yükle / Etkinleştir"
 
 msgctxt "#30273"
 msgid "Export to XML"
-msgstr "Exportar para XML"
+msgstr "XML'e dışa aktar"
 
 msgctxt "#30274"
 msgid "Profile"
-msgstr "Perfil"
+msgstr "Profil"
 
 msgctxt "#30275"
 msgid "Load Profile"
-msgstr "Carregar Perfil"
+msgstr "Yüklemeyi Onayla"
 
 msgctxt "#30276"
 msgid "SURE? This will replace your current favourites with those of '{}'.\nIt is recommended to make a backup first."
-msgstr "TEM CERTEZA? Isso substituirá seus favoritos atuais pelos de '{}'.\nRecomenda-se fazer um backup primeiro."
+msgstr "Bu, tüm mevcut favorilerinizi '{}' içindekilerle DEĞİŞTİRECEKTİR.\nDevam edilsin mi?"
 
 msgctxt "#30277"
 msgid "Profile Loaded"
-msgstr "Perfil Carregado"
+msgstr "Profil Yüklendi"
 
 msgctxt "#30278"
 msgid "Favourites updated"
-msgstr "Favoritos atualizados"
+msgstr "Kodi favorileri güncellendi."
 
 msgctxt "#30279"
 msgid "Rename profile"
-msgstr "Renomear perfil"
+msgstr "Profili Yeniden Adlandır"
 
 msgctxt "#30280"
 msgid "Renamed"
-msgstr "Renomeado"
+msgstr "Profil Yeniden Adlandırıldı"
 
 msgctxt "#30281"
 msgid "Now is '{}'"
-msgstr "Agora é '{}'"
+msgstr "Yeni ad: {}"
 
 msgctxt "#30282"
 msgid "Saved in {}"
-msgstr "Salvo em {}"
+msgstr "Profil {} olarak dışa aktarıldı"
 
 msgctxt "#30283"
 msgid "Delete Profile"
-msgstr "Excluir Perfil"
+msgstr "Profili Sil"
 
 msgctxt "#30284"
 msgid "Permanently delete profile '{}'?"
-msgstr "Excluir permanentemente o perfil '{}'?"
+msgstr "'{}' profilini silmek istediğinizden emin misiniz?"
 
 msgctxt "#30285"
 msgid "Templates Editor"
-msgstr "Editor de Modelos"
+msgstr "Şablon Düzenleyici"
 
 msgctxt "#30286"
 msgid "Add New Category"
-msgstr "Adicionar Nova Categoria"
+msgstr "Yeni Kategori Ekle"
 
 msgctxt "#30287"
 msgid "Reset to defaults"
-msgstr "Redefinir para padrões"
+msgstr "Varsayılanlara sıfırla"
 
 msgctxt "#30288"
 msgid "Export Templates"
-msgstr "Exportar Modelos"
+msgstr "Şablonları Dışa Aktar"
 
 msgctxt "#30289"
 msgid "Import Templates"
-msgstr "Importar Modelos"
+msgstr "Şablonları İçe Aktar"
 
 msgctxt "#30290"
 msgid "Name of the new category"
-msgstr "Nome da nova categoria"
+msgstr "Yeni Kategori Adı"
 
 msgctxt "#30292"
 msgid "A category with that name already exists"
-msgstr "Uma categoria com esse nome já existe"
+msgstr "Kategori zaten mevcut"
 
 msgctxt "#30293"
 msgid "Created"
-msgstr "Criado"
+msgstr "Kategori Eklendi"
 
 msgctxt "#30294"
 msgid "Add New"
-msgstr "Adicionar Novo"
+msgstr "Yeni Öğe Ekle"
 
 msgctxt "#30295"
 msgid "Delete this Category"
-msgstr "Excluir esta Categoria"
+msgstr "Kategoriyi Sil"
 
 msgctxt "#30296"
 msgid "Delete category '{}' and all its items?"
-msgstr "Excluir a categoria '{}' e todos os seus itens?"
+msgstr "'{}' kategorisi ve tüm şablonları silinsin mi?"
 
 msgctxt "#30297"
 msgid "Deleted"
-msgstr "Excluído"
+msgstr "Silindi"
 
 msgctxt "#30298"
 msgid "Item Name"
-msgstr "Nome do Item"
+msgstr "Öğe Adı"
 
 msgctxt "#30299"
 msgid "Command or Path (Ex: ActivateWindow(...))"
-msgstr "Comando ou Caminho (Ex: ActivateWindow(...))"
+msgstr "Öğe Komutu / Yolu"
 
 msgctxt "#30300"
 msgid "Select Icon"
-msgstr "Selecionar Ícone"
+msgstr "Simge Seç"
 
 msgctxt "#30301"
 msgid "Type name (Ex: DefaultMovies.png)"
-msgstr "Digite o nome (Ex: DefaultMovies.png)"
+msgstr "Manuel Simge Yolu"
 
 msgctxt "#30302"
 msgid "Browse image in explorer"
-msgstr "Procurar imagem no explorador"
+msgstr "Simge Gözat"
 
 msgctxt "#30303"
 msgid "Icon name"
-msgstr "Nome do ícone"
+msgstr "Simge Yolu"
 
 msgctxt "#30304"
 msgid "Edit Name"
-msgstr "Editar Nome"
+msgstr "Adı Düzenle"
 
 msgctxt "#30305"
 msgid "Edit Command"
-msgstr "Editar Comando"
+msgstr "Yolu Düzenle"
 
 msgctxt "#30306"
 msgid "Edit Icon"
-msgstr "Editar Ícone"
+msgstr "Simgeyi Düzenle"
 
 msgctxt "#30307"
 msgid "New Name"
-msgstr "Novo Nome"
+msgstr "Yeni öğe adı"
 
 msgctxt "#30308"
 msgid "New Command"
-msgstr "Novo Comando"
+msgstr "Yeni öğe yolu"
 
 msgctxt "#30309"
 msgid "New Icon"
-msgstr "Novo Ícone"
+msgstr "Yeni simge yolu"
 
 msgctxt "#30310"
 msgid "Reset all templates to default values?\nThis will delete custom categories."
-msgstr "Redefinir todos os modelos para os valores padrão?\nIsso excluirá as categorias personalizadas."
+msgstr "Tüm şablonlar varsayılana sıfırlansın mı?"
 
 msgctxt "#30311"
 msgid "Templates"
-msgstr "Modelos"
+msgstr "Şablonlar Sıfırlandı"
 
 msgctxt "#30312"
 msgid "Reset"
-msgstr "Redefinir"
+msgstr "Orijinal şablonlar geri yüklendi"
 
 msgctxt "#30313"
 msgid "Templates replaced"
-msgstr "Modelos substituídos"
+msgstr "Şablonlar değiştirildi"
 
 msgctxt "#30314"
 msgid "Merged"
-msgstr "Mesclado"
+msgstr "Birleştirildi"
 
 msgctxt "#30315"
 msgid "Categories added"
-msgstr "Categorias adicionadas"
+msgstr "Kategoriler eklendi"
 
 msgctxt "#30316"
 msgid "How to import?"
-msgstr "Como importar?"
+msgstr "Nasıl içe aktarılır?"
 
 msgctxt "#30317"
 msgid "Replace all"
-msgstr "Substituir tudo"
+msgstr "Tümünü değiştir"
 
 msgctxt "#30318"
 msgid "Merge (add new categories)"
-msgstr "Mesclar (adicionar novas categorias)"
+msgstr "Birleştir (yeni kategoriler ekle)"
 
 msgctxt "#30319"
 msgid "File name (without extension)"
-msgstr "Nome do arquivo (sem extensão)"
+msgstr "Dosya adı (uzantısız)"
 
 msgctxt "#30320"
 msgid "Search in all profiles"
-msgstr "Pesquisar em todos os perfis"
+msgstr "Tüm Profillerde Ara"
 
 msgctxt "#30321"
 msgid "No results for '{}'"
-msgstr "Sem resultados para '{}'"
+msgstr "'{}' için sonuç yok"
 
 msgctxt "#30322"
 msgid "No items matching your search were found."
-msgstr "Nenhum item correspondente à sua pesquisa foi encontrado."
+msgstr "Kaydedilen tüm profillerinizde bir favori arayın."
 
 msgctxt "#30323"
 msgid "From profile:"
-msgstr "Do perfil:"
+msgstr "Profilde bulundu:"
 
 msgctxt "#30324"
 msgid "Explore My Profiles"
-msgstr "Explorar Meus Perfis"
+msgstr "Profillerimi Keşfet"
 
 msgctxt "#30325"
 msgid "Navigate through your profiles as folder. Useful for creating menus and Widgets in Skins."
-msgstr "Navegue pelos seus perfis como pastas. Útil para criar menus e Widgets em Skins."
+msgstr "Kaydedilen favori profillerinize göz atın ve yönetin."
 
 msgctxt "#30326"
 msgid "Advanced Editor"
-msgstr "Editor Avançado"
+msgstr "Gelişmiş Düzenleyici"
 
 msgctxt "#30327"
 msgid "Graphic editor with icon and color visualization."
-msgstr "Editor gráfico com visualização de ícones e cores."
+msgstr "Sürükle ve bırak destekli görsel düzenleyici."
 
 msgctxt "#30328"
 msgid "Quick Editor"
-msgstr "Editor Rápido"
+msgstr "Basit Düzenleyici"
 
 msgctxt "#30329"
 msgid "Simple and lightweight editor. Fast and compatible with all devices."
-msgstr "Editor simples e leve. Rápido e compatível com todos os dispositivos."
+msgstr "Favori eklemek ve düzenlemek için hızlı menü."
 
 msgctxt "#30330"
 msgid "Reload Profile (See changes)"
-msgstr "Recarregar Perfil (Ver alterações)"
+msgstr "Profili Yeniden Yükle (Değişiklikleri uygula)"
 
 msgctxt "#30331"
 msgid "Reload Kodi profile to apply changes in main interface."
-msgstr "Recarregar perfil do Kodi para aplicar as alterações na interface principal."
+msgstr "Tüm değişiklikleri hemen görmek için Kodi'yi yenileyin."
 
 msgctxt "#30332"
 msgid "Configuration"
-msgstr "Configuração"
+msgstr "Yapılandırma"
 
 msgctxt "#30333"
 msgid "Visual editor and template editor settings."
-msgstr "Configurações do editor visual e editor de modelos."
+msgstr "Görsel ve güvenlik ayarlarını yapın."
 
 msgctxt "#30334"
 msgid "View Favourites Menu"
-msgstr "Ver Menu de Favoritos"
+msgstr "Favoriler Menüsünü Görüntüle"
 
 msgctxt "#30335"
 msgid "Open Kodi favourites menu to see the result."
-msgstr "Abrir o menu de favoritos do Kodi para ver o resultado."
+msgstr "Yerel Kodi favoriler penceresini açın."
 
 msgctxt "#30336"
 msgid "Back / Exit"
-msgstr "Voltar / Sair"
+msgstr "Geri / Çıkış"
 
 msgctxt "#30337"
 msgid "Return to Kodi."
-msgstr "Voltar para o Kodi."
+msgstr "Eklentiyi kapatın."
 
 msgctxt "#30338"
 msgid "About Flow FavManager"
-msgstr "Sobre o Flow FavManager"
+msgstr "Flow FavManager Hakkında"
 
 msgctxt "#30339"
 msgid "Information."
-msgstr "Informações."
+msgstr "Bilgi ve jenerik."
 
 msgctxt "#30340"
 msgid "About"
-msgstr "Sobre"
+msgstr "Hakkında"
 
 msgctxt "#30341"
 msgid "For more information and projects visit:"
-msgstr "Para mais informações e projetos visite:"
+msgstr "Bu proje, Kodi'deki favori yönetim sisteminin evrimi olma niyetiyle doğdu."
 
 msgctxt "#30342"
 msgid "PROFILE MANAGER (Create / Import / Save)"
-msgstr "GERENCIADOR DE PERFIS (Criar / Importar / Salvar)"
+msgstr "PROFİL YÖNETİCİSİ"
 
 msgctxt "#30343"
 msgid "Tools to create new profiles, import from XML or save current state."
-msgstr "Ferramentas para criar novos perfis, importar de XML ou salvar o estado atual."
+msgstr "Profillerinizi oluşturun, içe aktarın ve dışa aktarın."
 
 msgctxt "#30344"
 msgid "Widget View (Clean Navigation)"
-msgstr "Visualização de Widget (Navegação Limpa)"
+msgstr "TEMİZ WIDGET GÖRÜNÜMÜ"
 
 msgctxt "#30345"
 msgid "Show your profiles without management buttons. Ideal for adding to your skin's home screen as a Widget."
-msgstr "Mostre seus perfis sem os botões de gerenciamento. Ideal para adicionar à tela inicial da sua skin como Widget."
+msgstr "Widget olarak kullanım için optimize edilmiş görünüm."
 
 msgctxt "#30346"
 msgid "Add to Flow FavManager"
-msgstr "Adicionar ao Flow FavManager"
+msgstr "Flow FavManager'a Ekle"
 
 msgctxt "#30347"
 msgid "Backup Created"
-msgstr "Backup Criado"
+msgstr "Yedek Oluşturuldu"
 
 msgctxt "#30348"
 msgid "Restored"
-msgstr "Restaurado"
+msgstr "Geri Yüklendi"
 
 msgctxt "#30349"
 msgid "Press Confirm/Back to save."
-msgstr "Pressione Confirmar/Voltar para salvar."
+msgstr "Kaydetmek için Onayla/Geri'ye basın."
 
 msgctxt "#30350"
 msgid "Behavior Changed"
-msgstr "Comportamento Alterado"
+msgstr "Davranış Değişti"
 
 msgctxt "#30351"
 msgid "Maintenance"
-msgstr "Manutenção"
+msgstr "Resim Önbelleğini Temizle"
 
 msgctxt "#30352"
 msgid "Updating textures..."
-msgstr "Atualizando texturas..."
+msgstr "Önbellek temizlendi. Resimler yeniden yüklenecek."
 
 msgctxt "#30353"
 msgid "Log"
-msgstr "Log"
+msgstr "Denetim Günlüğü"
 
 msgctxt "#30354"
 msgid "Enabled"
-msgstr "Ativado"
+msgstr "Denetim günlüğü etkinleştirildi"
 
 msgctxt "#30355"
 msgid "Disabled"
-msgstr "Desativado"
+msgstr "Denetim günlüğü devre dışı"
 
 msgctxt "#30356"
 msgid "History cleared"
-msgstr "Histórico limpo"
+msgstr "Günlük silindi"
 
 msgctxt "#30357"
 msgid "Info"
-msgstr "Info"
+msgstr "Günlük Yok"
 
 msgctxt "#30358"
 msgid "No log to clear"
-msgstr "Nenhum log para limpar"
+msgstr "Denetim günlüğü boş veya mevcut değil"
 
 msgctxt "#30359"
 msgid "Could not read profile"
-msgstr "Não foi possível ler o perfil"
+msgstr "Profil yüklenemedi"
 
 msgctxt "#30360"
 msgid "Deleted"
-msgstr "Excluído"
+msgstr "Profil Silindi"
 
 msgctxt "#30361"
 msgid "Profile deleted successfully"
-msgstr "Perfil excluído com sucesso"
+msgstr "Profil kaldırıldı"
 
 msgctxt "#30362"
 msgid "Could not delete file"
-msgstr "Não foi possível excluir o arquivo"
+msgstr "Profil silinemedi"
 
 msgctxt "#30363"
 msgid "Renamed"
-msgstr "Renomeado"
+msgstr "Profil Yeniden Adlandırıldı"
 
 msgctxt "#30364"
 msgid "Profile updated"
-msgstr "Perfil atualizado"
+msgstr "Yeniden adlandırma başarılı"
 
 msgctxt "#30365"
 msgid "File not found."
-msgstr "Arquivo não encontrado."
+msgstr "Yeniden adlandırma başarısız"
 
 msgctxt "#30366"
 msgid "File does not appear to be a valid backup."
-msgstr "O arquivo não parece ser um backup válido."
+msgstr "Dosya geçerli bir yedek gibi görünmüyor."
 
 msgctxt "#30367"
 msgid "Could not load backup:"
-msgstr "Não foi possível carregar o backup:"
+msgstr "Yedek yüklenemedi:"
 
 msgctxt "#30368"
 msgid "Quick Editor"
-msgstr "Editor Rápido"
+msgstr "Hızlı Düzenleyici"
 
 msgctxt "#30369"
 msgid "No favorites to edit."
-msgstr "Sem favoritos para editar."
+msgstr "Düzenlenecek sık kullanılan yok."
 
 msgctxt "#30370"
 msgid "Empty Log"
-msgstr "Log Vazio"
+msgstr "Günlük Görüntüleyici"
 
 msgctxt "#30371"
 msgid "No events recorded yet."
-msgstr "Nenhum evento registrado ainda."
+msgstr "Denetim günlüğü boş"
 
 msgctxt "#30372"
 msgid "Log Does Not Exist"
-msgstr "O Log não existe"
+msgstr "Günlük dosyası yok"
 
 msgctxt "#30373"
 msgid "Enable logging and perform an action to generate events."
-msgstr "Habilite o log e realize uma ação para gerar eventos."
+msgstr "Denetim günlüğü dosyası bulunamadı"
 
 msgctxt "#30374"
 msgid "Could not read log:"
-msgstr "Não foi possível ler o log:"
+msgstr "Günlük okuma hatası"
 
 msgctxt "#30375"
 msgid "Confirm"
-msgstr "Confirmar"
+msgstr "Onayla"
 
 msgctxt "#30376"
 msgid "Delete '{}'?"
-msgstr "Excluir '{}'?"
+msgstr "'{}' silinsin mi?"
 
 msgctxt "#30377"
 msgid "Clear image cache (Textures) before reloading?\nThis fixes issues with old icons."
-msgstr "Limpar o cache de imagens (Texturas) antes de recarregar?\nIsso corrige problemas com ícones antigos."
+msgstr "Yeniden yüklemeden önce küçük resim önbelleğini temizlemek ister misiniz?\n(Görsel değişikliklerin etkili olması için önerilir)"
 
 msgctxt "#30378"
 msgid "Delete Log"
-msgstr "Excluir Log"
+msgstr "Günlüğü Sil"
 
 msgctxt "#30379"
 msgid "Delete all audit history?"
-msgstr "Excluir todo o histórico de auditoria?"
+msgstr "Denetim günlüğünü silmek istediğinizden emin misiniz?"
 
 msgctxt "#30380"
 msgid "Delete Profile"
-msgstr "Excluir Perfil"
+msgstr "Silmeyi Onayla"
 
 msgctxt "#30381"
 msgid "Are you sure you want to permanently delete this profile?"
-msgstr "Tem certeza de que deseja excluir permanentemente este perfil?"
+msgstr "Bu profili silmek istediğinizden emin misiniz?"
 
 msgctxt "#30382"
 msgid "New profile name"
-msgstr "Nome do novo perfil"
+msgstr "Yeni profil adı"
 
 msgctxt "#30383"
 msgid "Backup name (without extension)"
-msgstr "Nome do backup (sem extensão)"
+msgstr "Yedek adı (uzantısız)"
 
 msgctxt "#30384"
 msgid "Select a Favorite to edit"
-msgstr "Selecione um Favorito para editar"
+msgstr "Düzenlenecek bir sık kullanılan seçin"
 
 msgctxt "#30385"
 msgid "Action for: {}"
-msgstr "Ação para: {}"
+msgstr "Eylem: {}"
 
 msgctxt "#30386"
 msgid "Audit Log"
-msgstr "Log de Auditoria"
+msgstr "Denetim Günlüğü"
 
 msgctxt "#30387"
 msgid "Critical Error"
-msgstr "Erro Crítico"
+msgstr "Kritik Hata"
 
 msgctxt "#30388"
 msgid "Select folder to save"
-msgstr "Selecionar pasta para salvar"
+msgstr "Hedef seçin"
 
 msgctxt "#30389"
 msgid "Select backup file (.xml)"
-msgstr "Selecionar arquivo de backup (.xml)"
+msgstr "Yedek dosyası seçin (.xml)"
 
 msgctxt "#30390"
 msgid "Move Up 1"
-msgstr "Mover para Cima 1"
+msgstr "1 Yukarı Taşı"
 
 msgctxt "#30391"
 msgid "Move Down 1"
-msgstr "Mover para Baixo 1"
+msgstr "1 Aşağı Taşı"
 
 msgctxt "#30392"
 msgid "Move to Position..."
-msgstr "Mover para Posição..."
+msgstr "Konuma Taşı..."
 
 msgctxt "#30393"
 msgid "Enter new position (1-{})"
-msgstr "Digite a nova posição (1-{})"
+msgstr "Yeni konum girin (1-{})"
 
 msgctxt "#30394"
 msgid "Invalid Format"
-msgstr "Formato Inválido"
+msgstr "Geçersiz Biçim"
 
 msgctxt "#30395"
 msgid "Audit Log: [COLOR lime]ON[/COLOR]"
-msgstr "Log de Auditoria: [COLOR lime]LIGADO[/COLOR]"
+msgstr "Denetim Günlüğü: ETKİN"
 
 msgctxt "#30396"
 msgid "Audit Log: [COLOR gray]OFF[/COLOR]"
-msgstr "Log de Auditoria: [COLOR gray]DESLIGADO[/COLOR]"
+msgstr "Denetim Günlüğü: Etkisiz"
 
 msgctxt "#30397"
 msgid "View Audit Log"
-msgstr "Ver Log de Auditoria"
+msgstr "Denetim Günlüğünü Görüntüle"
 
 msgctxt "#30398"
 msgid "[Empty Folder]"
-msgstr "[Pasta Vazia]"
+msgstr "Boş Profil"
 
 msgctxt "#30399"
 msgid "(Empty)"
-msgstr "(Vazio)"
+msgstr "[I]Boş Profil[/I]"
 
 msgctxt "#30400"
 msgid "Movies"
-msgstr "Filmes"
+msgstr "Filmler"
 
 msgctxt "#30401"
 msgid "TV (PVR)"
-msgstr "TV (PVR)"
+msgstr "Canlı TV (PVR)"
 
 msgctxt "#30402"
 msgid "TV Guide (EPG)"
-msgstr "Guia de TV (EPG)"
+msgstr "TV Rehberi (EPG)"
 
 msgctxt "#30403"
 msgid "Music"
-msgstr "Música"
+msgstr "Müzik"
 
 msgctxt "#30404"
 msgid "Pictures"
-msgstr "Imagens"
+msgstr "Resimler"
 
 msgctxt "#30405"
 msgid "Power / Restart Menu"
-msgstr "Menu de Energia / Reiniciar"
+msgstr "Güç / Yeniden Başlat Menüsü"
 
 msgctxt "#30406"
 msgid "Update Library (Video)"
-msgstr "Atualizar Biblioteca (Vídeo)"
+msgstr "Kütüphaneyi Güncelle (Video)"
 
 msgctxt "#30407"
 msgid "Clean Library (Video)"
-msgstr "Limpar Biblioteca (Vídeo)"
+msgstr "Kütüphaneyi Temizle (Video)"
 
 msgctxt "#30408"
 msgid "Move Up 5"
-msgstr "Mover para Cima 5"
+msgstr "5 Yukarı Taşı"
 
 msgctxt "#30409"
 msgid "Move Down 5"
-msgstr "Mover para Baixo 5"
+msgstr "5 Aşağı Taşı"
 
 msgctxt "#30410"
 msgid "Move to Top"
-msgstr "Mover para o Topo"
+msgstr "En Üste Taşı"
 
 msgctxt "#30411"
 msgid "Move to Bottom"
-msgstr "Mover para o Final"
+msgstr "En Alta Taşı"
 
 msgctxt "#30412"
 msgid "Status: [COLOR {color}]{status}[/COLOR]"
-msgstr "Status: [COLOR {color}]{status}[/COLOR]"
+msgstr "Durum: [COLOR {color}]{status}[/COLOR]"
 
 msgctxt "#30413"
 msgid "ACTIVATED"
-msgstr "ATIVADO"
+msgstr "ETKİN"
 
 msgctxt "#30414"
 msgid "DEACTIVATED"
-msgstr "DESATIVADO"
+msgstr "ETKİSİZ"
 
 msgctxt "#30415"
 msgid "Turn Log Off"
-msgstr "Desligar Log"
+msgstr "Günlüğü Devre Dışı Bırak"
 
 msgctxt "#30416"
 msgid "Turn Log On"
-msgstr "Ligar Log"
+msgstr "Günlüğü Etkinleştir"
 
 msgctxt "#30417"
 msgid "TV Shows"
-msgstr "Séries"
+msgstr "TV Dizileri"
 
 msgctxt "#30418"
 msgid "Home"
-msgstr "Início"
+msgstr "Ana Sayfa"
 
 msgctxt "#30419"
 msgid "Radio"
-msgstr "Rádio"
+msgstr "Radyo"
 
 msgctxt "#30420"
 msgid "Music Videos"
-msgstr "Vídeos Musicais"
+msgstr "Müzik Videoları"
 
 msgctxt "#30421"
 msgid "Weather"
-msgstr "Clima"
+msgstr "Hava Durumu"
 
 msgctxt "#30422"
 msgid "Settings"
-msgstr "Configurações"
+msgstr "Ayarlar"
 
 msgctxt "#30423"
 msgid "File Manager"
-msgstr "Gerenciador de Arquivos"
+msgstr "Dosya Yöneticisi"
 
 msgctxt "#30424"
 msgid "System Info"
-msgstr "Info do Sistema"
+msgstr "Sistem Bilgisi"
 
 msgctxt "#30425"
 msgid "Events / Log"
-msgstr "Eventos / Log"
+msgstr "Olay Günlüğü"
 
 msgctxt "#30426"
 msgid "Addons (Browser)"
-msgstr "Addons (Navegador)"
+msgstr "Eklentiler (Tarayıcı)"
 
 msgctxt "#30427"
 msgid "Reload Skin"
-msgstr "Recarregar Skin"
+msgstr "Arayüzü Yeniden Yükle"
 
 msgctxt "#30428"
 msgid "Skin Settings"
-msgstr "Configurações da Skin"
+msgstr "Arayüz Ayarları"
 
 msgctxt "#30429"
-msgid "Created by RubénSDFA1laberot - v"
-msgstr "Criado por RubénSDFA1laberot - v"
+msgid "Created by RubénSDFA1labernt - v"
+msgstr "Sürüm: "
 
 msgctxt "#30430"
 msgid "Back"
-msgstr "Voltar"
+msgstr "Geri"
 
 msgctxt "#30431"
 msgid "Swap Mode"
-msgstr "Modo Trocar"
+msgstr "Değiştirme Modu"
 
 msgctxt "#30432"
 msgid "Insert Before"
-msgstr "Inserir Antes"
+msgstr "Öncesine Ekle"
 
 msgctxt "#30433"
 msgid "Insert After"
-msgstr "Inserir Depois"
+msgstr "Sonrasına Ekle"
 
 msgctxt "#30434"
 msgid "Arrow Mode"
-msgstr "Modo Direcional"
+msgstr "Ok Modu"
 
 msgctxt "#30435"
 msgid "Save / Exit"
-msgstr "Salvar / Sair"
+msgstr "Kaydet / Çık"
 
 msgctxt "#30436"
 msgid "Save / Exit (*)"
-msgstr "Salvar / Sair (*)"
+msgstr "Kaydet / Çık (*)"
 
 msgctxt "#30437"
 msgid "Add..."
-msgstr "Adicionar..."
+msgstr "Ekle..."
 
 msgctxt "#30438"
 msgid "Multiselect Mode"
-msgstr "Modo Multiseleção"
+msgstr "Çoklu Seçim Modu"
 
 msgctxt "#30439"
 msgid "Backup / Restore"
-msgstr "Backup / Restaurar"
+msgstr "Yedekle / Geri Yükle"
 
 msgctxt "#30440"
 msgid "Sort"
-msgstr "Ordenar"
+msgstr "Sırala"
 
 msgctxt "#30441"
 msgid "Undo / Reset"
-msgstr "Desfazer / Redefinir"
+msgstr "Orijinal durum yüklendi"
 
 msgctxt "#30442"
 msgid "Help / Instructions"
-msgstr "Ajuda / Instruções"
+msgstr "Yardım / Talimatlar"
 
 msgctxt "#30443"
 msgid "Exit (Discard)"
-msgstr "Sair (Descartar)"
+msgstr "Çık (Vazgeç)"
 
 msgctxt "#30444"
 msgid "Move to..."
-msgstr "Mover para..."
+msgstr "Şuraya taşı..."
 
 msgctxt "#30445"
 msgid "Change Color"
-msgstr "Alterar Cor"
+msgstr "Rengi Değiştir"
 
 msgctxt "#30446"
 msgid "Delete Selected"
-msgstr "Excluir Selecionados"
+msgstr "Seçilenleri Sil"
 
 msgctxt "#30447"
 msgid "CANCEL / EXIT"
-msgstr "CANCELAR / SAIR"
+msgstr "İPTAL / ÇIK"
 
 msgctxt "#30448"
 msgid "BULK ACTIONS"
-msgstr "AÇÕES EM MASSA"
+msgstr "TOPLU İŞLEMLER"
 
 msgctxt "#30449"
 msgid "Section"
-msgstr "Seção"
+msgstr "Bölüm"
 
 msgctxt "#30450"
 msgid "Attention"
-msgstr "Atenção"
+msgstr "Dikkat"
 
 msgctxt "#30451"
 msgid "Hidden Credits"
-msgstr "Créditos Ocultos"
+msgstr "Easter Egg Modu"
 
 msgctxt "#30452"
 msgid "Kodi Sections"
-msgstr "Seções do Kodi"
+msgstr "Kodi Bölümleri"
 
 msgctxt "#30453"
 msgid "System Commands"
-msgstr "Comandos do Sistema"
+msgstr "Sistem Komutları"
 
 msgctxt "#30454"
 msgid "{} icons assigned"
-msgstr "{} ícones atribuídos"
+msgstr "{} simge kurtarıldı"
 
 msgctxt "#30455"
 msgid " (copy)"
-msgstr " (cópia)"
+msgstr " (kopya)"
 
 msgctxt "#30456"
 msgid "Save as New Profile"
-msgstr "Salvar como Novo Perfil"
+msgstr "Yeni Profil Olarak Kaydet"
 
 msgctxt "#30457"
 msgid "Create a backup of your favorites or restore a previous one."
-msgstr "Crie um backup dos seus favoritos ou restaure um anterior."
+msgstr "Yedeklemeleri ve XML içe aktarmalarını yönetin."
+
 
 msgctxt "#30458"
 msgid "Show 'Add to Flow FavManager' in menus"
-msgstr "Mostrar 'Adicionar ao Flow FavManager' nos menus"
+msgstr "Menülerde 'Flow FavManager'a Ekle'yi göster"
+
 
 msgctxt "#30459"
 msgid "Auto-start"
-msgstr "Início automático"
+msgstr "Otomatik başlat"
 
 msgctxt "#30460"
 msgid "Launch favorites automatically when Kodi starts."
-msgstr "Inicia favoritos automaticamente ao iniciar o Kodi."
+msgstr "Kodi başladığında favorileri otomatik olarak başlat."
 
 msgctxt "#30461"
 msgid "No delay"
-msgstr "Sem espera"
+msgstr "Gecikme yok"
 
 msgctxt "#30462"
 msgid "Delay before launching"
-msgstr "Atraso antes de iniciar"
+msgstr "Başlatmadan önce gecikme"
 
 msgctxt "#30463"
 msgid "Select favorite to launch at startup"
-msgstr "Selecionar favorito para iniciar no arranque"
+msgstr "Başlangıçta başlatılacak favoriyi seç"
 
 msgctxt "#30464"
 msgid "Not configured"
-msgstr "Não configurado"
+msgstr "Yapılandırılmadı"
 
 msgctxt "#30465"
 msgid "Change favorite"
-msgstr "Alterar favorito"
+msgstr "Favoriyi değiştir"
 
 msgctxt "#30466"
 msgid "Change delay"
-msgstr "Alterar atraso"
+msgstr "Gecikmeyi değiştir"
 
 msgctxt "#30467"
 msgid "Disable this slot"
-msgstr "Desativar este slot"
+msgstr "Bu yuvayı devre dışı bırak"
 
 msgctxt "#30468"
 msgid "No favorites available"
-msgstr "Nenhum favorito disponível"
+msgstr "Kullanılabilir favori yok"
 
 msgctxt "#30469"
 msgid "Favorite {}"
-msgstr "Favorito {}"
+msgstr "Favori {}"
 
 msgctxt "#30470"
 msgid "Auto-start configured"
-msgstr "Início automático configurado"
+msgstr "Otomatik başlatma yapılandırıldı"
 
 msgctxt "#30471"
 msgid "Slot disabled"
-msgstr "Slot desativado"
+msgstr "Yuva devre dışı bırakıldı"
 
 msgctxt "#30472"
 msgid "Web Remote"
-msgstr "Controle remoto web"
+msgstr "Web Kumandası"
 
 msgctxt "#30473"
 msgid "Web remote port"
-msgstr "Porta do controle remoto web"
+msgstr "Web kumanda portu"
 
 msgctxt "#30474"
 msgid "Manage favourites from your phone's browser"
-msgstr "Gerencie os favoritos pelo navegador do celular"
+msgstr "Favorileri telefonunuzun tarayıcısından yönetin"
 
 msgctxt "#30475"
 msgid "The server is off.\nYou need it running to manage your favourites from your phone's browser."
-msgstr "O servidor está desligado.\nEle precisa estar ativo para gerenciar os favoritos pelo navegador do celular."
+msgstr "Sunucu kapalı.\nFavorilerinizi telefonunuzun tarayıcısından yönetmek için çalışıyor olması gerekir."
 
 msgctxt "#30476"
 msgid "Start"
-msgstr "Iniciar"
+msgstr "Başlat"
 
 msgctxt "#30477"
 msgid "Could not start (ports busy?)"
-msgstr "Não foi possível iniciar (portas ocupadas?)"
+msgstr "Başlatılamadı (portlar meşgul mü?)"
 
 msgctxt "#30478"
 msgid "Open in browser"
-msgstr "Abrir no navegador"
+msgstr "Tarayıcıda aç"
 
 msgctxt "#30479"
 msgid "Stop server"
-msgstr "Parar o servidor"
+msgstr "Sunucuyu durdur"
 
 msgctxt "#30480"
 msgid "Open this address in your browser:\n[B]{}[/B]"
-msgstr "Abra este endereço no navegador:\n[B]{}[/B]"
+msgstr "Tarayıcınızda bu adresi açın:\n[B]{}[/B]"
 
 msgctxt "#30481"
 msgid "Server stopped"
-msgstr "Servidor parado"
+msgstr "Sunucu durduruldu"
 
 msgctxt "#30485"
 msgid "Add text in bulk ({0} items)"
-msgstr "Adicionar texto em lote ({0} itens)"
+msgstr "Toplu metin ekle ({0} öğe)"
 
 msgctxt "#30486"
 msgid "Prefix"
-msgstr "Prefix"
+msgstr "Önek"
 
 msgctxt "#30487"
 msgid "Suffix"
-msgstr "Suffix"
+msgstr "Sonek"
 
 msgctxt "#30488"
 msgid "Text to add"
-msgstr "Texto a adicionar"
+msgstr "Eklenecek metin"
 
 msgctxt "#30489"
 msgid "Text color"
-msgstr "Cor do texto"
+msgstr "Metin rengi"
 
 msgctxt "#30490"
 msgid "Prefix / Suffix"
-msgstr "Prefix / Suffix"
+msgstr "Önek / Sonek"
 
 msgctxt "#30491"
 msgid "Open loiolog (Advanced Log Viewer)"
-msgstr "Abrir loiolog (Visualizador de log avançado)"
+msgstr "loiolog'u aç (Gelişmiş Günlük Görüntüleyici)"
 
 msgctxt "#30492"
 msgid "{0} is already installed"
-msgstr "{0} já está instalado"
+msgstr "{0} zaten yüklü"
 
 msgctxt "#30493"
 msgid "{0} reactivated successfully"
-msgstr "{0} reativado com sucesso"
+msgstr "{0} başarıyla yeniden etkinleştirildi"
 
 msgctxt "#30494"
 msgid "The 'requests' library is not available.\n\nPlease restart Kodi to load the new dependencies and try again."
-msgstr "A biblioteca 'requests' não está disponível.\n\nPor favor, reinicie o Kodi para carregar as novas dependências e tente novamente."
+msgstr "'requests' kitaplığı mevcut değil.\n\nYeni bağımlılıkları yüklemek için lütfen Kodi'yi yeniden başlatın ve tekrar deneyin."
 
 msgctxt "#30495"
 msgid "Downloading {0} repository..."
-msgstr "Baixando repositório de {0}..."
+msgstr "{0} deposu indiriliyor..."
 
 msgctxt "#30496"
 msgid "Installing {0}..."
-msgstr "Instalando {0}..."
+msgstr "{0} yükleniyor..."
 
 msgctxt "#30497"
 msgid "Downloading repository..."
-msgstr "Baixando repositório..."
+msgstr "Depo indiriliyor..."
 
 msgctxt "#30498"
 msgid "Extracting repository..."
-msgstr "Extraindo repositório..."
+msgstr "Depo çıkartılıyor..."
 
 msgctxt "#30499"
 msgid "Registering repository in Kodi..."
-msgstr "Registrando repositório no Kodi..."
+msgstr "Kodi'de depo kaydediliyor..."
 
 msgctxt "#30500"
 msgid "Activating repository..."
-msgstr "Ativando repositório..."
+msgstr "Depo etkinleştiriliyor..."
 
 msgctxt "#30501"
 msgid "Updating repository index..."
-msgstr "Atualizando índice do repositório..."
+msgstr "Depo dizini güncelleniyor..."
 
 msgctxt "#30502"
 msgid "Confirm installation of {0}"
-msgstr "Confirme a instalação de {0}"
+msgstr "{0} yüklemesini onaylayın"
 
 msgctxt "#30503"
 msgid "Waiting for {0} installation..."
-msgstr "Aguardando instalação de {0}..."
+msgstr "{0} yüklemesi bekleniyor..."
 
 msgctxt "#30504"
 msgid "{0} installed successfully"
-msgstr "{0} instalado com sucesso"
+msgstr "{0} başarıyla yüklendi"
 
 msgctxt "#30505"
 msgid "Auto-installing {0} (fallback)..."
-msgstr "Instalação automática de {0} (fallback)..."
+msgstr "{0} otomatik yükleniyor (geri dönüş)..."
 
 msgctxt "#30506"
 msgid "The {0} repository was installed, but the addon installation did not complete.\n\nTo finish manually:\nAddons - Install from repository - {0} - Install"
-msgstr "O repositório de {0} foi instalado, mas a instalação do addon não foi concluída.\n\nPara concluir manualmente:\nAddons - Instalar do repositório - {0} - Instalar"
+msgstr "{0} deposu yüklendi, ancak eklenti yüklemesi tamamlanmadı.\n\nManuel olarak bitirmek için:\nEklentiler - Depodan yükle - {0} - Yükle"
 
 msgctxt "#30507"
 msgid "Installation error"
-msgstr "Erro de instalação"
+msgstr "Kurulum hatası"
 
 msgctxt "#30508"
 msgid "Could not install {0} automatically.\n\nError: {1}\n\nYou may need to enable Unknown Sources in Settings."
-msgstr "Não foi possível instalar {0} automaticamente.\n\nErro: {1}\n\nTalvez seja necessário ativar Fontes desconhecidas nas Configurações."
+msgstr "{0} otomatik olarak yüklenemedi.\n\nHata: {1}\n\nAyarlar'da Bilinmeyen Kaynaklar'ı etkinleştirmeniz gerekebilir."
+
 
 msgctxt "#30510"
 msgid "Opening loiolog..."
-msgstr "Abrindo loiolog..."
+msgstr "loiolog açılıyor..."
 
 msgctxt "#30511"
 msgid "loiolog - installation"
-msgstr "loiolog - instalação"
+msgstr "loiolog - kurulum"
 
 msgctxt "#30512"
 msgid "Auto installer (recommended)"
-msgstr "Instalador automático (recomendado)"
+msgstr "Otomatik yükleyici (önerilir)"
 
 msgctxt "#30513"
 msgid "View manual installation instructions"
-msgstr "Ver instruções de instalação manual"
+msgstr "Manuel kurulum talimatlarını görüntüle"
 
 msgctxt "#30514"
 msgid "loiolog is not installed.\n\nDownload and install automatically?"
-msgstr "loiolog não está instalado.\n\nBaixar e instalar automaticamente?"
+msgstr "loiolog yüklü değil.\n\nOtomatik olarak indirilip kurulsun mu?"
 
 msgctxt "#30515"
 msgid "loiolog instructions"
-msgstr "Instruções loiolog"
+msgstr "loiolog talimatları"
 
 msgctxt "#30516"
 msgid "[B]How to install loiolog[/B]\n\n1. Settings - System - Addons - enable Unknown Sources\n\n2. Settings - File Manager - Add source:\n   {0}\n\n3. Addons - Install from zip file - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. Install from repository - loiolog - Program Addons - loiolog"
-msgstr "[B]Como instalar loiolog[/B]\n\n1. Configurações - Sistema - Addons - ativar Fontes desconhecidas\n\n2. Configurações - Gerenciador de arquivos - Adicionar fonte:\n   {0}\n\n3. Addons - Instalar de arquivo zip - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. Instalar do repositório - loiolog - Addons de programa - loiolog"
+msgstr "[B]loiolog nasıl kurulur[/B]\n\n1. Ayarlar - Sistem - Eklentiler - Bilinmeyen Kaynaklar'ı etkinleştir\n\n2. Ayarlar - Dosya Yöneticisi - Kaynak ekle:\n   {0}\n\n3. Eklentiler - Zip dosyasından yükle - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. Depodan yükle - loiolog - Program Eklentileri - loiolog"
 
 msgctxt "#30517"
 msgid "Add advanced editor to Kodi favourites"
-msgstr "Adicionar editor avançado aos favoritos do Kodi"
+msgstr "Gelişmiş düzenleyiciyi Kodi favorilerine ekle"
 
 msgctxt "#30518"
 msgid "Advanced editor added. Reload skin or restart Kodi to see it"
-msgstr "Editor adicionado. Recarregue a skin ou reinicie o Kodi"
+msgstr "Gelişmiş düzenleyici eklendi. Görmek için arayüzü yeniden yükleyin veya Kodi'yi yeniden başlatın"
 
 msgctxt "#30519"
 msgid "Advanced editor already in Kodi favourites"
-msgstr "Editor avançado já existe nos favoritos do Kodi"
+msgstr "Gelişmiş düzenleyici zaten Kodi favorilerinde"
 
 msgctxt "#30520"
 msgid "Close"
-msgstr "Fechar"
+msgstr "Kapat"
 
 msgctxt "#30521"
 msgid "Add the Advanced Editor to Kodi favourites?\n\nAllows opening it directly without launching the addon.\n\nIf cancelled, it can be added later from Settings. Kodi must be restarted for it to appear in the favourites list."
-msgstr "Adicionar o Editor Avançado aos favoritos do Kodi?\n\nPermite abri-lo diretamente sem iniciar o addon.\n\nSe cancelado, pode ser adicionado depois nas Configurações. O Kodi deve ser reiniciado para que apareça na lista de favoritos."
+msgstr "Gelişmiş Düzenleyiciyi Kodi favorilerine ekle?\n\nEklentiyi başlatmadan doğrudan açmaya izin verir.\n\nİptal edilirse, daha sonra Ayarlar'dan eklenebilir. Favoriler listesinde görünmesi için Kodi'nin yeniden başlatılması gerekir."
 
 msgctxt "#30522"
 msgid "Flow FavManager"
@@ -2088,4 +2092,4 @@ msgstr "Flow FavManager"
 
 msgctxt "#30523"
 msgid "The favourites file is corrupted or unreadable.\nThe editor will not open to avoid overwriting it and losing your favourites.\nRestore a backup or fix the file before continuing."
-msgstr "O arquivo de favoritos está corrompido ou ilegível.\nO editor não será aberto para evitar sobrescrevê-lo e perder seus favoritos.\nRestaure um backup ou corrija o arquivo antes de continuar."
+msgstr "Favoriler dosyası bozuk veya okunamıyor.\nÜzerine yazmayı ve favorilerinizi kaybetmeyi önlemek için düzenleyici açılmayacak.\nDevam etmeden önce bir yedeği geri yükleyin veya dosyayı düzeltin."

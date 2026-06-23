@@ -1,0 +1,2095 @@
+# Kodi Media Center
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Flow FavManager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+
+msgctxt "#30000"
+msgid "Customization"
+msgstr "Настройка"
+
+msgctxt "#30001"
+msgid "List Layout"
+msgstr "Макет списка"
+
+msgctxt "#30002"
+msgid "Simple List"
+msgstr "Простой список"
+
+msgctxt "#30003"
+msgid "Grid (Thumbnails)"
+msgstr "Сетка (Миниатюры)"
+
+msgctxt "#30004"
+msgid "Icon Scale"
+msgstr "Масштаб значков"
+
+msgctxt "#30005"
+msgid "Default"
+msgstr "По умолчанию"
+
+msgctxt "#30006"
+msgid "Large"
+msgstr "Большой"
+
+msgctxt "#30007"
+msgid "Text Size"
+msgstr "Размер текста"
+
+msgctxt "#30008"
+msgid "Small"
+msgstr "Маленький"
+
+msgctxt "#30009"
+msgid "Medium"
+msgstr "Средний"
+
+msgctxt "#30010"
+msgid "Colors & Accessibility"
+msgstr "Цвета и доступность"
+
+msgctxt "#30011"
+msgid "Background Color"
+msgstr "Цвет фона"
+
+msgctxt "#30012"
+msgid "Dark (Default)"
+msgstr "Темный (По умолчанию)"
+
+msgctxt "#30013"
+msgid "Light"
+msgstr "Светлый"
+
+msgctxt "#30014"
+msgid "Neutral Gray"
+msgstr "Нейтральный серый"
+
+msgctxt "#30015"
+msgid "Deep Blue"
+msgstr "Темно-синий"
+
+msgctxt "#30016"
+msgid "Selection Color"
+msgstr "Цвет выделения"
+
+msgctxt "#30017"
+msgid "Cyan (Default)"
+msgstr "Циан (По умолчанию)"
+
+msgctxt "#30018"
+msgid "Green"
+msgstr "Зеленый"
+
+msgctxt "#30019"
+msgid "Yellow"
+msgstr "Желтый"
+
+msgctxt "#30020"
+msgid "Red"
+msgstr "Красный"
+
+msgctxt "#30021"
+msgid "Orange"
+msgstr "Оранжевый"
+
+msgctxt "#30022"
+msgid "Violet"
+msgstr "Фиолетовый"
+
+msgctxt "#30023"
+msgid "Multiselect Color"
+msgstr "Цвет множественного выбора"
+
+msgctxt "#30024"
+msgid "Green (Default)"
+msgstr "Зеленый (По умолчанию)"
+
+msgctxt "#30025"
+msgid "Magenta"
+msgstr "Маджента"
+
+msgctxt "#30026"
+msgid "White"
+msgstr "Белый"
+
+msgctxt "#30027"
+msgid "Colorblind Mode (High Contrast)"
+msgstr "Режим для дальтоников (Высокий контраст)"
+
+msgctxt "#30028"
+msgid "Advanced"
+msgstr "Дополнительно"
+
+msgctxt "#30029"
+msgid "Enable Audit Log (Security)"
+msgstr "Включить журнал аудита (Безопасность)"
+
+msgctxt "#30030"
+msgid "Flow FavManager"
+msgstr "Flow FavManager"
+
+msgctxt "#30031"
+msgid "Could not retrieve item information"
+msgstr "Не удалось получить информацию об элементе"
+
+msgctxt "#30032"
+msgid "No Profiles"
+msgstr "Нет профилей"
+
+msgctxt "#30033"
+msgid "No created profiles found.\nDo you want to create one now?"
+msgstr "Созданные профили не найдены.\nХотите создать один сейчас?"
+
+msgctxt "#30034"
+msgid "My Favorites"
+msgstr "Мои избранные"
+
+msgctxt "#30035"
+msgid "New profile name"
+msgstr "Имя нового профиля"
+
+msgctxt "#30036"
+msgid "Profile Created"
+msgstr "Профиль создан"
+
+msgctxt "#30037"
+msgid "'{}' added to '{}'"
+msgstr "'{}' добавлено в '{}'"
+
+msgctxt "#30038"
+msgid "[COLOR lime]+ Create New Profile[/COLOR]"
+msgstr "[COLOR lime]+ Создать новый профиль[/COLOR]"
+
+msgctxt "#30039"
+msgid "Add '{}...' to:"
+msgstr "Добавить '{}...' в:"
+
+msgctxt "#30040"
+msgid "Already Exists"
+msgstr "Уже существует"
+
+msgctxt "#30041"
+msgid "'{}' is already in '{}'"
+msgstr "'{}' уже есть в '{}'"
+
+msgctxt "#30042"
+msgid "Added"
+msgstr "Добавлено"
+
+msgctxt "#30043"
+msgid "'{}' → '{}'"
+msgstr "'{}' → '{}'"
+
+msgctxt "#30044"
+msgid "Error"
+msgstr "Ошибка"
+
+msgctxt "#30045"
+msgid "Failed to save profile"
+msgstr "Не удалось сохранить профиль"
+
+msgctxt "#30046"
+msgid "Could not add to profile"
+msgstr "Не удалось добавить в профиль"
+
+msgctxt "#30047"
+msgid "Incorrect PIN"
+msgstr "Неверный PIN"
+
+msgctxt "#30048"
+msgid "{} attempts remaining"
+msgstr "Осталось попыток: {}"
+
+msgctxt "#30049"
+msgid "Incorrect PIN - Recovery"
+msgstr "Неверный PIN - Восстановление"
+
+msgctxt "#30050"
+msgid "Answer Security Question"
+msgstr "Ответить на контрольный вопрос"
+
+msgctxt "#30051"
+msgid "Cancel (Close Addon)"
+msgstr "Отмена (Закрыть аддон)"
+
+msgctxt "#30052"
+msgid "Question not set?"
+msgstr "Вопрос не установлен?"
+
+msgctxt "#30053"
+msgid "No security question set.\n\nYou can create a 'reset_pass.txt' file in the addon folder to reset."
+msgstr "Контрольный вопрос не установлен.\n\nВы можете создать файл 'reset_pass.txt' в папке аддона для сброса."
+
+msgctxt "#30054"
+msgid "Access Recovered"
+msgstr "Доступ восстановлен"
+
+msgctxt "#30055"
+msgid "Correct answer.\nProtection is temporarily disabled.\nRemember to set a new PIN."
+msgstr "Верный ответ.\nЗащита временно отключена.\nНе забудьте установить новый PIN."
+
+msgctxt "#30056"
+msgid "Incorrect Answer"
+msgstr "Неверный ответ"
+
+msgctxt "#30057"
+msgid "Could not verify.\n\nIf you forgot both, create an empty file named 'reset_pass.txt' in:\n"
+msgstr "Не удалось проверить.\n\nЕсли вы забыли и то, и другое, создайте пустой файл 'reset_pass.txt' в:\n"
+
+msgctxt "#30058"
+msgid "Security and Password"
+msgstr "Безопасность и пароль"
+
+msgctxt "#30059"
+msgid "ENABLED"
+msgstr "ВКЛЮЧЕНО"
+
+msgctxt "#30060"
+msgid "Disabled"
+msgstr "Отключено"
+
+msgctxt "#30061"
+msgid "Status: {}"
+msgstr "Статус: {}"
+
+msgctxt "#30062"
+msgid "Change PIN"
+msgstr "Изменить PIN"
+
+msgctxt "#30063"
+msgid "Set PIN"
+msgstr "Установить PIN"
+
+msgctxt "#30064"
+msgid "Set Security Question"
+msgstr "Установить контрольный вопрос"
+
+msgctxt "#30065"
+msgid "Enable Protection"
+msgstr "Включить защиту"
+
+msgctxt "#30066"
+msgid "Disable Protection"
+msgstr "Отключить защиту"
+
+msgctxt "#30067"
+msgid "« Back"
+msgstr "« Назад"
+
+msgctxt "#30068"
+msgid "Security Information"
+msgstr "Информация о безопасности"
+
+msgctxt "#30069"
+msgid "PIN protection prevents unauthorized persons from accessing the addon.\n\n"
+msgstr "Защита PIN-кодом предотвращает несанкционированный доступ к аддону.\n\n"
+
+msgctxt "#30070"
+msgid "Question set: {}"
+msgstr "Вопрос установлен: {}"
+
+msgctxt "#30071"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "#30072"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "#30073"
+msgid "To recover access if you forget the PIN:\n1. Answer the security question.\n2. Or create a 'reset_pass.txt' file in:\n"
+msgstr "Чтобы восстановить доступ, если вы забыли PIN:\n1. Ответьте на контрольный вопрос.\n2. Или создайте файл 'reset_pass.txt' в:\n"
+
+msgctxt "#30074"
+msgid "Enter new PIN (recommended numbers)"
+msgstr "Введите новый PIN (рекомендуются цифры)"
+
+msgctxt "#30075"
+msgid "Confirm PIN"
+msgstr "Подтвердите PIN"
+
+msgctxt "#30076"
+msgid "PIN Saved"
+msgstr "PIN сохранен"
+
+msgctxt "#30077"
+msgid "Remember to configure security question"
+msgstr "Не забудьте настроить контрольный вопрос"
+
+msgctxt "#30078"
+msgid "PINs do not match"
+msgstr "PIN-коды не совпадают"
+
+msgctxt "#30079"
+msgid "Choose a security question"
+msgstr "Выберите контрольный вопрос"
+
+msgctxt "#30080"
+msgid "[Write custom question]"
+msgstr "[Написать свой вопрос]"
+
+msgctxt "#30081"
+msgid "Write your question"
+msgstr "Напишите ваш вопрос"
+
+msgctxt "#30082"
+msgid "Answer (case insensitive)"
+msgstr "Ответ (нечувствителен к регистру)"
+
+msgctxt "#30083"
+msgid "Saved"
+msgstr "Сохранено"
+
+msgctxt "#30084"
+msgid "Security question set"
+msgstr "Контрольный вопрос установлен"
+
+msgctxt "#30085"
+msgid "Set a PIN"
+msgstr "Установить PIN"
+
+msgctxt "#30086"
+msgid "You must set a PIN before enabling protection."
+msgstr "Вы должны установить PIN перед включением защиты."
+
+msgctxt "#30087"
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgctxt "#30088"
+msgid "You haven't set a security question.\nIf you forget the PIN, you can only recover access via the rescue file.\n\nEnable anyway?"
+msgstr "Вы не установили контрольный вопрос.\nЕсли вы забудьте PIN, вы сможете восстановить доступ только через файл спасения.\n\nВключить все равно?"
+
+msgctxt "#30089"
+msgid "Protection Enabled"
+msgstr "Защита включена"
+
+msgctxt "#30090"
+msgid "PIN will be asked upon entry"
+msgstr "PIN будет запрашиваться при входе"
+
+msgctxt "#30091"
+msgid "Protection Disabled"
+msgstr "Защита отключена"
+
+msgctxt "#30092"
+msgid "Open access"
+msgstr "Открытый доступ"
+
+msgctxt "#30093"
+msgid "Dynamic Icons"
+msgstr "Динамические значки"
+
+msgctxt "#30094"
+msgid "{} icons recovered"
+msgstr "{} значков восстановлено"
+
+msgctxt "#30095"
+msgid "Reset"
+msgstr "Сброс"
+
+msgctxt "#30096"
+msgid "Discard all changes and return to original state?"
+msgstr "Отменить все изменения и вернуться к исходному состоянию?"
+
+msgctxt "#30097"
+msgid "Reset"
+msgstr "Сбросить"
+
+msgctxt "#30098"
+msgid "Changes discarded"
+msgstr "Изменения отменены"
+
+msgctxt "#30099"
+msgid "Auto-Group"
+msgstr "Авто-группировка"
+
+msgctxt "#30100"
+msgid "This will reorganize your list by grouping favorites from the same addon together (alphabetically).\nNo separators will be created.\nProceed?"
+msgstr "Это реорганизует ваш список, сгруппировав избранное из одного аддона вместе (по алфавиту).\nРазделители не будут созданы.\nПродолжить?"
+
+msgctxt "#30101"
+msgid "Grouped"
+msgstr "Сгруппировано"
+
+msgctxt "#30102"
+msgid "List sorted by Type/Addon"
+msgstr "Список отсортирован по типу/аддону"
+
+msgctxt "#30103"
+msgid "Help & Instructions"
+msgstr "Помощь и инструкции"
+
+msgctxt "#30104"
+msgid "[B]CURRENT MODE: Swap[/B]\nSelect a favorite then another.\nThey will swap places."
+msgstr "[B]ТЕКУЩИЙ РЕЖИМ: Обмен[/B]\nВыберите одно избранное, затем другое.\nОни поменяются местами."
+
+msgctxt "#30105"
+msgid "[B]CURRENT MODE: Insert Before[/B]\nSelect an item and then the destination.\nThe first will move just [B]before[/B] the second."
+msgstr "[B]ТЕКУЩИЙ РЕЖИМ: Вставить перед[/B]\nВыберите элемент, а затем место назначения.\nПервый переместится прямо [B]перед[/B] вторым."
+
+msgctxt "#30106"
+msgid "[B]CURRENT MODE: Insert After[/B]\nSelect an item then the destination.\nThe first will move just [B]after[/B] the second."
+msgstr "[B]ТЕКУЩИЙ РЕЖИМ: Вставить после[/B]\nВыберите элемент, затем место назначения.\nПервый переместится прямо [B]после[/B] второго."
+
+msgctxt "#30107"
+msgid "[B]CURRENT MODE: Arrow Move[/B]\nSelect a favorite and use UP/DOWN keys to move it.\nPress the SAME favorite to release it."
+msgstr "[B]ТЕКУЩИЙ РЕЖИМ: Перемещение стрелками[/B]\nВыберите избранное и используйте клавиши ВВЕРХ/ВНИЗ для перемещения.\nНажмите на ТО ЖЕ избранное, чтобы отпустить его."
+
+msgctxt "#30108"
+msgid "\n\n[B]CHANGE MODE:[/B]\nUse the sidebar button to rotate between these behaviors according to your preference."
+msgstr "\n\n[B]ИЗМЕНИТЬ РЕЖИМ:[/B]\nИспользуйте кнопку на боковой панели для переключения между этими действиями в соответствии с вашими предпочтениями."
+
+msgctxt "#30109"
+msgid "\n\n[B]CONTEXT MENU[/B] (extra options):"
+msgstr "\n\n[B]КОНТЕКСТНОЕ МЕНЮ[/B] (дополнительные опции):"
+
+msgctxt "#30110"
+msgid "\n- PC: Right Click or 'C' key\n- Remote/TV: 'Menu' button\n- Touch: Long Press"
+msgstr "\n- ПК: Правый клик или клавиша 'C'\n- Пульт/ТВ: Кнопка 'Menu'\n- Сенсор: Долгое нажатие"
+
+msgctxt "#30111"
+msgid "\n\n[B]TIPS:[/B]\n- [I]Multiselect[/I]: select multiple to move in block\n- [I]Carousel[/I]: In arrow mode, reaching the end jumps to the beginning"
+msgstr "\n\n[B]СОВЕТЫ:[/B]\n- [I]Множественный выбор[/I]: выберите несколько для перемещения блоком\n- [I]Карусель[/I]: В режиме стрелок при достижении конца происходит переход в начало"
+
+msgctxt "#30112"
+msgid "Rename"
+msgstr "Переименовать"
+
+msgctxt "#30113"
+msgid "Edit Command"
+msgstr "Редактировать команду"
+
+msgctxt "#30114"
+msgid "Change Icon"
+msgstr "Изменить значок"
+
+msgctxt "#30115"
+msgid "Change Color"
+msgstr "Изменить цвет"
+
+msgctxt "#30116"
+msgid "Change Format"
+msgstr "Изменить формат"
+
+msgctxt "#30117"
+msgid "Move"
+msgstr "Переместить"
+
+msgctxt "#30118"
+msgid "Duplicate"
+msgstr "Дублировать"
+
+msgctxt "#30119"
+msgid "Delete"
+msgstr "Удалить"
+
+msgctxt "#30120"
+msgid "Cancel"
+msgstr "Отмена"
+
+msgctxt "#30121"
+msgid "Duplicated"
+msgstr "Дублировано"
+
+msgctxt "#30122"
+msgid "Move item"
+msgstr "Переместить элемент"
+
+msgctxt "#30123"
+msgid "↑ Move 1 up"
+msgstr "↑ На 1 вверх"
+
+msgctxt "#30124"
+msgid "↑↑ Move 5 up"
+msgstr "↑↑ На 5 вверх"
+
+msgctxt "#30125"
+msgid "↑↑↑ Move 10 up"
+msgstr "↑↑↑ На 10 вверх"
+
+msgctxt "#30126"
+msgid "^^^ [B]TO THE TOP[/B]"
+msgstr "^^^ [B]В САМОЕ НАЧАЛО[/B]"
+
+msgctxt "#30127"
+msgid "↓ Move 1 down"
+msgstr "↓ На 1 вниз"
+
+msgctxt "#30128"
+msgid "↓↓ Move 5 down"
+msgstr "↓↓ На 5 вниз"
+
+msgctxt "#30129"
+msgid "↓↓↓ Move 10 down"
+msgstr "↓↓↓ На 10 вниз"
+
+msgctxt "#30130"
+msgid "vvv [B]TO THE BOTTOM[/B]"
+msgstr "vvv [B]В САМЫЙ КОНЕЦ[/B]"
+
+msgctxt "#30131"
+msgid "Sort favorites"
+msgstr "Сортировать избранное"
+
+msgctxt "#30132"
+msgid "Sort A → Z"
+msgstr "Сортировка А → Я"
+
+msgctxt "#30133"
+msgid "Sort Z → A"
+msgstr "Сортировка Я → А"
+
+msgctxt "#30134"
+msgid "Reverse order (flip list)"
+msgstr "Обратный порядок (перевернуть список)"
+
+msgctxt "#30135"
+msgid "Group by TYPE / ADDON"
+msgstr "Группа по ТИПУ / АДДОНУ"
+
+msgctxt "#30136"
+msgid "Sorted A → Z"
+msgstr "Отсортировано А → Я"
+
+msgctxt "#30137"
+msgid "Sorted Z → A"
+msgstr "Отсортировано Я → А"
+
+msgctxt "#30138"
+msgid "Order reversed"
+msgstr "Порядок изменен на обратный"
+
+msgctxt "#30139"
+msgid "Sorted"
+msgstr "Отсортировано"
+
+msgctxt "#30140"
+msgid "Profile Saved"
+msgstr "Профиль сохранен"
+
+msgctxt "#30141"
+msgid "Saved as '{}'"
+msgstr "Сохранено как '{}'"
+
+msgctxt "#30142"
+msgid "Select Color"
+msgstr "Выбрать цвет"
+
+msgctxt "#30143"
+msgid "No color"
+msgstr "Без цвета"
+
+msgctxt "#30144"
+msgid "White"
+msgstr "Белый"
+
+msgctxt "#30145"
+msgid "Yellow"
+msgstr "Желтый"
+
+msgctxt "#30146"
+msgid "Orange"
+msgstr "Оранжевый"
+
+msgctxt "#30147"
+msgid "Red"
+msgstr "Красный"
+
+msgctxt "#30148"
+msgid "Pink"
+msgstr "Розовый"
+
+msgctxt "#30149"
+msgid "Violet"
+msgstr "Фиолетовый"
+
+msgctxt "#30150"
+msgid "Blue"
+msgstr "Синий"
+
+msgctxt "#30151"
+msgid "Cyan"
+msgstr "Циан"
+
+msgctxt "#30152"
+msgid "Green"
+msgstr "Зеленый"
+
+msgctxt "#30153"
+msgid "Lime"
+msgstr "Лаймовый"
+
+msgctxt "#30154"
+msgid "Select Format"
+msgstr "Выбрать формат"
+
+msgctxt "#30155"
+msgid "No format"
+msgstr "Без формата"
+
+msgctxt "#30156"
+msgid "Bold"
+msgstr "Жирный"
+
+msgctxt "#30157"
+msgid "Italic"
+msgstr "Курсив"
+
+msgctxt "#30158"
+msgid "Bold + Italic"
+msgstr "Жирный + Курсив"
+
+msgctxt "#30159"
+msgid "UPPERCASE"
+msgstr "ПРОПИСНЫЕ"
+
+msgctxt "#30160"
+msgid "Rename Favorite"
+msgstr "Переименовать избранное"
+
+msgctxt "#30161"
+msgid "Edit Command / Path"
+msgstr "Редактировать команду / путь"
+
+msgctxt "#30162"
+msgid "Updated"
+msgstr "Обновлено"
+
+msgctxt "#30163"
+msgid "Command changed"
+msgstr "Команда изменена"
+
+msgctxt "#30164"
+msgid "Separator only"
+msgstr "Только разделитель"
+
+msgctxt "#30165"
+msgid "Separator and all its content"
+msgstr "Разделитель и все его содержимое"
+
+msgctxt "#30166"
+msgid "Delete Section: {}"
+msgstr "Удалить раздел: {}"
+
+msgctxt "#30167"
+msgid "Confirm"
+msgstr "Подтвердить"
+
+msgctxt "#30168"
+msgid "Delete '{}'?"
+msgstr "Удалить '{}'?"
+
+msgctxt "#30169"
+msgid "Unsaved changes"
+msgstr "Несохраненные изменения"
+
+msgctxt "#30170"
+msgid "Save and Exit"
+msgstr "Сохранить и выйти"
+
+msgctxt "#30171"
+msgid "Save and Update"
+msgstr "Сохранить и обновить"
+
+msgctxt "#30172"
+msgid "Exit without Saving (Discard Changes)"
+msgstr "Выйти без сохранения (отменить изменения)"
+
+msgctxt "#30173"
+msgid "Automatically assigned icons detected for some favorites.\nDo you want to keep these new icons?"
+msgstr "Обнаружены автоматически назначенные значки для некоторых пунктов.\nХотите сохранить эти новые значки?"
+
+msgctxt "#30174"
+msgid "Keep"
+msgstr "Сохранить"
+
+msgctxt "#30175"
+msgid "Discard"
+msgstr "Отменить"
+
+msgctxt "#30176"
+msgid "Icons"
+msgstr "Значки"
+
+msgctxt "#30177"
+msgid "{} icons discarded"
+msgstr "{} значков отменено"
+
+msgctxt "#30178"
+msgid "Saved Successfully"
+msgstr "Успешно сохранено"
+
+msgctxt "#30179"
+msgid "Could not save."
+msgstr "Не удалось сохранить."
+
+msgctxt "#30180"
+msgid "[B]Custom / Manual[/B] (Write command)"
+msgstr "[B]Пользовательская / Вручную[/B] (Записать команду)"
+
+msgctxt "#30181"
+msgid "Installed Addons (Video and Programs)"
+msgstr "Установленные аддоны (Видео и Программы)"
+
+msgctxt "#30182"
+msgid "What do you want to add?"
+msgstr "Что вы хотите добавить?"
+
+msgctxt "#30183"
+msgid "Favorite Name"
+msgstr "Название Избранного"
+
+msgctxt "#30184"
+msgid "Path or Command (Ex: ActivateWindow(...))"
+msgstr "Путь или Команда (Пример: ActivateWindow(...))"
+
+msgctxt "#30185"
+msgid "Select Image"
+msgstr "Выбрать изображение"
+
+msgctxt "#30186"
+msgid "No addons found"
+msgstr "Аддоны не найдены"
+
+msgctxt "#30187"
+msgid "Select Addon"
+msgstr "Выбрать аддон"
+
+msgctxt "#30188"
+msgid "This category is empty"
+msgstr "Эта категория пуста"
+
+msgctxt "#30189"
+msgid "Select from {}"
+msgstr "Выбрать из {}"
+
+msgctxt "#30190"
+msgid "Attention"
+msgstr "Внимание"
+
+msgctxt "#30191"
+msgid "Favorite without path"
+msgstr "Избранное без пути"
+
+msgctxt "#30192"
+msgid "Added"
+msgstr "Добавлено"
+
+msgctxt "#30193"
+msgid "Section / Separator Name"
+msgstr "Название раздела / разделителя"
+
+msgctxt "#30194"
+msgid "Gold (Default)"
+msgstr "Золотой (По умолчанию)"
+
+msgctxt "#30195"
+msgid "Gray"
+msgstr "Серый"
+
+msgctxt "#30196"
+msgid "Separator Color"
+msgstr "Выберите папку назначения"
+
+msgctxt "#30197"
+msgid "Nothing selected"
+msgstr "Ничего не выбрано"
+
+msgctxt "#30198"
+msgid "Move to..."
+msgstr "Переместить в..."
+
+msgctxt "#30199"
+msgid "Click on the destination position"
+msgstr "Нажмите на позицию назначения"
+
+msgctxt "#30200"
+msgid "Before (At the top)"
+msgstr "Добавить избранное"
+
+msgctxt "#30201"
+msgid "After"
+msgstr "Расширенный редактор"
+
+msgctxt "#30202"
+msgid "Moved"
+msgstr "Простой редактор"
+
+msgctxt "#30203"
+msgid "{} items"
+msgstr "элементов: {}"
+
+msgctxt "#30204"
+msgid "Delete {} selected items?"
+msgstr "Удалить выбранные элементы ({})?"
+
+msgctxt "#30205"
+msgid "Color for {} items"
+msgstr "Цвет для {} элементов"
+
+msgctxt "#30206"
+msgid "Select New Image"
+msgstr "Выбрать новое изображение"
+
+msgctxt "#30207"
+msgid "Icon"
+msgstr "Добавить раздел / разделитель"
+
+msgctxt "#30208"
+msgid "Image updated"
+msgstr "Разделы Kodi"
+
+msgctxt "#30209"
+msgid "Add Item / Addon"
+msgstr "Системные команды"
+
+msgctxt "#30210"
+msgid "Add Separator"
+msgstr "Добавить из шаблонов"
+
+msgctxt "#30211"
+msgid "Add..."
+msgstr "Редактировать шаблоны"
+
+msgctxt "#30212"
+msgid "Save as New Profile"
+msgstr "Добавить раздел"
+
+msgctxt "#30213"
+msgid "Create backup (XML)"
+msgstr "В начало"
+
+msgctxt "#30214"
+msgid "Restore from backup (XML)"
+msgstr "В конец"
+
+msgctxt "#30215"
+msgid "Discard current changes"
+msgstr "Это сбросит все ваше избранное до исходного состояния (последнего сохранения).\nВы уверены?"
+
+msgctxt "#30216"
+msgid "Backup / Restore"
+msgstr "Резервное копирование / Восстановление"
+
+msgctxt "#30217"
+msgid "Backup name (no extension)"
+msgstr "Имя резервной копии (без расширения)"
+
+msgctxt "#30218"
+msgid "Select folder to save"
+msgstr "Выберите папку для сохранения"
+
+msgctxt "#30219"
+msgid "Backup Created"
+msgstr "Резервная копия создана"
+
+msgctxt "#30220"
+msgid "Error saving"
+msgstr "Ошибка сохранения"
+
+msgctxt "#30221"
+msgid "Name of your first pet?"
+msgstr "Как звали вашего первого питомца?"
+
+msgctxt "#30222"
+msgid "City where you were born?"
+msgstr "В каком городе вы родились?"
+
+msgctxt "#30223"
+msgid "Mother's birth year?"
+msgstr "Какая ваша любимая книга?"
+
+msgctxt "#30224"
+msgid "Name of childhood best friend?"
+msgstr "Какой марки была ваша первая машина?"
+
+msgctxt "#30225"
+msgid "Favorite food?"
+msgstr "Кто был героем вашего детства?"
+
+msgctxt "#30226"
+msgid "Security Reset"
+msgstr "Экстренный сброс"
+
+msgctxt "#30227"
+msgid "Recovery file detected.\nPassword has been removed.\nYou can set a new one in Settings."
+msgstr "Обнаружен файл экстренного сброса.\nЗащита отключена, файл удален."
+
+msgctxt "#30228"
+msgid "Installed Addons"
+msgstr "Установленные дополнения"
+
+msgctxt "#30229"
+msgid "Gold (Default)"
+msgstr "Золотой (по умолчанию)"
+
+msgctxt "#30230"
+msgid "Change Icon"
+msgstr "Изменить значок"
+
+msgctxt "#30231"
+msgid "Change Color"
+msgstr "Изменить цвет"
+
+msgctxt "#30232"
+msgid "Change Format"
+msgstr "Изменить формат"
+
+msgctxt "#30233"
+msgid "Move"
+msgstr "Переместить"
+
+msgctxt "#30234"
+msgid "Duplicate"
+msgstr "Дублировать"
+
+msgctxt "#30235"
+msgid "[B]Custom / Manual[/B] (Write command)"
+msgstr "[B]Пользовательский / Вручную[/B] (Ввести команду)"
+
+msgctxt "#30236"
+msgid "Installed Addons (Video and Programs)"
+msgstr "Установленные дополнения (видео и программы)"
+
+msgctxt "#30237"
+msgid "Favourite Name"
+msgstr "Имя избранного"
+
+msgctxt "#30238"
+msgid "No addons found"
+msgstr "Дополнения не найдены"
+
+msgctxt "#30239"
+msgid "Select Addon"
+msgstr "Выберите дополнение"
+
+msgctxt "#30240"
+msgid "This category is empty"
+msgstr "Эта категория пуста"
+
+msgctxt "#30241"
+msgid "Select from "
+msgstr "Выбрать из "
+
+msgctxt "#30242"
+msgid "Added"
+msgstr "Добавлено"
+
+msgctxt "#30243"
+msgid "Quick Editor"
+msgstr "Быстрый редактор"
+
+msgctxt "#30244"
+msgid "Saved"
+msgstr "Сохранено"
+
+msgctxt "#30245"
+msgid "Create Backup"
+msgstr "Создать резервную копию"
+
+msgctxt "#30246"
+msgid "Restore from Backup"
+msgstr "Восстановить из резервной копии"
+
+msgctxt "#30247"
+msgid "Backup"
+msgstr "Резервная копия"
+
+msgctxt "#30248"
+msgid "No favourites to save."
+msgstr "Нет избранного для сохранения."
+
+msgctxt "#30249"
+msgid "Backup Created"
+msgstr "Резервная копия создана"
+
+msgctxt "#30250"
+msgid "Select backup file (.xml)"
+msgstr "Выберите файл XML"
+
+msgctxt "#30251"
+msgid "File not found."
+msgstr "Файл не найден."
+
+msgctxt "#30252"
+msgid "The file does not seem to be a valid backup."
+msgstr "Файл не похож на действительную резервную копию."
+
+msgctxt "#30253"
+msgid "The backup is empty."
+msgstr "Резервная копия пуста."
+
+msgctxt "#30254"
+msgid "Replace your current favourites with the backup?\n({} items)"
+msgstr "Заменить текущее избранное резервной копией?\n({} элементов)"
+
+msgctxt "#30255"
+msgid "Restored"
+msgstr "Восстановлено"
+
+msgctxt "#30256"
+msgid "{} favourites loaded"
+msgstr "Загружено избранного: {}"
+
+msgctxt "#30257"
+msgid "Could not load backup:"
+msgstr "Не удалось загрузить резервную копию:"
+
+msgctxt "#30258"
+msgid "[B]+ Create Profile[/B] (Save current state)"
+msgstr "[COLOR lime]+ Создать новый профиль (из текущих)[/COLOR]"
+
+msgctxt "#30259"
+msgid "[B]+ Import from XML[/B]"
+msgstr "[COLOR cyan]Импорт из favourites.xml[/COLOR]"
+
+msgctxt "#30260"
+msgid "[B]+ Export current to XML[/B]"
+msgstr "[COLOR orange]Экспорт текущих как XML[/COLOR]"
+
+msgctxt "#30261"
+msgid "Profile Manager"
+msgstr "Менеджер профилей"
+
+msgctxt "#30262"
+msgid "Profile Created"
+msgstr "Профиль создан"
+
+msgctxt "#30263"
+msgid "Saved '{}'"
+msgstr "Профиль '{}' был создан."
+
+msgctxt "#30264"
+msgid "No valid favourites found"
+msgstr "В XML не найдено избранного"
+
+msgctxt "#30265"
+msgid "Imported Profile"
+msgstr "Импортированный профиль"
+
+msgctxt "#30266"
+msgid "Name for the profile"
+msgstr "Введите имя для импортированного профиля"
+
+msgctxt "#30267"
+msgid "Imported"
+msgstr "Профиль импортирован"
+
+msgctxt "#30268"
+msgid "{} favourites added"
+msgstr "Успешно импортировано избранного: {}."
+
+msgctxt "#30269"
+msgid "Import Error"
+msgstr "Ошибка импорта XML"
+
+msgctxt "#30270"
+msgid "Exported"
+msgstr "Экспорт успешен"
+
+msgctxt "#30271"
+msgid "Error Exporting"
+msgstr "Экспорт не удался"
+
+msgctxt "#30272"
+msgid "[B]Load Profile[/B] (Replaces current favourites)"
+msgstr "Загрузить / Активировать профиль"
+
+msgctxt "#30273"
+msgid "Export to XML"
+msgstr "Экспорт в XML"
+
+msgctxt "#30274"
+msgid "Profile"
+msgstr "Профиль"
+
+msgctxt "#30275"
+msgid "Load Profile"
+msgstr "Подтвердите загрузку"
+
+msgctxt "#30276"
+msgid "SURE? This will replace your current favourites with those of '{}'.\nIt is recommended to make a backup first."
+msgstr "Это ЗАМЕНИТ все ваше текущее избранное пунктами из '{}'.\n\nПродолжить?"
+
+msgctxt "#30277"
+msgid "Profile Loaded"
+msgstr "Профиль загружен"
+
+msgctxt "#30278"
+msgid "Favourites updated"
+msgstr "Избранное Kodi обновлено."
+
+msgctxt "#30279"
+msgid "Rename profile"
+msgstr "Переименовать профиль"
+
+msgctxt "#30280"
+msgid "Renamed"
+msgstr "Профиль переименован"
+
+msgctxt "#30281"
+msgid "Now is '{}'"
+msgstr "Новое имя: {}"
+
+msgctxt "#30282"
+msgid "Saved in {}"
+msgstr "Профиль экспортирован как {}"
+
+msgctxt "#30283"
+msgid "Delete Profile"
+msgstr "Удалить профиль"
+
+msgctxt "#30284"
+msgid "Permanently delete profile '{}'?"
+msgstr "Вы уверены, что хотите удалить профиль '{}'?"
+
+msgctxt "#30285"
+msgid "Templates Editor"
+msgstr "Редактор шаблонов"
+
+msgctxt "#30286"
+msgid "Add New Category"
+msgstr "Добавить новую категорию"
+
+msgctxt "#30287"
+msgid "Reset to defaults"
+msgstr "Сбросить до значений по умолчанию"
+
+msgctxt "#30288"
+msgid "Export Templates"
+msgstr "Экспорт шаблонов"
+
+msgctxt "#30289"
+msgid "Import Templates"
+msgstr "Импорт шаблонов"
+
+msgctxt "#30290"
+msgid "Name of the new category"
+msgstr "Имя новой категории"
+
+msgctxt "#30292"
+msgid "A category with that name already exists"
+msgstr "Категория уже существует"
+
+msgctxt "#30293"
+msgid "Created"
+msgstr "Категория добавлена"
+
+msgctxt "#30294"
+msgid "Add New"
+msgstr "Добавить новый элемент"
+
+msgctxt "#30295"
+msgid "Delete this Category"
+msgstr "Удалить категорию"
+
+msgctxt "#30296"
+msgid "Delete category '{}' and all its items?"
+msgstr "Удалить категорию '{}' и все ее шаблоны?"
+
+msgctxt "#30297"
+msgid "Deleted"
+msgstr "Удалено"
+
+msgctxt "#30298"
+msgid "Item Name"
+msgstr "Имя элемента"
+
+msgctxt "#30299"
+msgid "Command or Path (Ex: ActivateWindow(...))"
+msgstr "Команда / Путь элемента"
+
+msgctxt "#30300"
+msgid "Select Icon"
+msgstr "Выбрать значок"
+
+msgctxt "#30301"
+msgid "Type name (Ex: DefaultMovies.png)"
+msgstr "Путь к значку вручную"
+
+msgctxt "#30302"
+msgid "Browse image in explorer"
+msgstr "Обзор значков"
+
+msgctxt "#30303"
+msgid "Icon name"
+msgstr "Путь к значку"
+
+msgctxt "#30304"
+msgid "Edit Name"
+msgstr "Изменить имя"
+
+msgctxt "#30305"
+msgid "Edit Command"
+msgstr "Изменить путь"
+
+msgctxt "#30306"
+msgid "Edit Icon"
+msgstr "Изменить значок"
+
+msgctxt "#30307"
+msgid "New Name"
+msgstr "Новое имя элемента"
+
+msgctxt "#30308"
+msgid "New Command"
+msgstr "Новый путь элемента"
+
+msgctxt "#30309"
+msgid "New Icon"
+msgstr "Новый путь к значку"
+
+msgctxt "#30310"
+msgid "Reset all templates to default values?\nThis will delete custom categories."
+msgstr "Сбросить все шаблоны по умолчанию?"
+
+msgctxt "#30311"
+msgid "Templates"
+msgstr "Шаблоны сброшены"
+
+msgctxt "#30312"
+msgid "Reset"
+msgstr "Исходные шаблоны восстановлены"
+
+msgctxt "#30313"
+msgid "Templates replaced"
+msgstr "Шаблоны заменены"
+
+msgctxt "#30314"
+msgid "Merged"
+msgstr "Объединено"
+
+msgctxt "#30315"
+msgid "Categories added"
+msgstr "Категории добавлены"
+
+msgctxt "#30316"
+msgid "How to import?"
+msgstr "Как импортировать?"
+
+msgctxt "#30317"
+msgid "Replace all"
+msgstr "Заменить всё"
+
+msgctxt "#30318"
+msgid "Merge (add new categories)"
+msgstr "Объединить (добавить новые категории)"
+
+msgctxt "#30319"
+msgid "File name (without extension)"
+msgstr "Имя файла (без расширения)"
+
+msgctxt "#30320"
+msgid "Search in all profiles"
+msgstr "Поиск по всем профилям"
+
+msgctxt "#30321"
+msgid "No results for '{}'"
+msgstr "Нет результатов для '{}'"
+
+msgctxt "#30322"
+msgid "No items matching your search were found."
+msgstr "Поиск избранного во всех сохраненных профилях."
+
+msgctxt "#30323"
+msgid "From profile:"
+msgstr "Найдено в профиле:"
+
+msgctxt "#30324"
+msgid "Explore My Profiles"
+msgstr "Мои профили"
+
+msgctxt "#30325"
+msgid "Navigate through your profiles as folder. Useful for creating menus and Widgets in Skins."
+msgstr "Просмотр и управление сохраненными профилями."
+
+msgctxt "#30326"
+msgid "Advanced Editor"
+msgstr "Расширенный редактор"
+
+msgctxt "#30327"
+msgid "Graphic editor with icon and color visualization."
+msgstr "Визуальный редактор с поддержкой перетаскивания."
+
+msgctxt "#30328"
+msgid "Quick Editor"
+msgstr "Быстрый редактор"
+
+msgctxt "#30329"
+msgid "Simple and lightweight editor. Fast and compatible with all devices."
+msgstr "Быстрое меню для добавления и организации избранного."
+
+msgctxt "#30330"
+msgid "Reload Profile (See changes)"
+msgstr "Обновить профиль (Применить изменения)"
+
+msgctxt "#30331"
+msgid "Reload Kodi profile to apply changes in main interface."
+msgstr "Обновите Kodi, чтобы немедленно увидеть все изменения."
+
+msgctxt "#30332"
+msgid "Configuration"
+msgstr "Конфигурация"
+
+msgctxt "#30333"
+msgid "Visual editor and template editor settings."
+msgstr "Настройте внешний вид и безопасность."
+
+msgctxt "#30334"
+msgid "View Favourites Menu"
+msgstr "Открыть меню Избранное"
+
+msgctxt "#30335"
+msgid "Open Kodi favourites menu to see the result."
+msgstr "Открыть родное окно избранного Kodi."
+
+msgctxt "#30336"
+msgid "Back / Exit"
+msgstr "Назад / Выход"
+
+msgctxt "#30337"
+msgid "Return to Kodi."
+msgstr "Закрыть аддон."
+
+msgctxt "#30338"
+msgid "About Flow FavManager"
+msgstr "О Flow FavManager"
+
+msgctxt "#30339"
+msgid "Information."
+msgstr "Информация и титры."
+
+msgctxt "#30340"
+msgid "About"
+msgstr "О программе"
+
+msgctxt "#30341"
+msgid "For more information and projects visit:"
+msgstr "Этот проект родился с намерением стать эволюцией системы управления избранным в Kodi."
+
+msgctxt "#30342"
+msgid "PROFILE MANAGER (Create / Import / Save)"
+msgstr "МЕНЕДЖЕР ПРОФИЛЕЙ"
+
+msgctxt "#30343"
+msgid "Tools to create new profiles, import from XML or save current state."
+msgstr "Создавайте, импортируйте и экспортируйте профили."
+
+msgctxt "#30344"
+msgid "Widget View (Clean Navigation)"
+msgstr "ЧИСТЫЙ ВИД ДЛЯ ВИДЖЕТОВ"
+
+msgctxt "#30345"
+msgid "Show your profiles without management buttons. Ideal for adding to your skin's home screen as a Widget."
+msgstr "Оптимизированный вид для использования в качестве виджетов."
+
+msgctxt "#30346"
+msgid "Add to Flow FavManager"
+msgstr "Добавить в Flow FavManager"
+
+msgctxt "#30347"
+msgid "Backup Created"
+msgstr "Резервная копия создана"
+
+msgctxt "#30348"
+msgid "Restored"
+msgstr "Восстановлено"
+
+msgctxt "#30349"
+msgid "Press Confirm/Back to save."
+msgstr "Нажмите Подтвердить/Назад для сохранения."
+
+msgctxt "#30350"
+msgid "Behavior Changed"
+msgstr "Поведение изменено"
+
+msgctxt "#30351"
+msgid "Maintenance"
+msgstr "Очистить кэш изображений"
+
+msgctxt "#30352"
+msgid "Updating textures..."
+msgstr "Кэш очищен. Изображения будут перезагружены."
+
+msgctxt "#30353"
+msgid "Log"
+msgstr "Журнал аудита"
+
+msgctxt "#30354"
+msgid "Enabled"
+msgstr "Журнал аудита включен"
+
+msgctxt "#30355"
+msgid "Disabled"
+msgstr "Журнал аудита отключен"
+
+msgctxt "#30356"
+msgid "History cleared"
+msgstr "Журнал удален"
+
+msgctxt "#30357"
+msgid "Info"
+msgstr "Нет журнала"
+
+msgctxt "#30358"
+msgid "No log to clear"
+msgstr "Журнал аудита пуст или не существует"
+
+msgctxt "#30359"
+msgid "Could not read profile"
+msgstr "Не удалось загрузить профиль"
+
+msgctxt "#30360"
+msgid "Deleted"
+msgstr "Профиль удален"
+
+msgctxt "#30361"
+msgid "Profile deleted successfully"
+msgstr "Профиль был удален"
+
+msgctxt "#30362"
+msgid "Could not delete file"
+msgstr "Не удалось удалить профиль"
+
+msgctxt "#30363"
+msgid "Renamed"
+msgstr "Профиль переименован"
+
+msgctxt "#30364"
+msgid "Profile updated"
+msgstr "Переименование успешно"
+
+msgctxt "#30365"
+msgid "File not found."
+msgstr "Ошибка переименования"
+
+msgctxt "#30366"
+msgid "File does not appear to be a valid backup."
+msgstr "Файл не похож на действительную резервную копию."
+
+msgctxt "#30367"
+msgid "Could not load backup:"
+msgstr "Не удалось загрузить резервную копию:"
+
+msgctxt "#30368"
+msgid "Quick Editor"
+msgstr "Быстрый редактор"
+
+msgctxt "#30369"
+msgid "No favorites to edit."
+msgstr "Нет избранного для редактирования."
+
+msgctxt "#30370"
+msgid "Empty Log"
+msgstr "Просмотр журнала"
+
+msgctxt "#30371"
+msgid "No events recorded yet."
+msgstr "Журнал аудита пуст"
+
+msgctxt "#30372"
+msgid "Log Does Not Exist"
+msgstr "Нет файла журнала"
+
+msgctxt "#30373"
+msgid "Enable logging and perform an action to generate events."
+msgstr "Файл журнала аудита не найден"
+
+msgctxt "#30374"
+msgid "Could not read log:"
+msgstr "Ошибка чтения журнала"
+
+msgctxt "#30375"
+msgid "Confirm"
+msgstr "Подтвердить"
+
+msgctxt "#30376"
+msgid "Delete '{}'?"
+msgstr "Удалить '{}'?"
+
+msgctxt "#30377"
+msgid "Clear image cache (Textures) before reloading?\nThis fixes issues with old icons."
+msgstr "Хотите очистить кэш миниатюр перед обновлением?\n(Рекомендуется для вступления в силу визуальных изменений)"
+
+msgctxt "#30378"
+msgid "Delete Log"
+msgstr "Удалить журнал"
+
+msgctxt "#30379"
+msgid "Delete all audit history?"
+msgstr "Вы уверены, что хотите удалить журнал аудита?"
+
+msgctxt "#30380"
+msgid "Delete Profile"
+msgstr "Подтвердите удаление"
+
+msgctxt "#30381"
+msgid "Are you sure you want to permanently delete this profile?"
+msgstr "Вы уверены, что хотите удалить этот профиль?"
+
+msgctxt "#30382"
+msgid "New profile name"
+msgstr "Имя нового профиля"
+
+msgctxt "#30383"
+msgid "Backup name (without extension)"
+msgstr "Имя резервной копии (без расширения)"
+
+msgctxt "#30384"
+msgid "Select a Favorite to edit"
+msgstr "Выберите избранное для редактирования"
+
+msgctxt "#30385"
+msgid "Action for: {}"
+msgstr "Действие для: {}"
+
+msgctxt "#30386"
+msgid "Audit Log"
+msgstr "Журнал аудита"
+
+msgctxt "#30387"
+msgid "Critical Error"
+msgstr "Критическая ошибка"
+
+msgctxt "#30388"
+msgid "Select folder to save"
+msgstr "Выберите место назначения"
+
+msgctxt "#30389"
+msgid "Select backup file (.xml)"
+msgstr "Выберите файл резервной копии (.xml)"
+
+msgctxt "#30390"
+msgid "Move Up 1"
+msgstr "Вверх на 1"
+
+msgctxt "#30391"
+msgid "Move Down 1"
+msgstr "Вниз на 1"
+
+msgctxt "#30392"
+msgid "Move to Position..."
+msgstr "Переместить на позицию..."
+
+msgctxt "#30393"
+msgid "Enter new position (1-{})"
+msgstr "Введите новую позицию (1-{})"
+
+msgctxt "#30394"
+msgid "Invalid Format"
+msgstr "Неверный формат"
+
+msgctxt "#30395"
+msgid "Audit Log: [COLOR lime]ON[/COLOR]"
+msgstr "Журнал аудита: АКТИВЕН"
+
+msgctxt "#30396"
+msgid "Audit Log: [COLOR gray]OFF[/COLOR]"
+msgstr "Журнал аудита: Неактивен"
+
+msgctxt "#30397"
+msgid "View Audit Log"
+msgstr "Просмотреть журнал аудита"
+
+msgctxt "#30398"
+msgid "[Empty Folder]"
+msgstr "Пустой профиль"
+
+msgctxt "#30399"
+msgid "(Empty)"
+msgstr "[I]Пустой профиль[/I]"
+
+msgctxt "#30400"
+msgid "Movies"
+msgstr "Фильмы"
+
+msgctxt "#30401"
+msgid "TV (PVR)"
+msgstr "Живое ТВ (PVR)"
+
+msgctxt "#30402"
+msgid "TV Guide (EPG)"
+msgstr "Телегид (EPG)"
+
+msgctxt "#30403"
+msgid "Music"
+msgstr "Музыка"
+
+msgctxt "#30404"
+msgid "Pictures"
+msgstr "Изображения"
+
+msgctxt "#30405"
+msgid "Power / Restart Menu"
+msgstr "Меню выключения / перезагрузки"
+
+msgctxt "#30406"
+msgid "Update Library (Video)"
+msgstr "Обновить библиотеку (Видео)"
+
+msgctxt "#30407"
+msgid "Clean Library (Video)"
+msgstr "Очистить библиотеку (Видео)"
+
+msgctxt "#30408"
+msgid "Move Up 5"
+msgstr "Вверх на 5"
+
+msgctxt "#30409"
+msgid "Move Down 5"
+msgstr "Вниз на 5"
+
+msgctxt "#30410"
+msgid "Move to Top"
+msgstr "В начало"
+
+msgctxt "#30411"
+msgid "Move to Bottom"
+msgstr "В конец"
+
+msgctxt "#30412"
+msgid "Status: [COLOR {color}]{status}[/COLOR]"
+msgstr "Статус: [COLOR {color}]{status}[/COLOR]"
+
+msgctxt "#30413"
+msgid "ACTIVATED"
+msgstr "АКТИВЕН"
+
+msgctxt "#30414"
+msgid "DEACTIVATED"
+msgstr "НЕАКТИВЕН"
+
+msgctxt "#30415"
+msgid "Turn Log Off"
+msgstr "Деактивировать журнал"
+
+msgctxt "#30416"
+msgid "Turn Log On"
+msgstr "Активировать журнал"
+
+msgctxt "#30417"
+msgid "TV Shows"
+msgstr "Сериалы"
+
+msgctxt "#30418"
+msgid "Home"
+msgstr "Главная"
+
+msgctxt "#30419"
+msgid "Radio"
+msgstr "Радио"
+
+msgctxt "#30420"
+msgid "Music Videos"
+msgstr "Музыкальные клипы"
+
+msgctxt "#30421"
+msgid "Weather"
+msgstr "Погода"
+
+msgctxt "#30422"
+msgid "Settings"
+msgstr "Настройки"
+
+msgctxt "#30423"
+msgid "File Manager"
+msgstr "Диспетчер файлов"
+
+msgctxt "#30424"
+msgid "System Info"
+msgstr "Системная инфо"
+
+msgctxt "#30425"
+msgid "Events / Log"
+msgstr "Журнал событий"
+
+msgctxt "#30426"
+msgid "Addons (Browser)"
+msgstr "Аддоны (Просмотр)"
+
+msgctxt "#30427"
+msgid "Reload Skin"
+msgstr "Перезагрузить обложку"
+
+msgctxt "#30428"
+msgid "Skin Settings"
+msgstr "Настройки обложки"
+
+msgctxt "#30429"
+msgid "Created by RubénSDFA1labernt - v"
+msgstr "Версия: "
+
+msgctxt "#30430"
+msgid "Back"
+msgstr "Назад"
+
+msgctxt "#30431"
+msgid "Swap Mode"
+msgstr "Режим обмена"
+
+msgctxt "#30432"
+msgid "Insert Before"
+msgstr "Вставить перед"
+
+msgctxt "#30433"
+msgid "Insert After"
+msgstr "Вставить после"
+
+msgctxt "#30434"
+msgid "Arrow Mode"
+msgstr "Режим стрелок"
+
+msgctxt "#30435"
+msgid "Save / Exit"
+msgstr "Сохранить / Выход"
+
+msgctxt "#30436"
+msgid "Save / Exit (*)"
+msgstr "Сохранить / Выход (*)"
+
+msgctxt "#30437"
+msgid "Add..."
+msgstr "Добавить..."
+
+msgctxt "#30438"
+msgid "Multiselect Mode"
+msgstr "Режим множественного выбора"
+
+msgctxt "#30439"
+msgid "Backup / Restore"
+msgstr "Резервное копирование / Восстановление"
+
+msgctxt "#30440"
+msgid "Sort"
+msgstr "Сортировка"
+
+msgctxt "#30441"
+msgid "Undo / Reset"
+msgstr "Загружено исходное состояние"
+
+msgctxt "#30442"
+msgid "Help / Instructions"
+msgstr "Справка / Инструкции"
+
+msgctxt "#30443"
+msgid "Exit (Discard)"
+msgstr "Выход (отменить)"
+
+msgctxt "#30444"
+msgid "Move to..."
+msgstr "Переместить в..."
+
+msgctxt "#30445"
+msgid "Change Color"
+msgstr "Изменить цвет"
+
+msgctxt "#30446"
+msgid "Delete Selected"
+msgstr "Удалить выбранное"
+
+msgctxt "#30447"
+msgid "CANCEL / EXIT"
+msgstr "ОТМЕНА / ВЫХОД"
+
+msgctxt "#30448"
+msgid "BULK ACTIONS"
+msgstr "МАССОВЫЕ ДЕЙСТВИЯ"
+
+msgctxt "#30449"
+msgid "Section"
+msgstr "Раздел"
+
+msgctxt "#30450"
+msgid "Attention"
+msgstr "Внимание"
+
+msgctxt "#30451"
+msgid "Hidden Credits"
+msgstr "Режим Пасхалки"
+
+msgctxt "#30452"
+msgid "Kodi Sections"
+msgstr "Разделы Kodi"
+
+msgctxt "#30453"
+msgid "System Commands"
+msgstr "Системные команды"
+
+msgctxt "#30454"
+msgid "{} icons assigned"
+msgstr "Восстановлено {} значков"
+
+msgctxt "#30455"
+msgid " (copy)"
+msgstr " (копия)"
+
+msgctxt "#30456"
+msgid "Save as New Profile"
+msgstr "Сохранить как новый профиль"
+
+msgctxt "#30457"
+msgid "Create a backup of your favorites or restore a previous one."
+msgstr "Управление бэкапами и импортом XML."
+
+
+msgctxt "#30458"
+msgid "Show 'Add to Flow FavManager' in menus"
+msgstr "Показывать 'Добавить в Flow FavManager' в меню"
+
+
+msgctxt "#30459"
+msgid "Auto-start"
+msgstr "Автозапуск"
+
+msgctxt "#30460"
+msgid "Launch favorites automatically when Kodi starts."
+msgstr "Автоматически запускать избранное при запуске Kodi."
+
+msgctxt "#30461"
+msgid "No delay"
+msgstr "Без задержки"
+
+msgctxt "#30462"
+msgid "Delay before launching"
+msgstr "Задержка перед запуском"
+
+msgctxt "#30463"
+msgid "Select favorite to launch at startup"
+msgstr "Выберите избранное для автозапуска"
+
+msgctxt "#30464"
+msgid "Not configured"
+msgstr "Не настроено"
+
+msgctxt "#30465"
+msgid "Change favorite"
+msgstr "Изменить избранное"
+
+msgctxt "#30466"
+msgid "Change delay"
+msgstr "Изменить задержку"
+
+msgctxt "#30467"
+msgid "Disable this slot"
+msgstr "Отключить этот слот"
+
+msgctxt "#30468"
+msgid "No favorites available"
+msgstr "Нет доступных избранных"
+
+msgctxt "#30469"
+msgid "Favorite {}"
+msgstr "Избранное {}"
+
+msgctxt "#30470"
+msgid "Auto-start configured"
+msgstr "Автозапуск настроен"
+
+msgctxt "#30471"
+msgid "Slot disabled"
+msgstr "Слот отключен"
+
+msgctxt "#30472"
+msgid "Web Remote"
+msgstr "Веб-пульт"
+
+msgctxt "#30473"
+msgid "Web remote port"
+msgstr "Порт веб-пульта"
+
+msgctxt "#30474"
+msgid "Manage favourites from your phone's browser"
+msgstr "Управляйте избранным из браузера телефона"
+
+msgctxt "#30475"
+msgid "The server is off.\nYou need it running to manage your favourites from your phone's browser."
+msgstr "Сервер выключен.\nВам нужно его включить для управления избранным из браузера телефона."
+
+msgctxt "#30476"
+msgid "Start"
+msgstr "Запустить"
+
+msgctxt "#30477"
+msgid "Could not start (ports busy?)"
+msgstr "Не удалось запустить (порты заняты?)"
+
+msgctxt "#30478"
+msgid "Open in browser"
+msgstr "Открыть в браузере"
+
+msgctxt "#30479"
+msgid "Stop server"
+msgstr "Остановить сервер"
+
+msgctxt "#30480"
+msgid "Open this address in your browser:\n[B]{}[/B]"
+msgstr "Откройте этот адрес в браузере:\n[B]{}[/B]"
+
+msgctxt "#30481"
+msgid "Server stopped"
+msgstr "Сервер остановлен"
+
+msgctxt "#30485"
+msgid "Add text in bulk ({0} items)"
+msgstr "Массовое добавление текста ({0} элементов)"
+
+msgctxt "#30486"
+msgid "Prefix"
+msgstr "Префикс"
+
+msgctxt "#30487"
+msgid "Suffix"
+msgstr "Суффикс"
+
+msgctxt "#30488"
+msgid "Text to add"
+msgstr "Текст для добавления"
+
+msgctxt "#30489"
+msgid "Text color"
+msgstr "Цвет текста"
+
+msgctxt "#30490"
+msgid "Prefix / Suffix"
+msgstr "Префикс / Суффикс"
+
+msgctxt "#30491"
+msgid "Open loiolog (Advanced Log Viewer)"
+msgstr "Открыть loiolog (Расширенный просмотр логов)"
+
+msgctxt "#30492"
+msgid "{0} is already installed"
+msgstr "{0} уже установлен"
+
+msgctxt "#30493"
+msgid "{0} reactivated successfully"
+msgstr "{0} успешно реактивирован"
+
+msgctxt "#30494"
+msgid "The 'requests' library is not available.\n\nPlease restart Kodi to load the new dependencies and try again."
+msgstr "Библиотека 'requests' недоступна.\n\nПожалуйста, перезапустите Kodi для загрузки новых зависимостей и повторите попытку."
+
+msgctxt "#30495"
+msgid "Downloading {0} repository..."
+msgstr "Загрузка репозитория {0}..."
+
+msgctxt "#30496"
+msgid "Installing {0}..."
+msgstr "Установка {0}..."
+
+msgctxt "#30497"
+msgid "Downloading repository..."
+msgstr "Загрузка репозитория..."
+
+msgctxt "#30498"
+msgid "Extracting repository..."
+msgstr "Извлечение репозитория..."
+
+msgctxt "#30499"
+msgid "Registering repository in Kodi..."
+msgstr "Регистрация репозитория в Kodi..."
+
+msgctxt "#30500"
+msgid "Activating repository..."
+msgstr "Активация репозитория..."
+
+msgctxt "#30501"
+msgid "Updating repository index..."
+msgstr "Обновление индекса репозитория..."
+
+msgctxt "#30502"
+msgid "Confirm installation of {0}"
+msgstr "Подтвердите установку {0}"
+
+msgctxt "#30503"
+msgid "Waiting for {0} installation..."
+msgstr "Ожидание установки {0}..."
+
+msgctxt "#30504"
+msgid "{0} installed successfully"
+msgstr "{0} успешно установлен"
+
+msgctxt "#30505"
+msgid "Auto-installing {0} (fallback)..."
+msgstr "Автоматическая установка {0} (запасной вариант)..."
+
+msgctxt "#30506"
+msgid "The {0} repository was installed, but the addon installation did not complete.\n\nTo finish manually:\nAddons - Install from repository - {0} - Install"
+msgstr "Репозиторий {0} был установлен, но установка аддона не завершилась.\n\nДля завершения вручную:\nДополнения - Установить из репозитория - {0} - Установить"
+
+msgctxt "#30507"
+msgid "Installation error"
+msgstr "Ошибка установки"
+
+msgctxt "#30508"
+msgid "Could not install {0} automatically.\n\nError: {1}\n\nYou may need to enable Unknown Sources in Settings."
+msgstr "Не удалось автоматически установить {0}.\n\nОшибка: {1}\n\nВозможно, вам нужно включить Неизвестные источники в Настройках."
+
+
+msgctxt "#30510"
+msgid "Opening loiolog..."
+msgstr "Открытие loiolog..."
+
+msgctxt "#30511"
+msgid "loiolog - installation"
+msgstr "loiolog - установка"
+
+msgctxt "#30512"
+msgid "Auto installer (recommended)"
+msgstr "Автоматический установщик (рекомендуется)"
+
+msgctxt "#30513"
+msgid "View manual installation instructions"
+msgstr "Посмотреть инструкции по ручной установке"
+
+msgctxt "#30514"
+msgid "loiolog is not installed.\n\nDownload and install automatically?"
+msgstr "loiolog не установлен.\n\nСкачать и установить автоматически?"
+
+msgctxt "#30515"
+msgid "loiolog instructions"
+msgstr "Инструкции loiolog"
+
+msgctxt "#30516"
+msgid "[B]How to install loiolog[/B]\n\n1. Settings - System - Addons - enable Unknown Sources\n\n2. Settings - File Manager - Add source:\n   {0}\n\n3. Addons - Install from zip file - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. Install from repository - loiolog - Program Addons - loiolog"
+msgstr "[B]Как установить loiolog[/B]\n\n1. Настройки - Система - Дополнения - включите Неизвестные источники\n\n2. Настройки - Файловый менеджер - Добавить источник:\n   {0}\n\n3. Дополнения - Установить из zip-файла - loiolog\n   repository.loiolog-x.x.x.zip\n\n4. Установить из репозитория - loiolog - Программные дополнения - loiolog"
+
+msgctxt "#30517"
+msgid "Add advanced editor to Kodi favourites"
+msgstr "Добавить расширенный редактор в избранное Kodi"
+
+msgctxt "#30518"
+msgid "Advanced editor added. Reload skin or restart Kodi to see it"
+msgstr "Расширенный редактор добавлен. Перезагрузите обложку или Kodi, чтобы увидеть его"
+
+msgctxt "#30519"
+msgid "Advanced editor already in Kodi favourites"
+msgstr "Расширенный редактор уже в избранном Kodi"
+
+msgctxt "#30520"
+msgid "Close"
+msgstr "Закрыть"
+
+msgctxt "#30521"
+msgid "Add the Advanced Editor to Kodi favourites?\n\nAllows opening it directly without launching the addon.\n\nIf cancelled, it can be added later from Settings. Kodi must be restarted for it to appear in the favourites list."
+msgstr "Добавить Расширенный Редактор в избранное Kodi?\n\nПозволяет открывать его напрямую без запуска аддона.\n\nЕсли отменить, его можно добавить позже из Настроек. Требуется перезапуск Kodi, чтобы он появился в списке избранного."
+
+msgctxt "#30522"
+msgid "Flow FavManager"
+msgstr "Flow FavManager"
+
+msgctxt "#30523"
+msgid "The favourites file is corrupted or unreadable.\nThe editor will not open to avoid overwriting it and losing your favourites.\nRestore a backup or fix the file before continuing."
+msgstr "Файл избранного поврежден или не читается.\nРедактор не откроется, чтобы избежать его перезаписи и потери ваших избранных.\nВосстановите резервную копию или исправьте файл перед продолжением."

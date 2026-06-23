@@ -2085,3 +2085,7 @@ msgstr "Add the Advanced Editor to Kodi favorites?\n\nAllows opening it directly
 msgctxt "#30522"
 msgid "Flow FavManager"
 msgstr "Flow FavManager"
+
+msgctxt "#30523"
+msgid "The favourites file is corrupted or unreadable.\nThe editor will not open to avoid overwriting it and losing your favourites.\nRestore a backup or fix the file before continuing."
+msgstr "The favourites file is corrupted or unreadable.\nThe editor will not open to avoid overwriting it and losing your favourites.\nRestore a backup or fix the file before continuing."
